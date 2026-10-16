@@ -1,0 +1,9 @@
+line-length = 120
+target-version = "py313"
+
+[lint]
+select = ["E", "F", "W", "I", "B"]
+ignore = ["B008"]  # FastAPI's Depends() in argument defaults is the intended pattern
+
+[lint.isort]
+known-first-party = ["app"]
