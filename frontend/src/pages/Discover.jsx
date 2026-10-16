@@ -253,7 +253,7 @@ export default function Discover() {
       <section className="discover-hero">
         <div className="container dh-grid">
           <div className="dh-copy">
-            <p className="eyebrow">Season 2026-27 · India</p>
+            <p className="eyebrow">Season 2026-27 · India Live demo</p>
             <h1 className="dh-title">
               Find your next{" "}
               <span className="chalk">
