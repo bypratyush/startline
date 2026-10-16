@@ -37,3 +37,8 @@ output "nat_gateway_public_ips" {
   description = "Egress IPs of the private subnets (allow-list these at third parties)."
   value       = aws_eip.nat[*].public_ip
 }
+
+output "github_deploy_role_arn" {
+  description = "Set this as the AWS_DEPLOY_ROLE_ARN repository variable to switch on the CI deploy job."
+  value       = aws_iam_role.github_deploy.arn
+}

@@ -108,3 +108,23 @@ variable "api_allowed_cidrs" {
   type        = list(string)
   default     = ["0.0.0.0/0"]
 }
+
+# ---- GitHub Actions deploy role (github-oidc.tf) -----------------------------
+
+variable "github_repository" {
+  description = "owner/name of the repository whose deploy job may assume the deploy role."
+  type        = string
+  default     = "bypratyush/startline"
+}
+
+variable "github_environment" {
+  description = "GitHub environment the deploy job runs in (part of the OIDC subject)."
+  type        = string
+  default     = "production"
+}
+
+variable "github_oidc_provider_arn" {
+  description = "ARN of an existing token.actions.githubusercontent.com provider in the account; empty creates one."
+  type        = string
+  default     = ""
+}
