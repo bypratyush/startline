@@ -1,0 +1,14 @@
+# Copy to terraform.tfvars and adjust. For a real AWS deployment:
+use_localstack = false
+enable_eks     = true
+
+aws_region         = "ap-south-1"
+availability_zones = ["ap-south-1a", "ap-south-1b"]
+vpc_cidr           = "10.40.0.0/16"
+
+eks_version         = "1.35"
+node_instance_types = ["t3.medium"]
+node_scaling        = { min = 2, desired = 2, max = 4 }
+
+# Narrow this to your own IP or VPN range
+api_allowed_cidrs = ["0.0.0.0/0"]
