@@ -1,0 +1,226 @@
+# StartLine CI/CD
+#
+#   test ──> build-scan-push (backend, frontend) ──> deploy
+#
+#   test             ruff + pytest (with coverage), Alembic up/down on a real Postgres 17,
+#                    seed catalogue check, React build
+#   build-scan-push  docker build -> Trivy (any HIGH/CRITICAL fails the job) -> push to GHCR
+#   deploy           scripts/deploy.sh eks: helm upgrade --install on EKS (main only, when AWS_DEPLOY_ROLE_ARN is set)
+#
+# Images are tagged with the commit SHA, never :latest, so every pod in the
+# cluster can be traced back to the commit that built it. A failing test or a
+# HIGH/CRITICAL CVE stops the pipeline before anything is pushed.
+name: StartLine CI/CD
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: startline-${{ github.ref }}
+  cancel-in-progress: true
+
+env:
+  PIP_DISABLE_PIP_VERSION_CHECK: "1"
+  TRIVY_VERSION: "0.74.0"
+  # sha256 of trivy_0.74.0_Linux-64bit.tar.gz from the release page, pinned here
+  # so a swapped release asset fails the check instead of running in CI
+  TRIVY_SHA256: "2ae6fe3ee734b7fdf11335663e18c75ea12dccc76062f09f164a3b0f8be4371a"
+
+jobs:
+  test:
+    name: Test (pytest, migrations, frontend build)
+    runs-on: ubuntu-latest
+    services:
+      postgres:
+        image: postgres:17-alpine
+        env:
+          POSTGRES_DB: startline
+          POSTGRES_USER: startline
+          POSTGRES_PASSWORD: ci-only-password
+        # fixed host port: reachable on localhost both on GitHub runners and under act
+        ports:
+          - 25433:5432
+        options: >-
+          --health-cmd "pg_isready -U startline -d startline"
+          --health-interval 5s --health-timeout 3s --health-retries 10
+    defaults:
+      run:
+        working-directory: backend
+    steps:
+      - uses: actions/checkout@v6
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.13"
+
+      - name: Install backend dependencies
+        run: pip install --quiet -r requirements-dev.txt
+
+      - name: Lint (ruff check + ruff format --check)
+        run: |
+          ruff check --output-format=github .
+          ruff format --check .
+
+      - name: Seed catalogue is valid
+        run: python -m app.seed --check
+
+      - name: pytest with coverage (SQLite, see tests/conftest.py)
+        run: |
+          mkdir -p reports
+          python -m pytest -q --junitxml=reports/junit.xml --cov=app --cov-report=term --cov-report=xml:reports/coverage.xml
+
+      - name: Alembic upgrade / downgrade / upgrade on Postgres 17, then seed
+        env:
+          DB_HOST: localhost
+          DB_PORT: "25433"
+          DB_NAME: startline
+          DB_USER: startline
+          DB_PASSWORD: ci-only-password
+        run: |
+          for i in $(seq 1 30); do
+            python -c "import psycopg; psycopg.connect(host='localhost', port=25433, user='startline', password='ci-only-password', dbname='startline').close()" 2>/dev/null && break
+            sleep 2
+          done
+          alembic upgrade head
+          alembic check
+          alembic downgrade base
+          alembic upgrade head
+          python -m app.seed
+
+      - name: Upload test report
+        if: ${{ always() }}
+        uses: actions/upload-artifact@v5
+        with:
+          name: backend-test-report
+          path: backend/reports/
+          retention-days: 7
+
+      - uses: actions/setup-node@v6
+        with:
+          node-version: "22"
+
+      - name: Frontend build
+        working-directory: frontend
+        run: |
+          npm ci --no-audit --no-fund
+          npm run build
+          ls -l dist/assets | head
+
+  build-scan-push:
+    name: Build, scan, push (${{ matrix.component }})
+    needs: test
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      packages: write
+    strategy:
+      fail-fast: false
+      matrix:
+        component: [backend, frontend]
+    steps:
+      - uses: actions/checkout@v6
+
+      - name: Image name and tag
+        id: meta
+        run: |
+          owner=$(echo "${{ github.repository_owner }}" | tr '[:upper:]' '[:lower:]')
+          echo "image=ghcr.io/${owner}/startline-${{ matrix.component }}" >> "$GITHUB_OUTPUT"
+          echo "tag=${GITHUB_SHA::7}" >> "$GITHUB_OUTPUT"
+
+      - name: Docker build (tag = commit SHA)
+        run: |
+          docker build \
+            --build-arg APP_VERSION=${{ steps.meta.outputs.tag }} \
+            --label org.opencontainers.image.source=${{ github.server_url }}/${{ github.repository }} \
+            --label org.opencontainers.image.revision=${{ github.sha }} \
+            -t ${{ steps.meta.outputs.image }}:${{ steps.meta.outputs.tag }} \
+            ./${{ matrix.component }}
+          docker image ls ${{ steps.meta.outputs.image }}
+
+      - name: Install Trivy ${{ env.TRIVY_VERSION }} (checksum verified)
+        run: |
+          curl -fsSL -o /tmp/trivy.tgz \
+            "https://github.com/aquasecurity/trivy/releases/download/v${TRIVY_VERSION}/trivy_${TRIVY_VERSION}_Linux-64bit.tar.gz"
+          echo "${TRIVY_SHA256}  /tmp/trivy.tgz" | sha256sum -c -
+          tar -xzf /tmp/trivy.tgz -C /tmp trivy && sudo install /tmp/trivy /usr/local/bin/trivy
+          trivy --version
+
+      - name: Trivy scan - any HIGH/CRITICAL fails the job
+        run: |
+          mkdir -p reports
+          trivy image --quiet --scanners vuln --severity HIGH,CRITICAL \
+            --exit-code 1 --format table --output reports/trivy-${{ matrix.component }}.txt \
+            ${{ steps.meta.outputs.image }}:${{ steps.meta.outputs.tag }} || { cat reports/trivy-${{ matrix.component }}.txt; exit 1; }
+          cat reports/trivy-${{ matrix.component }}.txt
+
+      - name: Upload scan report
+        if: ${{ always() }}
+        uses: actions/upload-artifact@v5
+        with:
+          name: trivy-${{ matrix.component }}
+          path: reports/
+          retention-days: 7
+
+      - name: Log in to GHCR
+        if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+        uses: docker/login-action@v3
+        with:
+          registry: ghcr.io
+          username: ${{ github.actor }}
+          password: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Push ${{ steps.meta.outputs.image }}:${{ steps.meta.outputs.tag }}
+        if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+        run: docker push ${{ steps.meta.outputs.image }}:${{ steps.meta.outputs.tag }}
+
+  deploy:
+    name: Deploy to EKS with Helm
+    needs: build-scan-push
+    if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    environment: production
+    permissions:
+      contents: read
+      id-token: write # OIDC: no long-lived AWS keys stored in GitHub
+    env:
+      AWS_REGION: ap-south-1
+      CLUSTER_NAME: startline-eks
+      ROLE_ARN: ${{ vars.AWS_DEPLOY_ROLE_ARN }}
+    steps:
+      - uses: actions/checkout@v6
+
+      - name: Skip when no AWS role is configured
+        if: env.ROLE_ARN == ''
+        run: |
+          echo "::notice::AWS_DEPLOY_ROLE_ARN is not set, so the deploy step is skipped."
+          echo "::notice::Create the cluster with terraform/ and set the repository variable to enable it."
+
+      - uses: aws-actions/configure-aws-credentials@v5
+        if: env.ROLE_ARN != ''
+        with:
+          role-to-assume: ${{ env.ROLE_ARN }}
+          aws-region: ${{ env.AWS_REGION }}
+
+      - uses: azure/setup-helm@v4
+        if: env.ROLE_ARN != ''
+        with:
+          version: v4.3.0
+
+      - name: Configure kubectl
+        if: env.ROLE_ARN != ''
+        run: aws eks update-kubeconfig --region "$AWS_REGION" --name "$CLUSTER_NAME"
+
+      # the same script deploys to kind locally: ./scripts/deploy.sh kind <sha>
+      - name: helm upgrade --install (image tag = commit SHA)
+        if: env.ROLE_ARN != ''
+        run: |
+          export GHCR_OWNER=$(echo "${{ github.repository_owner }}" | tr '[:upper:]' '[:lower:]')
+          ./scripts/deploy.sh eks "${GITHUB_SHA::7}"
+          helm -n startline history startline --max 5
