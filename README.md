@@ -313,6 +313,14 @@ load balancer.
 
 ![The deploy job on EKS](screenshots/ci-deploy-eks.jpg)
 
+The next push (`7ebf977`) then went the whole way by itself: tests, images, Trivy,
+GHCR, and a rolling update on EKS. New backend and frontend pods came up on the new
+tag, the database pod was left alone, and Helm moved to revision 2.
+
+| The deploy job for `7ebf977` | Helm and the Deployments on EKS afterwards |
+|---|---|
+| ![Rolling update by the pipeline](screenshots/ci-deploy-eks-update.jpg) | ![Helm revision 2, images 7ebf977](screenshots/aws-eks-deployment-update.png) |
+
 ## 10. Security scanning
 
 **What Trivy scans, and what the result means.** In the `build-scan-push` job,
@@ -422,6 +430,16 @@ Two things only the real account showed, both fixed in Terraform:
    immutable subject, `repo:bypratyush@68912154/startline@1420597870:environment:production`,
    which names the owner and repository by ID, so a re-created repository with the
    same name cannot take over the role. The trust policy now matches it.
+
+**Teardown.** `./terraform/aws.sh down` deleted the namespace, the retained gp3
+volume and the load balancer, then `terraform destroy` removed all 44 resources.
+It stalled once: the VPC CNI had left an unattached network interface from a
+terminated node, and EKS's own cluster security group was still in the VPC. I
+deleted both by hand, and `aws.sh` now removes them (and EKS's log group) itself.
+Afterwards the account had no cluster, NAT gateway, load balancer, volume,
+instance, VPC or IAM role left.
+
+![terraform destroy on AWS: 44 destroyed](screenshots/aws-terraform-destroy.png)
 
 ## 12. Kubernetes and Helm
 
@@ -533,9 +551,18 @@ metrics-server; on EKS it is a managed add-on in `eks.tf`.
 ## 15. Monitoring: Prometheus and Grafana
 
 ```bash
-./monitoring/install.sh          # kube-prometheus-stack + the StartLine dashboard
-./monitoring/install.sh open     # Prometheus :9090, Grafana :3001
+./monitoring/install.sh          # kube-prometheus-stack 92.1.0 + the StartLine dashboard
 ```
+
+Both UIs sit behind the same ingress-nginx as the app, so they open on their own
+addresses (`*.localhost` needs no `/etc/hosts` entry):
+
+| URL | |
+|---|---|
+| http://grafana.localhost/d/startline/startline-api-autoscaling-and-athletes | the StartLine dashboard (anonymous viewer; admin login `admin` / `startline-grafana`) |
+| http://prometheus.localhost/targets | scrape targets, `/alerts` for the rules |
+
+`./monitoring/install.sh open` still port-forwards them to :9090 and :3001.
 
 * **`/metrics`** on the backend is Prometheus text format, from the cluster's backend Service:
 
@@ -679,7 +706,7 @@ Every criterion of the Session 21 rubric, with the file, command or screenshot t
 | **M6** Explanation of the result and one CVE | [section 10](#10-security-scanning): what was scanned, the clean result, CVE-2026-76642 in Debian's util-linux |
 | **M7** Valid HCL, `init`, `plan` | [terraform/](terraform/), [aws-terraform-plan.png](screenshots/aws-terraform-plan.png) (44 to add on AWS), [terraform-localstack-run.png](screenshots/terraform-localstack-run.png) |
 | **M7** VPC with 2 public subnets, EKS with a worker node group, in ap-south-1 | AWS Console: [VPC subnets](screenshots/aws-console-vpc-subnets.jpg), [EKS cluster](screenshots/aws-console-eks.jpg), [nodes](screenshots/aws-console-eks-nodes.jpg); [section 11](#11-terraform-aws-vpc--eks) |
-| **M7** `terraform destroy`, `terraform.tfvars.example` | [terraform-localstack-run.png](screenshots/terraform-localstack-run.png) (LocalStack), [terraform.tfvars.example](terraform/terraform.tfvars.example) |
+| **M7** `terraform destroy`, `terraform.tfvars.example` | [aws-terraform-destroy.png](screenshots/aws-terraform-destroy.png) (44 destroyed on AWS), [terraform.tfvars.example](terraform/terraform.tfvars.example) |
 | **M8** `k8s/namespace.yaml` | [k8s/namespace.yaml](k8s/namespace.yaml) |
 | **M8** Helm chart with `Chart.yaml`, `values.yaml`, templates | [helm/startline/](helm/startline/) |
 | **M8** `helm upgrade --install` works | [helm-list.png](screenshots/helm-list.png), [helm-history.png](screenshots/helm-history.png) |
@@ -688,8 +715,8 @@ Every criterion of the Session 21 rubric, with the file, command or screenshot t
 | **M8** Ingress: `/` to frontend, `/api` to backend | [ingress.yaml](helm/startline/templates/ingress.yaml), [app-via-ingress.jpg](screenshots/app-via-ingress.jpg), [swagger-via-ingress.jpg](screenshots/swagger-via-ingress.jpg) |
 | **M9** `/metrics` in Prometheus format | [curl-metrics.png](screenshots/curl-metrics.png) |
 | **M9** Prometheus in the cluster, scraping the app | [prometheus-targets.jpg](screenshots/prometheus-targets.jpg), [ServiceMonitor](helm/startline/templates/servicemonitor.yaml) |
-| **M9** Grafana with live application panels | [grafana-dashboard-rush.jpg](screenshots/grafana-dashboard-rush.jpg), [dashboard JSON](monitoring/startline-dashboard.json) |
+| **M9** Grafana with live application panels | http://grafana.localhost (Ingress), [grafana-dashboard-rush.jpg](screenshots/grafana-dashboard-rush.jpg), [dashboard JSON](monitoring/startline-dashboard.json) |
 | **M9** Prometheus and Grafana Helm values | [monitoring/kube-prometheus-stack-values.yaml](monitoring/kube-prometheus-stack-values.yaml) |
 | **M10** README explaining the app | this file |
-| **M10** Live demo: commit, pipeline, deployment update | the pipeline deploying `301bd07` to EKS: [ci-deploy-eks.jpg](screenshots/ci-deploy-eks.jpg); [section 9](#9-cicd-with-github-actions) ("Commit to running pods") and [section 18](#18-final-demo-step-by-step) |
+| **M10** Live demo: commit, pipeline, deployment update | a push rolling EKS from `301bd07` to `7ebf977`: [ci-deploy-eks-update.jpg](screenshots/ci-deploy-eks-update.jpg), [aws-eks-deployment-update.png](screenshots/aws-eks-deployment-update.png); locally `./scripts/deploy.sh kind` ([section 9](#9-cicd-with-github-actions)) |
 
