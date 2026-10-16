@@ -1,0 +1,21 @@
+# FAULT 2 - a Service that routes nowhere.
+# The selector says component=api, but the API pods are labelled component=backend.
+# No matching labels = no endpoints = every request fails.
+#   kubectl apply -f troubleshooting/broken-service.yaml
+apiVersion: v1
+kind: Service
+metadata:
+  name: startline-api
+  namespace: startline
+  labels:
+    app.kubernetes.io/part-of: startline
+    lab: troubleshooting
+spec:
+  type: ClusterIP
+  selector:
+    app.kubernetes.io/instance: startline
+    app.kubernetes.io/component: api        # <- wrong: the pods carry component=backend
+  ports:
+    - name: http
+      port: 8000
+      targetPort: 8000

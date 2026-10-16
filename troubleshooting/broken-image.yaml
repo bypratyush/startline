@@ -1,0 +1,39 @@
+# FAULT 1 - a canary of the API that never starts.
+# Someone typed the image tag by hand instead of using the commit SHA from CI.
+#   kubectl apply -f troubleshooting/broken-image.yaml
+#   expected: ErrImagePull -> ImagePullBackOff
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: startline-canary
+  namespace: startline
+  labels:
+    app.kubernetes.io/part-of: startline
+    lab: troubleshooting
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app.kubernetes.io/name: startline-canary
+  template:
+    metadata:
+      labels:
+        app.kubernetes.io/name: startline-canary
+        lab: troubleshooting
+    spec:
+      securityContext:
+        runAsNonRoot: true
+        seccompProfile: { type: RuntimeDefault }
+      containers:
+        - name: backend
+          image: startline-backend:v2.0-final   # this tag was never built
+          imagePullPolicy: IfNotPresent
+          ports:
+            - containerPort: 8000
+          resources:
+            requests: { cpu: 50m, memory: 64Mi }
+            limits: { cpu: 200m, memory: 128Mi }
+          securityContext:
+            allowPrivilegeEscalation: false
+            readOnlyRootFilesystem: true
+            capabilities: { drop: ["ALL"] }
