@@ -22,6 +22,11 @@ kubeProxy:
   enabled: false
 
 prometheus:
+  # http://prometheus.localhost through the same ingress-nginx as the app (*.localhost needs no /etc/hosts)
+  ingress:
+    enabled: true
+    ingressClassName: nginx
+    hosts: [prometheus.localhost]
   prometheusSpec:
     retention: 2d
     scrapeInterval: 15s
@@ -35,6 +40,11 @@ prometheus:
 
 grafana:
   adminPassword: startline-grafana   # local demo only, never a real password
+  # http://grafana.localhost
+  ingress:
+    enabled: true
+    ingressClassName: nginx
+    hosts: [grafana.localhost]
   grafana.ini:
     auth.anonymous:
       enabled: true
