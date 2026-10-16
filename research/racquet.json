@@ -1,0 +1,4076 @@
+{
+  "events": [
+    {
+      "name": "Indore Open MT700 (ITF World Tennis Masters Tour)",
+      "edition": "2026",
+      "sport": "tennis",
+      "discipline": "ITF Masters (veterans) MT700",
+      "city": "Indore",
+      "venue": "Indore Tennis Club, 7 Race Course Road, opposite Holkar Cricket Stadium",
+      "venue_lat": null,
+      "venue_lon": null,
+      "start_date": "2026-10-30",
+      "end_date": "2026-11-05",
+      "date_status": "confirmed",
+      "last_edition_date": null,
+      "organiser": "Indore Tennis Club (Tournament Director: Arjun Dhupar), sanctioned by ITF and AITA",
+      "official_url": "https://www.itftennis.com/en/tournament/mt700-indore/ind/2026/s-mt700-ind-2026-002/fact-sheet/",
+      "registration": {
+        "status": "closed",
+        "opens": null,
+        "closes": null,
+        "url": "https://www.itftennis.com/en/tournament/mt700-indore/ind/2026/s-mt700-ind-2026-002/fact-sheet/",
+        "notes": "Entries are made through ITF World Tennis Tour Zone, not the AITA portal; the AITA calendar shows ITF entry closed. Entry fee is only visible in Tour Zone."
+      },
+      "summary": "The highest-grade ITF Masters event on the Indian calendar in late 2026, an MT700 with singles, doubles and mixed doubles for men and women in every age group from 30+ to 75+. Played on outdoor hard courts at the Indore Tennis Club.",
+      "categories": [
+        {
+          "name": "30+ Men's and Women's Singles, Doubles, Mixed Doubles",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": "ITF IPIN / World Tennis Tour Zone membership required; entries via Tour Zone. Age group by age reached in the calendar year.",
+          "notes": null
+        },
+        {
+          "name": "35+ Men's and Women's Singles, Doubles, Mixed Doubles",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": "ITF IPIN / World Tennis Tour Zone membership required; entries via Tour Zone. Age group by age reached in the calendar year.",
+          "notes": null
+        },
+        {
+          "name": "40+ Men's and Women's Singles, Doubles, Mixed Doubles",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": "ITF IPIN / World Tennis Tour Zone membership required; entries via Tour Zone. Age group by age reached in the calendar year.",
+          "notes": null
+        },
+        {
+          "name": "45+ Men's and Women's Singles, Doubles, Mixed Doubles",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": "ITF IPIN / World Tennis Tour Zone membership required; entries via Tour Zone. Age group by age reached in the calendar year.",
+          "notes": null
+        },
+        {
+          "name": "50+ Men's and Women's Singles, Doubles, Mixed Doubles",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": "ITF IPIN / World Tennis Tour Zone membership required; entries via Tour Zone. Age group by age reached in the calendar year.",
+          "notes": null
+        },
+        {
+          "name": "55+ Men's and Women's Singles, Doubles, Mixed Doubles",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": "ITF IPIN / World Tennis Tour Zone membership required; entries via Tour Zone. Age group by age reached in the calendar year.",
+          "notes": null
+        },
+        {
+          "name": "60+ Men's and Women's Singles, Doubles, Mixed Doubles",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": "ITF IPIN / World Tennis Tour Zone membership required; entries via Tour Zone. Age group by age reached in the calendar year.",
+          "notes": null
+        },
+        {
+          "name": "65+ Men's and Women's Singles, Doubles, Mixed Doubles",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": "ITF IPIN / World Tennis Tour Zone membership required; entries via Tour Zone. Age group by age reached in the calendar year.",
+          "notes": null
+        },
+        {
+          "name": "70+ Men's and Women's Singles, Doubles, Mixed Doubles",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": "ITF IPIN / World Tennis Tour Zone membership required; entries via Tour Zone. Age group by age reached in the calendar year.",
+          "notes": null
+        },
+        {
+          "name": "75+ Men's and Women's Singles, Doubles, Mixed Doubles",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": "ITF IPIN / World Tennis Tour Zone membership required; entries via Tour Zone. Age group by age reached in the calendar year.",
+          "notes": null
+        }
+      ],
+      "course": {
+        "terrain": "court",
+        "surface": "Outdoor hard courts",
+        "elevation_gain_m": null,
+        "profile": null,
+        "description": "Club venue on Race Course Road, opposite Holkar Cricket Stadium in central Indore."
+      },
+      "format": "ITF World Tennis Masters Tour knockout draws by age group (MT700 ranking points). Ball: Babolat Gold All Court (Type 2). Outdoor hard courts.",
+      "highlights": [
+        "MT700 grade, the top Masters tier held in India in this window",
+        "Women's and mixed events offered in all ten age groups 30+ to 75+"
+      ],
+      "tips": [
+        "Practise with Babolat Gold All Court balls, the official ball",
+        "Venue is opposite Holkar Cricket Stadium on Race Course Road, so check for match-day traffic if a cricket fixture overlaps",
+        "You need an active ITF IPIN before you can enter"
+      ],
+      "amenities": [],
+      "beginner_friendly": false,
+      "tags": [
+        "itf-masters",
+        "veterans",
+        "ranking-points"
+      ],
+      "sources": [
+        "https://www.itftennis.com/en/tournament/mt700-indore/ind/2026/s-mt700-ind-2026-002/fact-sheet/",
+        "https://www.aita.hitcourt.com/tournament-calendar-pro-2026"
+      ]
+    },
+    {
+      "name": "The Tennis Project ITF Masters MT400 Gurugram",
+      "edition": "2026",
+      "sport": "tennis",
+      "discipline": "ITF Masters (veterans) MT400",
+      "city": "Delhi NCR",
+      "venue": "The Tennis Project, Baliawas Village, Gurgaon-Faridabad Road, Gurugram",
+      "venue_lat": null,
+      "venue_lon": null,
+      "start_date": "2026-11-21",
+      "end_date": "2026-11-28",
+      "date_status": "confirmed",
+      "last_edition_date": null,
+      "organiser": "The Tennis Project (Tournament Director: Kunal Anand), sanctioned by ITF and AITA",
+      "official_url": "https://www.itftennis.com/en/tournament/mt400-gurugram/ind/2026/s-mt400-ind-2026-012/fact-sheet/",
+      "registration": {
+        "status": "unknown",
+        "opens": null,
+        "closes": null,
+        "url": "https://www.itftennis.com/en/tournament/mt400-gurugram/ind/2026/s-mt400-ind-2026-012/fact-sheet/",
+        "notes": "Entries through ITF World Tennis Tour Zone; deadline and fee visible only after Tour Zone login."
+      },
+      "summary": "ITF Masters MT400 for veteran players in Gurugram with men's, women's and mixed events in age groups 30+ to 60+. Gurugram also hosted an MT400 in January 2026, making it one of the busiest Masters venues in India.",
+      "categories": [
+        {
+          "name": "30+ Men's and Women's Singles, Doubles, Mixed Doubles",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": "ITF IPIN / World Tennis Tour Zone membership required; entries via Tour Zone. Age group by age reached in the calendar year.",
+          "notes": null
+        },
+        {
+          "name": "35+ Men's and Women's Singles, Doubles, Mixed Doubles",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": "ITF IPIN / World Tennis Tour Zone membership required; entries via Tour Zone. Age group by age reached in the calendar year.",
+          "notes": null
+        },
+        {
+          "name": "40+ Men's and Women's Singles, Doubles, Mixed Doubles",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": "ITF IPIN / World Tennis Tour Zone membership required; entries via Tour Zone. Age group by age reached in the calendar year.",
+          "notes": null
+        },
+        {
+          "name": "45+ Men's and Women's Singles, Doubles, Mixed Doubles",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": "ITF IPIN / World Tennis Tour Zone membership required; entries via Tour Zone. Age group by age reached in the calendar year.",
+          "notes": null
+        },
+        {
+          "name": "50+ Men's and Women's Singles, Doubles, Mixed Doubles",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": "ITF IPIN / World Tennis Tour Zone membership required; entries via Tour Zone. Age group by age reached in the calendar year.",
+          "notes": null
+        },
+        {
+          "name": "55+ Men's and Women's Singles, Doubles, Mixed Doubles",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": "ITF IPIN / World Tennis Tour Zone membership required; entries via Tour Zone. Age group by age reached in the calendar year.",
+          "notes": null
+        },
+        {
+          "name": "60+ Men's and Women's Singles, Doubles, Mixed Doubles",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": "ITF IPIN / World Tennis Tour Zone membership required; entries via Tour Zone. Age group by age reached in the calendar year.",
+          "notes": null
+        }
+      ],
+      "course": {
+        "terrain": "court",
+        "surface": "Outdoor hard courts",
+        "elevation_gain_m": null,
+        "profile": null,
+        "description": "Private tennis facility at Baliawas village on the Gurgaon-Faridabad road."
+      },
+      "format": "ITF World Tennis Masters Tour knockout draws by age group (MT400 ranking points). Ball: TBC per fact sheet. Outdoor hard courts.",
+      "highlights": [
+        "Women's and mixed draws in every age group from 30+ to 60+",
+        "MT400 points count toward ITF Masters world ranking"
+      ],
+      "tips": [
+        "The venue is on the Gurgaon-Faridabad road, away from the Gurugram metro, so plan road transport",
+        "Late November mornings in NCR can be smoggy and cool; check the AQI and warm up longer",
+        "Official ball was still TBC on the fact sheet, so confirm before practising"
+      ],
+      "amenities": [],
+      "beginner_friendly": false,
+      "tags": [
+        "itf-masters",
+        "veterans",
+        "ranking-points"
+      ],
+      "sources": [
+        "https://www.itftennis.com/en/tournament/mt400-gurugram/ind/2026/s-mt400-ind-2026-012/fact-sheet/",
+        "https://www.aita.hitcourt.com/tournament-calendar-pro-2026"
+      ]
+    },
+    {
+      "name": "Raghu Sinha ITF Tennis Masters Tournament (MT400 Jaipur)",
+      "edition": "2026",
+      "sport": "tennis",
+      "discipline": "ITF Masters (veterans) MT400",
+      "city": "Jaipur",
+      "venue": "Jaipur Club Ltd, Jacob Road",
+      "venue_lat": null,
+      "venue_lon": null,
+      "start_date": "2026-12-07",
+      "end_date": "2026-12-12",
+      "date_status": "confirmed",
+      "last_edition_date": null,
+      "organiser": "Jaipur Club (Tournament Director: Lalit Singh Taleda), sanctioned by ITF and AITA",
+      "official_url": "https://www.itftennis.com/en/tournament/mt400-jaipur/ind/2026/s-mt400-ind-2026-014/fact-sheet/",
+      "registration": {
+        "status": "unknown",
+        "opens": null,
+        "closes": null,
+        "url": "https://www.itftennis.com/en/tournament/mt400-jaipur/ind/2026/s-mt400-ind-2026-014/fact-sheet/",
+        "notes": "Entries through ITF World Tennis Tour Zone."
+      },
+      "summary": "MT400 ITF Masters event on clay at the Jaipur Club. Men's singles and doubles run from 40+ to 75+, with women's events at 30+ and 45+. Jaipur hosts several Masters weeks a year.",
+      "categories": [
+        {
+          "name": "Women's Singles and Doubles 30+",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": "ITF IPIN / World Tennis Tour Zone membership required; entries via Tour Zone. Age group by age reached in the calendar year.",
+          "notes": null
+        },
+        {
+          "name": "Men's Singles and Doubles 40+",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": "ITF IPIN / World Tennis Tour Zone membership required; entries via Tour Zone. Age group by age reached in the calendar year.",
+          "notes": null
+        },
+        {
+          "name": "Men's and Women's Singles and Doubles 45+",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": "ITF IPIN / World Tennis Tour Zone membership required; entries via Tour Zone. Age group by age reached in the calendar year.",
+          "notes": null
+        },
+        {
+          "name": "Men's Singles and Doubles 50+",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": "ITF IPIN / World Tennis Tour Zone membership required; entries via Tour Zone. Age group by age reached in the calendar year.",
+          "notes": null
+        },
+        {
+          "name": "Men's Singles and Doubles 55+",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": "ITF IPIN / World Tennis Tour Zone membership required; entries via Tour Zone. Age group by age reached in the calendar year.",
+          "notes": null
+        },
+        {
+          "name": "Men's Singles and Doubles 60+",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": "ITF IPIN / World Tennis Tour Zone membership required; entries via Tour Zone. Age group by age reached in the calendar year.",
+          "notes": null
+        },
+        {
+          "name": "Men's Singles and Doubles 65+",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": "ITF IPIN / World Tennis Tour Zone membership required; entries via Tour Zone. Age group by age reached in the calendar year.",
+          "notes": null
+        },
+        {
+          "name": "Men's Singles and Doubles 70+",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": "ITF IPIN / World Tennis Tour Zone membership required; entries via Tour Zone. Age group by age reached in the calendar year.",
+          "notes": null
+        },
+        {
+          "name": "Men's Singles and Doubles 75+",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": "ITF IPIN / World Tennis Tour Zone membership required; entries via Tour Zone. Age group by age reached in the calendar year.",
+          "notes": null
+        }
+      ],
+      "course": {
+        "terrain": "court",
+        "surface": "Outdoor clay courts",
+        "elevation_gain_m": null,
+        "profile": null,
+        "description": "Historic members' club on Jacob Road, Civil Lines area of Jaipur."
+      },
+      "format": "ITF World Tennis Masters Tour knockout draws by age group (MT400). Ball: Babolat Gold All Court (Type 2). Outdoor clay.",
+      "highlights": [
+        "One of few Indian Masters events on clay",
+        "Men's draws extend to 75+"
+      ],
+      "tips": [
+        "Clay play is slower; bring clay-court shoes",
+        "No men's 30+ or 35+ draws at this event, so younger veterans should choose Gurugram or Mumbai",
+        "December mornings in Jaipur are cold; early matches need a longer warm-up"
+      ],
+      "amenities": [],
+      "beginner_friendly": false,
+      "tags": [
+        "itf-masters",
+        "veterans",
+        "clay"
+      ],
+      "sources": [
+        "https://www.itftennis.com/en/tournament/mt400-jaipur/ind/2026/s-mt400-ind-2026-014/fact-sheet/",
+        "https://www.aita.hitcourt.com/tournament-calendar-pro-2026"
+      ]
+    },
+    {
+      "name": "MSLTA MT400 World Masters Tennis Championship",
+      "edition": "2026",
+      "sport": "tennis",
+      "discipline": "ITF Masters (veterans) MT400",
+      "city": "Mumbai",
+      "venue": "MSLTA, Dr. G.A. Ranade Tennis Centre, 165 Maharshi Karve Road, Cooperage",
+      "venue_lat": null,
+      "venue_lon": null,
+      "start_date": "2026-12-12",
+      "end_date": "2026-12-19",
+      "date_status": "confirmed",
+      "last_edition_date": null,
+      "organiser": "Maharashtra State Lawn Tennis Association (Tournament Director: Ramarao Dosa)",
+      "official_url": "https://www.itftennis.com/en/tournament/mt400-mumbai/ind/2026/s-mt400-ind-2026-010/fact-sheet/",
+      "registration": {
+        "status": "unknown",
+        "opens": null,
+        "closes": null,
+        "url": "https://www.itftennis.com/en/tournament/mt400-mumbai/ind/2026/s-mt400-ind-2026-010/fact-sheet/",
+        "notes": "Entries through ITF World Tennis Tour Zone."
+      },
+      "summary": "ITF Masters MT400 run by MSLTA at its Cooperage tennis centre in south Mumbai, with men's draws from 30+ to 80+ and women's and mixed draws in several age groups. Fact sheet lists a provisional 64-player draw for men's 30+ singles.",
+      "categories": [
+        {
+          "name": "30+ Men's and Women's Singles and Doubles, Mixed Doubles",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": "ITF IPIN / World Tennis Tour Zone membership required; entries via Tour Zone. Age group by age reached in the calendar year.",
+          "notes": "Men's 30+ singles provisional main draw 64; intended dates 12-16 Dec"
+        },
+        {
+          "name": "35+ Men's Singles and Doubles",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": "ITF IPIN / World Tennis Tour Zone membership required; entries via Tour Zone. Age group by age reached in the calendar year.",
+          "notes": null
+        },
+        {
+          "name": "40+ Men's and Women's Singles and Doubles, Mixed Doubles",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": "ITF IPIN / World Tennis Tour Zone membership required; entries via Tour Zone. Age group by age reached in the calendar year.",
+          "notes": null
+        },
+        {
+          "name": "45+ Men's Singles and Doubles, Mixed Doubles",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": "ITF IPIN / World Tennis Tour Zone membership required; entries via Tour Zone. Age group by age reached in the calendar year.",
+          "notes": null
+        },
+        {
+          "name": "50+ Men's and Women's Singles and Doubles, Mixed Doubles",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": "ITF IPIN / World Tennis Tour Zone membership required; entries via Tour Zone. Age group by age reached in the calendar year.",
+          "notes": null
+        },
+        {
+          "name": "55+ Men's Singles and Doubles, Mixed Doubles",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": "ITF IPIN / World Tennis Tour Zone membership required; entries via Tour Zone. Age group by age reached in the calendar year.",
+          "notes": null
+        },
+        {
+          "name": "60+ Men's Singles and Doubles",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": "ITF IPIN / World Tennis Tour Zone membership required; entries via Tour Zone. Age group by age reached in the calendar year.",
+          "notes": null
+        },
+        {
+          "name": "65+ Men's Singles and Doubles, Mixed Doubles",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": "ITF IPIN / World Tennis Tour Zone membership required; entries via Tour Zone. Age group by age reached in the calendar year.",
+          "notes": null
+        },
+        {
+          "name": "70+, 75+ and 80+ Men's Singles and Doubles",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": "ITF IPIN / World Tennis Tour Zone membership required; entries via Tour Zone. Age group by age reached in the calendar year.",
+          "notes": null
+        }
+      ],
+      "course": {
+        "terrain": "court",
+        "surface": "Outdoor hard courts",
+        "elevation_gain_m": null,
+        "profile": null,
+        "description": "State association tennis centre at Cooperage, near Churchgate and the Oval Maidan."
+      },
+      "format": "ITF World Tennis Masters Tour knockout draws by age group (MT400). Ball: Babolat Team All Court (Type 2). Outdoor hard courts.",
+      "highlights": [
+        "Widest age range of the window, men's draws up to 80+",
+        "Central Mumbai venue run by the state association"
+      ],
+      "tips": [
+        "Churchgate station is a short walk; parking near Cooperage is limited",
+        "Official ball is Babolat Team All Court",
+        "December in Mumbai is humid by late morning; carry electrolytes"
+      ],
+      "amenities": [],
+      "beginner_friendly": false,
+      "tags": [
+        "itf-masters",
+        "veterans"
+      ],
+      "sources": [
+        "https://www.itftennis.com/en/tournament/mt400-mumbai/ind/2026/s-mt400-ind-2026-010/fact-sheet/",
+        "https://www.aita.hitcourt.com/tournament-calendar-pro-2026"
+      ]
+    },
+    {
+      "name": "ASH AITA Men's Rs 1 Lakh Tournament",
+      "edition": "2026",
+      "sport": "tennis",
+      "discipline": "AITA Pro Circuit (Rs 1 lakh)",
+      "city": "Hyderabad",
+      "venue": "ASH Tennis Academy, Shamirpet",
+      "venue_lat": null,
+      "venue_lon": null,
+      "start_date": "2026-12-05",
+      "end_date": "2026-12-11",
+      "date_status": "confirmed",
+      "last_edition_date": null,
+      "organiser": "ASH Tennis Academy with Telangana State Tennis Association",
+      "official_url": "https://www.aita.hitcourt.com/tournament-acceptance-factsheet-MzAwMw==",
+      "registration": {
+        "status": "open",
+        "opens": "2026-10-07",
+        "closes": "2026-11-23",
+        "url": "https://www.aita.hitcourt.com/tournament-acceptance-factsheet-MzAwMw==",
+        "notes": "Withdrawal deadline 7 Dec 2026, freeze deadline 10 Dec 2026."
+      },
+      "summary": "AITA men's ranking tournament with Rs 1,00,000 prize money on seven outdoor hard courts at Shamirpet. A 128-player qualifying draw makes it one of the more accessible ways for an unranked club player to earn AITA points.",
+      "categories": [
+        {
+          "name": "Men's Singles Qualifying",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 1250,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": "AITA player registration (AITA PIN) required; enter via the AITA Player Zone on aita.hitcourt.com. Acceptance by AITA ranking; unranked players go to qualifying.",
+          "notes": "Qualifying draw 128, 5-6 Dec 2026"
+        },
+        {
+          "name": "Men's Singles Main Draw",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 1250,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": "AITA player registration (AITA PIN) required; enter via the AITA Player Zone on aita.hitcourt.com. Acceptance by AITA ranking; unranked players go to qualifying.",
+          "notes": "Main draw 32, 7-11 Dec 2026; same singles entry"
+        },
+        {
+          "name": "Men's Doubles",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": "AITA player registration (AITA PIN) required; enter via the AITA Player Zone on aita.hitcourt.com. Acceptance by AITA ranking; unranked players go to qualifying.",
+          "notes": "Main draw 16; doubles fee not listed"
+        }
+      ],
+      "course": {
+        "terrain": "court",
+        "surface": "Outdoor hard courts (7)",
+        "elevation_gain_m": null,
+        "profile": null,
+        "description": "Residential academy at Shamirpet on Hyderabad's northern edge; about 40 km from Rajiv Gandhi International Airport and 20 km from Secunderabad station."
+      },
+      "format": "Knockout per AITA Pro Circuit rules. Singles: 128 qualifying, 32 main draw. Doubles: 16. Ball: TBC.",
+      "highlights": [
+        "Rs 1 lakh prize money",
+        "Large 128-player qualifying draw"
+      ],
+      "tips": [
+        "Official hotel is on site at the academy, single room Rs 1,100 per night per the fact sheet",
+        "Venue is about 20 km from Secunderabad station and 18 km from JBS bus stand; arrange transport for early qualifying starts",
+        "Main draw sign-in closes at 14:00 the day before play"
+      ],
+      "amenities": [
+        "On-site accommodation"
+      ],
+      "beginner_friendly": false,
+      "tags": [
+        "aita-ranking",
+        "prize-money"
+      ],
+      "sources": [
+        "https://www.aita.hitcourt.com/tournament-acceptance-factsheet-MzAwMw==",
+        "https://www.aita.hitcourt.com/factsheet-pdf-MzAwMw==",
+        "https://www.aita.hitcourt.com/tournament-calendar-pro-2026"
+      ]
+    },
+    {
+      "name": "Excellence Women's Rs 1 Lac Prize Money Tournament",
+      "edition": "2026",
+      "sport": "tennis",
+      "discipline": "AITA Pro Circuit (Rs 1 lakh), women",
+      "city": "Delhi NCR",
+      "venue": "Excellence Tennis Academy, Excellence Sports Club, Sector 86, Gurugram",
+      "venue_lat": null,
+      "venue_lon": null,
+      "start_date": "2026-11-28",
+      "end_date": "2026-12-04",
+      "date_status": "confirmed",
+      "last_edition_date": null,
+      "organiser": "Excellence Tennis Academy (Tournament Director: Kavita Yadav)",
+      "official_url": "https://www.aita.hitcourt.com/tournament-acceptance-factsheet-Mjk1Mw==",
+      "registration": {
+        "status": "open",
+        "opens": "2026-09-08",
+        "closes": "2026-11-09",
+        "url": "https://www.aita.hitcourt.com/tournament-acceptance-factsheet-Mjk1Mw==",
+        "notes": "Withdrawal deadline 23 Nov 2026."
+      },
+      "summary": "Women-only AITA ranking event on clay in Gurugram's Sector 86, with a 128-player qualifying draw feeding a 32-player main draw. Useful for women club players seeking a first AITA ranking.",
+      "categories": [
+        {
+          "name": "Women's Singles Qualifying",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 1250,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": "AITA player registration (AITA PIN) required; enter via the AITA Player Zone on aita.hitcourt.com. Acceptance by AITA ranking; unranked players go to qualifying.",
+          "notes": "Qualifying draw 128, 28-29 Nov 2026"
+        },
+        {
+          "name": "Women's Singles Main Draw",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 1250,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": "AITA player registration (AITA PIN) required; enter via the AITA Player Zone on aita.hitcourt.com. Acceptance by AITA ranking; unranked players go to qualifying.",
+          "notes": "Main draw 32, 30 Nov-4 Dec 2026"
+        },
+        {
+          "name": "Women's Doubles",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": "AITA player registration (AITA PIN) required; enter via the AITA Player Zone on aita.hitcourt.com. Acceptance by AITA ranking; unranked players go to qualifying.",
+          "notes": "Main draw 16 from 1 Dec; fee not listed"
+        }
+      ],
+      "course": {
+        "terrain": "court",
+        "surface": "Outdoor clay courts (7)",
+        "elevation_gain_m": null,
+        "profile": null,
+        "description": "Academy inside Excellence Sports Club, Sector 86, near SS Group Omnia, New Gurugram."
+      },
+      "format": "Knockout per AITA Pro Circuit rules. Singles: 128 qualifying, 32 main draw. Doubles: 16. Ball: Dunlop Tour. Clay.",
+      "highlights": [
+        "Women-only draw",
+        "Clay courts"
+      ],
+      "tips": [
+        "Ball is Dunlop Tour on clay; train on a slow surface beforehand",
+        "Entries close 9 Nov, about three weeks before play",
+        "Sector 86 is in New Gurugram, far from the metro; plan a cab"
+      ],
+      "amenities": [],
+      "beginner_friendly": false,
+      "tags": [
+        "aita-ranking",
+        "women-only",
+        "clay"
+      ],
+      "sources": [
+        "https://www.aita.hitcourt.com/tournament-acceptance-factsheet-Mjk1Mw==",
+        "https://www.aita.hitcourt.com/factsheet-pdf-Mjk1Mw=="
+      ]
+    },
+    {
+      "name": "Akhtar Ali Foundation BTA AITA National Ranking 5 Lac Tennis Tournament",
+      "edition": "2026",
+      "sport": "tennis",
+      "discipline": "AITA Pro Circuit (Rs 5 lakh), men",
+      "city": "Kolkata",
+      "venue": "Bengal Tennis Association Academy, Sector 3, Salt Lake (beside Gate 2, Yuba Bharati Krirangan)",
+      "venue_lat": null,
+      "venue_lon": null,
+      "start_date": "2026-12-05",
+      "end_date": "2026-12-12",
+      "date_status": "confirmed",
+      "last_edition_date": null,
+      "organiser": "Bengal Tennis Association",
+      "official_url": "https://www.aita.hitcourt.com/tournament-acceptance-factsheet-MjkyNw==",
+      "registration": {
+        "status": "open",
+        "opens": "2026-09-13",
+        "closes": "2026-11-16",
+        "url": "https://www.aita.hitcourt.com/tournament-acceptance-factsheet-MjkyNw==",
+        "notes": "Withdrawal deadline 30 Nov 2026."
+      },
+      "summary": "Men's AITA national ranking tournament with Rs 5,00,000 prize money, the richest AITA Pro Circuit grade in this window. Qualifying draw is only 48, so entry is competitive for unranked players.",
+      "categories": [
+        {
+          "name": "Men's Singles Qualifying",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 1250,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": "AITA player registration (AITA PIN) required; enter via the AITA Player Zone on aita.hitcourt.com. Acceptance by AITA ranking; unranked players go to qualifying.",
+          "notes": "Qualifying draw 48, 5-6 Dec 2026"
+        },
+        {
+          "name": "Men's Singles Main Draw",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 1250,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": "AITA player registration (AITA PIN) required; enter via the AITA Player Zone on aita.hitcourt.com. Acceptance by AITA ranking; unranked players go to qualifying.",
+          "notes": "Main draw 32, 7-12 Dec 2026"
+        },
+        {
+          "name": "Men's Doubles",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": "AITA player registration (AITA PIN) required; enter via the AITA Player Zone on aita.hitcourt.com. Acceptance by AITA ranking; unranked players go to qualifying.",
+          "notes": "Main draw 16; fee not listed"
+        }
+      ],
+      "course": {
+        "terrain": "court",
+        "surface": "Outdoor hard courts (6)",
+        "elevation_gain_m": null,
+        "profile": null,
+        "description": "BTA academy next to Gate 2 of the Salt Lake stadium complex."
+      },
+      "format": "Knockout per AITA Pro Circuit rules. Singles: 48 qualifying, 32 main draw. Doubles: 16. Ball: TBC.",
+      "highlights": [
+        "Rs 5 lakh prize money",
+        "Run by the state association at Salt Lake"
+      ],
+      "tips": [
+        "Small 48-player qualifying draw: enter early and check the acceptance list",
+        "Venue is beside Gate 2 of Yuba Bharati Krirangan; avoid days with football at the stadium",
+        "December evenings are cool and dewy in Kolkata"
+      ],
+      "amenities": [],
+      "beginner_friendly": false,
+      "tags": [
+        "aita-ranking",
+        "prize-money"
+      ],
+      "sources": [
+        "https://www.aita.hitcourt.com/tournament-acceptance-factsheet-MjkyNw==",
+        "https://www.aita.hitcourt.com/factsheet-pdf-MjkyNw==",
+        "https://www.aita.hitcourt.com/tournament-calendar-pro-2026"
+      ]
+    },
+    {
+      "name": "Leander Paes Samanta Academy KIIT AITA OTA All India Men's Ranking 1L Tournament",
+      "edition": "2026",
+      "sport": "tennis",
+      "discipline": "AITA Pro Circuit (Rs 1 lakh), men",
+      "city": "Bhubaneswar",
+      "venue": "Leander Paes Samanta Sports Academy, Campus 8, KIIT University, Patia",
+      "venue_lat": null,
+      "venue_lon": null,
+      "start_date": "2026-11-07",
+      "end_date": "2026-11-13",
+      "date_status": "confirmed",
+      "last_edition_date": null,
+      "organiser": "Leander Paes Samanta Sports Academy, KIIT University, with Odisha Tennis Association",
+      "official_url": "https://www.aita.hitcourt.com/tournament-acceptance-factsheet-Mjk4NA==",
+      "registration": {
+        "status": "open",
+        "opens": "2026-09-22",
+        "closes": "2026-10-19",
+        "url": "https://www.aita.hitcourt.com/tournament-acceptance-factsheet-Mjk4NA==",
+        "notes": "Withdrawal deadline 2 Nov 2026."
+      },
+      "summary": "Men's AITA ranking event at the KIIT campus academy with Rs 1,00,000 prize money and a 128-player qualifying draw. Singles only per the fact sheet.",
+      "categories": [
+        {
+          "name": "Men's Singles Qualifying",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 1250,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": "AITA player registration (AITA PIN) required; enter via the AITA Player Zone on aita.hitcourt.com. Acceptance by AITA ranking; unranked players go to qualifying.",
+          "notes": "Qualifying draw 128, 7-8 Nov 2026"
+        },
+        {
+          "name": "Men's Singles Main Draw",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 1250,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": "AITA player registration (AITA PIN) required; enter via the AITA Player Zone on aita.hitcourt.com. Acceptance by AITA ranking; unranked players go to qualifying.",
+          "notes": "Main draw 32, 9-13 Nov 2026"
+        }
+      ],
+      "course": {
+        "terrain": "court",
+        "surface": "Outdoor hard courts (3)",
+        "elevation_gain_m": null,
+        "profile": null,
+        "description": "Academy courts on KIIT University Campus 8 at Patia, north Bhubaneswar."
+      },
+      "format": "Knockout per AITA Pro Circuit rules. Singles: 128 qualifying, 32 main draw. Ball: Dunlop Tour Brilliance.",
+      "highlights": [
+        "Rs 1 lakh prize money",
+        "Only three main-draw courts, so expect long days"
+      ],
+      "tips": [
+        "Entries close 19 Oct 2026",
+        "KIIT Sports Guest House is about 800 m from the courts",
+        "Ball is Dunlop Tour Brilliance"
+      ],
+      "amenities": [],
+      "beginner_friendly": false,
+      "tags": [
+        "aita-ranking",
+        "prize-money"
+      ],
+      "sources": [
+        "https://www.aita.hitcourt.com/tournament-acceptance-factsheet-Mjk4NA==",
+        "https://www.aita.hitcourt.com/factsheet-pdf-Mjk4NA=="
+      ]
+    },
+    {
+      "name": "Indian Sports Club AITA Men and Women Rs 1 Lakh Tennis Tournament",
+      "edition": "2026 (November week)",
+      "sport": "tennis",
+      "discipline": "AITA Pro Circuit (Rs 1 lakh)",
+      "city": "Goa",
+      "venue": "Indian Sports Club, KK Koppa Road, Kondaskoppa, Belagavi",
+      "venue_lat": null,
+      "venue_lon": null,
+      "start_date": "2026-11-14",
+      "end_date": "2026-11-20",
+      "date_status": "confirmed",
+      "last_edition_date": null,
+      "organiser": "Indian Sports Club (Tournament Director: Vishwanath Savadi)",
+      "official_url": "https://www.aita.hitcourt.com/tournament-acceptance-factsheet-Mjk5Ng==",
+      "registration": {
+        "status": "open",
+        "opens": "2026-09-24",
+        "closes": "2026-10-26",
+        "url": "https://www.aita.hitcourt.com/tournament-acceptance-factsheet-Mjk5Ng==",
+        "notes": "Withdrawal deadline 9 Nov 2026. Belagavi is about 100 km from Goa, the nearest hub."
+      },
+      "summary": "Combined men's and women's AITA ranking event in Belagavi with 128-player qualifying draws for both. The club runs back-to-back AITA weeks; this is the November week.",
+      "categories": [
+        {
+          "name": "Men's Singles (Qualifying 128, Main 32)",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 1250,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": "AITA player registration (AITA PIN) required; enter via the AITA Player Zone on aita.hitcourt.com. Acceptance by AITA ranking; unranked players go to qualifying.",
+          "notes": "Qualifying 14-15 Nov, main draw 16-20 Nov"
+        },
+        {
+          "name": "Women's Singles (Qualifying 128, Main 32)",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 1250,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": "AITA player registration (AITA PIN) required; enter via the AITA Player Zone on aita.hitcourt.com. Acceptance by AITA ranking; unranked players go to qualifying.",
+          "notes": "Qualifying 14-15 Nov, main draw 16-20 Nov"
+        },
+        {
+          "name": "Men's Doubles",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": "AITA player registration (AITA PIN) required; enter via the AITA Player Zone on aita.hitcourt.com. Acceptance by AITA ranking; unranked players go to qualifying.",
+          "notes": "Main draw 16; fee not listed"
+        },
+        {
+          "name": "Women's Doubles",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": "AITA player registration (AITA PIN) required; enter via the AITA Player Zone on aita.hitcourt.com. Acceptance by AITA ranking; unranked players go to qualifying.",
+          "notes": "Main draw 16; fee not listed"
+        }
+      ],
+      "course": {
+        "terrain": "court",
+        "surface": "Outdoor hard courts (7)",
+        "elevation_gain_m": null,
+        "profile": null,
+        "description": "Private sports club on KK Koppa Road on the outskirts of Belagavi."
+      },
+      "format": "Knockout per AITA Pro Circuit rules. Singles: 128 qualifying, 32 main draw. Doubles: 16. Ball: Babolat Gold.",
+      "highlights": [
+        "Men's and women's draws in the same week",
+        "Seven courts"
+      ],
+      "tips": [
+        "Courtyard Oasis hotel is about 200 m from the club",
+        "Ball is Babolat Gold",
+        "Belagavi is reachable by train or a 2.5 hour drive from Goa"
+      ],
+      "amenities": [],
+      "beginner_friendly": false,
+      "tags": [
+        "aita-ranking"
+      ],
+      "sources": [
+        "https://www.aita.hitcourt.com/tournament-acceptance-factsheet-Mjk5Ng==",
+        "https://www.aita.hitcourt.com/factsheet-pdf-Mjk5Ng==",
+        "https://www.aita.hitcourt.com/tournament-calendar-pro-2026"
+      ]
+    },
+    {
+      "name": "AITA Men and Women Rs 2.5 Lakh Tennis Tournament, Bhimavaram",
+      "edition": "2026",
+      "sport": "tennis",
+      "discipline": "AITA Pro Circuit (Rs 2.5 lakh)",
+      "city": "Vijayawada",
+      "venue": "The Cosmopolitan Club, near Adda Vantena, Suryanarayanapuram, Bhimavaram",
+      "venue_lat": null,
+      "venue_lon": null,
+      "start_date": "2026-10-31",
+      "end_date": "2026-11-06",
+      "date_status": "confirmed",
+      "last_edition_date": null,
+      "organiser": "The Cosmopolitan Club, Bhimavaram",
+      "official_url": "https://www.aita.hitcourt.com/tournament-acceptance-factsheet-Ng==",
+      "registration": {
+        "status": "closed",
+        "opens": "2026-04-09",
+        "closes": "2026-10-12",
+        "url": "https://www.aita.hitcourt.com/tournament-acceptance-factsheet-Ng==",
+        "notes": "Entries closed 12 Oct 2026. Bhimavaram is about 120 km from Vijayawada."
+      },
+      "summary": "AITA men's and women's ranking tournament with Rs 2,50,000 prize money at a club in West Godavari district. Both singles events have 128-player qualifying draws.",
+      "categories": [
+        {
+          "name": "Men's Singles (Qualifying 128, Main 32)",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 1250,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": "AITA player registration (AITA PIN) required; enter via the AITA Player Zone on aita.hitcourt.com. Acceptance by AITA ranking; unranked players go to qualifying.",
+          "notes": null
+        },
+        {
+          "name": "Women's Singles (Qualifying 128, Main 32)",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 1250,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": "AITA player registration (AITA PIN) required; enter via the AITA Player Zone on aita.hitcourt.com. Acceptance by AITA ranking; unranked players go to qualifying.",
+          "notes": null
+        },
+        {
+          "name": "Men's Doubles",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": "AITA player registration (AITA PIN) required; enter via the AITA Player Zone on aita.hitcourt.com. Acceptance by AITA ranking; unranked players go to qualifying.",
+          "notes": "Main draw 16"
+        },
+        {
+          "name": "Women's Doubles",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": "AITA player registration (AITA PIN) required; enter via the AITA Player Zone on aita.hitcourt.com. Acceptance by AITA ranking; unranked players go to qualifying.",
+          "notes": "Main draw 16"
+        }
+      ],
+      "course": {
+        "terrain": "court",
+        "surface": "Outdoor hard courts (6)",
+        "elevation_gain_m": null,
+        "profile": null,
+        "description": "Club venue in Bhimavaram town, West Godavari district."
+      },
+      "format": "Knockout per AITA Pro Circuit rules. Singles: 128 qualifying, 32 main draw. Doubles: 16.",
+      "highlights": [
+        "Rs 2.5 lakh prize money",
+        "Men's and women's events"
+      ],
+      "tips": [
+        "Several listed hotels are within 2 km, including PAC Ramasamy Rajah Bhavan within walking distance",
+        "Qualifying starts 31 Oct; sign-in closes 14:00 the day before"
+      ],
+      "amenities": [],
+      "beginner_friendly": false,
+      "tags": [
+        "aita-ranking",
+        "prize-money"
+      ],
+      "sources": [
+        "https://www.aita.hitcourt.com/tournament-acceptance-factsheet-Ng==",
+        "https://www.aita.hitcourt.com/factsheet-pdf-Ng=="
+      ]
+    },
+    {
+      "name": "National Tennis Mixed Doubles Championship for Men and Women",
+      "edition": "2026",
+      "sport": "tennis",
+      "discipline": "AITA Nationals, mixed doubles",
+      "city": "Hyderabad",
+      "venue": "Jubilee Hills International Centre (JHIC), Road No. 14, Jubilee Hills",
+      "venue_lat": null,
+      "venue_lon": null,
+      "start_date": "2026-10-24",
+      "end_date": "2026-10-30",
+      "date_status": "confirmed",
+      "last_edition_date": null,
+      "organiser": "AITA with Telangana State Tennis Association",
+      "official_url": "https://www.aita.hitcourt.com/tournament-acceptance-factsheet-Mjk1NA==",
+      "registration": {
+        "status": "closed",
+        "opens": "2026-09-08",
+        "closes": "2026-10-12",
+        "url": "https://www.aita.hitcourt.com/tournament-acceptance-factsheet-Mjk1NA==",
+        "notes": "Entries closed 12 Oct 2026."
+      },
+      "summary": "AITA national championship for mixed doubles pairs with Rs 10,00,000 prize money, played on hard courts at JHIC. A 32-team qualifying draw feeds a 32-team main draw.",
+      "categories": [
+        {
+          "name": "Mixed Doubles (Qualifying 32, Main 32)",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 2500,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": "AITA player registration (AITA PIN) required; enter via the AITA Player Zone on aita.hitcourt.com. Acceptance by AITA ranking; unranked players go to qualifying.",
+          "notes": "Fee is per team; qualifying 24-25 Oct, main draw 26-30 Oct"
+        }
+      ],
+      "course": {
+        "terrain": "court",
+        "surface": "Hard courts",
+        "elevation_gain_m": null,
+        "profile": null,
+        "description": "Jubilee Hills International Centre on Road No. 14, Jubilee Hills, west Hyderabad."
+      },
+      "format": "Knockout mixed doubles per AITA rules. Ball: Yonex Tour Platinum.",
+      "highlights": [
+        "National title event",
+        "Rs 10 lakh prize money"
+      ],
+      "tips": [
+        "Ball is Yonex Tour Platinum",
+        "Entry fee is charged per pair"
+      ],
+      "amenities": [],
+      "beginner_friendly": false,
+      "tags": [
+        "aita-nationals",
+        "mixed-doubles",
+        "prize-money"
+      ],
+      "sources": [
+        "https://www.aita.hitcourt.com/tournament-acceptance-factsheet-Mjk1NA==",
+        "https://www.aita.hitcourt.com/factsheet-pdf-Mjk1NA=="
+      ]
+    },
+    {
+      "name": "Tabebia Open (AITA Wheelchair Circuit)",
+      "edition": "2026",
+      "sport": "tennis",
+      "discipline": "Wheelchair tennis, AITA Wheelchair Circuit Rs 2.5 lakh",
+      "city": "Bengaluru",
+      "venue": "Deuce Tennis Center, Shidlaghatta Road, Melur",
+      "venue_lat": null,
+      "venue_lon": null,
+      "start_date": "2026-11-30",
+      "end_date": "2026-12-05",
+      "date_status": "confirmed",
+      "last_edition_date": null,
+      "organiser": "Deuce Tennis Center (Tournament Director: Sunil Jain)",
+      "official_url": "https://www.aita.hitcourt.com/tournament-acceptance-factsheet-MzAyNQ==",
+      "registration": {
+        "status": "open",
+        "opens": "2026-10-15",
+        "closes": "2026-11-16",
+        "url": "https://www.aita.hitcourt.com/tournament-acceptance-factsheet-MzAyNQ==",
+        "notes": "Withdrawal deadline 23 Nov 2026. Entry fee not listed on the fact sheet."
+      },
+      "summary": "AITA Wheelchair Circuit event with men's and women's singles and doubles on outdoor hard courts north of Bengaluru. A rare competitive entry point for wheelchair players.",
+      "categories": [
+        {
+          "name": "Men's Wheelchair Singles (Qualifying 64, Main 32)",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "open",
+          "eligibility": "AITA registration; wheelchair tennis eligibility per AITA Wheelchair rules",
+          "notes": null
+        },
+        {
+          "name": "Women's Wheelchair Singles (Qualifying 32, Main 16)",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "open",
+          "eligibility": "AITA registration; wheelchair tennis eligibility per AITA Wheelchair rules",
+          "notes": null
+        },
+        {
+          "name": "Men's Wheelchair Doubles",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "open",
+          "eligibility": null,
+          "notes": "Main draw 16"
+        },
+        {
+          "name": "Women's Wheelchair Doubles",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "open",
+          "eligibility": null,
+          "notes": "Main draw 16"
+        }
+      ],
+      "course": {
+        "terrain": "court",
+        "surface": "Outdoor hard courts (4)",
+        "elevation_gain_m": null,
+        "profile": null,
+        "description": "Tennis centre on Shidlaghatta Road at Melur (PIN 562102), outside Bengaluru city limits."
+      },
+      "format": "Knockout per AITA Wheelchair Tennis rules. Qualifying 30 Nov-1 Dec, main draw 2-5 Dec.",
+      "highlights": [
+        "Wheelchair-specific draws for men and women",
+        "Entries opened 15 Oct 2026"
+      ],
+      "tips": [
+        "Venue is on the northern outskirts; arrange accessible transport in advance",
+        "Confirm court-side accessibility with the tournament director before travel"
+      ],
+      "amenities": [],
+      "beginner_friendly": true,
+      "tags": [
+        "wheelchair",
+        "para-sport",
+        "aita"
+      ],
+      "sources": [
+        "https://www.aita.hitcourt.com/tournament-acceptance-factsheet-MzAyNQ==",
+        "https://www.aita.hitcourt.com/factsheet-pdf-MzAyNQ=="
+      ]
+    },
+    {
+      "name": "Sportygram Tennis Tournament, Baseline Tennis Academy",
+      "edition": "2026 (October)",
+      "sport": "tennis",
+      "discipline": "Open amateur tennis",
+      "city": "Chennai",
+      "venue": "Baseline Tennis Academy, Dhanraj Baid Jain College, Jothi Nagar, Thoraipakkam",
+      "venue_lat": 12.946401,
+      "venue_lon": 80.242761,
+      "start_date": "2026-10-25",
+      "end_date": "2026-10-25",
+      "date_status": "confirmed",
+      "last_edition_date": null,
+      "organiser": "Sportygram",
+      "official_url": "https://www.playmatches.com/chennai/tournaments/sportygram-tennis-tournament-baseline-tennis-academy/ef7852aa-de00-48f6-b49b-5a60ca4f0eba",
+      "registration": {
+        "status": "open",
+        "opens": null,
+        "closes": "2026-10-23",
+        "url": "https://www.playmatches.com/chennai/tournaments/sportygram-tennis-tournament-baseline-tennis-academy/ef7852aa-de00-48f6-b49b-5a60ca4f0eba",
+        "notes": "No refunds, including for weather-related date changes."
+      },
+      "summary": "One-day open tennis event on Chennai's OMR side with an open men's singles and men's doubles alongside junior draws. Short best-of-seven-games matches suit club players. Sportygram runs these at different Chennai academies through the year.",
+      "categories": [
+        {
+          "name": "Open Men's Singles",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 750,
+          "start_time": "09:00",
+          "cutoff": null,
+          "min_age": null,
+          "level": "open",
+          "eligibility": null,
+          "notes": "League then knockout"
+        },
+        {
+          "name": "Men's Doubles",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 1000,
+          "start_time": "09:00",
+          "cutoff": null,
+          "min_age": null,
+          "level": "open",
+          "eligibility": null,
+          "notes": "Fee per team"
+        }
+      ],
+      "course": {
+        "terrain": "court",
+        "surface": "Outdoor courts",
+        "elevation_gain_m": null,
+        "profile": null,
+        "description": "Academy courts at Dhanraj Baid Jain College, Thoraipakkam, off OMR."
+      },
+      "format": "Round robin league then knockout; each match best of seven games.",
+      "highlights": [
+        "No ranking or registration ID needed",
+        "Short-format matches"
+      ],
+      "tips": [
+        "Register by 23 Oct",
+        "Matches start around 09:00; late-October showers are common in Chennai, and the organiser does not refund weather delays"
+      ],
+      "amenities": [
+        "Trophy and gift for winners and runners-up",
+        "Participation certificate"
+      ],
+      "beginner_friendly": true,
+      "tags": [
+        "amateur",
+        "one-day"
+      ],
+      "sources": [
+        "https://www.playmatches.com/chennai/tournaments/sportygram-tennis-tournament-baseline-tennis-academy/ef7852aa-de00-48f6-b49b-5a60ca4f0eba",
+        "https://www.playmatches.com/chennai/tournaments"
+      ]
+    },
+    {
+      "name": "SPREETIME Mixed Corporate Badminton Ranking Series",
+      "edition": "2026, first ranking event of the 3rd quarter",
+      "sport": "badminton",
+      "discipline": "Corporate amateur",
+      "city": "Bengaluru",
+      "venue": "Hoodi Wellness and Sports Club, SJR Eternity, Ayyappa Nagar, Krishnarajapuram",
+      "venue_lat": 12.999868,
+      "venue_lon": 77.718775,
+      "start_date": "2026-10-24",
+      "end_date": "2026-10-25",
+      "date_status": "confirmed",
+      "last_edition_date": null,
+      "organiser": "SPREETIME",
+      "official_url": "https://www.playmatches.com/bengaluru/tournaments/spreetime-mixed-corporate-badminton-ranking-series/0f24e4d9-9507-4fb5-9f73-56b308cbf5d1",
+      "registration": {
+        "status": "open",
+        "opens": null,
+        "closes": null,
+        "url": "https://www.playmatches.com/bengaluru/tournaments/spreetime-mixed-corporate-badminton-ranking-series/0f24e4d9-9507-4fb5-9f73-56b308cbf5d1",
+        "notes": "Pairs may be from the same company or different companies."
+      },
+      "summary": "Quarterly corporate badminton ranking series in east Bengaluru with intermediate and advanced draws. Players earn ranking streaks across events, with trophies for top rankers every fourth tournament and annual awards.",
+      "categories": [
+        {
+          "name": "Intermediate Men's Singles",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 799,
+          "start_time": "09:30",
+          "cutoff": null,
+          "min_age": null,
+          "level": "intermediate",
+          "eligibility": "Corporate employees",
+          "notes": null
+        },
+        {
+          "name": "Intermediate Doubles (Gender Neutral)",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 1099,
+          "start_time": "12:00",
+          "cutoff": null,
+          "min_age": null,
+          "level": "intermediate",
+          "eligibility": "Corporate employees",
+          "notes": "Fee per team"
+        },
+        {
+          "name": "Intermediate Mixed Doubles",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 1099,
+          "start_time": "14:00",
+          "cutoff": null,
+          "min_age": null,
+          "level": "intermediate",
+          "eligibility": "Corporate employees",
+          "notes": "Fee per team"
+        },
+        {
+          "name": "Intermediate Women's Doubles",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 1099,
+          "start_time": "14:00",
+          "cutoff": null,
+          "min_age": null,
+          "level": "intermediate",
+          "eligibility": "Corporate employees",
+          "notes": "Fee per team"
+        },
+        {
+          "name": "Advanced Mixed Doubles",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 1099,
+          "start_time": "14:00",
+          "cutoff": null,
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": "Corporate employees",
+          "notes": "Fee per team"
+        },
+        {
+          "name": "Advanced Men's Singles",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 799,
+          "start_time": "15:30",
+          "cutoff": null,
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": "Corporate employees",
+          "notes": null
+        },
+        {
+          "name": "Advanced Doubles (Gender Neutral)",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 1099,
+          "start_time": "17:00",
+          "cutoff": null,
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": "Corporate employees",
+          "notes": "Fee per team"
+        }
+      ],
+      "course": {
+        "terrain": "indoor",
+        "surface": "Indoor synthetic courts",
+        "elevation_gain_m": null,
+        "profile": null,
+        "description": "Sports club in the SJR Eternity complex near Hoodi, close to the Whitefield IT corridor."
+      },
+      "format": "League then knockout. Shuttle: Mavis 350 (nylon). Start times listed are reporting times.",
+      "highlights": [
+        "Corporate-only ranking series",
+        "Medals for all participants"
+      ],
+      "tips": [
+        "Report by the listed time for your category; singles start 09:30",
+        "Mavis 350 nylon shuttles, so practise with nylon",
+        "Play runs 08:30 to 22:00, so plan for a long day if entering several draws"
+      ],
+      "amenities": [
+        "Participation medals",
+        "Trophies for winners, runners-up and semi-finalists"
+      ],
+      "beginner_friendly": false,
+      "tags": [
+        "corporate",
+        "ranking-series"
+      ],
+      "sources": [
+        "https://www.playmatches.com/bengaluru/tournaments/spreetime-mixed-corporate-badminton-ranking-series/0f24e4d9-9507-4fb5-9f73-56b308cbf5d1",
+        "https://www.playmatches.com/bengaluru/tournaments"
+      ]
+    },
+    {
+      "name": "SFL Badminton Tournament, Bengaluru",
+      "edition": "2026 (October)",
+      "sport": "badminton",
+      "discipline": "Open amateur",
+      "city": "Bengaluru",
+      "venue": "Orchid Sports Academy, MSR Layout, Marathahalli",
+      "venue_lat": 12.95135,
+      "venue_lon": 77.701118,
+      "start_date": "2026-10-25",
+      "end_date": "2026-10-25",
+      "date_status": "confirmed",
+      "last_edition_date": null,
+      "organiser": "Sports For Life (SFL)",
+      "official_url": "https://www.playmatches.com/bengaluru/tournaments/sfl-badminton-tournament-bengaluru/bb5b1fc3-24c6-4f2e-ae20-9d7264036383",
+      "registration": {
+        "status": "open",
+        "opens": null,
+        "closes": null,
+        "url": "https://www.playmatches.com/bengaluru/tournaments/sfl-badminton-tournament-bengaluru/bb5b1fc3-24c6-4f2e-ae20-9d7264036383",
+        "notes": null
+      },
+      "summary": "One-day open badminton tournament with a Rs 50,000 prize pool and a men's 35+ singles draw, streamed live on the SFL app.",
+      "categories": [
+        {
+          "name": "Men's Singles",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 699,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "open",
+          "eligibility": null,
+          "notes": null
+        },
+        {
+          "name": "Men's Singles 35+",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 699,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "open",
+          "eligibility": "Age 35 and above",
+          "notes": null
+        },
+        {
+          "name": "Men's Doubles",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 1199,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "open",
+          "eligibility": null,
+          "notes": "Fee per team"
+        },
+        {
+          "name": "Women's Singles",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 699,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "open",
+          "eligibility": null,
+          "notes": null
+        },
+        {
+          "name": "Women's Doubles",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 1199,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "open",
+          "eligibility": null,
+          "notes": "Fee per team"
+        }
+      ],
+      "course": {
+        "terrain": "indoor",
+        "surface": "Indoor courts",
+        "elevation_gain_m": null,
+        "profile": null,
+        "description": "Badminton academy behind Bhagini Residency, Marathahalli."
+      },
+      "format": "Knockout.",
+      "highlights": [
+        "Rs 50,000 prize pool",
+        "Live stream on the SFL app"
+      ],
+      "tips": [
+        "Knockout format means one loss ends your day; warm up properly before your first match",
+        "Marathahalli traffic is heavy even on Sundays; arrive early"
+      ],
+      "amenities": [
+        "Live streaming"
+      ],
+      "beginner_friendly": false,
+      "tags": [
+        "amateur",
+        "one-day",
+        "veterans-draw"
+      ],
+      "sources": [
+        "https://www.playmatches.com/bengaluru/tournaments/sfl-badminton-tournament-bengaluru/bb5b1fc3-24c6-4f2e-ae20-9d7264036383"
+      ]
+    },
+    {
+      "name": "Aptha Badminton Academy Women's Singles, Doubles and Mixed Doubles Tournament",
+      "edition": "2026 (October)",
+      "sport": "badminton",
+      "discipline": "Women's and mixed amateur, age groups",
+      "city": "Bengaluru",
+      "venue": "Aptha Badminton Academy, 4th Main Road, Ankappa Layout, Uttarahalli",
+      "venue_lat": 12.908555,
+      "venue_lon": 77.553278,
+      "start_date": "2026-10-25",
+      "end_date": "2026-10-25",
+      "date_status": "confirmed",
+      "last_edition_date": null,
+      "organiser": "Aptha Badminton Academy",
+      "official_url": "https://www.playmatches.com/bengaluru/tournaments/aptha-badminton-academy-womens-singles-doubles-mixed-doubles-tournament/0749856c-111f-4c39-a3ec-99601bbbacaa",
+      "registration": {
+        "status": "open",
+        "opens": null,
+        "closes": null,
+        "url": "https://www.playmatches.com/bengaluru/tournaments/aptha-badminton-academy-womens-singles-doubles-mixed-doubles-tournament/0749856c-111f-4c39-a3ec-99601bbbacaa",
+        "notes": "Coaches may not participate."
+      },
+      "summary": "One-day women-focused tournament in south Bengaluru with singles and doubles split by age (up to 35, 35-50, above 50; doubles up to 40 and above 40) plus age-split mixed doubles.",
+      "categories": [
+        {
+          "name": "Women's Singles up to 35",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 650,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "open",
+          "eligibility": "No coaches",
+          "notes": null
+        },
+        {
+          "name": "Women's Singles 35-50",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 650,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "open",
+          "eligibility": "Age 35 to 50; no coaches",
+          "notes": null
+        },
+        {
+          "name": "Women's Singles above 50",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 650,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "open",
+          "eligibility": "Age above 50; no coaches",
+          "notes": null
+        },
+        {
+          "name": "Women's Doubles up to 40",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 1100,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "open",
+          "eligibility": "No coaches",
+          "notes": "Fee per team"
+        },
+        {
+          "name": "Women's Doubles above 40",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 1100,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "open",
+          "eligibility": "No coaches",
+          "notes": "Fee per team"
+        },
+        {
+          "name": "Mixed Doubles up to 40",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 1100,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "open",
+          "eligibility": "No coaches",
+          "notes": "Fee per team"
+        },
+        {
+          "name": "Mixed Doubles above 40",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 1100,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "open",
+          "eligibility": "No coaches",
+          "notes": "Fee per team"
+        }
+      ],
+      "course": {
+        "terrain": "indoor",
+        "surface": "Indoor courts",
+        "elevation_gain_m": null,
+        "profile": null,
+        "description": "Academy in Uttarahalli, south Bengaluru."
+      },
+      "format": "Doubles: league then knockout, 21-point games. Singles: league, 15-point games. Shuttle: Mavis 350 (nylon).",
+      "highlights": [
+        "Age-banded women's draws",
+        "Cash prize of Rs 2,000 for winners if a category gets 16 entries"
+      ],
+      "tips": [
+        "Singles league games are only to 15 points, so start fast",
+        "Lunch is provided at the venue",
+        "Mavis 350 nylon shuttles are used"
+      ],
+      "amenities": [
+        "Lunch",
+        "Trophies"
+      ],
+      "beginner_friendly": true,
+      "tags": [
+        "women",
+        "veterans-draw",
+        "one-day"
+      ],
+      "sources": [
+        "https://www.playmatches.com/bengaluru/tournaments/aptha-badminton-academy-womens-singles-doubles-mixed-doubles-tournament/0749856c-111f-4c39-a3ec-99601bbbacaa"
+      ]
+    },
+    {
+      "name": "Pro Court Championship Season 2",
+      "edition": "Season 2, 2026",
+      "sport": "badminton",
+      "discipline": "Open amateur",
+      "city": "Bengaluru",
+      "venue": "Vinny's Sports Arena, Venkateshwara Layout, Mahadevapura",
+      "venue_lat": 12.985466,
+      "venue_lon": 77.689056,
+      "start_date": "2026-10-31",
+      "end_date": "2026-10-31",
+      "date_status": "confirmed",
+      "last_edition_date": null,
+      "organiser": "Pro Court Championship (Elite Feathers)",
+      "official_url": "https://www.playmatches.com/bengaluru/tournaments/pro-court-championship-season-2/7c799834-d676-481a-be75-f3269a0d8360",
+      "registration": {
+        "status": "open",
+        "opens": null,
+        "closes": null,
+        "url": "https://www.playmatches.com/bengaluru/tournaments/pro-court-championship-season-2/7c799834-d676-481a-be75-f3269a0d8360",
+        "notes": "Coaches and advanced players are barred from intermediate categories."
+      },
+      "summary": "One-day knockout tournament for beginner to intermediate players in Mahadevapura, with a 55+ jumbled doubles draw for older players.",
+      "categories": [
+        {
+          "name": "Intermediate Men's Singles",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 599,
+          "start_time": "10:00",
+          "cutoff": null,
+          "min_age": null,
+          "level": "intermediate",
+          "eligibility": "No coaches or advanced players",
+          "notes": null
+        },
+        {
+          "name": "Beginner to Intermediate Doubles",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 999,
+          "start_time": "10:00",
+          "cutoff": null,
+          "min_age": null,
+          "level": "beginner",
+          "eligibility": "No coaches or advanced players",
+          "notes": "Fee per team"
+        },
+        {
+          "name": "Intermediate+ Men's Doubles",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 999,
+          "start_time": "10:00",
+          "cutoff": null,
+          "min_age": null,
+          "level": "intermediate",
+          "eligibility": null,
+          "notes": "Fee per team"
+        },
+        {
+          "name": "Intermediate+ Mixed Doubles",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 999,
+          "start_time": "10:00",
+          "cutoff": null,
+          "min_age": null,
+          "level": "intermediate",
+          "eligibility": null,
+          "notes": "Fee per team"
+        },
+        {
+          "name": "Jumbled Doubles 55+",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 999,
+          "start_time": "10:00",
+          "cutoff": null,
+          "min_age": null,
+          "level": "open",
+          "eligibility": "Age 55 and above",
+          "notes": "Fee per team"
+        }
+      ],
+      "course": {
+        "terrain": "indoor",
+        "surface": "Indoor courts",
+        "elevation_gain_m": null,
+        "profile": null,
+        "description": "Sports arena in Mahadevapura, east Bengaluru."
+      },
+      "format": "Knockout.",
+      "highlights": [
+        "Cash prizes up to Rs 4,000 per category with 16 entries",
+        "Beginner-friendly doubles draw"
+      ],
+      "tips": [
+        "Full cash prizes need 16 entries per category, half prizes 12",
+        "Players found to be above level are disqualified without refund, so enter honestly"
+      ],
+      "amenities": [
+        "Trophies for winners, runners-up and semi-finalists"
+      ],
+      "beginner_friendly": true,
+      "tags": [
+        "amateur",
+        "one-day",
+        "veterans-draw"
+      ],
+      "sources": [
+        "https://www.playmatches.com/bengaluru/tournaments/pro-court-championship-season-2/7c799834-d676-481a-be75-f3269a0d8360"
+      ]
+    },
+    {
+      "name": "Seniors Badminton Tournament, Belgaum",
+      "edition": "2026",
+      "sport": "badminton",
+      "discipline": "Veterans (jumbled doubles)",
+      "city": "Goa",
+      "venue": "Thalakwadi Club, Tilakwadi, Belagavi",
+      "venue_lat": 15.835798,
+      "venue_lon": 74.502142,
+      "start_date": "2026-11-01",
+      "end_date": "2026-11-01",
+      "date_status": "confirmed",
+      "last_edition_date": null,
+      "organiser": "Aptha Badminton Academy (Paniraj, Bengaluru) with Major Dilip",
+      "official_url": "https://www.playmatches.com/bengaluru/tournaments/seniors-badminton-tournament-belgaum/de06d898-64c7-4383-87bf-bd5240b72b9d",
+      "registration": {
+        "status": "closed",
+        "opens": null,
+        "closes": "2026-10-26",
+        "url": "https://www.playmatches.com/bengaluru/tournaments/seniors-badminton-tournament-belgaum/de06d898-64c7-4383-87bf-bd5240b72b9d",
+        "notes": "Listing shows booking closed for all categories. Belagavi is about 100 km from Goa."
+      },
+      "summary": "One-day seniors men's doubles event in Belagavi with jumbled categories in which pairs are grouped by the age figure in the category name (100, 110, 120, 125). Coaches are barred.",
+      "categories": [
+        {
+          "name": "Men's Doubles Jumbled 100",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 1100,
+          "start_time": "08:30",
+          "cutoff": null,
+          "min_age": null,
+          "level": "open",
+          "eligibility": "Veterans; pair grouping by the age figure in the category name; no coaches",
+          "notes": "Listing fee Rs 1,100 per team; overview text says Rs 1,000 per team"
+        },
+        {
+          "name": "Men's Doubles Jumbled 110",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 1100,
+          "start_time": "08:30",
+          "cutoff": null,
+          "min_age": null,
+          "level": "open",
+          "eligibility": "Veterans; pair grouping by the age figure in the category name; no coaches",
+          "notes": "Listing fee Rs 1,100 per team; overview text says Rs 1,000 per team"
+        },
+        {
+          "name": "Men's Doubles Jumbled 120",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 1100,
+          "start_time": "08:30",
+          "cutoff": null,
+          "min_age": null,
+          "level": "open",
+          "eligibility": "Veterans; pair grouping by the age figure in the category name; no coaches",
+          "notes": "Listing fee Rs 1,100 per team; overview text says Rs 1,000 per team"
+        },
+        {
+          "name": "Men's Doubles Jumbled 125",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 1100,
+          "start_time": "08:30",
+          "cutoff": null,
+          "min_age": null,
+          "level": "open",
+          "eligibility": "Veterans; pair grouping by the age figure in the category name; no coaches",
+          "notes": "Listing fee Rs 1,100 per team; overview text says Rs 1,000 per team"
+        }
+      ],
+      "course": {
+        "terrain": "indoor",
+        "surface": "Indoor courts",
+        "elevation_gain_m": null,
+        "profile": null,
+        "description": "Members' club in Tilakwadi, Belagavi."
+      },
+      "format": "League to 21 points; quarter-finals and semi-finals to 21 with golden point; final to 30 with golden point. Shuttle: Mavis 350 (nylon).",
+      "highlights": [
+        "Veterans-only jumbled doubles",
+        "Lunch and snacks provided"
+      ],
+      "tips": [
+        "Higher-skilled players may enter only two categories",
+        "Finals go to 30 points, so pace yourself",
+        "No refunds or cancellations"
+      ],
+      "amenities": [
+        "Lunch",
+        "Snacks and coffee",
+        "Kit bags or T-shirts depending on entries"
+      ],
+      "beginner_friendly": false,
+      "tags": [
+        "veterans",
+        "one-day"
+      ],
+      "sources": [
+        "https://www.playmatches.com/bengaluru/tournaments/seniors-badminton-tournament-belgaum/de06d898-64c7-4383-87bf-bd5240b72b9d"
+      ]
+    },
+    {
+      "name": "Mysore Seniors Badminton Tournament",
+      "edition": "2026",
+      "sport": "badminton",
+      "discipline": "Veterans",
+      "city": "Mysuru",
+      "venue": "Friends Sports Zone Badminton Academy, 7th Cross, 8th Main Road, KC Layout",
+      "venue_lat": 12.295791,
+      "venue_lon": 76.684938,
+      "start_date": "2026-11-29",
+      "end_date": "2026-11-29",
+      "date_status": "confirmed",
+      "last_edition_date": null,
+      "organiser": "Aptha Badminton Academy",
+      "official_url": "https://www.playmatches.com/bengaluru/tournaments/mysore-seniors-badminton-tournament/fac969ba-aa6e-4120-8f35-37d9908aee68",
+      "registration": {
+        "status": "open",
+        "opens": null,
+        "closes": "2026-11-23",
+        "url": "https://www.playmatches.com/bengaluru/tournaments/mysore-seniors-badminton-tournament/fac969ba-aa6e-4120-8f35-37d9908aee68",
+        "notes": "No spot entries."
+      },
+      "summary": "One-day veterans tournament in Mysuru with 22 doubles draws: men's jumbled categories from 100 to 160, men's 50+, 60+ and 70+, women's 40+, 50+ and 60+, and mixed jumbled 100 to 140. Each category needs at least six teams to run.",
+      "categories": [
+        {
+          "name": "Men's Doubles Jumbled 100 to 160 (11 draws)",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 1100,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "open",
+          "eligibility": "Veterans; pairs grouped by the age figure in the category name; coaches barred in men's jumbled",
+          "notes": "Jumbled 150 listed at Rs 1,000; others Rs 1,100 per team"
+        },
+        {
+          "name": "Men's Doubles 50+",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 1100,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "open",
+          "eligibility": "Men's doubles 50 and above age category",
+          "notes": null
+        },
+        {
+          "name": "Men's Doubles 60+",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 1100,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "open",
+          "eligibility": "Men's doubles 60 and above age category",
+          "notes": null
+        },
+        {
+          "name": "Men's Doubles 70+",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 1100,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "open",
+          "eligibility": "Men's doubles 70 and above age category",
+          "notes": null
+        },
+        {
+          "name": "Women's Doubles 40+",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 1100,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "open",
+          "eligibility": "Women's doubles 40 and above age category",
+          "notes": null
+        },
+        {
+          "name": "Women's Doubles 50+",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 1100,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "open",
+          "eligibility": "Women's doubles 50 and above age category",
+          "notes": null
+        },
+        {
+          "name": "Women's Doubles 60+",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 1100,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "open",
+          "eligibility": "Women's doubles 60 and above age category",
+          "notes": null
+        },
+        {
+          "name": "Mixed Doubles Jumbled 100 to 140 (5 draws)",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 1100,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "open",
+          "eligibility": "Veterans; pair grouping by age figure in category name",
+          "notes": null
+        }
+      ],
+      "course": {
+        "terrain": "indoor",
+        "surface": "Indoor courts",
+        "elevation_gain_m": null,
+        "profile": null,
+        "description": "Badminton academy in KC Layout, Mysuru."
+      },
+      "format": "League then knockout. League to 21; quarter-finals and semi-finals to 21 with golden point; final to 30 with golden point. Shuttle: Mavis 350 (nylon).",
+      "highlights": [
+        "22 veterans draws including 70+ men and 60+ women",
+        "Cash prize when a category reaches 16 teams"
+      ],
+      "tips": [
+        "Register by 23 Nov; no spot entries",
+        "Lunch is provided at the venue",
+        "Mysuru is about 3 hours by road or 2 hours by train from Bengaluru"
+      ],
+      "amenities": [
+        "Lunch",
+        "Trophies for winners, runners-up and semi-finalists"
+      ],
+      "beginner_friendly": true,
+      "tags": [
+        "veterans",
+        "one-day"
+      ],
+      "sources": [
+        "https://www.playmatches.com/bengaluru/tournaments/mysore-seniors-badminton-tournament/fac969ba-aa6e-4120-8f35-37d9908aee68"
+      ]
+    },
+    {
+      "name": "TSF Badminton Academy x 5 AM Sports Club Badminton Tournament",
+      "edition": "2026 (October)",
+      "sport": "badminton",
+      "discipline": "Open amateur",
+      "city": "Mumbai",
+      "venue": "The Sports Foundry, LBS Marg, Subhash Nagar, Bhandup West",
+      "venue_lat": 19.151867,
+      "venue_lon": 72.938231,
+      "start_date": "2026-10-31",
+      "end_date": "2026-10-31",
+      "date_status": "confirmed",
+      "last_edition_date": null,
+      "organiser": "5 AM Sports Club LLP with TSF Badminton Academy",
+      "official_url": "https://www.playmatches.com/mumbai/tournaments/tsf-badminton-academy-5-am-sports-club-badminton-tournament/991c2f00-644b-4b9c-b47d-e7b84bfd0965",
+      "registration": {
+        "status": "open",
+        "opens": null,
+        "closes": null,
+        "url": "https://www.playmatches.com/mumbai/tournaments/tsf-badminton-academy-5-am-sports-club-badminton-tournament/991c2f00-644b-4b9c-b47d-e7b84bfd0965",
+        "notes": "No cancellations or refunds."
+      },
+      "summary": "Evening knockout tournament in Bhandup with gender-neutral open singles and doubles, played with feather shuttles and short 11-point games.",
+      "categories": [
+        {
+          "name": "Gender Neutral Open Singles",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 600,
+          "start_time": "16:00",
+          "cutoff": null,
+          "min_age": null,
+          "level": "open",
+          "eligibility": null,
+          "notes": null
+        },
+        {
+          "name": "Gender Neutral Open Doubles",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 1200,
+          "start_time": "16:00",
+          "cutoff": null,
+          "min_age": null,
+          "level": "open",
+          "eligibility": null,
+          "notes": "Fee per team"
+        }
+      ],
+      "course": {
+        "terrain": "indoor",
+        "surface": "Indoor courts",
+        "elevation_gain_m": null,
+        "profile": null,
+        "description": "Multi-sport facility on LBS Marg, Bhandup West."
+      },
+      "format": "Knockout, best of three games to 11 points. Feather shuttles.",
+      "highlights": [
+        "Feather shuttles",
+        "Short 11-point games suit newer players"
+      ],
+      "tips": [
+        "Games are to 11, so there is little time to recover from a slow start",
+        "Bhandup station on the Central line is the nearest rail link"
+      ],
+      "amenities": [],
+      "beginner_friendly": true,
+      "tags": [
+        "amateur",
+        "one-day"
+      ],
+      "sources": [
+        "https://www.playmatches.com/mumbai/tournaments/tsf-badminton-academy-5-am-sports-club-badminton-tournament/991c2f00-644b-4b9c-b47d-e7b84bfd0965",
+        "https://www.playmatches.com/mumbai/tournaments"
+      ]
+    },
+    {
+      "name": "Open Men's Badminton Tournament 2026 (Elite Champions and Aura Badminton Association)",
+      "edition": "2026",
+      "sport": "badminton",
+      "discipline": "Open amateur and corporate",
+      "city": "Chennai",
+      "venue": "Stop and Play Badminton Academy, Ponnammal Street, Nemilichery, Chromepet",
+      "venue_lat": 12.947996,
+      "venue_lon": 80.163977,
+      "start_date": "2026-10-18",
+      "end_date": "2026-10-18",
+      "date_status": "confirmed",
+      "last_edition_date": null,
+      "organiser": "Elite Champions and Aura Badminton Association",
+      "official_url": "https://www.playmatches.com/chennai/tournaments/open-men-s-badminton-tournament-2026/71549f06-aed8-4761-94c7-3ebcbc45a298",
+      "registration": {
+        "status": "open",
+        "opens": null,
+        "closes": null,
+        "url": "https://www.playmatches.com/chennai/tournaments/open-men-s-badminton-tournament-2026/71549f06-aed8-4761-94c7-3ebcbc45a298",
+        "notes": null
+      },
+      "summary": "One-day open tournament in south Chennai pitched at bringing corporates together, with Rs 70,000 in total cash prizes and no minimum-entry condition. Includes a 35+ jumbled men's doubles draw.",
+      "categories": [
+        {
+          "name": "Men's Singles (Beginner vs Open)",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 700,
+          "start_time": "08:00",
+          "cutoff": null,
+          "min_age": null,
+          "level": "open",
+          "eligibility": null,
+          "notes": null
+        },
+        {
+          "name": "Men's Doubles (Beginner vs Open)",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 1000,
+          "start_time": "08:00",
+          "cutoff": null,
+          "min_age": null,
+          "level": "open",
+          "eligibility": null,
+          "notes": "Fee per team; winners Rs 15,000"
+        },
+        {
+          "name": "Women's Doubles (Beginner vs Open)",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 1000,
+          "start_time": "08:00",
+          "cutoff": null,
+          "min_age": null,
+          "level": "open",
+          "eligibility": null,
+          "notes": "Fee per team"
+        },
+        {
+          "name": "Mixed Doubles (Beginner vs Open)",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 1000,
+          "start_time": "08:00",
+          "cutoff": null,
+          "min_age": null,
+          "level": "open",
+          "eligibility": null,
+          "notes": "Fee per team"
+        },
+        {
+          "name": "35+ Jumbled Men's Doubles",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 1000,
+          "start_time": "08:00",
+          "cutoff": null,
+          "min_age": null,
+          "level": "open",
+          "eligibility": "35+ age category",
+          "notes": "Fee per team; winners Rs 10,000"
+        }
+      ],
+      "course": {
+        "terrain": "indoor",
+        "surface": "Indoor courts",
+        "elevation_gain_m": null,
+        "profile": null,
+        "description": "Badminton academy at Nemilichery, Chromepet, near Tambaram."
+      },
+      "format": "League then knockout.",
+      "highlights": [
+        "Rs 70,000 total cash prizes",
+        "Cash prizes paid regardless of entry numbers"
+      ],
+      "tips": [
+        "Chromepet station on the suburban line is the nearest rail link",
+        "Draws mix beginners and open players, so expect a wide range of opponents"
+      ],
+      "amenities": [
+        "Cash prizes"
+      ],
+      "beginner_friendly": true,
+      "tags": [
+        "amateur",
+        "corporate",
+        "one-day"
+      ],
+      "sources": [
+        "https://www.playmatches.com/chennai/tournaments/open-men-s-badminton-tournament-2026/71549f06-aed8-4761-94c7-3ebcbc45a298",
+        "https://www.playmatches.com/chennai/tournaments"
+      ]
+    },
+    {
+      "name": "Yonex-Sunrise All India Masters Ranking Badminton Tournament",
+      "edition": "2026-27 season",
+      "sport": "badminton",
+      "discipline": "Masters (veterans) ranking",
+      "city": "Hyderabad",
+      "venue": "Venue to be announced, Hyderabad",
+      "venue_lat": null,
+      "venue_lon": null,
+      "start_date": "2027-01-23",
+      "end_date": "2027-01-30",
+      "date_status": "confirmed",
+      "last_edition_date": "2026-01-25",
+      "organiser": "Badminton Association of India with Telangana Badminton Association",
+      "official_url": "https://badmintonindia.org/events/tournaments/domestic",
+      "registration": {
+        "status": "upcoming",
+        "opens": null,
+        "closes": null,
+        "url": "https://badmintonindia.org/events/tournaments/domestic",
+        "notes": "Circular with entry deadline and fee not yet published; previous edition was held at Agra, 25 Jan-1 Feb 2026."
+      },
+      "summary": "BAI's national Masters ranking tournament for all veteran age categories, listed in the official 2026-27 BAI calendar for Hyderabad. Results feed Masters national rankings and selection for the Indian Masters Nationals.",
+      "categories": [
+        {
+          "name": "35+ Men's and Women's Singles, Doubles, Mixed Doubles",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": "BAI player ID required; entries through your state badminton association. Age reckoned as on 1 January of the year.",
+          "notes": null
+        },
+        {
+          "name": "40+ Men's and Women's Singles, Doubles, Mixed Doubles",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": "BAI player ID required; entries through your state badminton association. Age reckoned as on 1 January of the year.",
+          "notes": null
+        },
+        {
+          "name": "45+ Men's and Women's Singles, Doubles, Mixed Doubles",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": "BAI player ID required; entries through your state badminton association. Age reckoned as on 1 January of the year.",
+          "notes": null
+        },
+        {
+          "name": "50+ Men's and Women's Singles, Doubles, Mixed Doubles",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": "BAI player ID required; entries through your state badminton association. Age reckoned as on 1 January of the year.",
+          "notes": null
+        },
+        {
+          "name": "55+ Men's and Women's Singles, Doubles, Mixed Doubles",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": "BAI player ID required; entries through your state badminton association. Age reckoned as on 1 January of the year.",
+          "notes": null
+        },
+        {
+          "name": "60+ Men's and Women's Singles, Doubles, Mixed Doubles",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": "BAI player ID required; entries through your state badminton association. Age reckoned as on 1 January of the year.",
+          "notes": null
+        },
+        {
+          "name": "65+ Men's and Women's Singles, Doubles, Mixed Doubles",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": "BAI player ID required; entries through your state badminton association. Age reckoned as on 1 January of the year.",
+          "notes": null
+        },
+        {
+          "name": "70+ Men's and Women's Singles, Doubles, Mixed Doubles",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": "BAI player ID required; entries through your state badminton association. Age reckoned as on 1 January of the year.",
+          "notes": null
+        },
+        {
+          "name": "75+ Men's and Women's Singles, Doubles, Mixed Doubles",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": "BAI player ID required; entries through your state badminton association. Age reckoned as on 1 January of the year.",
+          "notes": null
+        }
+      ],
+      "course": {
+        "terrain": "indoor",
+        "surface": "Indoor synthetic courts",
+        "elevation_gain_m": null,
+        "profile": null,
+        "description": "Venue not yet announced."
+      },
+      "format": "Qualifying and main draw knockout by age group under BAI regulations. Feather shuttles per BAI rules.",
+      "highlights": [
+        "Official BAI Masters ranking event",
+        "All age categories in one week"
+      ],
+      "tips": [
+        "Get your BAI player ID through your state association well before the circular appears",
+        "State associations usually close entries a few weeks ahead"
+      ],
+      "amenities": [],
+      "beginner_friendly": false,
+      "tags": [
+        "veterans",
+        "bai-ranking"
+      ],
+      "sources": [
+        "https://badmintonindia.org/download/news/BAI%20Calendar%202026-27%20-%20As%20on%2015-08-2026.pdf",
+        "https://badmintonindia.org/events/tournaments/domestic"
+      ]
+    },
+    {
+      "name": "Yonex-Sunrise All India Senior Ranking Badminton Tournament, Bengaluru",
+      "edition": "2026-27 season",
+      "sport": "badminton",
+      "discipline": "Senior (open adult) ranking",
+      "city": "Bengaluru",
+      "venue": "Bengaluru (BAI calendar lists PSB), exact venue to be announced",
+      "venue_lat": null,
+      "venue_lon": null,
+      "start_date": "2027-01-30",
+      "end_date": "2027-02-06",
+      "date_status": "confirmed",
+      "last_edition_date": "2026-01-31",
+      "organiser": "Badminton Association of India with Karnataka Badminton Association",
+      "official_url": "https://badmintonindia.org/events/tournaments/domestic",
+      "registration": {
+        "status": "upcoming",
+        "opens": null,
+        "closes": null,
+        "url": "https://badmintonindia.org/events/tournaments/domestic",
+        "notes": "Entry via state association once the BAI circular is out."
+      },
+      "summary": "National senior ranking tournament for men and women with a qualifying stage, held in Bengaluru for a second straight season. Open to any BAI-registered adult player, so strong club players can try the qualifiers.",
+      "categories": [
+        {
+          "name": "Men's Singles",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": "BAI player ID required; entries through your state badminton association. Age reckoned as on 1 January of the year.",
+          "notes": "Qualifying rounds before main draw"
+        },
+        {
+          "name": "Women's Singles",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": "BAI player ID required; entries through your state badminton association. Age reckoned as on 1 January of the year.",
+          "notes": null
+        },
+        {
+          "name": "Men's Doubles",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": "BAI player ID required; entries through your state badminton association. Age reckoned as on 1 January of the year.",
+          "notes": null
+        },
+        {
+          "name": "Women's Doubles",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": "BAI player ID required; entries through your state badminton association. Age reckoned as on 1 January of the year.",
+          "notes": null
+        },
+        {
+          "name": "Mixed Doubles",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": "BAI player ID required; entries through your state badminton association. Age reckoned as on 1 January of the year.",
+          "notes": null
+        }
+      ],
+      "course": {
+        "terrain": "indoor",
+        "surface": "Indoor synthetic courts",
+        "elevation_gain_m": null,
+        "profile": null,
+        "description": "Venue not yet confirmed; BAI calendar lists Bangalore (PSB)."
+      },
+      "format": "Qualifying then main draw knockout under BAI regulations.",
+      "highlights": [
+        "National ranking points",
+        "Qualifying stage gives club players a route in"
+      ],
+      "tips": [
+        "Qualifying draws are large and early-round matches start early in the morning",
+        "Watch the BAI domestic tournaments page for the circular"
+      ],
+      "amenities": [],
+      "beginner_friendly": false,
+      "tags": [
+        "bai-ranking"
+      ],
+      "sources": [
+        "https://badmintonindia.org/download/news/BAI%20Calendar%202026-27%20-%20As%20on%2015-08-2026.pdf",
+        "https://badmintonindia.org/events/tournaments/domestic"
+      ]
+    },
+    {
+      "name": "Yonex-Sunrise 49th Indian Masters National Badminton Championships",
+      "edition": "49th, 2026-27",
+      "sport": "badminton",
+      "discipline": "Masters (veterans) nationals",
+      "city": "Guwahati",
+      "venue": "Assam, venue to be confirmed (BAI calendar: TBC, ASM)",
+      "venue_lat": null,
+      "venue_lon": null,
+      "start_date": "2027-03-20",
+      "end_date": "2027-03-27",
+      "date_status": "confirmed",
+      "last_edition_date": "2026-03-18",
+      "organiser": "Badminton Association of India",
+      "official_url": "https://badmintonindia.org/events/tournaments/domestic",
+      "registration": {
+        "status": "upcoming",
+        "opens": null,
+        "closes": null,
+        "url": "https://badmintonindia.org/events/tournaments/domestic",
+        "notes": "Host city is listed as TBC in Assam; mapped to Guwahati. The 48th edition (Goa, 18-25 Mar 2026) had a qualifying round."
+      },
+      "summary": "India's national championship for veteran badminton players in all age categories, now in its 49th edition. The last two editions were in Goa; BAI's 2026-27 calendar places the 2027 edition in Assam.",
+      "categories": [
+        {
+          "name": "35+ Men's and Women's Singles, Doubles, Mixed Doubles",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": "BAI player ID required; entries through your state badminton association. Age reckoned as on 1 January of the year.",
+          "notes": null
+        },
+        {
+          "name": "40+ Men's and Women's Singles, Doubles, Mixed Doubles",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": "BAI player ID required; entries through your state badminton association. Age reckoned as on 1 January of the year.",
+          "notes": null
+        },
+        {
+          "name": "45+ Men's and Women's Singles, Doubles, Mixed Doubles",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": "BAI player ID required; entries through your state badminton association. Age reckoned as on 1 January of the year.",
+          "notes": null
+        },
+        {
+          "name": "50+ Men's and Women's Singles, Doubles, Mixed Doubles",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": "BAI player ID required; entries through your state badminton association. Age reckoned as on 1 January of the year.",
+          "notes": null
+        },
+        {
+          "name": "55+ Men's and Women's Singles, Doubles, Mixed Doubles",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": "BAI player ID required; entries through your state badminton association. Age reckoned as on 1 January of the year.",
+          "notes": null
+        },
+        {
+          "name": "60+ Men's and Women's Singles, Doubles, Mixed Doubles",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": "BAI player ID required; entries through your state badminton association. Age reckoned as on 1 January of the year.",
+          "notes": null
+        },
+        {
+          "name": "65+ Men's and Women's Singles, Doubles, Mixed Doubles",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": "BAI player ID required; entries through your state badminton association. Age reckoned as on 1 January of the year.",
+          "notes": null
+        },
+        {
+          "name": "70+ Men's and Women's Singles, Doubles, Mixed Doubles",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": "BAI player ID required; entries through your state badminton association. Age reckoned as on 1 January of the year.",
+          "notes": null
+        },
+        {
+          "name": "75+ Men's and Women's Singles, Doubles, Mixed Doubles",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": "BAI player ID required; entries through your state badminton association. Age reckoned as on 1 January of the year.",
+          "notes": null
+        }
+      ],
+      "course": {
+        "terrain": "indoor",
+        "surface": "Indoor synthetic courts",
+        "elevation_gain_m": null,
+        "profile": null,
+        "description": "Venue not yet announced."
+      },
+      "format": "Qualifying round then main draw knockout by age group under BAI regulations.",
+      "highlights": [
+        "National veterans title",
+        "Past editions served as selection events for the BWF World Senior Championships"
+      ],
+      "tips": [
+        "Qualify or get nominated through your state Masters championship first",
+        "Book travel to Assam early once the city is confirmed; late March flights fill up"
+      ],
+      "amenities": [],
+      "beginner_friendly": false,
+      "tags": [
+        "veterans",
+        "nationals"
+      ],
+      "sources": [
+        "https://badmintonindia.org/download/news/BAI%20Calendar%202026-27%20-%20As%20on%2015-08-2026.pdf",
+        "https://badmintonindia.org/events/tournaments/domestic",
+        "https://kba.org.in/en/2026/yonex-sunrise-48th-indian-masters-veteran-national-badminton-championships-2025-26-at-goa/"
+      ]
+    },
+    {
+      "name": "Kolkata Pickleball Championship",
+      "edition": "3.0 (expected 2027)",
+      "sport": "pickleball",
+      "discipline": "Open amateur and pro, DUPR",
+      "city": "Kolkata",
+      "venue": "Turf XL, SN Roy Road, New Alipore",
+      "venue_lat": 22.5060486,
+      "venue_lon": 88.3289315,
+      "start_date": "2027-01-12",
+      "end_date": "2027-01-17",
+      "date_status": "expected",
+      "last_edition_date": "2026-01-13",
+      "organiser": "Pickleball XL (Turf XL)",
+      "official_url": "https://hudle.in/events/kolkata-pickleball-championship-20/726367",
+      "registration": {
+        "status": "unknown",
+        "opens": null,
+        "closes": null,
+        "url": null,
+        "notes": "2027 edition not announced. 2026 edition sold out; entries required a DUPR ID."
+      },
+      "summary": "Six-day national-level tournament in Kolkata sanctioned by IPA, WBPA, PWR200 and DUPR. The 2026 edition expected 500+ players across 20+ categories with a Rs 10 lakh guaranteed prize pool, the largest in eastern India.",
+      "categories": [
+        {
+          "name": "Beginner Singles / Doubles / Mixed / Women's",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "beginner",
+          "eligibility": "DUPR ID required",
+          "notes": "2026 fees: Rs 1,500 singles, Rs 2,000 doubles"
+        },
+        {
+          "name": "Intermediate Singles / Doubles / Mixed / Women's",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "intermediate",
+          "eligibility": "DUPR ID required",
+          "notes": "2026 fees: Rs 2,000 singles, Rs 3,000 doubles"
+        },
+        {
+          "name": "Open Singles / Doubles / Mixed / Women's",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "open",
+          "eligibility": "DUPR ID required",
+          "notes": "2026 fees: Rs 2,500 singles, Rs 3,500 doubles"
+        },
+        {
+          "name": "Open 35+ Singles and Doubles",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "open",
+          "eligibility": "Age 35+",
+          "notes": "2026 fees: Rs 2,500 / Rs 3,500"
+        },
+        {
+          "name": "Open 50+ Singles and Doubles",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "open",
+          "eligibility": "Age 50+",
+          "notes": "2026 fees: Rs 2,500 / Rs 3,500"
+        },
+        {
+          "name": "Open Gender Split 35+/- Doubles",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "open",
+          "eligibility": "One player 35+ and one under 35",
+          "notes": "2026 fee Rs 3,500"
+        }
+      ],
+      "course": {
+        "terrain": "court",
+        "surface": "Outdoor/covered turf-facility courts",
+        "elevation_gain_m": null,
+        "profile": null,
+        "description": "Multi-sport turf facility in New Alipore, south Kolkata."
+      },
+      "format": "DUPR-rated draws by level (beginner, intermediate, open) and age (35+, 50+); PWR200 ranking points in 2026.",
+      "highlights": [
+        "Rs 10 lakh guaranteed prize pool in 2026",
+        "Veterans 35+ and 50+ draws"
+      ],
+      "tips": [
+        "All categories sold out in 2026; register as soon as entries open",
+        "Create and verify your DUPR ID beforehand, it is mandatory",
+        "January in Kolkata is mild and ideal for long match days"
+      ],
+      "amenities": [],
+      "beginner_friendly": true,
+      "tags": [
+        "dupr",
+        "ipa-sanctioned",
+        "veterans-draw"
+      ],
+      "sources": [
+        "https://hudle.in/events/kolkata-pickleball-championship-20/726367"
+      ]
+    },
+    {
+      "name": "Ultimate Pickleball Showdown (UPS)",
+      "edition": "2.0 (expected 2027)",
+      "sport": "pickleball",
+      "discipline": "PWR 700, open amateur and pro",
+      "city": "Kolkata",
+      "venue": "Calcutta South Club, Sreepally, Bhowanipore",
+      "venue_lat": 22.5387782,
+      "venue_lon": 88.3522427,
+      "start_date": "2027-02-10",
+      "end_date": "2027-02-14",
+      "date_status": "expected",
+      "last_edition_date": "2026-02-11",
+      "organiser": "Amuzi Sports",
+      "official_url": "https://hudle.in/events/ultimate-pickleball-showdown-ups-10-2026-pwr-700-kolkata/128287",
+      "registration": {
+        "status": "unknown",
+        "opens": null,
+        "closes": null,
+        "url": null,
+        "notes": "Second edition not yet announced."
+      },
+      "summary": "PWR 700 tournament sanctioned by IPA and WBPA at the Calcutta South Club, with 35 categories and a Rs 15 lakh prize pool in its 2026 debut. Divisions are split by DUPR (intermediate below 3.8, advanced below 4.4), age (30+, 40+, 50+) and pro.",
+      "categories": [
+        {
+          "name": "Men's/Women's Singles and Doubles Intermediate (DUPR below 3.8)",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "intermediate",
+          "eligibility": "DUPR below 3.8",
+          "notes": "2026 fees: Rs 2,000-2,500 singles, Rs 3,000-3,500 doubles"
+        },
+        {
+          "name": "Mixed Doubles Intermediate (DUPR below 3.8)",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "intermediate",
+          "eligibility": "DUPR below 3.8",
+          "notes": "2026 fee Rs 3,500"
+        },
+        {
+          "name": "Men's/Women's Singles and Doubles Advanced (DUPR below 4.4)",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": "DUPR below 4.4",
+          "notes": "2026 fees: Rs 2,000-2,500 singles, Rs 3,000-3,500 doubles"
+        },
+        {
+          "name": "Mixed Doubles Advanced (DUPR below 4.4)",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": "DUPR below 4.4",
+          "notes": "2026 fee Rs 3,500"
+        },
+        {
+          "name": "Men's and Women's Singles and Doubles 30+",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "open",
+          "eligibility": "Age 30+",
+          "notes": null
+        },
+        {
+          "name": "Men's and Women's Singles 40+, Men's Doubles 40+, Mixed Doubles 40+",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "open",
+          "eligibility": "Age 40+",
+          "notes": null
+        },
+        {
+          "name": "Men's Singles and Doubles 50+",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "open",
+          "eligibility": "Age 50+",
+          "notes": null
+        },
+        {
+          "name": "Men's Split Age 35+/-",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "open",
+          "eligibility": "One player 35+ and one under 35",
+          "notes": null
+        },
+        {
+          "name": "Pro Singles, Doubles, Mixed",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": null,
+          "notes": "2026 fees: Rs 2,500-4,000"
+        }
+      ],
+      "course": {
+        "terrain": "court",
+        "surface": "Converted courts at a tennis club",
+        "elevation_gain_m": null,
+        "profile": null,
+        "description": "Historic Calcutta South Club, home of Kolkata tennis, in Bhowanipore."
+      },
+      "format": "PWR 700 ranked event with DUPR-capped skill draws, age draws and pro draws.",
+      "highlights": [
+        "PWR 700 world-ranking status",
+        "Rs 15 lakh prize pool in 2026"
+      ],
+      "tips": [
+        "Check your DUPR rating against the 3.8 and 4.4 caps before choosing a draw",
+        "Jatin Das Park is the nearest metro station to the club"
+      ],
+      "amenities": [],
+      "beginner_friendly": false,
+      "tags": [
+        "dupr",
+        "pwr",
+        "ipa-sanctioned",
+        "veterans-draw"
+      ],
+      "sources": [
+        "https://hudle.in/events/ultimate-pickleball-showdown-ups-10-2026-pwr-700-kolkata/128287"
+      ]
+    },
+    {
+      "name": "Mumbai DUPR Cup",
+      "edition": "Expected 2027 edition",
+      "sport": "pickleball",
+      "discipline": "DUPR-rated amateur",
+      "city": "Mumbai",
+      "venue": "Apostolic Carmel High School, Hill Road, Bandra West",
+      "venue_lat": 19.0555395,
+      "venue_lon": 72.8258839,
+      "start_date": "2027-01-31",
+      "end_date": "2027-01-31",
+      "date_status": "expected",
+      "last_edition_date": "2026-02-01",
+      "organiser": "Momentum Pickleball League",
+      "official_url": "https://hudle.in/events/mumbai-dupr-cup/246191",
+      "registration": {
+        "status": "unknown",
+        "opens": null,
+        "closes": null,
+        "url": null,
+        "notes": "Next edition not announced; 2026 edition sold out."
+      },
+      "summary": "One-day DUPR-rated tournament in Bandra aligned with the IPA and run by Momentum Pickleball League. Divisions are capped by DUPR (beginner below 3.5, intermediate below 4.3) with 35+ and split-age draws.",
+      "categories": [
+        {
+          "name": "Beginner Men's Singles (DUPR below 3.5)",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "beginner",
+          "eligibility": "DUPR below 3.5",
+          "notes": "2026 fee Rs 1,500 per player"
+        },
+        {
+          "name": "Beginner Men's Doubles / Mixed Doubles (DUPR below 3.5)",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "beginner",
+          "eligibility": "DUPR below 3.5",
+          "notes": "2026 fee Rs 2,199 per team"
+        },
+        {
+          "name": "Intermediate Men's Doubles / Mixed Doubles (DUPR below 4.3)",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "intermediate",
+          "eligibility": "DUPR below 4.3",
+          "notes": "2026 fee Rs 2,199 per team"
+        },
+        {
+          "name": "Intermediate 35+ Men's Singles and Doubles (DUPR below 4.3)",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "intermediate",
+          "eligibility": "Age 35+, DUPR below 4.3",
+          "notes": null
+        },
+        {
+          "name": "Intermediate Split 35 Doubles (DUPR below 4.3)",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "intermediate",
+          "eligibility": "One player 35+; DUPR below 4.3",
+          "notes": null
+        },
+        {
+          "name": "Open Men's Singles (Intermediate)",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "intermediate",
+          "eligibility": null,
+          "notes": "2026 fee Rs 1,500"
+        }
+      ],
+      "course": {
+        "terrain": "court",
+        "surface": "School courts",
+        "elevation_gain_m": null,
+        "profile": null,
+        "description": "School campus on Hill Road, Bandra West."
+      },
+      "format": "DUPR-rated matches; rankings and ratings via PWR and DUPR.",
+      "highlights": [
+        "Clear DUPR caps for beginners and intermediates",
+        "Central Bandra location"
+      ],
+      "tips": [
+        "Bandra station on the Western line is the nearest rail link",
+        "Make sure your DUPR rating is current; caps are strictly applied"
+      ],
+      "amenities": [],
+      "beginner_friendly": true,
+      "tags": [
+        "dupr",
+        "one-day",
+        "veterans-draw"
+      ],
+      "sources": [
+        "https://hudle.in/events/mumbai-dupr-cup/246191"
+      ]
+    },
+    {
+      "name": "Indian Open Pickleball (Global Sports)",
+      "edition": "5th (expected 2027)",
+      "sport": "pickleball",
+      "discipline": "PWR 1000, open amateur and pro",
+      "city": "Hyderabad",
+      "venue": "Crosscourts, Hyderabad (2026 venue; 2027 host city not announced)",
+      "venue_lat": null,
+      "venue_lon": null,
+      "start_date": "2027-03-31",
+      "end_date": "2027-04-04",
+      "date_status": "expected",
+      "last_edition_date": "2026-04-01",
+      "organiser": "Global Sports",
+      "official_url": null,
+      "registration": {
+        "status": "unknown",
+        "opens": null,
+        "closes": null,
+        "url": null,
+        "notes": "2027 dates and city not announced; earlier editions moved between months (an edition was held in February 2025)."
+      },
+      "summary": "India's largest pickleball tournament, sanctioned by the Indian Pickleball Association as a PWR 1000 event in 2026 with 56 categories, 1,500+ expected players and a USD 50,000 prize pool. The 2026 edition was the fourth.",
+      "categories": [
+        {
+          "name": "Amateur skill and age categories (56 categories in 2026)",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "open",
+          "eligibility": "DUPR-based brackets",
+          "notes": "Category list and fees for 2027 not published"
+        },
+        {
+          "name": "Pro divisions",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": null,
+          "notes": null
+        }
+      ],
+      "course": {
+        "terrain": "court",
+        "surface": "Dedicated pickleball courts",
+        "elevation_gain_m": null,
+        "profile": null,
+        "description": "2026 edition at the Crosscourts facility in Hyderabad."
+      },
+      "format": "PWR 1000 ranked event with amateur, age-group and pro draws.",
+      "highlights": [
+        "Highest-rated pickleball event in India (PWR 1000)",
+        "USD 50,000 prize pool in 2026"
+      ],
+      "tips": [
+        "Watch Global Sports announcements from January; past editions filled quickly",
+        "Confirm the host city before booking travel, as it has changed between editions"
+      ],
+      "amenities": [],
+      "beginner_friendly": false,
+      "tags": [
+        "pwr",
+        "ipa-sanctioned",
+        "iconic"
+      ],
+      "sources": [
+        "https://newsable.asianetnews.com/sports/global-sports-indian-open-2026-gets-ipa-sanction-usd-50k-prize-articleshow-w9gzhrv",
+        "https://ppatour.com/united-pickleball-association-and-global-sports-partner-to-bring-ppa-tour-and-major-league-pickleball-to-india/"
+      ]
+    },
+    {
+      "name": "Pune Pickleball Open",
+      "edition": "Expected 2027 edition",
+      "sport": "pickleball",
+      "discipline": "Beginner and intermediate amateur",
+      "city": "Pune",
+      "venue": "Arena X, Hinjawadi",
+      "venue_lat": null,
+      "venue_lon": null,
+      "start_date": "2027-04-10",
+      "end_date": "2027-04-11",
+      "date_status": "expected",
+      "last_edition_date": "2026-04-11",
+      "organiser": "Listed on Pickleball Bharat (organiser not named)",
+      "official_url": "https://pickleballbharat.com/events/c0723c47-ebd7-4303-80a1-68f0072bd230",
+      "registration": {
+        "status": "unknown",
+        "opens": null,
+        "closes": null,
+        "url": null,
+        "notes": "Next edition not announced."
+      },
+      "summary": "Weekend tournament in Hinjawadi for beginner and intermediate players with DUPR caps of below 3.5 and below 4.2 and no age limit. The 2026 edition had a Rs 3 lakh prize pool.",
+      "categories": [
+        {
+          "name": "Men's and Women's Singles (DUPR below 3.5 / below 4.2)",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "beginner",
+          "eligibility": "DUPR below 3.5 or below 4.2",
+          "notes": "2026 fees ranged Rs 750-1,500"
+        },
+        {
+          "name": "Men's and Women's Doubles (DUPR below 3.5 / below 4.2)",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "intermediate",
+          "eligibility": "DUPR below 3.5 or below 4.2",
+          "notes": null
+        },
+        {
+          "name": "Mixed Doubles (DUPR below 3.5 / below 4.2)",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "intermediate",
+          "eligibility": "DUPR below 3.5 or below 4.2",
+          "notes": null
+        }
+      ],
+      "course": {
+        "terrain": "court",
+        "surface": "Indoor/covered courts",
+        "elevation_gain_m": null,
+        "profile": null,
+        "description": "Sports arena in the Hinjawadi IT area of west Pune."
+      },
+      "format": "DUPR-capped draws; ball Franklin X-40 in 2026.",
+      "highlights": [
+        "Aimed at beginners and intermediates",
+        "No age limit"
+      ],
+      "tips": [
+        "Ball used in 2026 was the Franklin X-40 outdoor ball",
+        "Hinjawadi traffic peaks on weekday evenings; weekend mornings are easier"
+      ],
+      "amenities": [
+        "Food coupon and Khelomore credits in 2026"
+      ],
+      "beginner_friendly": true,
+      "tags": [
+        "dupr",
+        "beginner"
+      ],
+      "sources": [
+        "https://pickleballbharat.com/events/c0723c47-ebd7-4303-80a1-68f0072bd230"
+      ]
+    },
+    {
+      "name": "Pineapple Pickleball Amateur League",
+      "edition": "Expected 2027 season",
+      "sport": "pickleball",
+      "discipline": "Amateur league (DUPR below 3.8)",
+      "city": "Bengaluru",
+      "venue": "Pineapple Play at Active Arena, Outer Ring Road, opposite Prestige Tech Park, Kadubeesanahalli",
+      "venue_lat": 12.9435366,
+      "venue_lon": 77.7001548,
+      "start_date": "2027-04-10",
+      "end_date": "2027-04-18",
+      "date_status": "expected",
+      "last_edition_date": "2026-04-11",
+      "organiser": "Pineapple Play at Active Arena",
+      "official_url": "https://hudle.in/events/pineapple-pickleball-amateur-league/103718",
+      "registration": {
+        "status": "unknown",
+        "opens": null,
+        "closes": null,
+        "url": null,
+        "notes": "Next season not announced."
+      },
+      "summary": "Nine-day amateur league on the Outer Ring Road for rising players rated below 3.8 DUPR, with singles and doubles divisions.",
+      "categories": [
+        {
+          "name": "Open Singles (DUPR below 3.8)",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "intermediate",
+          "eligibility": "DUPR below 3.8",
+          "notes": "2026 fee Rs 2,499 per player"
+        },
+        {
+          "name": "Open Doubles (DUPR below 3.8)",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "intermediate",
+          "eligibility": "DUPR below 3.8",
+          "notes": "2026 fee Rs 3,999 per team"
+        }
+      ],
+      "course": {
+        "terrain": "court",
+        "surface": "Indoor courts",
+        "elevation_gain_m": null,
+        "profile": null,
+        "description": "Sports arena behind Croma, opposite Prestige Tech Park on the Outer Ring Road."
+      },
+      "format": "League format over two weekends in 2026, DUPR cap 3.8.",
+      "highlights": [
+        "League format guarantees multiple matches",
+        "Capped at 3.8 DUPR"
+      ],
+      "tips": [
+        "Venue is next to Prestige Tech Park, convenient for ORR office workers after hours",
+        "Check your DUPR is below 3.8 before entering"
+      ],
+      "amenities": [],
+      "beginner_friendly": true,
+      "tags": [
+        "dupr",
+        "league"
+      ],
+      "sources": [
+        "https://hudle.in/events/pineapple-pickleball-amateur-league/103718"
+      ]
+    },
+    {
+      "name": "Maharashtra Open (Maharashtra Pickleball Association)",
+      "edition": "Expected 2027 edition",
+      "sport": "pickleball",
+      "discipline": "State open championship",
+      "city": "Mumbai",
+      "venue": "Andheri Sports Complex, JP Road, Andheri West",
+      "venue_lat": 19.1267975,
+      "venue_lon": 72.8362698,
+      "start_date": "2027-04-30",
+      "end_date": "2027-05-02",
+      "date_status": "expected",
+      "last_edition_date": "2026-05-01",
+      "organiser": "Maharashtra Pickleball Association (under the Indian Pickleball Association)",
+      "official_url": "https://maharashtrapickleball.com/activities.php",
+      "registration": {
+        "status": "unknown",
+        "opens": null,
+        "closes": null,
+        "url": null,
+        "notes": "2027 edition not announced."
+      },
+      "summary": "Maharashtra's state open, run by the MPA under the IPA, drew over 1,000 participants across 30+ categories in its 2026 edition. Winners became eligible to represent Maharashtra at the national championship.",
+      "categories": [
+        {
+          "name": "Amateur and age-group categories (30+ categories in 2026)",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "open",
+          "eligibility": null,
+          "notes": "Category list and fees for 2027 not published"
+        },
+        {
+          "name": "Pro Men's and Women's Singles",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": null,
+          "notes": null
+        }
+      ],
+      "course": {
+        "terrain": "court",
+        "surface": "Indoor courts",
+        "elevation_gain_m": null,
+        "profile": null,
+        "description": "Large municipal multi-sport complex in Andheri West."
+      },
+      "format": "Three-day state championship with pro and amateur categories.",
+      "highlights": [
+        "Official state championship",
+        "Pathway to state team for nationals"
+      ],
+      "tips": [
+        "Nearest rail links are Andheri station and Azad Nagar on Metro Line 1",
+        "Watch the MPA tournaments page for the circular"
+      ],
+      "amenities": [],
+      "beginner_friendly": true,
+      "tags": [
+        "state-championship",
+        "ipa-sanctioned"
+      ],
+      "sources": [
+        "https://www.tribuneindia.com/news/sports/mpa-unveils-maharashtra-open-2026-at-andheri-sports-complex/",
+        "https://maharashtrapickleball.com/activities.php"
+      ]
+    },
+    {
+      "name": "MPA Women's Day Tournament (Queens on Courts)",
+      "edition": "Expected 2027 edition",
+      "sport": "pickleball",
+      "discipline": "Women-only",
+      "city": "Mumbai",
+      "venue": "Andheri Sports Complex, JP Road, Andheri West",
+      "venue_lat": 19.1267975,
+      "venue_lon": 72.8362698,
+      "start_date": "2027-02-24",
+      "end_date": "2027-02-27",
+      "date_status": "expected",
+      "last_edition_date": "2026-02-25",
+      "organiser": "Maharashtra Pickleball Association",
+      "official_url": "https://maharashtrapickleball.com/activities.php",
+      "registration": {
+        "status": "unknown",
+        "opens": null,
+        "closes": null,
+        "url": null,
+        "notes": "2027 edition not announced; in 2026 registration closed on the opening day."
+      },
+      "summary": "Women-only tournament staged by the Maharashtra Pickleball Association around International Women's Day, held over four days in February 2026.",
+      "categories": [
+        {
+          "name": "Women's categories",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "open",
+          "eligibility": "Women only",
+          "notes": "Category list not published"
+        }
+      ],
+      "course": {
+        "terrain": "court",
+        "surface": "Indoor courts",
+        "elevation_gain_m": null,
+        "profile": null,
+        "description": "Andheri Sports Complex, Andheri West."
+      },
+      "format": null,
+      "highlights": [
+        "Women-only event run by the state association"
+      ],
+      "tips": [
+        "Play ran 09:00 to about 18:00 daily in 2026",
+        "In 2026 the registration deadline was the opening day, so register early"
+      ],
+      "amenities": [],
+      "beginner_friendly": true,
+      "tags": [
+        "women-only",
+        "state-association"
+      ],
+      "sources": [
+        "https://maharashtrapickleball.com/activities.php"
+      ]
+    },
+    {
+      "name": "Mark10 Open",
+      "edition": "Expected 2027 edition",
+      "sport": "pickleball",
+      "discipline": "DUPR-rated amateur and pro",
+      "city": "Mumbai",
+      "venue": "Andheri Sports Complex (Global Sports x TSG Pickleball), Andheri West",
+      "venue_lat": 19.1267975,
+      "venue_lon": 72.8362698,
+      "start_date": "2027-07-03",
+      "end_date": "2027-07-04",
+      "date_status": "expected",
+      "last_edition_date": "2026-07-04",
+      "organiser": "MARK10",
+      "official_url": "https://hudle.in/events/mark10-open-2026/268442",
+      "registration": {
+        "status": "unknown",
+        "opens": null,
+        "closes": null,
+        "url": null,
+        "notes": "2027 edition not announced; 2026 categories sold out."
+      },
+      "summary": "Two-day Mumbai tournament with a Rs 12 lakh-plus prize pool in 2026 and clearly tiered DUPR divisions: beginner below 3.5, intermediate below 4.2 and advanced below 4.99, plus pro and an open split-age 35+ doubles.",
+      "categories": [
+        {
+          "name": "Beginner Singles (DUPR below 3.5)",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "beginner",
+          "eligibility": "DUPR below 3.5",
+          "notes": "2026 fee Rs 1,500 per player"
+        },
+        {
+          "name": "Beginner Men's / Women's / Mixed Doubles (DUPR below 3.5)",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "beginner",
+          "eligibility": "DUPR below 3.5",
+          "notes": "2026 fee Rs 2,000 per team"
+        },
+        {
+          "name": "Intermediate Singles (DUPR below 4.2)",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "intermediate",
+          "eligibility": "DUPR below 4.2",
+          "notes": "2026 fee Rs 2,000"
+        },
+        {
+          "name": "Intermediate Doubles and Mixed (DUPR below 4.2)",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "intermediate",
+          "eligibility": "DUPR below 4.2",
+          "notes": "2026 fee Rs 2,500 per team"
+        },
+        {
+          "name": "Advanced Men's Singles, Men's Doubles, Mixed (DUPR below 4.99)",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": "DUPR below 4.99",
+          "notes": "2026 fees Rs 2,500-3,000"
+        },
+        {
+          "name": "Open Split Age 35+ Men's Doubles",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "open",
+          "eligibility": "One player 35+",
+          "notes": "2026 fee Rs 3,500 per team"
+        },
+        {
+          "name": "Pro and Open Women's Singles and Doubles",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": null,
+          "notes": "2026 fees Rs 3,000-4,500"
+        }
+      ],
+      "course": {
+        "terrain": "court",
+        "surface": "Indoor courts",
+        "elevation_gain_m": null,
+        "profile": null,
+        "description": "Andheri Sports Complex, Andheri West."
+      },
+      "format": "DUPR-tiered draws by level, pro and split-age; formats announced closer to the event in 2026.",
+      "highlights": [
+        "Rs 12 lakh-plus prize pool in 2026",
+        "Three DUPR tiers below pro"
+      ],
+      "tips": [
+        "Early July is peak monsoon in Mumbai; allow extra travel time",
+        "Fees are per player for singles and per pair for doubles"
+      ],
+      "amenities": [
+        "Cash prizes, vouchers and medals"
+      ],
+      "beginner_friendly": true,
+      "tags": [
+        "dupr",
+        "prize-money"
+      ],
+      "sources": [
+        "https://hudle.in/events/mark10-open-2026/268442"
+      ]
+    }
+  ]
+}

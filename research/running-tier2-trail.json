@@ -1,0 +1,4504 @@
+{
+  "events": [
+    {
+      "name": "Kochi Spice Coast Marathon",
+      "edition": "2026",
+      "sport": "running",
+      "discipline": "road",
+      "city": "Kochi",
+      "venue": "Maharaja's College Ground, Ernakulam (start/finish per race guide; official site names only Kochi)",
+      "venue_lat": 9.9727,
+      "venue_lon": 76.2848,
+      "start_date": "2026-10-25",
+      "end_date": "2026-10-25",
+      "date_status": "confirmed",
+      "last_edition_date": null,
+      "organiser": "Soles of Cochin Running Club",
+      "official_url": "https://www.spicecoastmarathon.com/",
+      "registration": {
+        "status": "closed",
+        "opens": null,
+        "closes": "2026-10-10",
+        "url": "https://events.solesofcochin.org/scm2026/",
+        "notes": "Entries closed on 10 Oct 2026; organiser says there is no on-the-spot registration at the expo and no plan to reopen."
+      },
+      "summary": "Kochi's long-running road marathon, organised by the Soles of Cochin running club. Offers a full marathon, half marathon and a non-competitive 5K fun run with pre-dawn starts. A third-party guide puts 2024 turnout at about 8,000 runners.",
+      "categories": [
+        {
+          "name": "Full Marathon",
+          "distance_km": 42.195,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 1750,
+          "start_time": "03:30",
+          "cutoff": "6:30",
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": null,
+          "notes": "Standard fee per third-party race guide (Rs 1,600 without finisher T-shirt). Under-18s need a registered parent or guardian."
+        },
+        {
+          "name": "Half Marathon",
+          "distance_km": 21.1,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 1750,
+          "start_time": "04:30",
+          "cutoff": null,
+          "min_age": null,
+          "level": "intermediate",
+          "eligibility": null,
+          "notes": "Standard fee per race guide (Rs 1,600 without T-shirt). Finish line closes at 10:00 AM for all categories."
+        },
+        {
+          "name": "5K Fun Run",
+          "distance_km": 5,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 800,
+          "start_time": "06:30",
+          "cutoff": null,
+          "min_age": null,
+          "level": "beginner",
+          "eligibility": null,
+          "notes": "Non-competitive. Fee per race guide (Rs 650 without T-shirt)."
+        }
+      ],
+      "course": {
+        "terrain": "road",
+        "surface": "tarmac",
+        "elevation_gain_m": null,
+        "profile": "flat",
+        "description": "Flat paved city course in Ernakulam covering Marine Drive and the Fort Kochi side, per race guide. Aid stations about every 2 km."
+      },
+      "format": null,
+      "highlights": [
+        "3:30 AM full marathon start",
+        "Finish line closes at 10:00 AM for all categories"
+      ],
+      "tips": [
+        "Bib collection is only on Saturday 24 Oct 2026 at Decathlon Vyttila, 10 AM to 5 PM; there is no race-day pickup.",
+        "Late-October Kochi is humid even before dawn; start taking fluids and electrolytes from the first aid station.",
+        "Registration is already closed, so this listing is for runners who entered before 10 Oct."
+      ],
+      "amenities": [
+        "Aid stations about every 2 km",
+        "Medical stations on the full marathon course"
+      ],
+      "beginner_friendly": true,
+      "tags": [
+        "coastal",
+        "pre-dawn-start"
+      ],
+      "sources": [
+        "https://www.spicecoastmarathon.com/",
+        "https://events.solesofcochin.org/scm2026/",
+        "https://fatmarathoner.com/spice-coast-marathon-kochi/"
+      ]
+    },
+    {
+      "name": "Federal Bank Kochi Marathon",
+      "edition": "2027",
+      "sport": "running",
+      "discipline": "road",
+      "city": "Kochi",
+      "venue": "Maharaja's College Stadium, Ernakulam (start/finish per race guide; 2027 venue not yet confirmed)",
+      "venue_lat": 9.9727,
+      "venue_lon": 76.2848,
+      "start_date": "2027-02-14",
+      "end_date": "2027-02-14",
+      "date_status": "expected",
+      "last_edition_date": "2026-02-08",
+      "organiser": "CleoSportz",
+      "official_url": "https://www.kochimarathon.in/",
+      "registration": {
+        "status": "unknown",
+        "opens": null,
+        "closes": null,
+        "url": "https://www.kochimarathon.in/",
+        "notes": "Official site links to a District.in page for the 2027 edition; a third-party guide says entries are open. Fees not published."
+      },
+      "summary": "AIMS-certified road marathon in Kochi with Federal Bank as title sponsor, held on the second Sunday of February in 2025 and 2026. Offers full, half, 10K and a 3K Green Run.",
+      "categories": [
+        {
+          "name": "Full Marathon",
+          "distance_km": 42.195,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": "04:00",
+          "cutoff": "6:30",
+          "min_age": 18,
+          "level": "advanced",
+          "eligibility": null,
+          "notes": "Start time from previous editions."
+        },
+        {
+          "name": "Half Marathon",
+          "distance_km": 21.097,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": "05:00",
+          "cutoff": "4:00",
+          "min_age": 18,
+          "level": "intermediate",
+          "eligibility": null,
+          "notes": "Start time from previous editions."
+        },
+        {
+          "name": "10K Run",
+          "distance_km": 10,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": "06:00",
+          "cutoff": "2:00",
+          "min_age": 12,
+          "level": "beginner",
+          "eligibility": null,
+          "notes": "Under 12 must be accompanied by an adult."
+        },
+        {
+          "name": "3K Green Run",
+          "distance_km": 3,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": "07:00",
+          "cutoff": null,
+          "min_age": 8,
+          "level": "beginner",
+          "eligibility": null,
+          "notes": "Non-competitive."
+        }
+      ],
+      "course": {
+        "terrain": "road",
+        "surface": "tarmac",
+        "elevation_gain_m": null,
+        "profile": "flat",
+        "description": "Flat out-and-back route with the full marathon turnaround near Cheranelloor Junction, per race guide. AIMS certified."
+      },
+      "format": null,
+      "highlights": [
+        "AIMS-certified course",
+        "4th edition held on 8 Feb 2026"
+      ],
+      "tips": [
+        "Past bib expos were at Marine Drive Ground on the two days before race day.",
+        "Start times shown are from earlier editions; confirm the 2027 schedule once published.",
+        "February mornings in Kochi warm up fast after sunrise; aim to finish the half before 8 AM."
+      ],
+      "amenities": [
+        "Timing chip for timed categories"
+      ],
+      "beginner_friendly": true,
+      "tags": [
+        "aims-certified"
+      ],
+      "sources": [
+        "https://www.kochimarathon.in/",
+        "https://fatmarathoner.com/kochi-marathon/"
+      ]
+    },
+    {
+      "name": "UST Trivandrum Marathon",
+      "edition": "2026, 3rd edition",
+      "sport": "running",
+      "discipline": "road",
+      "city": "Thiruvananthapuram",
+      "venue": "UST Campus, Thiruvananthapuram (start/finish per NEB Sports schedule)",
+      "venue_lat": 8.556,
+      "venue_lon": 76.881,
+      "start_date": "2026-11-15",
+      "end_date": "2026-11-15",
+      "date_status": "confirmed",
+      "last_edition_date": null,
+      "organiser": "UST, with NEB Sports as execution partner",
+      "official_url": "https://trivandrummarathon.com/",
+      "registration": {
+        "status": "open",
+        "opens": null,
+        "closes": null,
+        "url": "https://mysamay.in/event/info/e3e02f08-0651-493f-b7eb-953a359bf17f?cmeta=NsVT4A0i27",
+        "notes": "NEB Sports lists registration as open with fees starting at Rs 350; per-category fees not published on the official page."
+      },
+      "summary": "Corporate-backed city marathon in Kerala's capital, in its third edition in 2026. Run by NEB Sports, which also runs the Kaveri Trail and Mysuru marathons. Offers full, half, 10K and 5K.",
+      "categories": [
+        {
+          "name": "Full Marathon",
+          "distance_km": 42.2,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": "6:00",
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": null,
+          "notes": "First loop must be completed within 3 hours."
+        },
+        {
+          "name": "Half Marathon",
+          "distance_km": 21.1,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": "3:30",
+          "min_age": null,
+          "level": "intermediate",
+          "eligibility": null,
+          "notes": "Official page lists the distance as 21.5 km; NEB Sports lists 21K."
+        },
+        {
+          "name": "10K Run",
+          "distance_km": 10,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": "1:30",
+          "min_age": null,
+          "level": "beginner",
+          "eligibility": null,
+          "notes": null
+        },
+        {
+          "name": "5K Run",
+          "distance_km": 5,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": "1:00",
+          "min_age": null,
+          "level": "beginner",
+          "eligibility": null,
+          "notes": null
+        }
+      ],
+      "course": {
+        "terrain": "road",
+        "surface": "tarmac",
+        "elevation_gain_m": null,
+        "profile": null,
+        "description": "City course through Thiruvananthapuram; the full marathon is run in two loops."
+      },
+      "format": null,
+      "highlights": [
+        "Full marathon has a 3-hour first-loop cutoff",
+        "NEB Sports-run event"
+      ],
+      "tips": [
+        "Full marathoners who miss the 3-hour first-loop cutoff are pulled; pace the first half accordingly.",
+        "Mid-November can bring north-east monsoon showers in Thiruvananthapuram; carry a light layer for the pre-start wait.",
+        "Category changes and refunds close 60 days before race day under NEB Sports terms."
+      ],
+      "amenities": [],
+      "beginner_friendly": true,
+      "tags": [
+        "corporate"
+      ],
+      "sources": [
+        "https://trivandrummarathon.com/",
+        "https://nebsports.in/",
+        "https://nebsports.in/schedule"
+      ]
+    },
+    {
+      "name": "Kovalam Marathon",
+      "edition": "2027",
+      "sport": "running",
+      "discipline": "road",
+      "city": "Thiruvananthapuram",
+      "venue": "Grove Beach, Kovalam (start/finish)",
+      "venue_lat": 8.4004,
+      "venue_lon": 76.9786,
+      "start_date": "2027-09-12",
+      "end_date": "2027-09-12",
+      "date_status": "expected",
+      "last_edition_date": "2026-09-13",
+      "organiser": "Young Indians (Yi) Trivandrum Chapter, Confederation of Indian Industry",
+      "official_url": "https://kovalammarathon.com/",
+      "registration": {
+        "status": "upcoming",
+        "opens": null,
+        "closes": null,
+        "url": "https://kovalammarathon.com/",
+        "notes": "2027 fees not announced. 2026 prices incl. GST were Rs 1,770 (full), 1,180 (half), 885 (10K), 590 (5K)."
+      },
+      "summary": "Coastal road marathon at Kovalam beach near Thiruvananthapuram, first held in 2023 and run on the second Sunday of September. Includes a Super Run for participants with disabilities.",
+      "categories": [
+        {
+          "name": "Full Marathon",
+          "distance_km": 42.2,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": "03:30",
+          "cutoff": "6:30",
+          "min_age": 18,
+          "level": "advanced",
+          "eligibility": null,
+          "notes": "Hard stop 10:00 AM."
+        },
+        {
+          "name": "Half Marathon",
+          "distance_km": 21.1,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": "05:00",
+          "cutoff": "3:30",
+          "min_age": 18,
+          "level": "intermediate",
+          "eligibility": null,
+          "notes": "Hard stop 8:30 AM."
+        },
+        {
+          "name": "10K Run",
+          "distance_km": 10,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": "06:30",
+          "cutoff": null,
+          "min_age": 10,
+          "level": "beginner",
+          "eligibility": null,
+          "notes": "Ages 10-14 need a parent or guardian (race guide)."
+        },
+        {
+          "name": "5K Fun Run / Super Run",
+          "distance_km": 5,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": "07:00",
+          "cutoff": null,
+          "min_age": 10,
+          "level": "beginner",
+          "eligibility": null,
+          "notes": "Super Run is for participants with functional disabilities and their assistants."
+        }
+      ],
+      "course": {
+        "terrain": "road",
+        "surface": "tarmac",
+        "elevation_gain_m": null,
+        "profile": "flat",
+        "description": "Coastal road course along the Arabian Sea from Grove Beach, mostly flat with mild undulation inland, per race guide."
+      },
+      "format": null,
+      "highlights": [
+        "Beach start and finish at Kovalam",
+        "Inclusive Super Run category"
+      ],
+      "tips": [
+        "September is the tail of the south-west monsoon; expect humidity and possible showers.",
+        "Report 30 minutes before flag-off: 3:00 AM for the full marathon, 4:30 AM for the half.",
+        "Stay in Kovalam the night before; the start is about 15 km from Thiruvananthapuram city."
+      ],
+      "amenities": [],
+      "beginner_friendly": true,
+      "tags": [
+        "coastal",
+        "inclusive"
+      ],
+      "sources": [
+        "https://kovalammarathon.com/",
+        "https://fatmarathoner.com/kovalam-marathon/"
+      ]
+    },
+    {
+      "name": "Vizag Navy Marathon",
+      "edition": "2026, 11th edition",
+      "sport": "running",
+      "discipline": "road",
+      "city": "Visakhapatnam",
+      "venue": "RK Beach, Visakhapatnam (start; finish at Park Circle, RK Beach)",
+      "venue_lat": 17.7145,
+      "venue_lon": 83.3238,
+      "start_date": "2026-12-13",
+      "end_date": "2026-12-13",
+      "date_status": "confirmed",
+      "last_edition_date": null,
+      "organiser": "Eastern Naval Command, Indian Navy",
+      "official_url": "https://vizagnavymarathon.run/",
+      "registration": {
+        "status": "open",
+        "opens": "2026-10-04",
+        "closes": null,
+        "url": "https://vizagnavymarathon.run/",
+        "notes": "Early-bird offer valid up to 31 Oct 2026; fees shown are those on the official site and may rise after that. Armed Forces personnel register through a separate Navy portal."
+      },
+      "summary": "Navy Day road race on Visakhapatnam's Beach Road, organised by the Eastern Naval Command. Participation grew from about 4,000 in 2014 to 17,000 in 2025. Route accredited by AIMS, with prize money of about Rs 10 lakh.",
+      "categories": [
+        {
+          "name": "Aircraft Carrier Run (Full Marathon)",
+          "distance_km": 42.195,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 1800,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": null,
+          "notes": null
+        },
+        {
+          "name": "Submarine Run (Half Marathon)",
+          "distance_km": 21.1,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 1600,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "intermediate",
+          "eligibility": null,
+          "notes": null
+        },
+        {
+          "name": "Aircraft Run (10K)",
+          "distance_km": 10,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 1300,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "beginner",
+          "eligibility": null,
+          "notes": null
+        },
+        {
+          "name": "Frigate Run (5K)",
+          "distance_km": 5,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 900,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "beginner",
+          "eligibility": null,
+          "notes": "Fun run."
+        }
+      ],
+      "course": {
+        "terrain": "road",
+        "surface": "tarmac",
+        "elevation_gain_m": null,
+        "profile": "rolling",
+        "description": "Traffic-free Beach Road course along the Bay of Bengal from RK Beach; longer distances have gentle rolling sections, per race guide. AIMS accredited."
+      },
+      "format": null,
+      "highlights": [
+        "Part of Indian Navy Day celebrations",
+        "AIMS-accredited route",
+        "About 17,000 participants in 2025"
+      ],
+      "tips": [
+        "Register before 31 Oct 2026 to get the early-bird offer.",
+        "Arrive about 60 minutes before your wave; bib expos in past years were at naval venues such as the Sailors Institute.",
+        "Beach Road has gentle climbs on the longer routes; include some hill work in training."
+      ],
+      "amenities": [],
+      "beginner_friendly": true,
+      "tags": [
+        "aims-certified",
+        "navy",
+        "coastal"
+      ],
+      "sources": [
+        "https://vizagnavymarathon.run/",
+        "https://newsonair.gov.in/eastern-naval-command-to-organise-11th-edition-of-vizag-navy-marathon-in-visakhapatnam-on-dec-13/",
+        "https://fatmarathoner.com/vizag-navy-marathon/"
+      ]
+    },
+    {
+      "name": "DCB Bank Vizag Half Marathon",
+      "edition": "2027",
+      "sport": "running",
+      "discipline": "road",
+      "city": "Visakhapatnam",
+      "venue": "GITAM University, Rushikonda, Visakhapatnam",
+      "venue_lat": 17.7817,
+      "venue_lon": 83.3772,
+      "start_date": "2027-10-03",
+      "end_date": "2027-10-03",
+      "date_status": "expected",
+      "last_edition_date": "2026-10-04",
+      "organiser": "Visakha Trail Running Association (VTRA)",
+      "official_url": "https://www.vtra.run",
+      "registration": {
+        "status": "upcoming",
+        "opens": null,
+        "closes": null,
+        "url": "https://www.vtra.run",
+        "notes": "2026 fees (plus service fee): Rs 999 half, 799 10K, 599 5K, 399 3K."
+      },
+      "summary": "Community half marathon run by Vizag's trail running association, held for the fifth time on 4 Oct 2026. Beach-side course with categories from a 3K family dash to the half.",
+      "categories": [
+        {
+          "name": "Half Marathon",
+          "distance_km": 21.1,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": "05:00",
+          "cutoff": null,
+          "min_age": null,
+          "level": "intermediate",
+          "eligibility": null,
+          "notes": "Timed bib. Organiser lists it as 21 km."
+        },
+        {
+          "name": "10K Run for Glory",
+          "distance_km": 10,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "beginner",
+          "eligibility": null,
+          "notes": "Timed bib."
+        },
+        {
+          "name": "5K Speed Run",
+          "distance_km": 5,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "beginner",
+          "eligibility": null,
+          "notes": "Timed bib."
+        },
+        {
+          "name": "3K Family Dash",
+          "distance_km": 3,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "beginner",
+          "eligibility": null,
+          "notes": "Non-timed."
+        }
+      ],
+      "course": {
+        "terrain": "road",
+        "surface": "tarmac",
+        "elevation_gain_m": null,
+        "profile": null,
+        "description": "Course along the Vizag beach road from GITAM University at Rushikonda."
+      },
+      "format": null,
+      "highlights": [
+        "Organised by the same association that runs Ultribe Paderu"
+      ],
+      "tips": [
+        "Gates opened at 4:00 AM in 2026 with racing from 5:00 AM; plan transport to Rushikonda early.",
+        "Early October is still hot and humid on the coast; carry electrolytes."
+      ],
+      "amenities": [
+        "Finisher medal",
+        "Free race photos",
+        "e-Certificate",
+        "Hydration and refreshments"
+      ],
+      "beginner_friendly": true,
+      "tags": [
+        "community"
+      ],
+      "sources": [
+        "https://www.vtra.run/event-details/vhm5",
+        "http://www.vtra.run"
+      ]
+    },
+    {
+      "name": "SKF Goa River Marathon",
+      "edition": "2026",
+      "sport": "running",
+      "discipline": "road",
+      "city": "Goa",
+      "venue": "Chicalim Panchayat Ground, South Goa (start/finish)",
+      "venue_lat": 15.3985,
+      "venue_lon": 73.843,
+      "start_date": "2026-12-13",
+      "end_date": "2026-12-13",
+      "date_status": "confirmed",
+      "last_edition_date": null,
+      "organiser": "Goa River Marathon organising team (title sponsor SKF)",
+      "official_url": "https://skfgoarivermarathon.com/",
+      "registration": {
+        "status": "open",
+        "opens": null,
+        "closes": null,
+        "url": "https://skfgoarivermarathon.com/",
+        "notes": "A worldsmarathons.com listing gives 25 Nov 2026 as the closing date; not confirmed on the official site. Fees below are from a third-party guide."
+      },
+      "summary": "Long-running December road race along the Zuari river in South Goa, started in 2012. Unusual 32K '20-miler' option alongside the full, half, 10K and 5K.",
+      "categories": [
+        {
+          "name": "Full Marathon",
+          "distance_km": 42.195,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 3200,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": 18,
+          "level": "advanced",
+          "eligibility": "Proof of a previous full marathon under 6 hours or half marathon under 2:45 (per race guide)",
+          "notes": null
+        },
+        {
+          "name": "20-Miler",
+          "distance_km": 32,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 2800,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": 18,
+          "level": "advanced",
+          "eligibility": null,
+          "notes": null
+        },
+        {
+          "name": "Half Marathon",
+          "distance_km": 21.1,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 2400,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": 18,
+          "level": "intermediate",
+          "eligibility": null,
+          "notes": null
+        },
+        {
+          "name": "10K Timed Run",
+          "distance_km": 10,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 1600,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": 16,
+          "level": "beginner",
+          "eligibility": null,
+          "notes": null
+        },
+        {
+          "name": "5K Fun Run-Walk",
+          "distance_km": 5,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 1000,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "beginner",
+          "eligibility": null,
+          "notes": "Untimed; children with an adult."
+        }
+      ],
+      "course": {
+        "terrain": "road",
+        "surface": "tarmac",
+        "elevation_gain_m": null,
+        "profile": "flat",
+        "description": "Flat, tree-lined out-and-back route along the Zuari river."
+      },
+      "format": null,
+      "highlights": [
+        "32K distance between half and full",
+        "Flat river-side course"
+      ],
+      "tips": [
+        "Chicalim is next to Dabolim airport and Vasco, far from North Goa beaches; stay in Vasco or Bogmalo to avoid a long pre-dawn drive.",
+        "Arrive 45-60 minutes before your wave start.",
+        "Keep proof of a qualifying time ready if you enter the full marathon."
+      ],
+      "amenities": [],
+      "beginner_friendly": true,
+      "tags": [
+        "river",
+        "flat"
+      ],
+      "sources": [
+        "https://skfgoarivermarathon.com/",
+        "https://fatmarathoner.com/goa-river-marathon/"
+      ]
+    },
+    {
+      "name": "AU Jaipur Marathon",
+      "edition": "2027, 18th edition",
+      "sport": "running",
+      "discipline": "road",
+      "city": "Jaipur",
+      "venue": "Albert Hall (South Gate), JLN Marg, Jaipur (start/finish)",
+      "venue_lat": 26.9116,
+      "venue_lon": 75.8195,
+      "start_date": "2027-02-14",
+      "end_date": "2027-02-14",
+      "date_status": "confirmed",
+      "last_edition_date": "2026-02-01",
+      "organiser": "AU Jaipur Marathon organising committee (title sponsor AU Small Finance Bank)",
+      "official_url": "https://marathonjaipur.com/",
+      "registration": {
+        "status": "open",
+        "opens": "2026-08-02",
+        "closes": "2027-02-05",
+        "url": "https://marathonjaipur.com/",
+        "notes": "Closing date per third-party guide, or earlier if full. Fees exclude 18% GST. Entries are non-refundable and non-transferable."
+      },
+      "summary": "Jaipur's flagship road marathon, starting and finishing at Albert Hall in the old city. 18th edition in 2027, with buddy-pair categories at 21K and 42K.",
+      "categories": [
+        {
+          "name": "Full Marathon",
+          "distance_km": 42.195,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 3000,
+          "start_time": "03:00",
+          "cutoff": null,
+          "min_age": 18,
+          "level": "advanced",
+          "eligibility": null,
+          "notes": "Fee plus 18% GST. Reporting 2:40 AM."
+        },
+        {
+          "name": "International Half Marathon",
+          "distance_km": 21.097,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 2500,
+          "start_time": "05:00",
+          "cutoff": null,
+          "min_age": 18,
+          "level": "intermediate",
+          "eligibility": null,
+          "notes": "Fee plus 18% GST. Reporting 4:30 AM."
+        },
+        {
+          "name": "Buddy Run 42K (pair)",
+          "distance_km": 42.195,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 5000,
+          "start_time": "03:00",
+          "cutoff": null,
+          "min_age": 18,
+          "level": "advanced",
+          "eligibility": null,
+          "notes": "Fee is per pair."
+        },
+        {
+          "name": "Buddy Run 21K (pair)",
+          "distance_km": 21.097,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 4500,
+          "start_time": "05:00",
+          "cutoff": null,
+          "min_age": 18,
+          "level": "intermediate",
+          "eligibility": null,
+          "notes": "Fee is per pair."
+        },
+        {
+          "name": "IIEMR 10K",
+          "distance_km": 10,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 599,
+          "start_time": "06:50",
+          "cutoff": null,
+          "min_age": 16,
+          "level": "beginner",
+          "eligibility": null,
+          "notes": null
+        },
+        {
+          "name": "5K Run",
+          "distance_km": 5,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": "07:05",
+          "cutoff": null,
+          "min_age": 12,
+          "level": "beginner",
+          "eligibility": null,
+          "notes": null
+        },
+        {
+          "name": "Dream Run",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": "07:20",
+          "cutoff": null,
+          "min_age": 10,
+          "level": "beginner",
+          "eligibility": null,
+          "notes": "Non-timed, about 6 km per race guide."
+        }
+      ],
+      "course": {
+        "terrain": "road",
+        "surface": "tarmac",
+        "elevation_gain_m": null,
+        "profile": null,
+        "description": "City course starting and finishing at Albert Hall on JLN Marg."
+      },
+      "format": null,
+      "highlights": [
+        "18th edition",
+        "Pair categories for half and full marathon"
+      ],
+      "tips": [
+        "The full marathon starts at 3:00 AM in February, when Jaipur nights are cold; wear a throwaway layer at the start.",
+        "Expo and bib collection run 12-13 Feb 2027; the 2026 expo was at Shilpgram, Jawahar Kala Kendra.",
+        "Budget for 18% GST on top of the listed fees."
+      ],
+      "amenities": [],
+      "beginner_friendly": true,
+      "tags": [
+        "iconic",
+        "heritage"
+      ],
+      "sources": [
+        "https://marathonjaipur.com/",
+        "https://fatmarathoner.com/au-jaipur-marathon-race-guide/"
+      ]
+    },
+    {
+      "name": "MG Vadodara International Marathon",
+      "edition": "2027, 14th edition",
+      "sport": "running",
+      "discipline": "road",
+      "city": "Vadodara",
+      "venue": "Vadodara (start/finish venue shown only on the official route map)",
+      "venue_lat": 22.3072,
+      "venue_lon": 73.1812,
+      "start_date": "2027-02-07",
+      "end_date": "2027-02-07",
+      "date_status": "confirmed",
+      "last_edition_date": null,
+      "organiser": "Vadodara Marathon (Section 25 non-profit company)",
+      "official_url": "https://www.vadodaramarathon.com/",
+      "registration": {
+        "status": "open",
+        "opens": null,
+        "closes": null,
+        "url": "https://www.vadodaramarathon.com/",
+        "notes": "Fees are on the official price chart, not captured at research time."
+      },
+      "summary": "Gujarat's largest mass-participation run, held since 2009 by a non-profit company. AIMS-certified route; organisers describe it as a World Marathon Majors qualifying race.",
+      "categories": [
+        {
+          "name": "Full Marathon",
+          "distance_km": 42.195,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": null,
+          "notes": null
+        },
+        {
+          "name": "Half Marathon",
+          "distance_km": 21.097,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "intermediate",
+          "eligibility": null,
+          "notes": null
+        },
+        {
+          "name": "10K",
+          "distance_km": 10,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "beginner",
+          "eligibility": null,
+          "notes": null
+        },
+        {
+          "name": "5K Timed Run",
+          "distance_km": 5,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "beginner",
+          "eligibility": null,
+          "notes": null
+        },
+        {
+          "name": "Heritage Fun Run",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "beginner",
+          "eligibility": null,
+          "notes": "Distance not published."
+        }
+      ],
+      "course": {
+        "terrain": "road",
+        "surface": "tarmac",
+        "elevation_gain_m": null,
+        "profile": null,
+        "description": "AIMS-certified city route through Vadodara."
+      },
+      "format": null,
+      "highlights": [
+        "14th edition",
+        "AIMS-certified route",
+        "Also has Divyang Paralympic and Gazra runs"
+      ],
+      "tips": [
+        "Runners from Ahmedabad can drive down the Ahmedabad-Vadodara Expressway the evening before.",
+        "Check the official price chart before registering; fees were not on the home page.",
+        "Early February mornings in Gujarat are cool but warm quickly; front-load your hydration."
+      ],
+      "amenities": [],
+      "beginner_friendly": true,
+      "tags": [
+        "aims-certified"
+      ],
+      "sources": [
+        "https://www.vadodaramarathon.com/",
+        "https://worldsmarathons.com/marathon/vadodara-international-half-marathon"
+      ]
+    },
+    {
+      "name": "Walkaroo Coimbatore Marathon",
+      "edition": "2026",
+      "sport": "running",
+      "discipline": "road",
+      "city": "Coimbatore",
+      "venue": "Coimbatore (start venue to be announced)",
+      "venue_lat": 11.0168,
+      "venue_lon": 76.9558,
+      "start_date": "2026-12-20",
+      "end_date": "2026-12-20",
+      "date_status": "confirmed",
+      "last_edition_date": null,
+      "organiser": "Coimbatore Cancer Foundation",
+      "official_url": "https://coimbatoremarathon.com/",
+      "registration": {
+        "status": "open",
+        "opens": null,
+        "closes": "2026-11-20",
+        "url": "https://register.coimbatoremarathon.com/",
+        "notes": "Closes on 20 Nov 2026 or earlier if full. Service charge and online surcharge extra."
+      },
+      "summary": "Charity road race raising funds for the Coimbatore Cancer Foundation. No full marathon: the half is the longest distance. Organisers describe a fast, flat course.",
+      "categories": [
+        {
+          "name": "Half Marathon",
+          "distance_km": 21.1,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 1300,
+          "start_time": null,
+          "cutoff": "3:30",
+          "min_age": 16,
+          "level": "intermediate",
+          "eligibility": null,
+          "notes": "Course cutoff 8:30 AM. Timed."
+        },
+        {
+          "name": "10K",
+          "distance_km": 10,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 1100,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": 14,
+          "level": "beginner",
+          "eligibility": null,
+          "notes": "Course cutoff 8:30 AM. Timed."
+        },
+        {
+          "name": "5K Timed Run",
+          "distance_km": 5,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 850,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": 10,
+          "level": "beginner",
+          "eligibility": null,
+          "notes": null
+        },
+        {
+          "name": "5K Walk",
+          "distance_km": 5,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 650,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": 10,
+          "level": "beginner",
+          "eligibility": null,
+          "notes": "Not timed."
+        }
+      ],
+      "course": {
+        "terrain": "road",
+        "surface": "tarmac",
+        "elevation_gain_m": null,
+        "profile": "flat",
+        "description": "Fast, flat city course per organiser."
+      },
+      "format": null,
+      "highlights": [
+        "Charity fundraiser for cancer care",
+        "Free training programme before race day"
+      ],
+      "tips": [
+        "Roads reopen and aid stations close at 8:30 AM; slower half marathoners should target well under 3:30.",
+        "Join the organiser's free training sessions in the build-up.",
+        "Start venue and timings were still 'stay tuned' in mid-October; watch the FAQ page."
+      ],
+      "amenities": [],
+      "beginner_friendly": true,
+      "tags": [
+        "charity",
+        "flat"
+      ],
+      "sources": [
+        "https://www.coimbatoremarathon.com/",
+        "https://coimbatoremarathon.com/faqs"
+      ]
+    },
+    {
+      "name": "Kovai Marathon",
+      "edition": "2027",
+      "sport": "running",
+      "discipline": "road",
+      "city": "Coimbatore",
+      "venue": "Hindusthan College of Arts and Science, Nava India, Coimbatore",
+      "venue_lat": 11.0247,
+      "venue_lon": 77.0004,
+      "start_date": "2027-08-22",
+      "end_date": "2027-08-22",
+      "date_status": "expected",
+      "last_edition_date": "2026-08-23",
+      "organiser": "Kovaion Trust",
+      "official_url": null,
+      "registration": {
+        "status": "upcoming",
+        "opens": null,
+        "closes": null,
+        "url": null,
+        "notes": "2026 fees: Rs 699 half, 599 10K, 499 5K."
+      },
+      "summary": "Low-cost community race in Coimbatore run by Kovaion Trust under the theme 'Run for Education'. Seventh edition held on 23 Aug 2026.",
+      "categories": [
+        {
+          "name": "Half Marathon",
+          "distance_km": 21.1,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": 16,
+          "level": "intermediate",
+          "eligibility": null,
+          "notes": "Veteran category 45-60. 2026 assembly time 5:00 AM."
+        },
+        {
+          "name": "10K Run",
+          "distance_km": 10,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": 12,
+          "level": "beginner",
+          "eligibility": null,
+          "notes": "2026 assembly time 5:30 AM."
+        },
+        {
+          "name": "5K Run",
+          "distance_km": 5,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": 8,
+          "level": "beginner",
+          "eligibility": null,
+          "notes": "2026 assembly time 6:00 AM."
+        }
+      ],
+      "course": {
+        "terrain": "road",
+        "surface": "tarmac",
+        "elevation_gain_m": null,
+        "profile": null,
+        "description": "City course starting from the Hindusthan College campus on Avinashi Road side."
+      },
+      "format": null,
+      "highlights": [
+        "Affordable entry fees",
+        "Education fundraiser"
+      ],
+      "tips": [
+        "August is the south-west monsoon; Coimbatore is usually mild but carry a rain layer.",
+        "Venue was announced late in 2026, so watch organiser updates."
+      ],
+      "amenities": [],
+      "beginner_friendly": true,
+      "tags": [
+        "charity",
+        "community"
+      ],
+      "sources": [
+        "https://coimbatorejunction.in/events/kovai-marathon-2026/"
+      ]
+    },
+    {
+      "name": "Lucknow Run",
+      "edition": "2026, 8th edition",
+      "sport": "running",
+      "discipline": "road",
+      "city": "Lucknow",
+      "venue": "Lucknow (start venue not published; bib expo at GD Goenka Public School, Sushant Golf City)",
+      "venue_lat": 26.8467,
+      "venue_lon": 80.9462,
+      "start_date": "2026-11-01",
+      "end_date": "2026-11-01",
+      "date_status": "confirmed",
+      "last_edition_date": "2025-11-02",
+      "organiser": "The Centrum",
+      "official_url": "https://www.lucknowrun.com/",
+      "registration": {
+        "status": "open",
+        "opens": null,
+        "closes": "2026-10-20",
+        "url": "https://www.lucknowrun.com/",
+        "notes": "Closes 20 Oct 2026 or earlier if slots fill. Offline desks at GD Goenka Public School, Sushant Golf City and Mahanagar."
+      },
+      "summary": "Lucknow's main city road run, held on the first Sunday of November. Half marathon, 10K, 5K and 3K walk on out-and-back routes.",
+      "categories": [
+        {
+          "name": "Half Marathon",
+          "distance_km": 21.1,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 1999,
+          "start_time": "05:45",
+          "cutoff": "3:30",
+          "min_age": 14,
+          "level": "intermediate",
+          "eligibility": null,
+          "notes": "Out-and-back, turnaround at 10.5 km. Report 5:15 AM."
+        },
+        {
+          "name": "10K Run",
+          "distance_km": 10,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 1575,
+          "start_time": "05:45",
+          "cutoff": "1:30",
+          "min_age": 14,
+          "level": "beginner",
+          "eligibility": null,
+          "notes": "FAQ gives a 6:00 AM start; category list says 5:45 AM."
+        },
+        {
+          "name": "5K Fun Run",
+          "distance_km": 5,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 850,
+          "start_time": "07:00",
+          "cutoff": null,
+          "min_age": 8,
+          "level": "beginner",
+          "eligibility": null,
+          "notes": "Non-timed."
+        },
+        {
+          "name": "3K Walk",
+          "distance_km": 3,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 850,
+          "start_time": "07:00",
+          "cutoff": null,
+          "min_age": 8,
+          "level": "beginner",
+          "eligibility": null,
+          "notes": "Non-timed. FAQ allows age 5 with guardian undertaking."
+        }
+      ],
+      "course": {
+        "terrain": "road",
+        "surface": "tarmac",
+        "elevation_gain_m": null,
+        "profile": "flat",
+        "description": "Out-and-back city routes; water every 2 km."
+      },
+      "format": null,
+      "highlights": [
+        "8th edition",
+        "Water every 2 km plus energy drinks and photo stations"
+      ],
+      "tips": [
+        "Bib expo runs 30-31 Oct 2026, 11 AM to 5 PM.",
+        "Early-November air quality in Lucknow can be poor; check AQI on race morning and carry a mask to the start.",
+        "Baggage counter and change rooms are available at the venue."
+      ],
+      "amenities": [
+        "Water every 2 km",
+        "Energy drinks",
+        "Baggage counter",
+        "Change rooms",
+        "Ambulance support"
+      ],
+      "beginner_friendly": true,
+      "tags": [
+        "city"
+      ],
+      "sources": [
+        "https://www.lucknowrun.com/"
+      ]
+    },
+    {
+      "name": "Lucknow Half Marathon",
+      "edition": "2027",
+      "sport": "running",
+      "discipline": "road",
+      "city": "Lucknow",
+      "venue": "Janeshwar Mishra Park, Lucknow",
+      "venue_lat": 26.839,
+      "venue_lon": 80.999,
+      "start_date": "2027-03-21",
+      "end_date": "2027-03-21",
+      "date_status": "expected",
+      "last_edition_date": "2026-03-22",
+      "organiser": null,
+      "official_url": null,
+      "registration": {
+        "status": "upcoming",
+        "opens": null,
+        "closes": null,
+        "url": null,
+        "notes": "2026 edition was ticketed on District.in."
+      },
+      "summary": "Spring half marathon based at Janeshwar Mishra Park in Gomti Nagar, with age-group prizes and a 3 km fun run.",
+      "categories": [
+        {
+          "name": "Half Marathon",
+          "distance_km": 21.1,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": 10,
+          "level": "intermediate",
+          "eligibility": null,
+          "notes": "Age groups from 10/15/18-30 up to 51+; minimum entry age 7 for the event overall."
+        },
+        {
+          "name": "3K Fun Run",
+          "distance_km": 3,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": 7,
+          "level": "beginner",
+          "eligibility": null,
+          "notes": "No prizes."
+        }
+      ],
+      "course": {
+        "terrain": "road",
+        "surface": "tarmac",
+        "elevation_gain_m": null,
+        "profile": "flat",
+        "description": "Course based at Janeshwar Mishra Park through central Lucknow."
+      },
+      "format": null,
+      "highlights": [
+        "Age-group categories"
+      ],
+      "tips": [
+        "Late March can already be warm in Lucknow; start hydrating the day before.",
+        "Janeshwar Mishra Park has large parking areas on its Gomti Nagar side."
+      ],
+      "amenities": [],
+      "beginner_friendly": true,
+      "tags": [
+        "city"
+      ],
+      "sources": [
+        "https://www.district.in/events/lucknow-half-marathon2026-mar21-2026-buy-tickets"
+      ]
+    },
+    {
+      "name": "Bhubaneswar Cuttack Twin City Marathon",
+      "edition": "2026",
+      "sport": "running",
+      "discipline": "road",
+      "city": "Bhubaneswar",
+      "venue": "Bhubaneswar (route to be declared)",
+      "venue_lat": 20.2961,
+      "venue_lon": 85.8245,
+      "start_date": "2026-11-01",
+      "end_date": "2026-11-01",
+      "date_status": "confirmed",
+      "last_edition_date": null,
+      "organiser": "Team Ironmonk",
+      "official_url": "https://ironmonk.fit/bbsr-ctc-twincity-marathon.php",
+      "registration": {
+        "status": "closed",
+        "opens": null,
+        "closes": "2026-10-14",
+        "url": "https://ironmonk.fit/bbsr-ctc-twincity-marathon.php",
+        "notes": "Registration closed on 14 Oct 2026. Fees exclude a small platform fee."
+      },
+      "summary": "Billed as Odisha's first twin-city marathon, linking Bhubaneswar and Cuttack. Full marathon down to a 3K run, chip-timed from 10K up.",
+      "categories": [
+        {
+          "name": "Full Marathon",
+          "distance_km": 42.2,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 1499,
+          "start_time": "04:30",
+          "cutoff": null,
+          "min_age": 18,
+          "level": "advanced",
+          "eligibility": null,
+          "notes": "Elite entry needs a qualifying time."
+        },
+        {
+          "name": "Half Marathon",
+          "distance_km": 21.1,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 1199,
+          "start_time": "04:30",
+          "cutoff": null,
+          "min_age": 18,
+          "level": "intermediate",
+          "eligibility": null,
+          "notes": "Elite entry needs a qualifying time."
+        },
+        {
+          "name": "10K",
+          "distance_km": 10,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 999,
+          "start_time": "04:30",
+          "cutoff": null,
+          "min_age": 16,
+          "level": "beginner",
+          "eligibility": null,
+          "notes": null
+        },
+        {
+          "name": "5K",
+          "distance_km": 5,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 849,
+          "start_time": "04:30",
+          "cutoff": null,
+          "min_age": 10,
+          "level": "beginner",
+          "eligibility": null,
+          "notes": null
+        },
+        {
+          "name": "3K",
+          "distance_km": 3,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 749,
+          "start_time": "04:30",
+          "cutoff": null,
+          "min_age": 6,
+          "level": "beginner",
+          "eligibility": null,
+          "notes": "Non-timed."
+        }
+      ],
+      "course": {
+        "terrain": "road",
+        "surface": "tarmac",
+        "elevation_gain_m": null,
+        "profile": null,
+        "description": "Twin-city road route between Bhubaneswar and Cuttack; route not yet published."
+      },
+      "format": null,
+      "highlights": [
+        "Odisha's first twin-city marathon"
+      ],
+      "tips": [
+        "Only one start time (4:30 AM) is published; confirm category waves in the race-week email.",
+        "Registration has closed; this listing is for runners already entered."
+      ],
+      "amenities": [],
+      "beginner_friendly": true,
+      "tags": [
+        "city"
+      ],
+      "sources": [
+        "https://ironmonk.fit/bbsr-ctc-twincity-marathon.php"
+      ]
+    },
+    {
+      "name": "OMC Puri Coastal Marathon",
+      "edition": "2026, inaugural edition",
+      "sport": "running",
+      "discipline": "road",
+      "city": "Bhubaneswar",
+      "venue": "Blue Flag Beach, Puri (start); finish on Puri-Konark Marine Drive",
+      "venue_lat": 19.7966,
+      "venue_lon": 85.833,
+      "start_date": "2026-12-13",
+      "end_date": "2026-12-13",
+      "date_status": "confirmed",
+      "last_edition_date": null,
+      "organiser": "Odisha Mining Corporation (OMC), with Odisha Tourism",
+      "official_url": "https://www.puricoastalmarathon.in",
+      "registration": {
+        "status": "open",
+        "opens": null,
+        "closes": null,
+        "url": "https://www.puricoastalmarathon.in",
+        "notes": "Fees, start times and cutoffs below are from a third-party guide; not shown on the official page."
+      },
+      "summary": "New coastal marathon in Puri, about 60 km from Bhubaneswar, presented by the state mining corporation. Every category includes a 5 km stretch on beach sand.",
+      "categories": [
+        {
+          "name": "Full Marathon",
+          "distance_km": 42.195,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 2100,
+          "start_time": "04:30",
+          "cutoff": "6:40",
+          "min_age": 18,
+          "level": "advanced",
+          "eligibility": null,
+          "notes": null
+        },
+        {
+          "name": "Half Marathon",
+          "distance_km": 21.097,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 1500,
+          "start_time": "05:30",
+          "cutoff": "3:20",
+          "min_age": 16,
+          "level": "intermediate",
+          "eligibility": null,
+          "notes": null
+        },
+        {
+          "name": "10K Run",
+          "distance_km": 10,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 899,
+          "start_time": "06:00",
+          "cutoff": "1:40",
+          "min_age": 14,
+          "level": "beginner",
+          "eligibility": null,
+          "notes": null
+        },
+        {
+          "name": "5K Fun Run",
+          "distance_km": 5,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 499,
+          "start_time": "06:30",
+          "cutoff": "1:00",
+          "min_age": 10,
+          "level": "beginner",
+          "eligibility": null,
+          "notes": "Official site says open to all; min age 10 per race guide."
+        }
+      ],
+      "course": {
+        "terrain": "mixed",
+        "surface": "tarmac with a 5 km beach-sand section",
+        "elevation_gain_m": 20,
+        "profile": "flat",
+        "description": "Point-to-point from Puri's Blue Flag Beach across the Nuanai river onto the Puri-Konark Marine Drive."
+      },
+      "format": null,
+      "highlights": [
+        "Inaugural edition",
+        "5 km of beach running in every category",
+        "Crosses the Nuanai river"
+      ],
+      "tips": [
+        "Train some runs on soft sand; consider gaiters for the beach section.",
+        "Puri is about 60 km from Bhubaneswar; stay in Puri the night before for the 4:30 AM start.",
+        "Point-to-point course: check finish-to-start transport before race day."
+      ],
+      "amenities": [],
+      "beginner_friendly": true,
+      "tags": [
+        "coastal",
+        "beach",
+        "inaugural"
+      ],
+      "sources": [
+        "https://www.puricoastalmarathon.in",
+        "https://fatmarathoner.com/puri-coastal-marathon/"
+      ]
+    },
+    {
+      "name": "Khurda Road Half Marathon Bhubaneswar",
+      "edition": "2027",
+      "sport": "running",
+      "discipline": "road",
+      "city": "Bhubaneswar",
+      "venue": "East Coast Railway Sports Association Cricket Stadium, Khurda Road, Jatni",
+      "venue_lat": 20.1645,
+      "venue_lon": 85.706,
+      "start_date": "2027-01-31",
+      "end_date": "2027-01-31",
+      "date_status": "expected",
+      "last_edition_date": "2026-02-01",
+      "organiser": "East Coast Railway Sports Association, with IIT Bhubaneswar",
+      "official_url": null,
+      "registration": {
+        "status": "upcoming",
+        "opens": null,
+        "closes": null,
+        "url": "https://ironmonk.fit/khurdaroadhalfmarathon2026.php",
+        "notes": "2026 fees: Rs 699 half, 599 10K, 499 5K, 399 2K, plus platform fee."
+      },
+      "summary": "Railway-hosted half marathon on the southern edge of Bhubaneswar, run with IIT Bhubaneswar. Chip-timed half and 10K plus short family runs.",
+      "categories": [
+        {
+          "name": "Half Marathon",
+          "distance_km": 21.1,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": "05:00",
+          "cutoff": "3:15",
+          "min_age": 18,
+          "level": "intermediate",
+          "eligibility": null,
+          "notes": "2026 timings. Chip timed."
+        },
+        {
+          "name": "10K",
+          "distance_km": 10,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": "05:30",
+          "cutoff": "1:30",
+          "min_age": 18,
+          "level": "beginner",
+          "eligibility": null,
+          "notes": "2026 timings. Chip timed."
+        },
+        {
+          "name": "5K",
+          "distance_km": 5,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": "06:30",
+          "cutoff": "1:00",
+          "min_age": 10,
+          "level": "beginner",
+          "eligibility": null,
+          "notes": "Non-timed."
+        },
+        {
+          "name": "2K",
+          "distance_km": 2,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": "06:30",
+          "cutoff": "1:00",
+          "min_age": 8,
+          "level": "beginner",
+          "eligibility": null,
+          "notes": "Non-timed."
+        }
+      ],
+      "course": {
+        "terrain": "road",
+        "surface": "tarmac",
+        "elevation_gain_m": null,
+        "profile": null,
+        "description": "Route around Khurda Road and Jatni; not published in advance in 2026."
+      },
+      "format": null,
+      "highlights": [
+        "Hosted by East Coast Railway with IIT Bhubaneswar"
+      ],
+      "tips": [
+        "Khurda Road railway junction is next to the venue; trains are an easy option from Bhubaneswar.",
+        "Report one hour before your start; the half reported at 4:00 AM in 2026."
+      ],
+      "amenities": [],
+      "beginner_friendly": true,
+      "tags": [
+        "community"
+      ],
+      "sources": [
+        "https://ironmonk.fit/khurdaroadhalfmarathon2026.php"
+      ]
+    },
+    {
+      "name": "Guwahati International Marathon",
+      "edition": "2027, inaugural edition",
+      "sport": "running",
+      "discipline": "road",
+      "city": "Guwahati",
+      "venue": "Judges Field, Guwahati (start/finish)",
+      "venue_lat": 26.1862,
+      "venue_lon": 91.7446,
+      "start_date": "2027-02-07",
+      "end_date": "2027-02-07",
+      "date_status": "confirmed",
+      "last_edition_date": null,
+      "organiser": "PMG Sports LLP, with Assam Tourism Development Corporation as state sponsor",
+      "official_url": "https://guwahatiinternationalmarathon.org/",
+      "registration": {
+        "status": "open",
+        "opens": "2026-09-11",
+        "closes": null,
+        "url": "https://guwahatiinternationalmarathon.org/",
+        "notes": "Early-bird prices live: Rs 1,500 full, 1,150 half, 999 10K. Standard prices not yet announced. Registration via District.in."
+      },
+      "summary": "New international marathon in Guwahati with a course crossing the Brahmaputra. Distances from a 1.5 km Kaziranga Run to the full marathon.",
+      "categories": [
+        {
+          "name": "Full Marathon",
+          "distance_km": 42.195,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": 18,
+          "level": "advanced",
+          "eligibility": null,
+          "notes": "Early-bird Rs 1,500; standard fee TBA. Estimated 5:30-6:00 AM start."
+        },
+        {
+          "name": "Half Marathon",
+          "distance_km": 21.097,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": 18,
+          "level": "intermediate",
+          "eligibility": null,
+          "notes": "Early-bird Rs 1,150."
+        },
+        {
+          "name": "10K Run",
+          "distance_km": 10,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": 15,
+          "level": "beginner",
+          "eligibility": null,
+          "notes": "Early-bird Rs 999."
+        },
+        {
+          "name": "Joy Daur 5K",
+          "distance_km": 5,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "beginner",
+          "eligibility": null,
+          "notes": "Open to all ages."
+        },
+        {
+          "name": "Kaziranga Run",
+          "distance_km": 1.5,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "beginner",
+          "eligibility": null,
+          "notes": "Open to all ages."
+        }
+      ],
+      "course": {
+        "terrain": "road",
+        "surface": "tarmac",
+        "elevation_gain_m": null,
+        "profile": "flat",
+        "description": "Out-and-back from Judges Field crossing the Brahmaputra on the Kumar Bhaskar Varma Setu, passing Gauhati University and IIT Guwahati; mostly flat apart from the bridge (per race guide)."
+      },
+      "format": null,
+      "highlights": [
+        "Inaugural edition",
+        "Brahmaputra bridge crossing"
+      ],
+      "tips": [
+        "Do not confuse it with The Guwahati Marathon on 29 Nov 2026, a separate event.",
+        "Register before early-bird pricing ends; standard tier dates were not announced in October.",
+        "February dawns in Guwahati are cool and often foggy; dress in layers for the start."
+      ],
+      "amenities": [],
+      "beginner_friendly": true,
+      "tags": [
+        "inaugural",
+        "river"
+      ],
+      "sources": [
+        "https://guwahatiinternationalmarathon.org/",
+        "https://fatmarathoner.com/guwahati-international-marathon/"
+      ]
+    },
+    {
+      "name": "The Guwahati Marathon",
+      "edition": "2026, 3rd edition",
+      "sport": "running",
+      "discipline": "road",
+      "city": "Guwahati",
+      "venue": "Guwahati (start/finish TBC; earlier editions used Sarusajai Stadium)",
+      "venue_lat": 26.1445,
+      "venue_lon": 91.7362,
+      "start_date": "2026-11-29",
+      "end_date": "2026-11-29",
+      "date_status": "confirmed",
+      "last_edition_date": "2025-02-09",
+      "organiser": "Paper Mache Pvt Ltd",
+      "official_url": "https://theguwahatimarathon.com/",
+      "registration": {
+        "status": "open",
+        "opens": null,
+        "closes": null,
+        "url": "https://theguwahatimarathon.com/",
+        "notes": "Regular fees per race guide; launch offer has expired."
+      },
+      "summary": "City marathon in Guwahati, moving to November for its third edition. Full, half, 10K and a 5K run-walk.",
+      "categories": [
+        {
+          "name": "Full Marathon",
+          "distance_km": 42.195,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 1600,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": null,
+          "notes": null
+        },
+        {
+          "name": "Half Marathon",
+          "distance_km": 21.097,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 1400,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "intermediate",
+          "eligibility": null,
+          "notes": null
+        },
+        {
+          "name": "10K City Run",
+          "distance_km": 10,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 1200,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "beginner",
+          "eligibility": null,
+          "notes": null
+        },
+        {
+          "name": "5K Joy Run & Walk",
+          "distance_km": 5,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 1000,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "beginner",
+          "eligibility": null,
+          "notes": null
+        }
+      ],
+      "course": {
+        "terrain": "road",
+        "surface": "tarmac",
+        "elevation_gain_m": null,
+        "profile": "flat",
+        "description": "Urban road course through Guwahati; route map not yet published."
+      },
+      "format": null,
+      "highlights": [
+        "Third edition, first time in November"
+      ],
+      "tips": [
+        "Start/finish venue is still TBC; earlier editions used Sarusajai Stadium.",
+        "Separate from the Guwahati International Marathon in February 2027."
+      ],
+      "amenities": [],
+      "beginner_friendly": true,
+      "tags": [
+        "city"
+      ],
+      "sources": [
+        "https://theguwahatimarathon.com/",
+        "https://fatmarathoner.com/the-guwahati-marathon/"
+      ]
+    },
+    {
+      "name": "Techniche Guwahati Half Marathon",
+      "edition": "2027",
+      "sport": "running",
+      "discipline": "road",
+      "city": "Guwahati",
+      "venue": "Karmabir Nabin Chandra Bordoloi Stadium, Sarusajai, Guwahati",
+      "venue_lat": 26.117,
+      "venue_lon": 91.764,
+      "start_date": "2027-04-11",
+      "end_date": "2027-04-11",
+      "date_status": "expected",
+      "last_edition_date": "2026-04-12",
+      "organiser": "Techniche, IIT Guwahati",
+      "official_url": "https://www.techniche.org.in/ghm/register",
+      "registration": {
+        "status": "upcoming",
+        "opens": null,
+        "closes": null,
+        "url": "https://www.techniche.org.in/ghm/register",
+        "notes": null
+      },
+      "summary": "Student-run half marathon from IIT Guwahati's techno-management festival, held for the 16th time in April 2026 with a Rs 2.5 lakh prize pool.",
+      "categories": [
+        {
+          "name": "Glory Run",
+          "distance_km": 21,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "intermediate",
+          "eligibility": null,
+          "notes": "Listed as 21 km."
+        },
+        {
+          "name": "Spirit Run",
+          "distance_km": 6,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "beginner",
+          "eligibility": null,
+          "notes": "Open to all fitness levels."
+        }
+      ],
+      "course": {
+        "terrain": "road",
+        "surface": "tarmac",
+        "elevation_gain_m": null,
+        "profile": null,
+        "description": "City route from Sarusajai stadium with hydration and medical points."
+      },
+      "format": null,
+      "highlights": [
+        "16 editions held",
+        "Rs 2.5 lakh prize pool in 2026"
+      ],
+      "tips": [
+        "April brings pre-monsoon showers to Guwahati; carry a light shell.",
+        "6 km Spirit Run is a good first event for new runners."
+      ],
+      "amenities": [],
+      "beginner_friendly": true,
+      "tags": [
+        "student-run"
+      ],
+      "sources": [
+        "https://eastmojo.com/news/2026/04/02/techniche-iit-guwahati-to-host-16th-guwahati-half-marathon-in-april/"
+      ]
+    },
+    {
+      "name": "Chandigarh International Marathon",
+      "edition": "2026, 2nd edition",
+      "sport": "running",
+      "discipline": "road",
+      "city": "Chandigarh",
+      "venue": "Chandigarh Club, Sector 1 (start/finish per race guide)",
+      "venue_lat": 30.75,
+      "venue_lon": 76.808,
+      "start_date": "2026-11-22",
+      "end_date": "2026-11-22",
+      "date_status": "expected",
+      "last_edition_date": "2026-03-01",
+      "organiser": "Sports Department, Chandigarh Administration",
+      "official_url": "https://chdmarathon.chd.gov.in/",
+      "registration": {
+        "status": "open",
+        "opens": "2026-09-14",
+        "closes": null,
+        "url": "https://chdmarathon.chd.gov.in/",
+        "notes": "Official portal shows a 2026 edition; 22 Nov date, opening date and fees come from a third-party guide. 1st-edition fees were Rs 2,000 full, 1,500 half, 1,000 10K, 500 5K."
+      },
+      "summary": "Chandigarh Administration's international marathon, first run on 1 Mar 2026 with about 3,500 runners. Second edition listed for late November on a flat, looped course.",
+      "categories": [
+        {
+          "name": "Full Marathon",
+          "distance_km": 42.195,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": 18,
+          "level": "advanced",
+          "eligibility": null,
+          "notes": "Two loops of the half course."
+        },
+        {
+          "name": "Half Marathon",
+          "distance_km": 21.0975,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": 18,
+          "level": "intermediate",
+          "eligibility": null,
+          "notes": null
+        },
+        {
+          "name": "10K",
+          "distance_km": 10,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": 15,
+          "level": "beginner",
+          "eligibility": null,
+          "notes": null
+        },
+        {
+          "name": "5K Fun Run",
+          "distance_km": 5,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "beginner",
+          "eligibility": null,
+          "notes": "Open to all."
+        }
+      ],
+      "course": {
+        "terrain": "road",
+        "surface": "tarmac",
+        "elevation_gain_m": null,
+        "profile": "flat",
+        "description": "Looped course around Sector 1 and the Capitol Complex area; under 25 m elevation variation, AIMS measured (per race guide)."
+      },
+      "format": null,
+      "highlights": [
+        "Government-run event",
+        "Flat looped course"
+      ],
+      "tips": [
+        "Confirm the race date on the official portal; it is not yet stated in the portal text.",
+        "Late-November mornings in Chandigarh are cold and can be smoggy; check AQI.",
+        "Bib pickup was listed for the Saturday before race day."
+      ],
+      "amenities": [],
+      "beginner_friendly": true,
+      "tags": [
+        "aims-certified",
+        "flat"
+      ],
+      "sources": [
+        "https://chdmarathon.chd.gov.in/",
+        "https://fatmarathoner.com/chandigarh-international-marathon/"
+      ]
+    },
+    {
+      "name": "Mysuru Marathon",
+      "edition": "2026",
+      "sport": "running",
+      "discipline": "road",
+      "city": "Mysuru",
+      "venue": "Police Grounds, Mysuru (start/finish)",
+      "venue_lat": 12.2958,
+      "venue_lon": 76.6394,
+      "start_date": "2026-12-13",
+      "end_date": "2026-12-13",
+      "date_status": "confirmed",
+      "last_edition_date": null,
+      "organiser": "NEB Sports",
+      "official_url": "https://mysurumarathon.com/",
+      "registration": {
+        "status": "open",
+        "opens": null,
+        "closes": null,
+        "url": "https://mysamay.in/public/event/info/81ca6197-062c-4f3e-b41d-d21a44fafe21",
+        "notes": "NEB Sports lists fees from Rs 450; per-category fees not captured."
+      },
+      "summary": "NEB Sports' December road race in the heritage city of Mysuru, three weeks after the Kaveri Trail Marathon nearby. Full, half, 10K and 5K.",
+      "categories": [
+        {
+          "name": "Full Marathon",
+          "distance_km": 42.195,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": null,
+          "notes": null
+        },
+        {
+          "name": "Half Marathon",
+          "distance_km": 21.1,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "intermediate",
+          "eligibility": null,
+          "notes": null
+        },
+        {
+          "name": "10K",
+          "distance_km": 10,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "beginner",
+          "eligibility": null,
+          "notes": null
+        },
+        {
+          "name": "5K",
+          "distance_km": 5,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "beginner",
+          "eligibility": null,
+          "notes": null
+        }
+      ],
+      "course": {
+        "terrain": "road",
+        "surface": "tarmac",
+        "elevation_gain_m": null,
+        "profile": null,
+        "description": "City course around Mysuru's heritage core."
+      },
+      "format": null,
+      "highlights": [
+        "Run by NEB Sports"
+      ],
+      "tips": [
+        "Mid-December dawns in Mysuru are cool and dry; good conditions for a PB.",
+        "Pairs well with the Kaveri Trail Marathon on 22 Nov at nearby Srirangapatna as a build-up race.",
+        "NEB Sports allows changes only up to 60 days before race day."
+      ],
+      "amenities": [],
+      "beginner_friendly": true,
+      "tags": [
+        "heritage"
+      ],
+      "sources": [
+        "https://nebsports.in/schedule",
+        "https://nebsports.in/",
+        "https://mysurumarathon.com/"
+      ]
+    },
+    {
+      "name": "Udupi Marathon",
+      "edition": "2026",
+      "sport": "running",
+      "discipline": "road",
+      "city": "Mangaluru",
+      "venue": "Mahatma Gandhi District Stadium, Ajjarkad, Udupi",
+      "venue_lat": 13.3395,
+      "venue_lon": 74.7475,
+      "start_date": "2026-12-20",
+      "end_date": "2026-12-20",
+      "date_status": "confirmed",
+      "last_edition_date": null,
+      "organiser": "NEB Sports",
+      "official_url": "https://www.udupimarathon.com",
+      "registration": {
+        "status": "open",
+        "opens": null,
+        "closes": null,
+        "url": "https://mysamay.in/event/info/8879ecfd-812d-4c7b-b8d5-51fdf229b704?cmeta=nc3clrECgS",
+        "notes": "Fees shown are the standard 'final' prices; lower offer prices apply while they last (Rs 1,250 full, 1,000 half, 700 10K, 500 5K)."
+      },
+      "summary": "Coastal Karnataka road race in Udupi, about 55 km north of Mangaluru, run by NEB Sports on a looped course.",
+      "categories": [
+        {
+          "name": "Full Marathon",
+          "distance_km": 42.2,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 3000,
+          "start_time": null,
+          "cutoff": "6:00",
+          "min_age": 18,
+          "level": "advanced",
+          "eligibility": null,
+          "notes": "First loop within 3 hours."
+        },
+        {
+          "name": "Half Marathon",
+          "distance_km": 21.1,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 2000,
+          "start_time": null,
+          "cutoff": "3:30",
+          "min_age": 18,
+          "level": "intermediate",
+          "eligibility": null,
+          "notes": null
+        },
+        {
+          "name": "10K",
+          "distance_km": 10,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 1000,
+          "start_time": null,
+          "cutoff": "1:30",
+          "min_age": 14,
+          "level": "beginner",
+          "eligibility": null,
+          "notes": null
+        },
+        {
+          "name": "5K Fun Run",
+          "distance_km": 5,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 900,
+          "start_time": null,
+          "cutoff": "1:00",
+          "min_age": 6,
+          "level": "beginner",
+          "eligibility": null,
+          "notes": null
+        }
+      ],
+      "course": {
+        "terrain": "road",
+        "surface": "tarmac",
+        "elevation_gain_m": null,
+        "profile": null,
+        "description": "Looped course through Udupi town; full route details pending."
+      },
+      "format": null,
+      "highlights": [
+        "Strict cutoffs including a 3-hour first loop for the full"
+      ],
+      "tips": [
+        "Register early to get the offer price, which is less than half the final price for the full marathon.",
+        "Coastal humidity stays high in December; carry electrolytes.",
+        "Udupi railway station is on the Konkan line, convenient from Mangaluru and Goa."
+      ],
+      "amenities": [],
+      "beginner_friendly": true,
+      "tags": [
+        "coastal"
+      ],
+      "sources": [
+        "https://www.udupimarathon.com",
+        "https://nebsports.in/schedule"
+      ]
+    },
+    {
+      "name": "Manipal Marathon",
+      "edition": "2027, 9th edition",
+      "sport": "running",
+      "discipline": "road",
+      "city": "Mangaluru",
+      "venue": "KMC Greens, MAHE, Manipal",
+      "venue_lat": 13.3525,
+      "venue_lon": 74.7865,
+      "start_date": "2027-02-14",
+      "end_date": "2027-02-14",
+      "date_status": "confirmed",
+      "last_edition_date": "2026-02-08",
+      "organiser": "Manipal Academy of Higher Education (MAHE)",
+      "official_url": "https://manipalmarathon.in/",
+      "registration": {
+        "status": "open",
+        "opens": null,
+        "closes": null,
+        "url": "https://manipalmarathon.in/",
+        "notes": "Online only; separate links for MAHE staff and students. No offline registration."
+      },
+      "summary": "Student-organised university marathon in Manipal with a green theme, now in its 9th edition. Low entry fees and a free 3K fun run.",
+      "categories": [
+        {
+          "name": "Full Marathon",
+          "distance_km": 42.195,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 1499,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": 18,
+          "level": "advanced",
+          "eligibility": null,
+          "notes": null
+        },
+        {
+          "name": "Half Marathon",
+          "distance_km": 21.1,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 999,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": 18,
+          "level": "intermediate",
+          "eligibility": null,
+          "notes": null
+        },
+        {
+          "name": "10K Competitive Run",
+          "distance_km": 10,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 649,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": 14,
+          "level": "beginner",
+          "eligibility": null,
+          "notes": null
+        },
+        {
+          "name": "5K Competitive Run",
+          "distance_km": 5,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 399,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": 12,
+          "level": "beginner",
+          "eligibility": null,
+          "notes": null
+        },
+        {
+          "name": "3K Fun Run",
+          "distance_km": 3,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 0,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": 6,
+          "level": "beginner",
+          "eligibility": null,
+          "notes": "Free entry."
+        }
+      ],
+      "course": {
+        "terrain": "road",
+        "surface": "tarmac",
+        "elevation_gain_m": null,
+        "profile": null,
+        "description": "IAAF/AIMS-certified route through Manipal and surroundings, per organiser."
+      },
+      "format": null,
+      "highlights": [
+        "9th edition",
+        "AIMS-certified routes",
+        "Free 3K fun run"
+      ],
+      "tips": [
+        "Manipal is about 60 km north of Mangaluru; Udupi station is the nearest railhead.",
+        "Manipal sits on a plateau with short climbs; include some hill work.",
+        "Age-group prizes run up to 60+ for men and women."
+      ],
+      "amenities": [],
+      "beginner_friendly": true,
+      "tags": [
+        "aims-certified",
+        "university"
+      ],
+      "sources": [
+        "https://manipalmarathon.in/",
+        "https://evbab.manipal.edu/mu/news-events/manipal-marathon-2026.html"
+      ]
+    },
+    {
+      "name": "Vedanta Zinc City Half Marathon",
+      "edition": "2027",
+      "sport": "running",
+      "discipline": "road",
+      "city": "Udaipur",
+      "venue": "Fateh Sagar Lake, Udaipur (start)",
+      "venue_lat": 24.601,
+      "venue_lon": 73.674,
+      "start_date": "2027-09-05",
+      "end_date": "2027-09-05",
+      "date_status": "expected",
+      "last_edition_date": "2026-09-06",
+      "organiser": "Hindustan Zinc (Vedanta), managed by Anybody Can Run (ABCR)",
+      "official_url": null,
+      "registration": {
+        "status": "upcoming",
+        "opens": null,
+        "closes": null,
+        "url": null,
+        "notes": "2026 fees excl. GST and platform charges: Rs 2,000 half, 1,200 10K, 500 5K (District.in)."
+      },
+      "summary": "AIMS-certified lakeside half marathon in Udaipur sponsored by Hindustan Zinc, held for the third time in September 2026.",
+      "categories": [
+        {
+          "name": "Half Marathon",
+          "distance_km": 21.097,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": "05:00",
+          "cutoff": null,
+          "min_age": 18,
+          "level": "intermediate",
+          "eligibility": null,
+          "notes": "2026 start time."
+        },
+        {
+          "name": "10K Run",
+          "distance_km": 10,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": 15,
+          "level": "beginner",
+          "eligibility": null,
+          "notes": null
+        },
+        {
+          "name": "5K Fun Run",
+          "distance_km": 5,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": 12,
+          "level": "beginner",
+          "eligibility": null,
+          "notes": null
+        }
+      ],
+      "course": {
+        "terrain": "road",
+        "surface": "tarmac",
+        "elevation_gain_m": null,
+        "profile": null,
+        "description": "AIMS-certified road course starting at Fateh Sagar Lake."
+      },
+      "format": null,
+      "highlights": [
+        "AIMS-certified",
+        "Lakeside start at Fateh Sagar"
+      ],
+      "tips": [
+        "Bib collection in 2026 was at Field Club, Udaipur, on the two days before race day.",
+        "Early September is end of monsoon in Udaipur: warm and humid, with possible rain."
+      ],
+      "amenities": [],
+      "beginner_friendly": true,
+      "tags": [
+        "aims-certified",
+        "lake"
+      ],
+      "sources": [
+        "https://www.district.in/events/vedanta-zinc-city-half-marathon-sep5-2026-buy-tickets"
+      ]
+    },
+    {
+      "name": "Nagpur Marathon",
+      "edition": "2027",
+      "sport": "running",
+      "discipline": "road",
+      "city": "Nagpur",
+      "venue": "St Ursula Girls High School ground, Civil Lines, Nagpur",
+      "venue_lat": 21.153,
+      "venue_lon": 79.079,
+      "start_date": "2027-03-14",
+      "end_date": "2027-03-14",
+      "date_status": "expected",
+      "last_edition_date": "2026-03-15",
+      "organiser": null,
+      "official_url": null,
+      "registration": {
+        "status": "upcoming",
+        "opens": null,
+        "closes": null,
+        "url": null,
+        "notes": "2026 edition offered limited spot registration on the Saturday before race day."
+      },
+      "summary": "Nagpur's main spring road race, whose 10th edition in March 2026 had 3K to 21K categories and age-group cash prizes.",
+      "categories": [
+        {
+          "name": "Half Marathon",
+          "distance_km": 21.1,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": "05:00",
+          "cutoff": null,
+          "min_age": null,
+          "level": "intermediate",
+          "eligibility": null,
+          "notes": "2026 start time."
+        },
+        {
+          "name": "10K",
+          "distance_km": 10,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": "05:30",
+          "cutoff": null,
+          "min_age": null,
+          "level": "beginner",
+          "eligibility": null,
+          "notes": "2026 start time."
+        },
+        {
+          "name": "5K",
+          "distance_km": 5,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": "05:45",
+          "cutoff": null,
+          "min_age": null,
+          "level": "beginner",
+          "eligibility": null,
+          "notes": "2026 start time."
+        },
+        {
+          "name": "3K Fun Run",
+          "distance_km": 3,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": "06:00",
+          "cutoff": null,
+          "min_age": null,
+          "level": "beginner",
+          "eligibility": null,
+          "notes": "2026 start time."
+        }
+      ],
+      "course": {
+        "terrain": "road",
+        "surface": "tarmac",
+        "elevation_gain_m": null,
+        "profile": null,
+        "description": "City course from Civil Lines."
+      },
+      "format": null,
+      "highlights": [
+        "Age-group cash prizes for 10K and 21K in 2026"
+      ],
+      "tips": [
+        "Nagpur heats up fast by mid-March; the 5:00 AM half marathon start helps, but finish before 8 AM if you can.",
+        "Bib and kit pickup in 2026 was at the venue on Saturday, 11 AM to 6 PM."
+      ],
+      "amenities": [],
+      "beginner_friendly": true,
+      "tags": [
+        "city"
+      ],
+      "sources": [
+        "https://www.thehitavada.com/Encyc/2026/3/13/bhutia-to-flag-off-nagpur-marathon-on-sunday-.html"
+      ]
+    },
+    {
+      "name": "The Malnad Ultra",
+      "edition": "2026",
+      "sport": "trail-running",
+      "discipline": "ultra",
+      "city": "Mangaluru",
+      "venue": "Start area at Mallanduru, Chikkamagaluru district (bib collection at The Estate Cafe)",
+      "venue_lat": 13.43,
+      "venue_lon": 75.71,
+      "start_date": "2026-11-28",
+      "end_date": "2026-11-29",
+      "date_status": "confirmed",
+      "last_edition_date": null,
+      "organiser": "Malnad Ultra organising team",
+      "official_url": "https://malnadultra.com/",
+      "registration": {
+        "status": "open",
+        "opens": null,
+        "closes": null,
+        "url": "https://malnadultra.com/registrations/",
+        "notes": "Only the 100K is still open; 30K, 50K Day and 50K Night are closed. Eligibility proof due by 7 Nov 2026. Fees not published on the site."
+      },
+      "summary": "One of South India's best-known trail ultras, run on coffee-estate trails in the Malnad hills. ITRA-rated, a Western States qualifier and part of the South India Trail Grail circuit.",
+      "categories": [
+        {
+          "name": "30K",
+          "distance_km": 30,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": "07:30",
+          "cutoff": "6:00",
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": "Previous Malnad Ultra starter, or half marathon under 2:30 in 2026, or ITRA Performance Index above 0",
+          "notes": "+951 m. Single loop."
+        },
+        {
+          "name": "50K Day",
+          "distance_km": 50,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": "07:00",
+          "cutoff": "10:00",
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": "Previous Malnad finisher, or full marathon under 5:30 in 2026, or ITRA PI above 275, or a 30K+ trail finish or 50K+ stadium run in 2026",
+          "notes": "+1705 m. Intermediate cutoff at AS5 (38 km) by 3:00 PM."
+        },
+        {
+          "name": "50K Night",
+          "distance_km": 50,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": "16:30",
+          "cutoff": "11:00",
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": "Same as 50K Day",
+          "notes": "+1705 m. Headlamp mandatory from the start. AS5 cutoff 1:30 AM."
+        },
+        {
+          "name": "100K",
+          "distance_km": 100,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": "06:30",
+          "cutoff": "21:00",
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": "Previous 50K+ finisher, or two sub-5:30 marathons in 2026, or ITRA PI above 375, or a 50K+ trail finish or 75K+ stadium run in 2026",
+          "notes": "+3410 m, two 50 km loops. Race schedule table says 6:00 AM start; must start loop 2 by 4:30 PM."
+        }
+      ],
+      "course": {
+        "terrain": "trail",
+        "surface": "estate roads, walking paths and single track, with short tarmac and boulder sections; over 90% trail",
+        "elevation_gain_m": 1705,
+        "profile": "hilly",
+        "description": "50 km clockwise loop through coffee estates near wildlife reserves with stream crossings; the 100K runs it twice. Elevation figure is per 50 km loop."
+      },
+      "format": null,
+      "highlights": [
+        "ITRA points and UTMB Index race",
+        "Western States qualifying race",
+        "Night 50K option"
+      ],
+      "tips": [
+        "Leeches are common in wet conditions; carry salt or leech socks.",
+        "Nearest stations are Birur and Kadur, about 1.5 hours away; from Bengaluru it is about 260 km (5 hours) by road.",
+        "Book a homestay early; more than 100 lie within 10 km but most rooms are dorm-style.",
+        "A personal headlamp is mandatory for night and 100K runners; phones and shared lights are not accepted."
+      ],
+      "amenities": [
+        "Aid stations roughly every 7-8 km",
+        "Water-only points between aid stations"
+      ],
+      "beginner_friendly": false,
+      "tags": [
+        "itra",
+        "utmb-index",
+        "night-race",
+        "western-states-qualifier"
+      ],
+      "sources": [
+        "https://malnadultra.com/",
+        "https://malnadultra.com/race-guide/",
+        "https://malnadultra.com/registrations/",
+        "https://malnadultra.com/trip/",
+        "https://malnadultra.com/faq/",
+        "https://www.southindiatrailgrail.com/"
+      ]
+    },
+    {
+      "name": "Kaveri Trail Marathon",
+      "edition": "2026",
+      "sport": "trail-running",
+      "discipline": "trail",
+      "city": "Mysuru",
+      "venue": "Near Ranganathittu Bird Sanctuary (canal entrance), Srirangapatna",
+      "venue_lat": 12.424,
+      "venue_lon": 76.657,
+      "start_date": "2026-11-22",
+      "end_date": "2026-11-22",
+      "date_status": "confirmed",
+      "last_edition_date": null,
+      "organiser": "NEB Sports",
+      "official_url": "https://kaveritrailmarathon.com/",
+      "registration": {
+        "status": "closed",
+        "opens": null,
+        "closes": null,
+        "url": "https://kaveritrailmarathon.com/",
+        "notes": "NEB Sports lists registration as closed. Fees below are standard prices from a third-party guide; early offers were lower."
+      },
+      "summary": "India's longest-running trail marathon, started in 2007, on canal-side paths beside the Kaveri near Srirangapatna. Flat and fast for a trail race.",
+      "categories": [
+        {
+          "name": "Full Marathon",
+          "distance_km": 42.2,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 3000,
+          "start_time": "06:15",
+          "cutoff": "6:00",
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": null,
+          "notes": "First loop must be done within 3 hours."
+        },
+        {
+          "name": "Half Marathon",
+          "distance_km": 21.1,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 2750,
+          "start_time": null,
+          "cutoff": "3:30",
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": null,
+          "notes": null
+        },
+        {
+          "name": "Timed 10K",
+          "distance_km": 10,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 1500,
+          "start_time": null,
+          "cutoff": "1:30",
+          "min_age": null,
+          "level": "intermediate",
+          "eligibility": null,
+          "notes": null
+        },
+        {
+          "name": "5K Fun Run",
+          "distance_km": 5,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 900,
+          "start_time": null,
+          "cutoff": "1:00",
+          "min_age": null,
+          "level": "beginner",
+          "eligibility": null,
+          "notes": "Flat course; children 6-12 may run with a registered adult in the same category."
+        }
+      ],
+      "course": {
+        "terrain": "trail",
+        "surface": "packed earth canal path with some grass",
+        "elevation_gain_m": 100,
+        "profile": "flat",
+        "description": "Out-and-back canal-side loop of about 10.55 km; four loops for the full and two for the half, per race guide."
+      },
+      "format": null,
+      "highlights": [
+        "Running since 2007",
+        "Flat trail suited to first-time trail runners"
+      ],
+      "tips": [
+        "Watch for tree roots and narrow, uneven sections on the canal path; light trail shoes are enough.",
+        "Srirangapatna is a short drive from Mysuru; Bengaluru runners usually stay overnight in Mysuru or Srirangapatna.",
+        "Full marathoners must finish the first loop inside 3 hours."
+      ],
+      "amenities": [],
+      "beginner_friendly": true,
+      "tags": [
+        "iconic",
+        "flat"
+      ],
+      "sources": [
+        "https://nebsports.in/",
+        "https://nebsports.in/schedule",
+        "https://kaveritrailmarathon.com/",
+        "https://fatmarathoner.com/kaveri-trail-marathon/",
+        "https://werun.world/?p=10622"
+      ]
+    },
+    {
+      "name": "Vagamon ULtrail",
+      "edition": "2027",
+      "sport": "trail-running",
+      "discipline": "trail",
+      "city": "Kochi",
+      "venue": "St. Thomas LP School, Pullikanam, Vagamon (start/finish)",
+      "venue_lat": 9.716,
+      "venue_lon": 76.9,
+      "start_date": "2027-01-09",
+      "end_date": "2027-01-09",
+      "date_status": "confirmed",
+      "last_edition_date": null,
+      "organiser": null,
+      "official_url": "https://www.vagamonultrail.in/",
+      "registration": {
+        "status": "open",
+        "opens": "2026-10-01",
+        "closes": null,
+        "url": "https://www.vagamonultrail.in/register-now",
+        "notes": "300 slots (180 for 30K, 120 for 10K walk); closes when full. Fees not shown on the site. Signed waiver required."
+      },
+      "summary": "Hill trail race in the tea estates of Vagamon on the Kottayam-Idukki border, about 100 km from Kochi. For 2027 the 50K+ categories have been dropped, leaving a 30K run and a 10K trail walk.",
+      "categories": [
+        {
+          "name": "30K Trail Run",
+          "distance_km": 30,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": "08:00",
+          "cutoff": "8:00",
+          "min_age": 18,
+          "level": "advanced",
+          "eligibility": "No qualifying race required",
+          "notes": "Stage cutoff at about 24 km: leave before 2:00 PM. Age 18 as of 1 Jan 2027."
+        },
+        {
+          "name": "10K Trail Walk",
+          "distance_km": 10,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": "08:30",
+          "cutoff": null,
+          "min_age": null,
+          "level": "intermediate",
+          "eligibility": null,
+          "notes": "Untimed walk on the Pullikanam Estate loop; under-18s need a parent or guardian."
+        }
+      ],
+      "course": {
+        "terrain": "trail",
+        "surface": "tea estate paths, mud and single track",
+        "elevation_gain_m": null,
+        "profile": "hilly",
+        "description": "Routes through tea estates, slush and single-path trails, crossing Forest Department land."
+      },
+      "format": null,
+      "highlights": [
+        "Tea-estate trails in the Western Ghats",
+        "Organiser shuttle package from Kochi"
+      ],
+      "tips": [
+        "Hydration pack or 1.5 L bottle is mandatory and checked at the start.",
+        "The course is not barefoot-friendly; minimalist trail shoes have worked for past runners.",
+        "Travel package (Rs 2,100) runs an AC coach from Pathadipalam, Kochi on 8 Jan at 3 PM and back on 10 Jan.",
+        "Kottayam is the nearest railway station, but the shuttle only picks up in Kochi."
+      ],
+      "amenities": [
+        "Aid stations about every 10 km",
+        "Medical team at start/finish",
+        "Accommodation package at Lavender Vagamon"
+      ],
+      "beginner_friendly": false,
+      "tags": [
+        "tea-estates",
+        "shuttle"
+      ],
+      "sources": [
+        "https://www.vagamonultrail.in/",
+        "https://www.vagamonultrail.in/race-info",
+        "https://www.vagamonultrail.in/register-now",
+        "https://www.vagamonultrail.in/travel-and-accommodation"
+      ]
+    },
+    {
+      "name": "SRT Ultra (Sinhagad-Rajgad-Torna)",
+      "edition": "2026",
+      "sport": "trail-running",
+      "discipline": "ultra",
+      "city": "Pune",
+      "venue": "Golewadi Square, Sinhagad foothills (start)",
+      "venue_lat": 18.3664,
+      "venue_lon": 73.7559,
+      "start_date": "2026-12-12",
+      "end_date": "2026-12-13",
+      "date_status": "confirmed",
+      "last_edition_date": null,
+      "organiser": "Western Ghats Running Foundation (WGRF)",
+      "official_url": "https://www.wgrf.in/srt-ultra",
+      "registration": {
+        "status": "unknown",
+        "opens": null,
+        "closes": null,
+        "url": "https://registration.eventforce.ai/event/35/srt-ultra-2026",
+        "notes": "Ticket sales window listed as 15 Aug to 30 Sep; prices include taxes. All runners must be 18 by 12 Dec 2026."
+      },
+      "summary": "Tough Sahyadri mountain ultra linking the Sinhagad, Rajgad and Torna forts south-west of Pune. Part of the South India Trail Grail circuit; proceeds support forest and archaeology conservation.",
+      "categories": [
+        {
+          "name": "11K",
+          "distance_km": 11,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 1749,
+          "start_time": "06:15",
+          "cutoff": "3:00",
+          "min_age": 18,
+          "level": "intermediate",
+          "eligibility": "Open to anyone",
+          "notes": "+700 m. No transport back for 11K runners."
+        },
+        {
+          "name": "25K",
+          "distance_km": 25,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 2999,
+          "start_time": "06:10",
+          "cutoff": "6:00",
+          "min_age": 18,
+          "level": "advanced",
+          "eligibility": "Half marathon finish on or before 15 Nov 2026",
+          "notes": "+1100 m. Finishes at Gunjavane."
+        },
+        {
+          "name": "53K",
+          "distance_km": 53,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 3999,
+          "start_time": "06:05",
+          "cutoff": "12:00",
+          "min_age": 18,
+          "level": "advanced",
+          "eligibility": "Full marathon or 50K+ ultra finish on or before 15 Nov 2026",
+          "notes": "+2400 m. Cutoffs: 25 km by 11:30 AM, 34 km by 2:00 PM. Finishes at Velhe."
+        },
+        {
+          "name": "100K",
+          "distance_km": 100,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 4999,
+          "start_time": "06:00",
+          "cutoff": "24:00",
+          "min_age": 18,
+          "level": "advanced",
+          "eligibility": "Full marathon or 50K+ ultra finish on or before 15 Nov 2026",
+          "notes": "+3870 m. Cutoffs: 25 km 11:30 AM, 34 km 2:00 PM, 53 km 6:00 PM, 65 km 9:00 PM, 74 km midnight."
+        }
+      ],
+      "course": {
+        "terrain": "trail",
+        "surface": "rocky fort trails, ridgelines and village paths",
+        "elevation_gain_m": 3870,
+        "profile": "mountain",
+        "description": "Point-to-point fort traverse from the Sinhagad base over the Rajgad and Torna region; elevation figure is for the 100K."
+      },
+      "format": null,
+      "highlights": [
+        "Three-fort Sahyadri traverse",
+        "ITRA-listed",
+        "South India Trail Grail race"
+      ],
+      "tips": [
+        "Semi-supported: carry at least 1 L of water and some food.",
+        "Free shuttles return 25K runners from Gunjavane and 53K/100K runners from Velhe to the start; 11K runners get no transport.",
+        "December days on the exposed ridges get hot by noon; protect against sun.",
+        "Previous SRT Ultra or Sinhagad Epic Trail timings count for eligibility."
+      ],
+      "amenities": [],
+      "beginner_friendly": false,
+      "tags": [
+        "itra",
+        "mountain",
+        "forts"
+      ],
+      "sources": [
+        "https://www.wgrf.in/srt-ultra",
+        "https://registration.eventforce.ai/event/35/srt-ultra-2026",
+        "https://www.southindiatrailgrail.com/"
+      ]
+    },
+    {
+      "name": "Sinhagad Epic Trail",
+      "edition": "2027",
+      "sport": "trail-running",
+      "discipline": "trail",
+      "city": "Pune",
+      "venue": "Aatkarwadi, Sinhagad Fort base (start)",
+      "venue_lat": 18.3664,
+      "venue_lon": 73.7559,
+      "start_date": "2027-06-26",
+      "end_date": "2027-06-26",
+      "date_status": "expected",
+      "last_edition_date": "2026-06-27",
+      "organiser": "Western Ghats Running Foundation (WGRF)",
+      "official_url": "https://www.wgrf.in/sinhagadepictrail",
+      "registration": {
+        "status": "upcoming",
+        "opens": null,
+        "closes": null,
+        "url": "https://www.wgrf.in/sinhagadepictrail",
+        "notes": "Prices include Maharashtra state taxes; amounts not published."
+      },
+      "summary": "Monsoon-season mountain trail race on the slopes of Sinhagad Fort near Pune, from an 11K climb to a 42K with 2,200 m of gain. ITRA points for 21K and longer.",
+      "categories": [
+        {
+          "name": "11K",
+          "distance_km": 11,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": "06:15",
+          "cutoff": "3:30",
+          "min_age": null,
+          "level": "intermediate",
+          "eligibility": null,
+          "notes": "+790 m, max altitude 1,296 m. 2026 timings."
+        },
+        {
+          "name": "21K",
+          "distance_km": 22,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": "06:10",
+          "cutoff": "6:00",
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": null,
+          "notes": "Actual distance 22 km, +1230 m."
+        },
+        {
+          "name": "30K",
+          "distance_km": 30,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": "06:05",
+          "cutoff": "9:00",
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": null,
+          "notes": "+1560 m. Cutoff at 23 km by 11:30 AM."
+        },
+        {
+          "name": "42K",
+          "distance_km": 42,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": "06:00",
+          "cutoff": "11:00",
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": null,
+          "notes": "+2200 m. Cutoffs at 23 km (11:30 AM) and 30.5 km (1:30 PM)."
+        }
+      ],
+      "course": {
+        "terrain": "trail",
+        "surface": "steep rocky and muddy hill trails",
+        "elevation_gain_m": 2200,
+        "profile": "mountain",
+        "description": "Repeated climbs on Sinhagad's slopes between about 650 m and 1,296 m altitude; elevation figure is for the 42K."
+      },
+      "format": null,
+      "highlights": [
+        "ITRA points for 21K, 30K and 42K finishers",
+        "Monsoon trail race"
+      ],
+      "tips": [
+        "Late June is early monsoon in the Sahyadris: expect rain, slick rock and mud; use shoes with aggressive lugs.",
+        "Aatkarwadi is on the Pune side of Sinhagad; park early as the access road is narrow.",
+        "Finish times here count toward SRT Ultra eligibility."
+      ],
+      "amenities": [],
+      "beginner_friendly": false,
+      "tags": [
+        "itra",
+        "monsoon",
+        "mountain"
+      ],
+      "sources": [
+        "https://www.wgrf.in/sinhagadepictrail",
+        "https://www.wgrf.in/"
+      ]
+    },
+    {
+      "name": "Jawadhu Hills Ultra",
+      "edition": "2026",
+      "sport": "trail-running",
+      "discipline": "ultra",
+      "city": "Bengaluru",
+      "venue": "St. Joseph Higher Secondary School, Jamunamarathur, Jawadhu Hills",
+      "venue_lat": 12.603,
+      "venue_lon": 78.87,
+      "start_date": "2026-10-31",
+      "end_date": "2026-11-01",
+      "date_status": "confirmed",
+      "last_edition_date": "2025-11-01",
+      "organiser": "Chennai Trail Club",
+      "official_url": "https://chennaitrailclub.in/event-list/2026-2/jawadhu-hills-ultra-jhu-26/",
+      "registration": {
+        "status": "closed",
+        "opens": null,
+        "closes": null,
+        "url": "https://chennaitrailclub.in/event-list/2026-2/jawadhu-hills-ultra-jhu-26/",
+        "notes": "Closed after the 400-slot cap filled. Fees not shown."
+      },
+      "summary": "Trail ultra in the Jawadhu Hills of Tamil Nadu, roughly equidistant from Bengaluru and Chennai. Part of the South India Trail Grail circuit with 30K, 60K and 100K options.",
+      "categories": [
+        {
+          "name": "30K",
+          "distance_km": 30,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": "06:00",
+          "cutoff": "6:00",
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": "JHU 2024/2025 participant, or half marathon under 3 hours in 2026, or 20K+ trail finish in 2026",
+          "notes": "About 700-900 m gain. Waves 10 minutes apart; report 5:30 AM."
+        },
+        {
+          "name": "60K",
+          "distance_km": 60,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": "05:00",
+          "cutoff": "12:00",
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": "JHU 60K/50K finisher, or marathon under 5:30 in 2026, or 30K+ trail finish, or 50K stadium run within 7 hours in 2026",
+          "notes": "About 1300-1600 m gain. Point-to-point to Titanur Temple. Cutoff 27.5 km at 5:30 hours."
+        },
+        {
+          "name": "100K",
+          "distance_km": 100,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": "20:00",
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": "JHU 60K/50K finisher, or two sub-5:30 marathons in 2026, or 50K+ trail finish, or 75K stadium run in 2026",
+          "notes": "About 2500 m gain. Cutoffs: 60 km at 12 hours, 75 km at 15 hours."
+        }
+      ],
+      "course": {
+        "terrain": "trail",
+        "surface": "forest trails and village tracks",
+        "elevation_gain_m": 2500,
+        "profile": "hilly",
+        "description": "Hill trails around Jamunamarathur; 30K and 100K loop back to the school, 60K ends at Titanur Temple. Elevation is for the 100K."
+      },
+      "format": null,
+      "highlights": [
+        "South India Trail Grail race",
+        "Free camping at the school venue"
+      ],
+      "tips": [
+        "Torch or headlamp is mandatory for 60K and 100K; barefoot running is not allowed.",
+        "Buses between Alangayam and Polur pass Jamunamarathur about every 45 minutes; the last runs around 7:30 PM.",
+        "Vellore is about 90 km away via Alangayam; Bengaluru runners usually drive via Vaniyambadi.",
+        "Carry ID, running shoes and a hydration bottle or bladder to bib collection; kit is checked."
+      ],
+      "amenities": [
+        "Start-line baggage drop",
+        "Drop bags for 60K and 100K",
+        "Free camping or school stay"
+      ],
+      "beginner_friendly": false,
+      "tags": [
+        "itra",
+        "camping"
+      ],
+      "sources": [
+        "https://chennaitrailclub.in/event-list/2026-2/jawadhu-hills-ultra-jhu-26/",
+        "https://chennaitrailclub.in/past-events/",
+        "https://www.southindiatrailgrail.com/events"
+      ]
+    },
+    {
+      "name": "The Coffee Trails",
+      "edition": "2026",
+      "sport": "trail-running",
+      "discipline": "ultra",
+      "city": "Mysuru",
+      "venue": "Madikeri area, Kodagu (Coorg)",
+      "venue_lat": 12.4244,
+      "venue_lon": 75.7382,
+      "start_date": "2026-10-18",
+      "end_date": "2026-10-18",
+      "date_status": "expected",
+      "last_edition_date": "2025-11-09",
+      "organiser": null,
+      "official_url": null,
+      "registration": {
+        "status": "unknown",
+        "opens": null,
+        "closes": null,
+        "url": null,
+        "notes": "No registration page found. ITRA lists 18 Oct 2026; Ultra Race Calendar lists 8 Nov 2026. Confirm with organiser."
+      },
+      "summary": "Small-field mountain ultra through Coorg coffee estates, meadows and evergreen forest, capped at about 100 runners. Previous editions ran on 13 Oct 2024 and 9 Nov 2025.",
+      "categories": [
+        {
+          "name": "62K",
+          "distance_km": 62,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": "06:30",
+          "cutoff": "13:00",
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": null,
+          "notes": "About 2,820 m gain, 4 aid stations (ITRA listing)."
+        }
+      ],
+      "course": {
+        "terrain": "trail",
+        "surface": "estate tracks, meadow and forest single track with mud",
+        "elevation_gain_m": 2818,
+        "profile": "mountain",
+        "description": "Coffee estates, grassland and evergreen mountain forest around Madikeri; organisers warn of rain, climbing, mud and slush."
+      },
+      "format": null,
+      "highlights": [
+        "ITRA-rated mountain ultra",
+        "Field capped at about 100"
+      ],
+      "tips": [
+        "Expect mud and slush even after the monsoon; use grippy trail shoes.",
+        "Madikeri is about 120 km from Mysuru by road; stay in Madikeri the night before.",
+        "Date conflict between listings; verify before booking travel."
+      ],
+      "amenities": [],
+      "beginner_friendly": false,
+      "tags": [
+        "itra",
+        "small-field"
+      ],
+      "sources": [
+        "https://ultraracecalendar.com/events/6709/the-coffee-trails/",
+        "https://itra.run/Races/RaceDetails/.The.Coffee.Trails.62km/2026/118098"
+      ]
+    },
+    {
+      "name": "OOTYULTRA",
+      "edition": "2027",
+      "sport": "trail-running",
+      "discipline": "ultra",
+      "city": "Coimbatore",
+      "venue": "Ooty (Udhagamandalam), Nilgiris",
+      "venue_lat": 11.4102,
+      "venue_lon": 76.695,
+      "start_date": "2027-03-21",
+      "end_date": "2027-03-21",
+      "date_status": "expected",
+      "last_edition_date": "2026-03-22",
+      "organiser": "KaysFIT Academy (race director Kannan Sundararajan)",
+      "official_url": null,
+      "registration": {
+        "status": "unknown",
+        "opens": null,
+        "closes": null,
+        "url": "https://go.ultraracecalendar.com/events/81f946c0-09ed-4ee6-b1da-f0b1da1c311d/",
+        "notes": "No official site found. Date from race listings; last edition date from a third-party calendar."
+      },
+      "summary": "Road ultramarathon on the steep hill roads of the Nilgiris around Ooty, organised by KaysFIT Academy, with distances from 15K to 90K. Supported by the Tea Board of India.",
+      "categories": [
+        {
+          "name": "15K",
+          "distance_km": 15,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "intermediate",
+          "eligibility": null,
+          "notes": null
+        },
+        {
+          "name": "30K",
+          "distance_km": 30,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": null,
+          "notes": null
+        },
+        {
+          "name": "60K",
+          "distance_km": 60,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": null,
+          "notes": null
+        },
+        {
+          "name": "75K",
+          "distance_km": 75,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": null,
+          "notes": "Listed by one source only."
+        },
+        {
+          "name": "90K",
+          "distance_km": 90,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": null,
+          "notes": null
+        }
+      ],
+      "course": {
+        "terrain": "road",
+        "surface": "hill roads",
+        "elevation_gain_m": null,
+        "profile": "mountain",
+        "description": "Demanding road course with long, steep climbs and descents around Ooty."
+      },
+      "format": null,
+      "highlights": [
+        "High-altitude road ultra in the Nilgiris"
+      ],
+      "tips": [
+        "Ooty sits above 2,000 m; March mornings are cold and the thin air slows climbing.",
+        "Coimbatore airport is the usual gateway; allow about 3 hours for the ghat drive up.",
+        "Practise long downhill running to protect quads on the steep descents."
+      ],
+      "amenities": [],
+      "beginner_friendly": false,
+      "tags": [
+        "altitude",
+        "road-ultra"
+      ],
+      "sources": [
+        "https://ultraracecalendar.com/events/2458/ootyultra/",
+        "https://worldsmarathons.com/marathon/ootyultra-1"
+      ]
+    },
+    {
+      "name": "Mussoorie Ultra",
+      "edition": "2026, 2nd edition",
+      "sport": "trail-running",
+      "discipline": "ultra",
+      "city": "Dehradun",
+      "venue": "The Fern Brentwood Resort, Mussoorie (race base)",
+      "venue_lat": 30.4598,
+      "venue_lon": 78.0644,
+      "start_date": "2026-11-29",
+      "end_date": "2026-11-29",
+      "date_status": "confirmed",
+      "last_edition_date": null,
+      "organiser": null,
+      "official_url": "https://www.mussoorieultra.com/",
+      "registration": {
+        "status": "open",
+        "opens": null,
+        "closes": null,
+        "url": "https://www.mussoorieultra.com/",
+        "notes": "Registration via District.in link on the official site; fees, cutoffs and start times not published on the home page."
+      },
+      "summary": "Hill ultra and running festival in Mussoorie above Dehradun, in its second edition, with a 50K ultra down to a 5K and a fun run.",
+      "categories": [
+        {
+          "name": "50K Ultra",
+          "distance_km": 50,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": null,
+          "notes": null
+        },
+        {
+          "name": "Full Marathon",
+          "distance_km": 42.2,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": null,
+          "notes": null
+        },
+        {
+          "name": "Half Marathon",
+          "distance_km": 21.1,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": null,
+          "notes": "Hill course at about 2,000 m."
+        },
+        {
+          "name": "10K",
+          "distance_km": 10,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "intermediate",
+          "eligibility": null,
+          "notes": null
+        },
+        {
+          "name": "5K",
+          "distance_km": 5,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "beginner",
+          "eligibility": null,
+          "notes": null
+        }
+      ],
+      "course": {
+        "terrain": "mixed",
+        "surface": null,
+        "elevation_gain_m": null,
+        "profile": "mountain",
+        "description": "Hill course around Mussoorie; route, surface and elevation not yet published."
+      },
+      "format": null,
+      "highlights": [
+        "Bib expo and musical evening on 28 Nov at the race base",
+        "Age-group recognition from 18 to 71+"
+      ],
+      "tips": [
+        "Late-November mornings in Mussoorie can be near freezing; bring gloves and a warm layer for the start.",
+        "Dehradun to Mussoorie is about 35 km of winding hill road; stay in Mussoorie the night before.",
+        "Collect your bib at the 28 Nov expo at The Fern Brentwood Resort."
+      ],
+      "amenities": [],
+      "beginner_friendly": true,
+      "tags": [
+        "hill",
+        "festival"
+      ],
+      "sources": [
+        "https://www.mussoorieultra.com/",
+        "https://registrations.indiarunning.com/mussoorieultra2ndedition-19483"
+      ]
+    },
+    {
+      "name": "Khadakwasla Ultra",
+      "edition": "2026, 4th edition",
+      "sport": "trail-running",
+      "discipline": "ultra",
+      "city": "Pune",
+      "venue": "Krushnai Water Park & Resort, Donje, near Khadakwasla Dam",
+      "venue_lat": 18.4,
+      "venue_lon": 73.765,
+      "start_date": "2026-11-22",
+      "end_date": "2026-11-22",
+      "date_status": "confirmed",
+      "last_edition_date": null,
+      "organiser": null,
+      "official_url": "https://www.khadakwaslaultra.com/",
+      "registration": {
+        "status": "open",
+        "opens": null,
+        "closes": null,
+        "url": "https://konfhub.com/khadakwasla-ultra-2026",
+        "notes": "No deadline listed; fees not shown on the site."
+      },
+      "summary": "Road-based ultra on Pune's outskirts looping the Khadakwasla, Panshet and Varasgaon dam backwaters, from 25K up to 100K. Named best-rated ultra event of 2025 on its site.",
+      "categories": [
+        {
+          "name": "25K The Starting Ascent",
+          "distance_km": 25,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "intermediate",
+          "eligibility": null,
+          "notes": null
+        },
+        {
+          "name": "35K The Bridge to Ultras",
+          "distance_km": 35,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": null,
+          "notes": "Out-and-back near Sinhagad toward Panshet."
+        },
+        {
+          "name": "55K The Road Ultra",
+          "distance_km": 55,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": null,
+          "notes": "Loop around Khadakwasla Dam."
+        },
+        {
+          "name": "75K The Endurance Builder",
+          "distance_km": 75,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": null,
+          "notes": "Adds Varasgaon backwaters."
+        },
+        {
+          "name": "100K The Ultimate Test",
+          "distance_km": 100,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": null,
+          "notes": "Includes Varasgaon and Panshet backwaters."
+        }
+      ],
+      "course": {
+        "terrain": "mixed",
+        "surface": "mostly tarmac with short trail sections",
+        "elevation_gain_m": null,
+        "profile": "rolling",
+        "description": "Rolling rural roads and forest roads around three dam backwaters below the Sahyadris; elevation profiles to be shared before race day."
+      },
+      "format": null,
+      "highlights": [
+        "Distances from 25K to 100K in one event",
+        "Dam backwater scenery"
+      ],
+      "tips": [
+        "Headlamp is compulsory for early starters; a hydration bottle or vest, basic first aid and a phone are also mandatory.",
+        "The venue is about 30 minutes from Pune railway station by taxi; there is no published shuttle.",
+        "Long exposed road stretches heat up by late morning; plan sun protection."
+      ],
+      "amenities": [],
+      "beginner_friendly": false,
+      "tags": [
+        "road-ultra"
+      ],
+      "sources": [
+        "https://www.khadakwaslaultra.com/",
+        "https://www.khadakwaslaultra.com/race-info",
+        "https://www.khadakwaslaultra.com/race-categories"
+      ]
+    },
+    {
+      "name": "Western Ghats Ultra Marathon",
+      "edition": "2027",
+      "sport": "trail-running",
+      "discipline": "ultra",
+      "city": "Pune",
+      "venue": "Senapati Bapat Vidyalay, Maale, Mulshi (start/finish)",
+      "venue_lat": null,
+      "venue_lon": null,
+      "start_date": "2027-03-21",
+      "end_date": "2027-03-21",
+      "date_status": "expected",
+      "last_edition_date": "2026-03-22",
+      "organiser": "Western Ghats Running Foundation (WGRF)",
+      "official_url": "https://www.wgrf.in/westernghtasultramarathon",
+      "registration": {
+        "status": "upcoming",
+        "opens": null,
+        "closes": null,
+        "url": "https://www.wgrf.in/westernghtasultramarathon",
+        "notes": "Prices include state taxes; amounts not published."
+      },
+      "summary": "Midnight road ultra through the Tamhini and Mulshi dam area west of Pune, with distances in miles from 5 to 35. Pitched as a Comrades training run.",
+      "categories": [
+        {
+          "name": "5 Miles",
+          "distance_km": 8.05,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": "00:20",
+          "cutoff": "1:45",
+          "min_age": null,
+          "level": "beginner",
+          "eligibility": null,
+          "notes": "+140 m. 2026 timings."
+        },
+        {
+          "name": "10 Miles",
+          "distance_km": 16.1,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": "00:15",
+          "cutoff": "3:00",
+          "min_age": null,
+          "level": "intermediate",
+          "eligibility": null,
+          "notes": "+250 m."
+        },
+        {
+          "name": "20 Miles",
+          "distance_km": 32.2,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": "00:10",
+          "cutoff": "6:00",
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": null,
+          "notes": "+370 m."
+        },
+        {
+          "name": "30 Miles",
+          "distance_km": 48.3,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": "00:05",
+          "cutoff": "8:00",
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": null,
+          "notes": "+510 m."
+        },
+        {
+          "name": "35 Miles",
+          "distance_km": 56.327,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": "00:00",
+          "cutoff": "9:30",
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": null,
+          "notes": "+650 m. No intermediate cutoffs."
+        }
+      ],
+      "course": {
+        "terrain": "road",
+        "surface": "tarmac",
+        "elevation_gain_m": 650,
+        "profile": "rolling",
+        "description": "Dark, winding roads beside the Tamhini Wildlife Sanctuary and Mulshi Dam; elevation is for the 35-mile route."
+      },
+      "format": null,
+      "highlights": [
+        "Night race starting at midnight",
+        "Comrades-style 35-mile long run"
+      ],
+      "tips": [
+        "Races start between midnight and 12:20 AM; carry a headlamp and reflective gear.",
+        "Semi-supported: carry at least 1 L of water.",
+        "Maale is on the Pune-Mulshi road; arrange transport as there is little public transport at night."
+      ],
+      "amenities": [],
+      "beginner_friendly": true,
+      "tags": [
+        "night-race",
+        "road-ultra"
+      ],
+      "sources": [
+        "https://www.wgrf.in/westernghtasultramarathon"
+      ]
+    },
+    {
+      "name": "Chennai Trail Ultra",
+      "edition": "2027",
+      "sport": "trail-running",
+      "discipline": "ultra",
+      "city": "Chennai",
+      "venue": "Dr. Ambedkar Football Ground, Erumaivettipalayam, North Chennai",
+      "venue_lat": null,
+      "venue_lon": null,
+      "start_date": "2027-09-05",
+      "end_date": "2027-09-05",
+      "date_status": "expected",
+      "last_edition_date": "2026-09-06",
+      "organiser": "Chennai Trail Club",
+      "official_url": "https://chennaitrailclub.in/",
+      "registration": {
+        "status": "upcoming",
+        "opens": null,
+        "closes": null,
+        "url": "https://chennaitrailclub.in/upcoming-events/",
+        "notes": "2026 registration opened 6 Jun 2026; fees not published."
+      },
+      "summary": "ITRA-listed low-elevation trail race on the northern edge of Chennai, held on the first Sunday of September (2024-2026). Course mixes dam bunds, cashew orchards, gullies and sandy riverbeds.",
+      "categories": [
+        {
+          "name": "50K",
+          "distance_km": 50,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": "04:30",
+          "cutoff": "7:30",
+          "min_age": 18,
+          "level": "advanced",
+          "eligibility": null,
+          "notes": "Veterans 51+ get 8:00. Torch mandatory."
+        },
+        {
+          "name": "32.2K",
+          "distance_km": 32.2,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": "05:00",
+          "cutoff": "5:30",
+          "min_age": 18,
+          "level": "advanced",
+          "eligibility": null,
+          "notes": "Women 6:00, veteran men 6:00, veteran women 6:30. Torch mandatory."
+        },
+        {
+          "name": "16.1K",
+          "distance_km": 16.1,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": "06:00",
+          "cutoff": "2:45",
+          "min_age": 18,
+          "level": "intermediate",
+          "eligibility": null,
+          "notes": "Women 3:15. Wave starts 15 minutes apart."
+        }
+      ],
+      "course": {
+        "terrain": "trail",
+        "surface": "dam bunds, orchard tracks, loose red soil gullies and sandy riverbeds",
+        "elevation_gain_m": 239,
+        "profile": "flat",
+        "description": "Low-elevation trail loop on the city's northern fringe; about 190-239 m gain for the 50K per race guide."
+      },
+      "format": null,
+      "highlights": [
+        "ITRA race close to Chennai",
+        "Separate veteran (51+) cutoffs"
+      ],
+      "tips": [
+        "Soft sand near paddy fields and riverbeds is the main challenge; gaiters help.",
+        "September mornings are hot and humid; the 4:30 AM 50K start avoids the worst heat.",
+        "Carry a torch for the 50K and 32.2K pre-dawn starts."
+      ],
+      "amenities": [],
+      "beginner_friendly": false,
+      "tags": [
+        "itra"
+      ],
+      "sources": [
+        "https://chennaitrailclub.in/event-list/2026-2/chennai-trail-ultra-2026-ctu-26/",
+        "https://chennaitrailclub.in/past-events/",
+        "https://fatmarathoner.com/chennai-trail-ultra-guide/"
+      ]
+    },
+    {
+      "name": "Anjur Ascent Ultra",
+      "edition": "2027",
+      "sport": "trail-running",
+      "discipline": "ultra",
+      "city": "Chennai",
+      "venue": "Arulmigu Sri Veera Aanchaneyar Temple, Kunnavakkam (near Anjur)",
+      "venue_lat": null,
+      "venue_lon": null,
+      "start_date": "2027-02-13",
+      "end_date": "2027-02-13",
+      "date_status": "expected",
+      "last_edition_date": "2026-02-14",
+      "organiser": "Chennai Trail Club",
+      "official_url": "https://chennaitrailclub.in/",
+      "registration": {
+        "status": "upcoming",
+        "opens": null,
+        "closes": null,
+        "url": "https://chennaitrailclub.in/upcoming-events/",
+        "notes": "Timed hill-loop formats are selected by review, not first come first served."
+      },
+      "summary": "Hill trail ultra south of Chennai mixing distance races with 6- and 12-hour hill-loop challenges on a 2.2 km, 150 m climb loop.",
+      "categories": [
+        {
+          "name": "50K",
+          "distance_km": 50,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": "04:30",
+          "cutoff": "7:30",
+          "min_age": 18,
+          "level": "advanced",
+          "eligibility": null,
+          "notes": null
+        },
+        {
+          "name": "32.2K",
+          "distance_km": 32.2,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": "05:00",
+          "cutoff": "5:30",
+          "min_age": 18,
+          "level": "advanced",
+          "eligibility": null,
+          "notes": null
+        },
+        {
+          "name": "16.1K",
+          "distance_km": 16.1,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": "06:00",
+          "cutoff": "2:45",
+          "min_age": 18,
+          "level": "intermediate",
+          "eligibility": null,
+          "notes": null
+        },
+        {
+          "name": "6 Hours Hill Loop",
+          "distance_km": 25,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": "06:00",
+          "cutoff": "6:00",
+          "min_age": 18,
+          "level": "advanced",
+          "eligibility": "In the last year: 700 m+ trail race (25 km in 5 h, 30 km in 6 h or 35 km in 7 h) or a road marathon under 5:00",
+          "notes": "About 25 km and 1,800 m gain. Morning or 12:00 PM window, 30 slots."
+        },
+        {
+          "name": "12 Hours Hill Loop",
+          "distance_km": 50,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": "06:00",
+          "cutoff": "12:00",
+          "min_age": 18,
+          "level": "advanced",
+          "eligibility": "In the last year: a trail or endurance ultra over 42 km, or a 50 km trail with 1,500 m+ in 10 hours",
+          "notes": "About 50 km and 3,600 m gain. 20 slots. Two loops must be finished within each hour."
+        }
+      ],
+      "course": {
+        "terrain": "trail",
+        "surface": "forest paths, rocky sections and technical climbs",
+        "elevation_gain_m": 3600,
+        "profile": "hilly",
+        "description": "Multi-terrain hill course with steep ascents; timed formats repeat a 2.2 km loop with about 150 m gain."
+      },
+      "format": null,
+      "highlights": [
+        "Hour-by-hour hill loop format",
+        "2026 edition held 14 Feb"
+      ],
+      "tips": [
+        "For the timed formats you must finish two loops inside each hour; practise short, steep hill repeats.",
+        "Mid-February is the coolest part of the Chennai year, but rock heats up fast after 10 AM."
+      ],
+      "amenities": [],
+      "beginner_friendly": false,
+      "tags": [
+        "itra",
+        "hill-loops"
+      ],
+      "sources": [
+        "https://chennaitrailclub.in/event-list/2026-2/anjur-ascent-ultra-2026-a2u-26/",
+        "https://chennaitrailclub.in/past-events/"
+      ]
+    },
+    {
+      "name": "Deccan Ultra",
+      "edition": "2027",
+      "sport": "trail-running",
+      "discipline": "ultra",
+      "city": "Nashik",
+      "venue": "Bhandardara, Ahmednagar district (race base; 35K starts at Waki Dam)",
+      "venue_lat": 19.546,
+      "venue_lon": 73.753,
+      "start_date": "2027-01-24",
+      "end_date": "2027-01-24",
+      "date_status": "expected",
+      "last_edition_date": "2026-01-25",
+      "organiser": "Grand Indian Trails",
+      "official_url": "http://deccanultra.com",
+      "registration": {
+        "status": "unknown",
+        "opens": null,
+        "closes": null,
+        "url": null,
+        "notes": "Official site was unreachable during research; 2027 date and race data from ITRA listings."
+      },
+      "summary": "Mountain ultra around Bhandardara in the Sahyadris that climbs Kalsubai (1,646 m), Maharashtra's highest peak, and passes five forts. Distances from a 15K and a vertical kilometre up to 115K.",
+      "categories": [
+        {
+          "name": "15K",
+          "distance_km": 15,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "intermediate",
+          "eligibility": null,
+          "notes": null
+        },
+        {
+          "name": "21K",
+          "distance_km": 21,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": null,
+          "notes": null
+        },
+        {
+          "name": "35K",
+          "distance_km": 35,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": "06:30",
+          "cutoff": "7:00",
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": null,
+          "notes": "About 1,506 m gain; starts and finishes at Waki Dam."
+        },
+        {
+          "name": "55K",
+          "distance_km": 55,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": "11:00",
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": null,
+          "notes": "About 2,146 m gain."
+        },
+        {
+          "name": "80K",
+          "distance_km": 80,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": null,
+          "notes": null
+        },
+        {
+          "name": "115K",
+          "distance_km": 115,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": "00:30",
+          "cutoff": "24:00",
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": null,
+          "notes": "Field of about 150; 9 aid stations."
+        },
+        {
+          "name": "Vertical Kilometer",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": "1:30",
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": null,
+          "notes": null
+        }
+      ],
+      "course": {
+        "terrain": "trail",
+        "surface": "mountain trails with iron ladders on steep sections",
+        "elevation_gain_m": null,
+        "profile": "mountain",
+        "description": "Sahyadri trails near Bhandardara Dam over Kalsubai and the Alang-Madan-Kulang forts."
+      },
+      "format": null,
+      "highlights": [
+        "Summits Kalsubai, Maharashtra's highest peak",
+        "Iron ladders on steep sections"
+      ],
+      "tips": [
+        "Bhandardara is about 165 km (4 hours) by road from Mumbai and closer from Nashik.",
+        "Steep ladder sections need hands-free kit; use a vest rather than handheld bottles.",
+        "Late January nights in the hills are cold; the 115K starts at 12:30 AM."
+      ],
+      "amenities": [],
+      "beginner_friendly": false,
+      "tags": [
+        "itra",
+        "mountain"
+      ],
+      "sources": [
+        "https://www.asiatrailmaster.com/news/tag/deccan",
+        "https://itra.run/Races/RaceDetails/Deccan.Ultra.35km/2027/118088",
+        "https://itra.run/Races/RaceDetails/Deccan.Ultra.115km/2027/118087"
+      ]
+    },
+    {
+      "name": "Dudhsagar Ultra Trail",
+      "edition": "2026",
+      "sport": "trail-running",
+      "discipline": "ultra",
+      "city": "Goa",
+      "venue": "Collem (Kolem), Mollem National Park and Bhagwan Mahaveer Wildlife Sanctuary",
+      "venue_lat": 15.345,
+      "venue_lon": 74.24,
+      "start_date": "2026-12-06",
+      "end_date": "2026-12-06",
+      "date_status": "expected",
+      "last_edition_date": null,
+      "organiser": null,
+      "official_url": null,
+      "registration": {
+        "status": "unknown",
+        "opens": null,
+        "closes": null,
+        "url": null,
+        "notes": "No organiser site found; details come from ITRA race listings, which could not be rendered for direct checking."
+      },
+      "summary": "Trail ultra in the forests around Dudhsagar falls in east Goa, listed on ITRA with 21K, 50K and 100K races and run since at least 2024.",
+      "categories": [
+        {
+          "name": "100K",
+          "distance_km": 100,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": "05:00",
+          "cutoff": "15:00",
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": null,
+          "notes": "Field of about 150."
+        },
+        {
+          "name": "50K",
+          "distance_km": 50,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": "06:30",
+          "cutoff": "7:30",
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": null,
+          "notes": null
+        },
+        {
+          "name": "21K",
+          "distance_km": 21,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": "4:00",
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": null,
+          "notes": null
+        }
+      ],
+      "course": {
+        "terrain": "trail",
+        "surface": "forest trails",
+        "elevation_gain_m": null,
+        "profile": "hilly",
+        "description": "Trails through Mollem National Park and the Bhagwan Mahaveer Wildlife Sanctuary near Collem."
+      },
+      "format": null,
+      "highlights": [
+        "Goa's main trail ultra",
+        "Forest course near Dudhsagar falls"
+      ],
+      "tips": [
+        "Collem railway station is next to the start area; trains from Madgaon take about an hour.",
+        "Early December is dry but humid in the forest; plan for heat after mid-morning.",
+        "Verify the date with the organiser before travelling; details are from ITRA listings only."
+      ],
+      "amenities": [],
+      "beginner_friendly": false,
+      "tags": [
+        "itra",
+        "forest"
+      ],
+      "sources": [
+        "https://itra.run/Races/RaceDetails/Dudhsagar.Ultra.Trail..Goa..50.km/2026/118095",
+        "https://itra.run/Races/RaceDetails/Dudhsagar.Ultra.Trail..Goa..100.km/2026/118094"
+      ]
+    },
+    {
+      "name": "Ultribe Paderu",
+      "edition": "2026",
+      "sport": "trail-running",
+      "discipline": "ultra",
+      "city": "Visakhapatnam",
+      "venue": "Paderu, Alluri Sitharama Raju district (Eastern Ghats)",
+      "venue_lat": 18.07,
+      "venue_lon": 82.67,
+      "start_date": "2026-12-06",
+      "end_date": "2026-12-06",
+      "date_status": "confirmed",
+      "last_edition_date": null,
+      "organiser": "Visakha Trail Running Association (VTRA)",
+      "official_url": "https://www.vtra.run/paderu2026",
+      "registration": {
+        "status": "unknown",
+        "opens": null,
+        "closes": null,
+        "url": "https://www.vtra.run/paderu2026",
+        "notes": "Official page says 'stay tuned'. Distances from a third-party calendar; not yet published officially."
+      },
+      "summary": "Eastern Ghats trail ultra in the Paderu hills inland from Visakhapatnam, billed by its organisers as the longest race in South India and part of the South India Trail Grail circuit.",
+      "categories": [
+        {
+          "name": "100K",
+          "distance_km": 100,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": null,
+          "notes": null
+        },
+        {
+          "name": "50K",
+          "distance_km": 50,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": null,
+          "notes": null
+        },
+        {
+          "name": "25K",
+          "distance_km": 25,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": null,
+          "notes": null
+        },
+        {
+          "name": "10K",
+          "distance_km": 10,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "intermediate",
+          "eligibility": null,
+          "notes": null
+        }
+      ],
+      "course": {
+        "terrain": "trail",
+        "surface": null,
+        "elevation_gain_m": null,
+        "profile": "hilly",
+        "description": "Hill trails in the Eastern Ghats around Paderu; route not yet published."
+      },
+      "format": null,
+      "highlights": [
+        "South India Trail Grail race",
+        "Organised by Vizag's trail running association"
+      ],
+      "tips": [
+        "Paderu is a winding ghat-road drive from Visakhapatnam; arrive the day before.",
+        "December nights in the Paderu hills are cold; pack a warm layer for a pre-dawn start."
+      ],
+      "amenities": [],
+      "beginner_friendly": false,
+      "tags": [
+        "eastern-ghats"
+      ],
+      "sources": [
+        "https://www.southindiatrailgrail.com/events",
+        "https://www.vtra.run/paderu2026",
+        "https://fatmarathoner.com/upcoming-marathons-india-2026-calendar/"
+      ]
+    }
+  ]
+}

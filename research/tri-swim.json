@@ -1,0 +1,4053 @@
+{
+  "events": [
+    {
+      "name": "IRONMAN 70.3 Goa",
+      "edition": "2026, 6th edition",
+      "sport": "triathlon",
+      "discipline": "70.3",
+      "city": "Goa",
+      "venue": "Miramar Beach, Panaji (swim start, transition and finish)",
+      "venue_lat": 15.4823,
+      "venue_lon": 73.807,
+      "start_date": "2026-11-01",
+      "end_date": "2026-11-01",
+      "date_status": "confirmed",
+      "last_edition_date": "2025-11-09",
+      "organiser": "Yoska (IRONMAN India licensee)",
+      "official_url": "https://www.ironman.com/races/im703-goa",
+      "registration": {
+        "status": "unknown",
+        "opens": "2026-04-22",
+        "closes": null,
+        "url": "https://www.ironman.com/races/im703-goa",
+        "notes": "Priced in USD with tiered pricing that rises as slots fill (about USD 457 women / USD 508 general individual incl. GST and fees per RacesIndia). 25% refund/changes deadline was 17 Sep 2026. Age 18+ on race day."
+      },
+      "summary": "India's only IRONMAN-branded half-distance triathlon, held in Panaji since 2019. The 2025 edition drew over 1,300 athletes from 31 countries. It is a qualifier with 50 age-group slots (25 men, 25 women) for the IRONMAN 70.3 World Championship.",
+      "categories": [
+        {
+          "name": "IRONMAN 70.3 Individual",
+          "distance_km": 113,
+          "swim_km": 1.9,
+          "bike_km": 90,
+          "run_km": 21.1,
+          "fee_inr": null,
+          "start_time": "07:00",
+          "cutoff": "8:30",
+          "min_age": 18,
+          "level": "advanced",
+          "eligibility": null,
+          "notes": "Cutoffs measured from each athlete's own swim start: swim 1:10, swim plus bike 5:30 cumulative, overall 8:30. Rolling swim start seeded by expected swim time. Fee charged in USD, not INR."
+        },
+        {
+          "name": "IRONMAN 70.3 Relay (2-3 athletes)",
+          "distance_km": 113,
+          "swim_km": 1.9,
+          "bike_km": 90,
+          "run_km": 21.1,
+          "fee_inr": null,
+          "start_time": "07:00",
+          "cutoff": "8:30",
+          "min_age": 18,
+          "level": "advanced",
+          "eligibility": null,
+          "notes": "One timing chip handed over in transition. All members must attend check-in together with photo ID. Relay teams are not eligible for World Championship slots."
+        }
+      ],
+      "course": {
+        "terrain": "mixed",
+        "surface": "sea swim, tarmac bike and run",
+        "elevation_gain_m": null,
+        "profile": "rolling",
+        "description": "Triangular 1.9 km sea swim off Miramar Beach in the Arabian Sea. Two-lap 90 km bike that includes the Zuari Bridge, then a three-loop run between Miramar and the Governor's Palace area."
+      },
+      "format": null,
+      "highlights": [
+        "Only IRONMAN-branded event in South Asia",
+        "50 IRONMAN 70.3 World Championship qualifying slots",
+        "Over 1,300 starters from 31 nations in 2025"
+      ],
+      "tips": [
+        "Athlete check-in is at Taleigao Community Centre on 30 Oct (10:30-18:30) or 31 Oct (09:00-16:30); bring photo ID.",
+        "Bike and transition bags must be racked at Miramar Beach on 31 Oct between 11:30 and 17:30; there is no race-morning bike check-in.",
+        "No warm-up swim is allowed on race morning under the 2026 athlete guide, so do a short sea swim at Miramar on Friday or Saturday to practise sighting off the start buoys.",
+        "Early November Arabian Sea water is warm, typically well above the 24.5 C IRONMAN age-group wetsuit limit, so train for a non-wetsuit swim; a swimskin is the usual alternative.",
+        "Post-monsoon swell can still push swimmers along the beach; sight every 6-8 strokes on the turn buoys rather than following feet.",
+        "Heat and humidity build fast after 10:00, so the half marathon is the decisive leg; plan electrolytes and use every run aid station."
+      ],
+      "amenities": [
+        "Finisher medal",
+        "Chip timing",
+        "Bike and run aid stations",
+        "Race expo",
+        "Bike service shop"
+      ],
+      "beginner_friendly": false,
+      "tags": [
+        "iconic",
+        "ironman",
+        "world-championship-qualifier",
+        "sea-swim"
+      ],
+      "sources": [
+        "https://www.racesindia.com/races/ironman-70-3-goa/2026",
+        "https://marathonmitra.com/events/ironman-703-goa",
+        "https://yoska.in/event-schedule-ironman/"
+      ]
+    },
+    {
+      "name": "IRONMAN 70.3 Amdavad",
+      "edition": "2027, inaugural edition",
+      "sport": "triathlon",
+      "discipline": "70.3",
+      "city": "Ahmedabad",
+      "venue": "Sabarmati Riverfront at Atal Bridge (swim, transition, run)",
+      "venue_lat": 23.0205,
+      "venue_lon": 72.575,
+      "start_date": "2027-02-14",
+      "end_date": "2027-02-14",
+      "date_status": "confirmed",
+      "last_edition_date": null,
+      "organiser": "Yoska (IRONMAN India licensee)",
+      "official_url": "https://www.ironman.com/races/im703-amdavad",
+      "registration": {
+        "status": "open",
+        "opens": "2026-10-14",
+        "closes": null,
+        "url": "https://www.ironman.com/races/im703-amdavad",
+        "notes": "Registration announced to open 14 Oct 2026, 10:00 IST. Entry prices not yet published at time of research. Age 18+ on race day; age groups based on age on 31 Dec 2027."
+      },
+      "summary": "First IRONMAN 70.3 in Ahmedabad and India's second IRONMAN 70.3 race, with a river swim in the Sabarmati beside Atal Bridge. Individual finishers can compete for 2027 IRONMAN 70.3 World Championship qualifying slots.",
+      "categories": [
+        {
+          "name": "IRONMAN 70.3 Individual",
+          "distance_km": 113,
+          "swim_km": 1.9,
+          "bike_km": 90,
+          "run_km": 21.1,
+          "fee_inr": null,
+          "start_time": "07:00",
+          "cutoff": null,
+          "min_age": 18,
+          "level": "advanced",
+          "eligibility": null,
+          "notes": "Rolling swim start. Per-leg and overall cutoffs to be published in the athlete guide."
+        },
+        {
+          "name": "IRONMAN 70.3 Relay (2-3 athletes)",
+          "distance_km": 113,
+          "swim_km": 1.9,
+          "bike_km": 90,
+          "run_km": 21.1,
+          "fee_inr": null,
+          "start_time": "07:00",
+          "cutoff": null,
+          "min_age": 18,
+          "level": "advanced",
+          "eligibility": null,
+          "notes": "Captain creates the team and pays; each member also registers. Relays cannot qualify for the World Championship."
+        }
+      ],
+      "course": {
+        "terrain": "mixed",
+        "surface": "river swim, city tarmac, riverfront promenade",
+        "elevation_gain_m": null,
+        "profile": "flat",
+        "description": "1.9 km rectangular swim loop in the Sabarmati River near Atal Bridge. Bike is three 30 km loops on city roads, mostly flat. Run is three loops on the Sabarmati Riverfront promenade, with stairs marked near transition."
+      },
+      "format": null,
+      "highlights": [
+        "Inaugural IRONMAN 70.3 in Gujarat",
+        "Flat, fast three-loop bike and run courses",
+        "World Championship qualifier for individual age-groupers"
+      ],
+      "tips": [
+        "Check-in is at Hyatt Regency Ahmedabad on 12 Feb (10:30-18:30) or 13 Feb (09:00-16:30); attend in person with photo ID.",
+        "Compulsory overnight bike racking is on 13 Feb, 11:30-17:30, at Atal Bridge Parking on the east bank; transition reopens 05:15-06:30 on race morning.",
+        "River water has no waves but sighting on a rectangular loop needs practice: pick bridge pylons or riverfront buildings as sighting marks.",
+        "Mid-February mornings in Ahmedabad are cool and afternoons warm, so pack arm warmers for the early bike laps and plan for rising heat on the run.",
+        "Loop courses mean crowded bike lanes on laps two and three; keep right-side overtaking discipline to avoid drafting penalties.",
+        "Practise climbing the stairs near transition in run shoes during your bike-run brick sessions."
+      ],
+      "amenities": [
+        "Finisher medal",
+        "Chip timing",
+        "Two bike aid stations",
+        "Four run aid stations"
+      ],
+      "beginner_friendly": false,
+      "tags": [
+        "ironman",
+        "inaugural",
+        "world-championship-qualifier",
+        "river-swim"
+      ],
+      "sources": [
+        "https://www.racesindia.com/races/ironman-70-3-amdavad/2027",
+        "https://yoska.in/ironman-70-3-amdavad/"
+      ]
+    },
+    {
+      "name": "Mongrels Chennai Duathlon",
+      "edition": "2026",
+      "sport": "triathlon",
+      "discipline": "duathlon",
+      "city": "Chennai",
+      "venue": "Chennai (start and finish venue to be confirmed by organiser)",
+      "venue_lat": null,
+      "venue_lon": null,
+      "start_date": "2026-11-15",
+      "end_date": "2026-11-15",
+      "date_status": "confirmed",
+      "last_edition_date": null,
+      "organiser": "Mongrels",
+      "official_url": "https://chennaiduathlon.com/",
+      "registration": {
+        "status": "open",
+        "opens": null,
+        "closes": null,
+        "url": "https://chennaiduathlon.com/",
+        "notes": "INR 1,999 without cycle rental or INR 2,349 with cycle rental, same for both distances. Helmet mandatory on the bike leg."
+      },
+      "summary": "Run-bike-run duathlon in Chennai with a standard 55 km Classic and a 27.5 km Sprint. A rental bike option makes it accessible to runners without a road bike.",
+      "categories": [
+        {
+          "name": "Classic Duathlon",
+          "distance_km": 55,
+          "swim_km": null,
+          "bike_km": 40,
+          "run_km": 15,
+          "fee_inr": 1999,
+          "start_time": "04:30",
+          "cutoff": "4:15",
+          "min_age": null,
+          "level": "intermediate",
+          "eligibility": null,
+          "notes": "Run 10 km, bike 40 km, run 5 km. INR 2,349 with cycle rental."
+        },
+        {
+          "name": "Sprint Duathlon",
+          "distance_km": 27.5,
+          "swim_km": null,
+          "bike_km": 20,
+          "run_km": 7.5,
+          "fee_inr": 1999,
+          "start_time": "05:15",
+          "cutoff": "2:45",
+          "min_age": null,
+          "level": "beginner",
+          "eligibility": null,
+          "notes": "Run 5 km, bike 20 km, run 2.5 km. INR 2,349 with cycle rental."
+        }
+      ],
+      "course": {
+        "terrain": "road",
+        "surface": "tarmac",
+        "elevation_gain_m": null,
+        "profile": "flat",
+        "description": "Run-bike-run format on Chennai roads; exact course and venue to be announced by the organiser."
+      },
+      "format": null,
+      "highlights": [
+        "Cycle rental available, so no road bike needed",
+        "Early starts at 04:30 and 05:15 to beat the heat",
+        "Low entry fee for a timed multisport race"
+      ],
+      "tips": [
+        "Assembly is at 04:00, so arrange transport the night before; public transport is limited at that hour.",
+        "Mid-November is the northeast monsoon in Chennai: expect wet roads and possible early rain, so lower tyre pressure slightly and brake earlier.",
+        "If you rent a cycle, ask for a test ride at kit collection to set saddle height before race morning.",
+        "Practise the second run off the bike (brick sessions); legs feel heavy for the first kilometre after 20-40 km of riding."
+      ],
+      "amenities": [
+        "Timing",
+        "Cycle rental option"
+      ],
+      "beginner_friendly": true,
+      "tags": [
+        "duathlon",
+        "no-swim",
+        "bike-rental"
+      ],
+      "sources": [
+        "https://www.racesindia.com/races/mongrels-chennai-duathlon/2026",
+        "https://chennaiduathlon.com/"
+      ]
+    },
+    {
+      "name": "Tigerman Triathlon & Duathlon Hyderabad",
+      "edition": "2026",
+      "sport": "triathlon",
+      "discipline": "olympic",
+      "city": "Hyderabad",
+      "venue": "IBS Hyderabad campus, Shankarpally Road",
+      "venue_lat": 17.425,
+      "venue_lon": 78.215,
+      "start_date": "2026-12-13",
+      "end_date": "2026-12-13",
+      "date_status": "confirmed",
+      "last_edition_date": null,
+      "organiser": "Tigerman Sports Pvt. Ltd.",
+      "official_url": "https://tigerman.in/tigerman-india-hyderabad-2026/",
+      "registration": {
+        "status": "open",
+        "opens": null,
+        "closes": null,
+        "url": "https://tigerman.in/tigerman-india-hyderabad-2026/",
+        "notes": "Fees listed are solo prices; Tigerman fees are quoted before 18% GST. Relay teams of 2-3 cost INR 5,000 (super sprint), 5,500 (sprint), 12,000 (Olympic)."
+      },
+      "summary": "Hyderabad edition of the Tigerman series with super sprint, sprint and Olympic triathlons plus matching duathlons, all with solo and relay options. Expo and bib collection are at IBS Hyderabad the day before.",
+      "categories": [
+        {
+          "name": "Super Sprint Triathlon",
+          "distance_km": 12.25,
+          "swim_km": 0.25,
+          "bike_km": 10,
+          "run_km": 2,
+          "fee_inr": 3500,
+          "start_time": null,
+          "cutoff": "2:45",
+          "min_age": null,
+          "level": "beginner",
+          "eligibility": null,
+          "notes": "Relay INR 5,000. Fees exclude GST."
+        },
+        {
+          "name": "Sprint Triathlon",
+          "distance_km": 25.75,
+          "swim_km": 0.75,
+          "bike_km": 20,
+          "run_km": 5,
+          "fee_inr": 3800,
+          "start_time": null,
+          "cutoff": "3:00",
+          "min_age": null,
+          "level": "beginner",
+          "eligibility": null,
+          "notes": "Relay INR 5,500. Fees exclude GST."
+        },
+        {
+          "name": "Olympic Triathlon",
+          "distance_km": 51.5,
+          "swim_km": 1.5,
+          "bike_km": 40,
+          "run_km": 10,
+          "fee_inr": 9000,
+          "start_time": null,
+          "cutoff": "4:30",
+          "min_age": null,
+          "level": "intermediate",
+          "eligibility": null,
+          "notes": "Relay INR 12,000. Fees exclude GST."
+        },
+        {
+          "name": "Super Sprint Duathlon",
+          "distance_km": 13,
+          "swim_km": null,
+          "bike_km": 10,
+          "run_km": 3,
+          "fee_inr": 3500,
+          "start_time": null,
+          "cutoff": "2:45",
+          "min_age": null,
+          "level": "beginner",
+          "eligibility": null,
+          "notes": "Run 1 km, bike 10 km, run 2 km."
+        },
+        {
+          "name": "Sprint Duathlon",
+          "distance_km": 27,
+          "swim_km": null,
+          "bike_km": 20,
+          "run_km": 7,
+          "fee_inr": 3800,
+          "start_time": null,
+          "cutoff": "3:00",
+          "min_age": null,
+          "level": "beginner",
+          "eligibility": null,
+          "notes": "Run 2 km, bike 20 km, run 5 km."
+        },
+        {
+          "name": "Olympic Duathlon",
+          "distance_km": 55,
+          "swim_km": null,
+          "bike_km": 40,
+          "run_km": 15,
+          "fee_inr": 9000,
+          "start_time": null,
+          "cutoff": "4:30",
+          "min_age": null,
+          "level": "intermediate",
+          "eligibility": null,
+          "notes": "Run 5 km, bike 40 km, run 10 km."
+        }
+      ],
+      "course": {
+        "terrain": "mixed",
+        "surface": "swim venue not specified (pool or open water), tarmac bike and run",
+        "elevation_gain_m": null,
+        "profile": null,
+        "description": "Race hub at the IBS Hyderabad campus on the western edge of the city. The organiser has not published whether the swim is in a pool or open water."
+      },
+      "format": null,
+      "highlights": [
+        "Three triathlon and three duathlon distances in one event",
+        "Relay option for teams of two or three",
+        "RFID chip timing"
+      ],
+      "tips": [
+        "Collect your bib at the IBS Hyderabad expo on 12 Dec; there is no race-day pickup listed.",
+        "December mornings around Shankarpally can drop to about 15 C, so carry a gilet or arm warmers for the bike after a wet swim.",
+        "Lay out transition in order: helmet on top of the bike, shoes open with laces loosened, race belt with bib for the run.",
+        "Ask the organiser whether the swim is pool or open water before choosing goggles; tinted for outdoor water, clear for an indoor pool."
+      ],
+      "amenities": [
+        "Chip timing",
+        "Hydration and refreshments",
+        "Medical support",
+        "Swim cap for triathletes"
+      ],
+      "beginner_friendly": true,
+      "tags": [
+        "relay",
+        "duathlon",
+        "super-sprint"
+      ],
+      "sources": [
+        "https://tigerman.in/tigerman-india-hyderabad-2026/",
+        "https://www.racesindia.com/races/tigerman-triathlon-duathlon-hyderabad/2026"
+      ]
+    },
+    {
+      "name": "EAA Pune Triathlon",
+      "edition": "2027, EAA Pune Triathlon 6.0 and EAA Kids Pune Triathlon 3.0",
+      "sport": "triathlon",
+      "discipline": "olympic",
+      "city": "Pune",
+      "venue": "Andra Dam, Maval, Pune district",
+      "venue_lat": 18.83,
+      "venue_lon": 73.65,
+      "start_date": "2027-01-02",
+      "end_date": "2027-01-03",
+      "date_status": "confirmed",
+      "last_edition_date": null,
+      "organiser": "Endurance Athlete Association (EAA)",
+      "official_url": "https://konfhub.com/eaapunetriathlon",
+      "registration": {
+        "status": "unknown",
+        "opens": null,
+        "closes": null,
+        "url": "https://konfhub.com/eaapunetriathlon",
+        "notes": "Entries are non-cancellable, non-refundable and non-transferable. Kids races on Sat 2 Jan (ages 8-16, INR 3,500), adult races on Sun 3 Jan."
+      },
+      "summary": "Open-water triathlon at Andra Dam near Pune run by the Endurance Athlete Association, now in its sixth adult edition. Adults race super sprint, sprint or Olympic distances on the Sunday after a kids' triathlon on Saturday.",
+      "categories": [
+        {
+          "name": "Olympic",
+          "distance_km": 51.5,
+          "swim_km": 1.5,
+          "bike_km": 40,
+          "run_km": 10,
+          "fee_inr": 7500,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "intermediate",
+          "eligibility": "Open-water swimming competence required",
+          "notes": null
+        },
+        {
+          "name": "Sprint",
+          "distance_km": 25.75,
+          "swim_km": 0.75,
+          "bike_km": 20,
+          "run_km": 5,
+          "fee_inr": 6500,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "beginner",
+          "eligibility": "Open-water swimming competence required",
+          "notes": null
+        },
+        {
+          "name": "Super Sprint",
+          "distance_km": null,
+          "swim_km": 0.4,
+          "bike_km": 10,
+          "run_km": null,
+          "fee_inr": 5900,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "beginner",
+          "eligibility": null,
+          "notes": "Run distance listed as 2.5 km on the ticket and 3 km in the overview; organiser has not confirmed which."
+        }
+      ],
+      "course": {
+        "terrain": "mixed",
+        "surface": "dam reservoir swim, tarmac bike and run",
+        "elevation_gain_m": null,
+        "profile": "rolling",
+        "description": "Swim in the Andra Dam reservoir in the Maval hills north-west of Pune, with bike and run on surrounding rural roads."
+      },
+      "format": null,
+      "highlights": [
+        "Open-water reservoir swim close to Pune",
+        "Breakfast included for adult races",
+        "Kids triathlon the day before"
+      ],
+      "tips": [
+        "Early January dawns in the Maval hills are cold (often around 10-12 C), so bring a warm layer for transition and consider arm warmers on the bike.",
+        "Reservoir water in January is cooler than a pool; do at least two open-water swims beforehand to get used to cold-water breathing.",
+        "Sight on fixed shoreline landmarks; reservoir buoys can drift and morning mist sometimes lowers visibility.",
+        "Kids' entries need a signed consent form and a hard copy of the child's Aadhaar at bib collection."
+      ],
+      "amenities": [
+        "Chip bibs",
+        "Hydration",
+        "Medical support",
+        "Breakfast (adults)"
+      ],
+      "beginner_friendly": true,
+      "tags": [
+        "open-water",
+        "kids-race",
+        "super-sprint"
+      ],
+      "sources": [
+        "https://www.racesindia.com/races/eaa-tri-challenge-3-0/2027"
+      ]
+    },
+    {
+      "name": "Zuuperman - A Triathlon Series 2.0",
+      "edition": "2027, 2nd edition",
+      "sport": "triathlon",
+      "discipline": "olympic",
+      "city": "Ahmedabad",
+      "venue": "Club O7, Shela",
+      "venue_lat": 22.998,
+      "venue_lon": 72.463,
+      "start_date": "2027-01-17",
+      "end_date": "2027-01-17",
+      "date_status": "confirmed",
+      "last_edition_date": null,
+      "organiser": "LS Sports Management Pvt Ltd",
+      "official_url": "https://www.lssports.in/zuuperman-triathlon-2027",
+      "registration": {
+        "status": "open",
+        "opens": null,
+        "closes": null,
+        "url": "https://www.lssports.in/zuuperman-triathlon-2027",
+        "notes": "Registration via Konfhub. Fees not published on the event page. Kit and bib collection only on 16 Jan; no race-day collection."
+      },
+      "summary": "Pool-swim triathlon and swim-free 'Duo' bike-run races at Club O7 in Shela, Ahmedabad. The 50 m, eight-lane pool makes it a good first triathlon for athletes not yet comfortable in open water.",
+      "categories": [
+        {
+          "name": "Sprint Zuuperman",
+          "distance_km": 25.75,
+          "swim_km": 0.75,
+          "bike_km": 20,
+          "run_km": 5,
+          "fee_inr": null,
+          "start_time": "04:45",
+          "cutoff": "2:30",
+          "min_age": null,
+          "level": "beginner",
+          "eligibility": null,
+          "notes": "Swim cutoff 0:40, bike cutoff 1:00 (as published). Prize age brackets start at 15-30."
+        },
+        {
+          "name": "Olympic Zuuperman",
+          "distance_km": 51.5,
+          "swim_km": 1.5,
+          "bike_km": 40,
+          "run_km": 10,
+          "fee_inr": null,
+          "start_time": "04:45",
+          "cutoff": "5:15",
+          "min_age": null,
+          "level": "intermediate",
+          "eligibility": null,
+          "notes": "Swim cutoff 1:10, bike cutoff 2:45. Bike and run are two loops each. Prize age brackets start at 18-30."
+        },
+        {
+          "name": "Sprint Zuup DUO (bike-run)",
+          "distance_km": 25,
+          "swim_km": null,
+          "bike_km": 20,
+          "run_km": 5,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": "1:45",
+          "min_age": null,
+          "level": "beginner",
+          "eligibility": null,
+          "notes": "Bike cutoff 1:00."
+        },
+        {
+          "name": "Olympic Zuup DUO (bike-run)",
+          "distance_km": 50,
+          "swim_km": null,
+          "bike_km": 40,
+          "run_km": 10,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": "3:30",
+          "min_age": null,
+          "level": "intermediate",
+          "eligibility": null,
+          "notes": "Bike cutoff 2:15."
+        }
+      ],
+      "course": {
+        "terrain": "mixed",
+        "surface": "50 m pool, tarmac",
+        "elevation_gain_m": null,
+        "profile": "flat",
+        "description": "Swim in Club O7's 50 m, 8-lane pool, then looped bike and run courses on roads around Shela. Roads are closed on one side for runners until 10:00."
+      },
+      "format": null,
+      "highlights": [
+        "Pool swim, no open-water experience needed",
+        "Swim-free Duo option",
+        "Race window 04:30 to 11:00"
+      ],
+      "tips": [
+        "Swim briefing is at 04:30 and swim start at 04:45, so you will set up transition in the dark; pack a headlamp.",
+        "Choose kit collection slot 10:00-13:00 or 16:00-19:00 on 16 Jan at Club O7; kits are not handed out on race day.",
+        "In a lane-based pool swim, practise tapping feet to pass and turning at the wall without a flip if lanes are crowded.",
+        "Mid-January Ahmedabad dawns are around 10-12 C; a wet trisuit on a pre-sunrise bike feels cold, so consider a thin windproof layer."
+      ],
+      "amenities": [
+        "Timing",
+        "Expo and kit collection"
+      ],
+      "beginner_friendly": true,
+      "tags": [
+        "pool-swim",
+        "beginner-friendly",
+        "duathlon"
+      ],
+      "sources": [
+        "https://www.lssports.in/zuuperman-triathlon-2027",
+        "https://www.lssports.in/"
+      ]
+    },
+    {
+      "name": "Lohpurush 70.3 Bhopal Triathlon and Duathlon",
+      "edition": "2027",
+      "sport": "triathlon",
+      "discipline": "70.3",
+      "city": "Bhopal",
+      "venue": "MPT Boat Club, Upper Lake",
+      "venue_lat": 23.25,
+      "venue_lon": 77.378,
+      "start_date": "2027-02-07",
+      "end_date": "2027-02-07",
+      "date_status": "confirmed",
+      "last_edition_date": null,
+      "organiser": "Bhopal Runners",
+      "official_url": "https://www.lohpurush70-3.com/",
+      "registration": {
+        "status": "open",
+        "opens": null,
+        "closes": null,
+        "url": "https://www.lohpurush70-3.com/",
+        "notes": "Registration through ifinish.in. Age 16+; under-18s need parental consent. Bring your own bike and helmet."
+      },
+      "summary": "Community-run half-distance triathlon in Bhopal by the not-for-profit Bhopal Runners, with an Olympic-distance duathlon alongside. Entry fees are among the lowest for a 70.3-distance race in India.",
+      "categories": [
+        {
+          "name": "Lohpurush 70.3 Triathlon",
+          "distance_km": 113,
+          "swim_km": 1.9,
+          "bike_km": 90,
+          "run_km": 21.1,
+          "fee_inr": 3000,
+          "start_time": "06:30",
+          "cutoff": "10:00",
+          "min_age": 16,
+          "level": "advanced",
+          "eligibility": null,
+          "notes": null
+        },
+        {
+          "name": "Olympic Duathlon",
+          "distance_km": 55,
+          "swim_km": null,
+          "bike_km": 40,
+          "run_km": 15,
+          "fee_inr": 1500,
+          "start_time": "06:15",
+          "cutoff": "6:00",
+          "min_age": 16,
+          "level": "intermediate",
+          "eligibility": null,
+          "notes": "Run 10 km, bike 40 km, run 5 km."
+        }
+      ],
+      "course": {
+        "terrain": "mixed",
+        "surface": "lake swim, tarmac bike and run",
+        "elevation_gain_m": null,
+        "profile": "rolling",
+        "description": "Race hub at the MPT Boat Club on Bhopal's Upper Lake, with looped bike and run courses. The organiser has not confirmed the swim water body on its site."
+      },
+      "format": null,
+      "highlights": [
+        "70.3 distance for INR 3,000",
+        "10-hour cutoff, generous for first-time half-distance athletes",
+        "Run by a not-for-profit running community"
+      ],
+      "tips": [
+        "Bib collection, briefing and bike check-in are on 6 Feb at MPT Boat Club; bike check-in runs 15:00-18:00 only.",
+        "Report 45 minutes before your start time on race morning.",
+        "Early February mornings in Bhopal are cool (around 10-12 C); lake water feels cold at a 06:30 start, so do some cool-water swims beforehand and check the athlete guide on wetsuits.",
+        "Plan your own nutrition for 90 km; aid stations exist on bike and run but brands and spacing are not published."
+      ],
+      "amenities": [
+        "Chip timing",
+        "Bike and run aid stations",
+        "Ambulance and medical support"
+      ],
+      "beginner_friendly": false,
+      "tags": [
+        "community",
+        "lake-swim",
+        "budget"
+      ],
+      "sources": [
+        "https://www.lohpurush70-3.com/",
+        "https://www.racesindia.com/races/lohpurush-70-3-bhopal-triathlon-and-duathlon/2027"
+      ]
+    },
+    {
+      "name": "Tigerman India Ramtek",
+      "edition": "2027",
+      "sport": "triathlon",
+      "discipline": "olympic",
+      "city": "Nagpur",
+      "venue": "Ramtek, Nagpur district (about 50-55 km from Nagpur)",
+      "venue_lat": 21.395,
+      "venue_lon": 79.328,
+      "start_date": "2027-02-07",
+      "end_date": "2027-02-07",
+      "date_status": "confirmed",
+      "last_edition_date": null,
+      "organiser": "Tigerman Sports Pvt. Ltd.",
+      "official_url": "https://tigerman.in/tigerman-india-ramtek-2027/",
+      "registration": {
+        "status": "unknown",
+        "opens": null,
+        "closes": null,
+        "url": "https://tigerman.in/tigerman-india-ramtek-2027/",
+        "notes": "Regular fees listed; GST added on top. Relay teams of 2-3."
+      },
+      "summary": "Tigerman's long-course event near Nagpur, offering Olympic distance plus custom 122 km, 183 km and 255 km triathlons. It is one of the few Indian races with distances beyond 70.3.",
+      "categories": [
+        {
+          "name": "Olympic Solo",
+          "distance_km": 51.5,
+          "swim_km": 1.5,
+          "bike_km": 40,
+          "run_km": 10,
+          "fee_inr": 9000,
+          "start_time": null,
+          "cutoff": "4:30",
+          "min_age": null,
+          "level": "intermediate",
+          "eligibility": null,
+          "notes": "Relay INR 11,000."
+        },
+        {
+          "name": "Duathlon 55 Solo",
+          "distance_km": 55,
+          "swim_km": null,
+          "bike_km": 40,
+          "run_km": 15,
+          "fee_inr": 9000,
+          "start_time": null,
+          "cutoff": "4:20",
+          "min_age": null,
+          "level": "intermediate",
+          "eligibility": null,
+          "notes": "Run 5 km, bike 40 km, run 10 km. Relay INR 11,000."
+        },
+        {
+          "name": "Tigerman 122 Solo",
+          "distance_km": 122,
+          "swim_km": 2,
+          "bike_km": 100,
+          "run_km": 20,
+          "fee_inr": 14000,
+          "start_time": null,
+          "cutoff": "8:30",
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": null,
+          "notes": "Relay INR 18,000."
+        },
+        {
+          "name": "Tigerman 183 Solo",
+          "distance_km": 183,
+          "swim_km": 3,
+          "bike_km": 150,
+          "run_km": 30,
+          "fee_inr": 16000,
+          "start_time": null,
+          "cutoff": "14:00",
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": null,
+          "notes": "Relay INR 20,000."
+        },
+        {
+          "name": "Ultimate 255 Solo",
+          "distance_km": 255,
+          "swim_km": 5,
+          "bike_km": 200,
+          "run_km": 50,
+          "fee_inr": 25000,
+          "start_time": null,
+          "cutoff": "20:00",
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": null,
+          "notes": "Relay INR 28,000."
+        }
+      ],
+      "course": {
+        "terrain": "mixed",
+        "surface": "open water (venue not specified), tarmac",
+        "elevation_gain_m": null,
+        "profile": null,
+        "description": "Held around Ramtek in Nagpur district. Swim venue and course maps are not yet published."
+      },
+      "format": null,
+      "highlights": [
+        "Distances from Olympic up to 255 km",
+        "Relay option on every distance",
+        "Transition bags included"
+      ],
+      "tips": [
+        "Ramtek is about an hour from Nagpur; stay locally the night before as the start is early and transport is limited.",
+        "February mornings in Vidarbha are cool but afternoons hit 30 C; long-course athletes should plan heat management for the afternoon run.",
+        "For the 183 and 255 km distances, carry lights and reflective gear in case the run finishes after dark."
+      ],
+      "amenities": [
+        "Hydration",
+        "Refreshments",
+        "Medical support",
+        "Transition bags"
+      ],
+      "beginner_friendly": false,
+      "tags": [
+        "long-course",
+        "ultra",
+        "relay"
+      ],
+      "sources": [
+        "https://www.racesindia.com/races/tigerman-triathlon-and-duathlon-nagpur/2027"
+      ]
+    },
+    {
+      "name": "Udupi 113 Triathlon",
+      "edition": "2026",
+      "sport": "triathlon",
+      "discipline": "70.3",
+      "city": "Mangaluru",
+      "venue": "Udupi coastline, Malpe area",
+      "venue_lat": 13.35,
+      "venue_lon": 74.703,
+      "start_date": "2026-10-25",
+      "end_date": "2026-10-25",
+      "date_status": "confirmed",
+      "last_edition_date": null,
+      "organiser": "NEB Sports Pvt Ltd",
+      "official_url": "https://nebsports.in/udupi-113/",
+      "registration": {
+        "status": "closed",
+        "opens": "2026-03-07",
+        "closes": "2026-08-31",
+        "url": "https://nebsports.in/udupi-113/",
+        "notes": "Registration closed for all categories. Fees not published. Organiser site places the start in the Malpe area; RacesIndia lists Kaup, so confirm the venue."
+      },
+      "summary": "Coastal triathlon on the Udupi shoreline about 60 km north of Mangaluru, with an ocean swim and out-and-back bike and run loops. Offers sprint, Olympic and 113 km distances plus bike-run duathlons.",
+      "categories": [
+        {
+          "name": "Sprint Triathlon",
+          "distance_km": 25.75,
+          "swim_km": 0.75,
+          "bike_km": 20,
+          "run_km": 5,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": "3:00",
+          "min_age": 14,
+          "level": "beginner",
+          "eligibility": null,
+          "notes": "Cumulative cutoffs: swim 0:30, bike 2:00, finish 3:00."
+        },
+        {
+          "name": "Olympic Triathlon",
+          "distance_km": 51.5,
+          "swim_km": 1.5,
+          "bike_km": 40,
+          "run_km": 10,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": "4:30",
+          "min_age": 18,
+          "level": "intermediate",
+          "eligibility": null,
+          "notes": "Cumulative cutoffs: swim 1:00, bike 3:15, finish 4:30."
+        },
+        {
+          "name": "113 Triathlon",
+          "distance_km": 113,
+          "swim_km": 1.9,
+          "bike_km": 90,
+          "run_km": 21.1,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": "8:30",
+          "min_age": 18,
+          "level": "advanced",
+          "eligibility": null,
+          "notes": "Cumulative cutoffs: swim 1:10, bike 5:30, finish 8:30. Bike is 4.5 laps of a 10 km out-and-back."
+        },
+        {
+          "name": "50 km Duathlon (bike-run)",
+          "distance_km": 50,
+          "swim_km": null,
+          "bike_km": 40,
+          "run_km": 10,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "intermediate",
+          "eligibility": null,
+          "notes": "Bike first, then run."
+        }
+      ],
+      "course": {
+        "terrain": "mixed",
+        "surface": "sea swim, coastal tarmac",
+        "elevation_gain_m": null,
+        "profile": "flat",
+        "description": "Single-loop ocean swim, then 10 km out-and-back bike laps and an out-and-back run along the Udupi coast."
+      },
+      "format": null,
+      "highlights": [
+        "Ocean swim in the Arabian Sea",
+        "Published cumulative cutoffs for every leg",
+        "Bike-run duathlons for non-swimmers"
+      ],
+      "tips": [
+        "Late October is just after the monsoon on the Karnataka coast; surf at the shoreline can still be choppy, so practise beach entries and diving under waves.",
+        "Out-and-back loops mean many U-turns; practise slowing and turning tightly in the drops.",
+        "Count your bike laps (4.5 laps for the 113) with a lap button on your computer."
+      ],
+      "amenities": [],
+      "beginner_friendly": true,
+      "tags": [
+        "sea-swim",
+        "coastal"
+      ],
+      "sources": [
+        "https://nebsports.in/udupi-113/",
+        "https://www.racesindia.com/races/udupi-113-triathlon/2026"
+      ]
+    },
+    {
+      "name": "Thrissur Triathlon",
+      "edition": "2026, 4th edition",
+      "sport": "triathlon",
+      "discipline": "olympic",
+      "city": "Kochi",
+      "venue": "Conolly Cruises Boating & Kayaking Club, Chemmappilly, near Triprayar",
+      "venue_lat": 10.42,
+      "venue_lon": 76.11,
+      "start_date": "2026-10-18",
+      "end_date": "2026-10-18",
+      "date_status": "confirmed",
+      "last_edition_date": null,
+      "organiser": "Barath Sports",
+      "official_url": "https://barathsports.com/event",
+      "registration": {
+        "status": "closed",
+        "opens": null,
+        "closes": "2026-09-26",
+        "url": "https://barathsports.com/event",
+        "notes": "Fees include 18% GST. Non-refundable. Age 18+ on race day; under-18s need guardian consent."
+      },
+      "summary": "Small open-water triathlon in Thrissur district, about 70 km north of Kochi, starting from a boating and kayaking club at Chemmappilly near Triprayar. Offers sprint, Olympic and a custom 48 Miles distance.",
+      "categories": [
+        {
+          "name": "Sprint",
+          "distance_km": 25.75,
+          "swim_km": 0.75,
+          "bike_km": 20,
+          "run_km": 5,
+          "fee_inr": 2360,
+          "start_time": "07:30",
+          "cutoff": "3:00",
+          "min_age": 18,
+          "level": "beginner",
+          "eligibility": "Prior open-water swimming experience expected",
+          "notes": null
+        },
+        {
+          "name": "Olympic",
+          "distance_km": 51.5,
+          "swim_km": 1.5,
+          "bike_km": 40,
+          "run_km": 10,
+          "fee_inr": 3540,
+          "start_time": "06:30",
+          "cutoff": "5:00",
+          "min_age": 18,
+          "level": "intermediate",
+          "eligibility": "Prior open-water swimming experience expected",
+          "notes": null
+        },
+        {
+          "name": "48Miles Custom",
+          "distance_km": 77.25,
+          "swim_km": 2.25,
+          "bike_km": 60,
+          "run_km": 15,
+          "fee_inr": 5900,
+          "start_time": "06:00",
+          "cutoff": "6:30",
+          "min_age": 18,
+          "level": "advanced",
+          "eligibility": "Prior open-water swimming experience expected",
+          "notes": null
+        }
+      ],
+      "course": {
+        "terrain": "mixed",
+        "surface": "open-water swim, open-traffic tarmac",
+        "elevation_gain_m": null,
+        "profile": "flat",
+        "description": "Looped open-water swim from the kayaking club, then bike loops on roads open to traffic and a run course. One loop for sprint, two for Olympic, three for 48 Miles."
+      },
+      "format": null,
+      "highlights": [
+        "Low entry fees",
+        "Custom 48 Miles distance between Olympic and 70.3",
+        "Separate Senior 45+ categories"
+      ],
+      "tips": [
+        "The bike course is open to traffic and you must fix your own punctures; carry a spare tube, levers and CO2.",
+        "Timing is manual, so make sure marshals can see your bib at every lap.",
+        "Mid-October can still bring post-monsoon showers in central Kerala; check wet-road braking before race day."
+      ],
+      "amenities": [
+        "E-certificate"
+      ],
+      "beginner_friendly": true,
+      "tags": [
+        "open-water",
+        "small-field"
+      ],
+      "sources": [
+        "https://barathsports.com/event",
+        "https://www.racesindia.com/races/thrissur-triathlon/2026"
+      ]
+    },
+    {
+      "name": "Mangaluru Triathlon",
+      "edition": "2027",
+      "sport": "triathlon",
+      "discipline": "olympic",
+      "city": "Mangaluru",
+      "venue": "Tannirbhavi Beach",
+      "venue_lat": 12.9,
+      "venue_lon": 74.81,
+      "start_date": "2027-01-09",
+      "end_date": "2027-01-10",
+      "date_status": "expected",
+      "last_edition_date": "2026-01-11",
+      "organiser": "Tapasya Foundation",
+      "official_url": "https://mangalurutriathlon.com/",
+      "registration": {
+        "status": "upcoming",
+        "opens": null,
+        "closes": null,
+        "url": "https://mangalurutriathlon.com/",
+        "notes": "2027 date not yet announced. Categories, start times and fees below are from the 10-11 Jan 2026 edition, held as part of the Mangaluru Beach Festival; proceeds supported a palliative-care initiative."
+      },
+      "summary": "Beach triathlon at Tannirbhavi, Mangaluru, run alongside the Mangaluru Beach Festival with sprint and Olympic triathlons, an aquathlon and a bike-run duathlon. Tannirbhavi also hosted the 2026 National Open Water Swimming Championships.",
+      "categories": [
+        {
+          "name": "Sprint Triathlon",
+          "distance_km": 25.75,
+          "swim_km": 0.75,
+          "bike_km": 20,
+          "run_km": 5,
+          "fee_inr": null,
+          "start_time": "06:45",
+          "cutoff": null,
+          "min_age": null,
+          "level": "beginner",
+          "eligibility": null,
+          "notes": "2026 fee INR 3,150."
+        },
+        {
+          "name": "Olympic Triathlon",
+          "distance_km": 51.5,
+          "swim_km": 1.5,
+          "bike_km": 40,
+          "run_km": 10,
+          "fee_inr": null,
+          "start_time": "06:45",
+          "cutoff": null,
+          "min_age": null,
+          "level": "intermediate",
+          "eligibility": null,
+          "notes": "2026 fee INR 3,600. Team-of-three relay was INR 5,400."
+        },
+        {
+          "name": "Aquathlon",
+          "distance_km": 5.75,
+          "swim_km": 0.75,
+          "bike_km": null,
+          "run_km": 5,
+          "fee_inr": null,
+          "start_time": "06:00",
+          "cutoff": null,
+          "min_age": null,
+          "level": "beginner",
+          "eligibility": null,
+          "notes": "2026 fee INR 3,000."
+        },
+        {
+          "name": "Duathlon (bike-run, Saturday)",
+          "distance_km": 50,
+          "swim_km": null,
+          "bike_km": 40,
+          "run_km": 10,
+          "fee_inr": null,
+          "start_time": "06:15",
+          "cutoff": null,
+          "min_age": null,
+          "level": "intermediate",
+          "eligibility": null,
+          "notes": "Held the day before the triathlon in 2026. 2026 fee INR 3,000."
+        }
+      ],
+      "course": {
+        "terrain": "mixed",
+        "surface": "sea swim, coastal tarmac",
+        "elevation_gain_m": null,
+        "profile": "flat",
+        "description": "Swim off Tannirbhavi Beach in the Arabian Sea with bike and run on roads along the Mangaluru coast."
+      },
+      "format": null,
+      "highlights": [
+        "Part of the Mangaluru Beach Festival",
+        "Aquathlon option for non-cyclists",
+        "Charity race supporting palliative care"
+      ],
+      "tips": [
+        "January is the calmest month on the Mangaluru coast, but expect a shore break at Tannirbhavi; enter by walking in and diving under waves rather than running blind.",
+        "Sight on the lifeguard towers and large beach structures rather than the buoys alone; low morning sun from the east makes buoys hard to see on the swim back to shore.",
+        "If you do both days, rack your bike for Sunday only after the Saturday duathlon briefing."
+      ],
+      "amenities": [],
+      "beginner_friendly": true,
+      "tags": [
+        "sea-swim",
+        "charity",
+        "aquathlon"
+      ],
+      "sources": [
+        "https://www.racesindia.com/races/mangaluru-triathlon/2026",
+        "https://www.swimming.org.in/national-calendar/"
+      ]
+    },
+    {
+      "name": "5150 Triathlon Chennai and DuYoska Duathlon",
+      "edition": "2027, 2nd edition",
+      "sport": "triathlon",
+      "discipline": "olympic",
+      "city": "Chennai",
+      "venue": "MGM Beach Resort and Kovalam Beach, East Coast Road",
+      "venue_lat": 12.821,
+      "venue_lon": 80.244,
+      "start_date": "2027-01-10",
+      "end_date": "2027-01-10",
+      "date_status": "expected",
+      "last_edition_date": "2026-01-11",
+      "organiser": "Yoska (IRONMAN India licensee)",
+      "official_url": "https://yoska.in/5i50-triathlon/",
+      "registration": {
+        "status": "upcoming",
+        "opens": null,
+        "closes": null,
+        "url": "https://yoska.in/5i50-triathlon/",
+        "notes": "2027 edition not yet announced; date is projected from the inaugural 11 Jan 2026 race. Age 18+. Individual or 2-3 person relay."
+      },
+      "summary": "IRONMAN-group Olympic-distance triathlon on Chennai's East Coast Road, staged with the DuYoska duathlon series. The inaugural 2026 race drew about 650 athletes from six countries, but its sea swim was cancelled for unsafe water and run as a 5 km - 40 km - 10 km duathlon.",
+      "categories": [
+        {
+          "name": "5150 Olympic Triathlon",
+          "distance_km": 51.5,
+          "swim_km": 1.5,
+          "bike_km": 40,
+          "run_km": 10,
+          "fee_inr": null,
+          "start_time": "07:00",
+          "cutoff": null,
+          "min_age": 18,
+          "level": "intermediate",
+          "eligibility": null,
+          "notes": "Sea swim. In 2026 the swim was cancelled and replaced by a 5 km run."
+        },
+        {
+          "name": "DuYoska Standard Duathlon",
+          "distance_km": 55,
+          "swim_km": null,
+          "bike_km": 40,
+          "run_km": 15,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": 18,
+          "level": "intermediate",
+          "eligibility": null,
+          "notes": "Run 10 km, bike 40 km, run 5 km."
+        },
+        {
+          "name": "DuYoska Short Duathlon",
+          "distance_km": 27.5,
+          "swim_km": null,
+          "bike_km": 20,
+          "run_km": 7.5,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": 18,
+          "level": "beginner",
+          "eligibility": null,
+          "notes": "Run 5 km, bike 20 km, run 2.5 km."
+        }
+      ],
+      "course": {
+        "terrain": "mixed",
+        "surface": "sea swim, ECR tarmac",
+        "elevation_gain_m": null,
+        "profile": "flat",
+        "description": "Sea swim off the Kovalam coast, with a flat bike and run along the East Coast Road near MGM Beach Resort."
+      },
+      "format": null,
+      "highlights": [
+        "IRONMAN-group race with international field",
+        "Duathlon options on the same weekend",
+        "Flat ECR bike course"
+      ],
+      "tips": [
+        "January surf off Kovalam can be heavy after the northeast monsoon; the 2026 swim was cancelled, so train for a possible run-bike-run format.",
+        "Check-in and bike racking took place two days and one day before the race in 2026; plan to arrive by Friday.",
+        "ECR crosswinds pick up after sunrise; a lower aero position pays off on the return leg."
+      ],
+      "amenities": [
+        "Chip timing"
+      ],
+      "beginner_friendly": true,
+      "tags": [
+        "ironman-group",
+        "sea-swim",
+        "duathlon"
+      ],
+      "sources": [
+        "https://www.racesindia.com/races/5150-triathlon-chennai/2026",
+        "https://yoska.in/5i50-triathlon/",
+        "https://yoska.in/duyoska-chennai/"
+      ]
+    },
+    {
+      "name": "Bergman Triathlon Mysuru",
+      "edition": "2027",
+      "sport": "triathlon",
+      "discipline": "olympic",
+      "city": "Mysuru",
+      "venue": "KRS Dam backwaters",
+      "venue_lat": 12.4244,
+      "venue_lon": 76.5722,
+      "start_date": "2027-01-31",
+      "end_date": "2027-01-31",
+      "date_status": "expected",
+      "last_edition_date": "2026-02-01",
+      "organiser": "Deccan Sports Club (Bergman Triathlon India)",
+      "official_url": "https://bergmantri.com/races/bmmy26",
+      "registration": {
+        "status": "upcoming",
+        "opens": null,
+        "closes": null,
+        "url": "https://bergmantri.com",
+        "notes": "2027 date not announced. Categories from the 1 Feb 2026 edition. Bergman uses tiered pricing that rises as tiers sell out."
+      },
+      "summary": "Bergman series race in the KRS Dam backwaters near Mysuru with an Olympic distance and the series' custom 102 km distance. The organiser describes the reservoir water as fresh and clear.",
+      "categories": [
+        {
+          "name": "Bergman Olympic Triathlon",
+          "distance_km": 51.5,
+          "swim_km": 1.5,
+          "bike_km": 40,
+          "run_km": 10,
+          "fee_inr": null,
+          "start_time": "06:00",
+          "cutoff": null,
+          "min_age": 16,
+          "level": "intermediate",
+          "eligibility": null,
+          "notes": "2026 fee INR 9,999. Age groups 16-30, 31-40, 41-50, 51+."
+        },
+        {
+          "name": "Bergman 102 Triathlon",
+          "distance_km": 102,
+          "swim_km": 2,
+          "bike_km": 80,
+          "run_km": 20,
+          "fee_inr": null,
+          "start_time": "06:00",
+          "cutoff": null,
+          "min_age": 16,
+          "level": "advanced",
+          "eligibility": null,
+          "notes": "2026 fee INR 13,499."
+        }
+      ],
+      "course": {
+        "terrain": "mixed",
+        "surface": "reservoir swim, rural tarmac",
+        "elevation_gain_m": null,
+        "profile": "rolling",
+        "description": "Swim in the Krishna Raja Sagara backwaters with loop bike and run courses on the countryside roads around the dam."
+      },
+      "format": null,
+      "highlights": [
+        "Clear freshwater reservoir swim",
+        "Custom 102 km distance",
+        "Post-race physiotherapy"
+      ],
+      "tips": [
+        "Late January mornings near KRS are around 15 C; reservoir water is cooler than a pool, so do a few open-water sessions before race day.",
+        "Bergman races sell out by tier; register as soon as the 2027 date opens to get the lowest price.",
+        "Stay in Mysuru or Srirangapatna; the dam is about 20 km from Mysuru city."
+      ],
+      "amenities": [
+        "Chip timing",
+        "Medical support",
+        "Post-race physiotherapy"
+      ],
+      "beginner_friendly": false,
+      "tags": [
+        "bergman-series",
+        "reservoir-swim"
+      ],
+      "sources": [
+        "https://bergmantri.com/races/bmmy26",
+        "https://www.racesindia.com/races/bergman-triathlon-mysuru/2026"
+      ]
+    },
+    {
+      "name": "TRI2CHAMP AquaFest Open Championship",
+      "edition": "2027, 4th edition",
+      "sport": "triathlon",
+      "discipline": "70.3",
+      "city": "Chennai",
+      "venue": "Blue Flag Beach, Kovalam (Covelong)",
+      "venue_lat": 12.7895,
+      "venue_lon": 80.2549,
+      "start_date": "2027-05-23",
+      "end_date": "2027-05-23",
+      "date_status": "expected",
+      "last_edition_date": "2026-05-24",
+      "organiser": "Tri2Champ Sports Pvt. Ltd.",
+      "official_url": "https://www.tri2champ.in/",
+      "registration": {
+        "status": "upcoming",
+        "opens": null,
+        "closes": null,
+        "url": "https://www.tri2champ.in/",
+        "notes": "2027 date not announced; previous editions were 15 Jun 2025 and 24 May 2026. Fees below in notes are from the 2026 edition. Swimathon distances (0.5-10 km) run the same morning."
+      },
+      "summary": "Multisport festival at Kovalam's Blue Flag beach, supported by TTDC and the Tamil Nadu State Aquatic Association, with half-distance, Olympic and sprint triathlons, an aquathlon, a duathlon and sea swims.",
+      "categories": [
+        {
+          "name": "Half Ironman (70.3)",
+          "distance_km": 112.9,
+          "swim_km": 1.9,
+          "bike_km": 90,
+          "run_km": 21,
+          "fee_inr": null,
+          "start_time": "05:00",
+          "cutoff": null,
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": null,
+          "notes": "2026 fee INR 9,500."
+        },
+        {
+          "name": "Olympic Triathlon",
+          "distance_km": 51.5,
+          "swim_km": 1.5,
+          "bike_km": 40,
+          "run_km": 10,
+          "fee_inr": null,
+          "start_time": "05:00",
+          "cutoff": null,
+          "min_age": null,
+          "level": "intermediate",
+          "eligibility": null,
+          "notes": "2026 fee INR 7,200."
+        },
+        {
+          "name": "Sprint Triathlon",
+          "distance_km": 25.75,
+          "swim_km": 0.75,
+          "bike_km": 20,
+          "run_km": 5,
+          "fee_inr": null,
+          "start_time": "05:00",
+          "cutoff": null,
+          "min_age": null,
+          "level": "beginner",
+          "eligibility": null,
+          "notes": "2026 fee INR 6,300."
+        },
+        {
+          "name": "Aquathlon",
+          "distance_km": 12,
+          "swim_km": 2,
+          "bike_km": null,
+          "run_km": 10,
+          "fee_inr": null,
+          "start_time": "05:00",
+          "cutoff": null,
+          "min_age": null,
+          "level": "beginner",
+          "eligibility": null,
+          "notes": "2026 fee INR 4,500."
+        }
+      ],
+      "course": {
+        "terrain": "mixed",
+        "surface": "sea swim, ECR tarmac",
+        "elevation_gain_m": null,
+        "profile": "flat",
+        "description": "Sea swim off Kovalam's Blue Flag beach with lifeguard and kayak cover, then flat bike and run on the East Coast Road."
+      },
+      "format": null,
+      "highlights": [
+        "Blue Flag certified beach",
+        "Triathlon, aquathlon, duathlon and swims in one festival",
+        "Lifeguard and kayak cover"
+      ],
+      "tips": [
+        "Late May on the Chennai coast is the hottest time of year; flag-offs are 05:00-06:30, so plan to finish the run before 10:00 where possible.",
+        "Southwest winds in May create cross-shore chop at Kovalam; practise bilateral breathing so you can breathe away from the waves.",
+        "Check-in and briefing were on the day before in 2026; carry a printed ID."
+      ],
+      "amenities": [
+        "Finisher medal",
+        "Chip timing",
+        "Lifeguard and kayak cover"
+      ],
+      "beginner_friendly": true,
+      "tags": [
+        "sea-swim",
+        "festival",
+        "aquathlon"
+      ],
+      "sources": [
+        "https://www.racesindia.com/races/tri2champ-open-championship-chennai/2026"
+      ]
+    },
+    {
+      "name": "ISC TAD (Triathlon, Aquathlon, Duathlon) Indore",
+      "edition": "2027",
+      "sport": "triathlon",
+      "discipline": "sprint",
+      "city": "Indore",
+      "venue": "Choithram Campus",
+      "venue_lat": 22.695,
+      "venue_lon": 75.845,
+      "start_date": "2027-06-06",
+      "end_date": "2027-06-06",
+      "date_status": "expected",
+      "last_edition_date": "2026-06-07",
+      "organiser": "Indore Super Chargers",
+      "official_url": "https://indoresuperchargers.com/",
+      "registration": {
+        "status": "upcoming",
+        "opens": null,
+        "closes": null,
+        "url": "https://indoresuperchargers.com/",
+        "notes": "2027 date not announced. Categories, start time and cutoffs from the 7 Jun 2026 edition; fees in notes are 2026 prices. Event T-shirt is an optional extra."
+      },
+      "summary": "Low-cost novice and sprint multisport event in Indore covering triathlon, aquathlon and duathlon, aimed at first-timers. All categories are chip timed.",
+      "categories": [
+        {
+          "name": "Novice Triathlon",
+          "distance_km": 12.85,
+          "swim_km": 0.35,
+          "bike_km": 10,
+          "run_km": 2.5,
+          "fee_inr": null,
+          "start_time": "07:30",
+          "cutoff": "1:45",
+          "min_age": null,
+          "level": "beginner",
+          "eligibility": null,
+          "notes": "2026 fee INR 1,400."
+        },
+        {
+          "name": "Sprint Triathlon",
+          "distance_km": 25.75,
+          "swim_km": 0.75,
+          "bike_km": 20,
+          "run_km": 5,
+          "fee_inr": null,
+          "start_time": "07:30",
+          "cutoff": "3:00",
+          "min_age": null,
+          "level": "beginner",
+          "eligibility": null,
+          "notes": "2026 fee INR 2,100."
+        },
+        {
+          "name": "Sprint Duathlon",
+          "distance_km": 27.5,
+          "swim_km": null,
+          "bike_km": 20,
+          "run_km": 7.5,
+          "fee_inr": null,
+          "start_time": "07:30",
+          "cutoff": "2:45",
+          "min_age": null,
+          "level": "beginner",
+          "eligibility": null,
+          "notes": "Run 2.5 km, bike 20 km, run 5 km. 2026 fee INR 1,100."
+        },
+        {
+          "name": "Sprint Aquathlon",
+          "distance_km": 10.75,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": "07:30",
+          "cutoff": "2:30",
+          "min_age": null,
+          "level": "beginner",
+          "eligibility": null,
+          "notes": "Leg split not published. 2026 fee INR 1,700. A 5.35 km novice aquathlon (INR 1,100) was also offered."
+        }
+      ],
+      "course": {
+        "terrain": "mixed",
+        "surface": "swim venue not specified, tarmac",
+        "elevation_gain_m": null,
+        "profile": "flat",
+        "description": "Race hub at the Choithram campus in Indore. Water type for the swim is not published."
+      },
+      "format": null,
+      "highlights": [
+        "Novice distances for first-timers",
+        "Entry fees from about INR 1,100",
+        "Chip timing on all categories"
+      ],
+      "tips": [
+        "Early June in Indore is pre-monsoon hot; the 07:30 start means the run is in strong sun, so carry fluids and wear a cap.",
+        "Novice distances are short enough to do on a hybrid or MTB; focus on smooth transitions rather than bike speed.",
+        "Order the optional T-shirt at least two weeks before race day if you want one."
+      ],
+      "amenities": [
+        "Chip timing",
+        "Finisher recognition",
+        "Post-event refreshments"
+      ],
+      "beginner_friendly": true,
+      "tags": [
+        "novice",
+        "aquathlon",
+        "duathlon",
+        "budget"
+      ],
+      "sources": [
+        "https://www.racesindia.com/races/isc-tad/2026"
+      ]
+    },
+    {
+      "name": "Tigerman Triathlon & Duathlon Pune",
+      "edition": "2027",
+      "sport": "triathlon",
+      "discipline": "sprint",
+      "city": "Pune",
+      "venue": "Shree Shiv Chhatrapati Sports Complex, Balewadi",
+      "venue_lat": 18.577,
+      "venue_lon": 73.768,
+      "start_date": "2027-08-29",
+      "end_date": "2027-08-29",
+      "date_status": "expected",
+      "last_edition_date": "2026-08-30",
+      "organiser": "Tigerman Sports Pvt. Ltd.",
+      "official_url": "https://tigerman.in/",
+      "registration": {
+        "status": "upcoming",
+        "opens": null,
+        "closes": null,
+        "url": "https://tigerman.in/",
+        "notes": "2027 date not announced. 2026 registration closed on 12 Jul for a 30 Aug race. Fees in notes are 2026 prices excluding 18% GST."
+      },
+      "summary": "Short-distance triathlon and duathlon at Balewadi, Pune, with super sprint races for ages 10-14 and sprint races for 15+. Balewadi also hosted the 2026 national triathlon championships.",
+      "categories": [
+        {
+          "name": "Sprint Triathlon",
+          "distance_km": 25.75,
+          "swim_km": 0.75,
+          "bike_km": 20,
+          "run_km": 5,
+          "fee_inr": null,
+          "start_time": "06:00",
+          "cutoff": null,
+          "min_age": 15,
+          "level": "beginner",
+          "eligibility": null,
+          "notes": "2026 fee INR 2,800 solo, INR 4,000 relay."
+        },
+        {
+          "name": "Sprint Duathlon",
+          "distance_km": 27,
+          "swim_km": null,
+          "bike_km": 20,
+          "run_km": 7,
+          "fee_inr": null,
+          "start_time": "06:00",
+          "cutoff": null,
+          "min_age": 15,
+          "level": "beginner",
+          "eligibility": null,
+          "notes": "Run 2 km, bike 20 km, run 5 km. 2026 fee INR 2,800."
+        },
+        {
+          "name": "Super Sprint Triathlon (ages 10-14)",
+          "distance_km": 12.25,
+          "swim_km": 0.25,
+          "bike_km": 10,
+          "run_km": 2,
+          "fee_inr": null,
+          "start_time": "06:00",
+          "cutoff": null,
+          "min_age": 10,
+          "level": "beginner",
+          "eligibility": "Ages 10-14 only",
+          "notes": "2026 fee INR 2,500."
+        }
+      ],
+      "course": {
+        "terrain": "mixed",
+        "surface": "swim venue not specified, tarmac",
+        "elevation_gain_m": null,
+        "profile": "flat",
+        "description": "Start, finish and transition at Balewadi sports complex in west Pune."
+      },
+      "format": null,
+      "highlights": [
+        "Sprint distances suited to first-timers",
+        "Kids super sprint category",
+        "Relay option"
+      ],
+      "tips": [
+        "Late August is monsoon season in Pune; expect wet roads and possible rain at the 06:00 start, so use clear lenses and fresh brake pads.",
+        "Kit collection in 2026 was at Decathlon Wakad before race day.",
+        "Registration closed about seven weeks before race day in 2026; sign up early."
+      ],
+      "amenities": [
+        "Timing certificate",
+        "Finisher medal",
+        "Hydration and refreshments"
+      ],
+      "beginner_friendly": true,
+      "tags": [
+        "kids-race",
+        "relay",
+        "super-sprint"
+      ],
+      "sources": [
+        "https://www.racesindia.com/races/tigerman-triathlon-duathlon-pune/2026"
+      ]
+    },
+    {
+      "name": "HR26 Triathlon",
+      "edition": "2027, 9th edition",
+      "sport": "triathlon",
+      "discipline": "olympic",
+      "city": "Delhi NCR",
+      "venue": "Champions Aquatic Academy, Gurugram (50 m pool)",
+      "venue_lat": null,
+      "venue_lon": null,
+      "start_date": "2027-09-05",
+      "end_date": "2027-09-05",
+      "date_status": "expected",
+      "last_edition_date": "2026-09-06",
+      "organiser": "TGR Fitness & Events",
+      "official_url": null,
+      "registration": {
+        "status": "upcoming",
+        "opens": null,
+        "closes": null,
+        "url": null,
+        "notes": "2027 date not announced; the 7th edition was 3 Aug 2025 and the 8th 6 Sep 2026, so the month can shift. Categories and cutoffs from 2026; fees in notes are 2026 prices. Medical fitness certificate signed by a doctor is mandatory."
+      },
+      "summary": "Gurugram multisport event with a 50 m pool swim, offering Olympic and sprint triathlons, duathlons, aquathlons and short swims. All races are open to ages 15 and up.",
+      "categories": [
+        {
+          "name": "Olympic Triathlon",
+          "distance_km": 51.5,
+          "swim_km": 1.5,
+          "bike_km": 40,
+          "run_km": 10,
+          "fee_inr": null,
+          "start_time": "05:00",
+          "cutoff": "5:00",
+          "min_age": 15,
+          "level": "intermediate",
+          "eligibility": "Medical fitness certificate",
+          "notes": "2026 fee INR 8,800."
+        },
+        {
+          "name": "Sprint Triathlon",
+          "distance_km": 25.75,
+          "swim_km": 0.75,
+          "bike_km": 20,
+          "run_km": 5,
+          "fee_inr": null,
+          "start_time": "05:00",
+          "cutoff": "3:30",
+          "min_age": 15,
+          "level": "beginner",
+          "eligibility": "Medical fitness certificate",
+          "notes": "2026 fee INR 6,200."
+        },
+        {
+          "name": "Super Triathlon (short swim)",
+          "distance_km": 50.2,
+          "swim_km": 0.2,
+          "bike_km": 40,
+          "run_km": 10,
+          "fee_inr": null,
+          "start_time": "05:00",
+          "cutoff": "4:30",
+          "min_age": 15,
+          "level": "beginner",
+          "eligibility": "Medical fitness certificate",
+          "notes": "200 m swim with Olympic bike and run. 2026 fee INR 4,900."
+        },
+        {
+          "name": "Sprint Aquathlon",
+          "distance_km": 5.75,
+          "swim_km": 0.75,
+          "bike_km": null,
+          "run_km": 5,
+          "fee_inr": null,
+          "start_time": "05:00",
+          "cutoff": "2:00",
+          "min_age": 15,
+          "level": "beginner",
+          "eligibility": "Medical fitness certificate",
+          "notes": "Olympic aquathlon (1.5 km swim + 10 km run, cutoff 3:00) also offered."
+        },
+        {
+          "name": "Olympic Duathlon",
+          "distance_km": 55,
+          "swim_km": null,
+          "bike_km": 40,
+          "run_km": 15,
+          "fee_inr": null,
+          "start_time": "05:00",
+          "cutoff": "5:00",
+          "min_age": 15,
+          "level": "intermediate",
+          "eligibility": "Medical fitness certificate",
+          "notes": "Run 5 km, bike 40 km, run 10 km. Sprint duathlon (2.5/20/5 km, cutoff 3:00) also offered."
+        }
+      ],
+      "course": {
+        "terrain": "mixed",
+        "surface": "50 m pool, open-road tarmac",
+        "elevation_gain_m": null,
+        "profile": "flat",
+        "description": "All swims are in a 50 m pool at Champions Aquatic Academy. The bike course uses open roads; riders bring their own bikes and helmets and handle their own repairs."
+      },
+      "format": null,
+      "highlights": [
+        "Pool swim, ideal for a first triathlon",
+        "Super Triathlon with a 200 m swim for weak swimmers",
+        "Nine race formats in one morning"
+      ],
+      "tips": [
+        "Early September in Gurugram is humid with late-monsoon showers; the 05:00 start helps, but carry electrolytes for the run.",
+        "If pool lanes are seeded by declared swim time, give an honest estimate so you are not overtaken constantly; practise passing at the wall.",
+        "Transition time counts toward your result, so rehearse a quick wet-to-bike change."
+      ],
+      "amenities": [
+        "Timing"
+      ],
+      "beginner_friendly": true,
+      "tags": [
+        "pool-swim",
+        "aquathlon",
+        "duathlon"
+      ],
+      "sources": [
+        "https://www.racesindia.com/races/hr26-triathlon-8th-edition/2026"
+      ]
+    },
+    {
+      "name": "Bergman Bengaluru Triathlon",
+      "edition": "2027",
+      "sport": "triathlon",
+      "discipline": "olympic",
+      "city": "Bengaluru",
+      "venue": "Nelligudde Kere, Bidadi (about 35 km from central Bengaluru)",
+      "venue_lat": 12.79,
+      "venue_lon": 77.38,
+      "start_date": "2027-09-05",
+      "end_date": "2027-09-05",
+      "date_status": "expected",
+      "last_edition_date": "2026-09-06",
+      "organiser": "Bergman Triathlon India",
+      "official_url": "https://bergmantri.com/races/blr",
+      "registration": {
+        "status": "upcoming",
+        "opens": null,
+        "closes": null,
+        "url": "https://bergmantri.com/races/blr",
+        "notes": "2027 date not announced. Both 2026 triathlon categories sold out across all price tiers. Fees in notes are 2026 tier 1 prices."
+      },
+      "summary": "Lake triathlon at Nelligudde Kere near Bidadi with Olympic and custom 102 km distances, held alongside the Bergman Swimathon. The 2026 edition sold out in every price tier.",
+      "categories": [
+        {
+          "name": "Bergman Olympic Triathlon",
+          "distance_km": 51.5,
+          "swim_km": 1.5,
+          "bike_km": 40,
+          "run_km": 10,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": 16,
+          "level": "intermediate",
+          "eligibility": null,
+          "notes": "2026 tiers INR 9,999 / 10,999 / 11,499. Age groups 16-30, 31-40, 41-50, 51+."
+        },
+        {
+          "name": "Bergman 102 Triathlon",
+          "distance_km": 102,
+          "swim_km": 2,
+          "bike_km": 80,
+          "run_km": 20,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": 16,
+          "level": "advanced",
+          "eligibility": null,
+          "notes": "2026 tiers INR 11,999 / 12,499 / 13,499."
+        }
+      ],
+      "course": {
+        "terrain": "mixed",
+        "surface": "lake swim, rural tarmac",
+        "elevation_gain_m": null,
+        "profile": "rolling",
+        "description": "Swim in Nelligudde lake (average water temperature about 22 C per organiser), then rolling countryside bike and run courses around Bidadi."
+      },
+      "format": null,
+      "highlights": [
+        "Sold out in 2026",
+        "Lake swim close to Bengaluru",
+        "Swimathon the day before"
+      ],
+      "tips": [
+        "At around 22 C the lake feels cool on a September morning; practise a few open-water swims and check whether wetsuits are allowed in the athlete guide.",
+        "Rolling terrain on the bike rewards smooth gearing; ride the Bidadi-Ramanagara roads in training.",
+        "Early September is the tail of the monsoon around Bengaluru, so expect drizzle; carry a rain shell to transition."
+      ],
+      "amenities": [
+        "Chip timing",
+        "Controlled transition",
+        "Hydration",
+        "Medical support"
+      ],
+      "beginner_friendly": false,
+      "tags": [
+        "bergman-series",
+        "lake-swim",
+        "sells-out"
+      ],
+      "sources": [
+        "https://bergmantri.com/races/blr",
+        "https://www.racesindia.com/races/bergman-bengaluru-triathlon-and-swimathon/2026"
+      ]
+    },
+    {
+      "name": "BMF Triathlon",
+      "edition": "2027",
+      "sport": "triathlon",
+      "discipline": "olympic",
+      "city": "Bengaluru",
+      "venue": "Hampasandra Dam, Gudibande (about 90 km north of Bengaluru)",
+      "venue_lat": 13.67,
+      "venue_lon": 77.7,
+      "start_date": "2027-10-03",
+      "end_date": "2027-10-03",
+      "date_status": "expected",
+      "last_edition_date": "2026-10-04",
+      "organiser": "Bangalore Multisport Federation (BMF)",
+      "official_url": null,
+      "registration": {
+        "status": "upcoming",
+        "opens": null,
+        "closes": null,
+        "url": null,
+        "notes": "BMF ran two triathlon editions in 2026 (August at Gudibande and 4 Oct at Hampasandra Dam); the 2027 schedule is not announced. Fees in notes are 2026 prices."
+      },
+      "summary": "Bangalore Multisport Federation's lake triathlon, now in its seventh edition, with sprint and Olympic distances and an Olympic team relay. The swim has a safety line and kayak support.",
+      "categories": [
+        {
+          "name": "Sprint Triathlon",
+          "distance_km": 25.75,
+          "swim_km": 0.75,
+          "bike_km": 20,
+          "run_km": 5,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "beginner",
+          "eligibility": null,
+          "notes": "2026 fee INR 3,999."
+        },
+        {
+          "name": "Olympic Triathlon",
+          "distance_km": 51.5,
+          "swim_km": 1.5,
+          "bike_km": 40,
+          "run_km": 10,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "intermediate",
+          "eligibility": null,
+          "notes": "2026 fee INR 5,999. Olympic team relay INR 8,499."
+        }
+      ],
+      "course": {
+        "terrain": "mixed",
+        "surface": "lake swim, rural tarmac",
+        "elevation_gain_m": null,
+        "profile": "rolling",
+        "description": "Lake swim with a safety line and kayak cover at Hampasandra Dam, followed by bike and run on rural roads near Gudibande."
+      },
+      "format": null,
+      "highlights": [
+        "Safety line along the swim course",
+        "Affordable Olympic distance",
+        "Team relay option"
+      ],
+      "tips": [
+        "The venue is about two hours from Bengaluru; stay in Gudibande or Bagepalli the night before.",
+        "A safety line lets nervous swimmers rest; use it rather than stopping in open water.",
+        "Early October can bring afternoon thunderstorms in the region; start the run well hydrated."
+      ],
+      "amenities": [
+        "Electronic timing",
+        "E-certificate",
+        "T-shirt",
+        "Sipper",
+        "Finisher medal"
+      ],
+      "beginner_friendly": true,
+      "tags": [
+        "lake-swim",
+        "relay",
+        "community"
+      ],
+      "sources": [
+        "https://www.racesindia.com/races/bmf-triathlon-7th-edition/2026"
+      ]
+    },
+    {
+      "name": "Bergman Ozar Pune Triathlon",
+      "edition": "2027",
+      "sport": "triathlon",
+      "discipline": "olympic",
+      "city": "Pune",
+      "venue": "Ozar Dam backwaters, beside Shri Vighnahar Ganpati Temple, Ozar",
+      "venue_lat": 19.19,
+      "venue_lon": 73.96,
+      "start_date": "2027-10-03",
+      "end_date": "2027-10-03",
+      "date_status": "expected",
+      "last_edition_date": "2026-10-04",
+      "organiser": "Bergman Triathlon India",
+      "official_url": "https://bergmantri.com/races/bmpo2026",
+      "registration": {
+        "status": "upcoming",
+        "opens": null,
+        "closes": null,
+        "url": "https://bergmantri.com",
+        "notes": "2027 date not announced. Fees in notes are 2026 prices."
+      },
+      "summary": "Bergman series triathlon in the Ozar Dam backwaters near the Ashtavinayak temple town of Ozar, north of Pune. Offers Olympic and 102 km distances, with a swimathon the day before.",
+      "categories": [
+        {
+          "name": "Bergman Olympic Triathlon",
+          "distance_km": 51.5,
+          "swim_km": 1.5,
+          "bike_km": 40,
+          "run_km": 10,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": 16,
+          "level": "intermediate",
+          "eligibility": null,
+          "notes": "2026 fee INR 11,499."
+        },
+        {
+          "name": "Bergman 102 Triathlon",
+          "distance_km": 102,
+          "swim_km": 2,
+          "bike_km": 80,
+          "run_km": 20,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": 16,
+          "level": "advanced",
+          "eligibility": null,
+          "notes": "2026 fee INR 14,499."
+        }
+      ],
+      "course": {
+        "terrain": "mixed",
+        "surface": "dam backwater swim, rural tarmac",
+        "elevation_gain_m": null,
+        "profile": "rolling",
+        "description": "Swim in the Ozar Dam backwater (average water temperature about 23 C per organiser), with bike and run on rural roads in Junnar taluka."
+      },
+      "format": null,
+      "highlights": [
+        "Reservoir swim in the Junnar countryside",
+        "Custom 102 km distance",
+        "Swimathon on the Saturday"
+      ],
+      "tips": [
+        "Ozar is about 85 km from Pune; book local stays early as the temple town fills on weekends.",
+        "Early October is just after the monsoon, so the reservoir is full and roads may still have potholes; ride with puncture-resistant tyres.",
+        "Water around 23 C is comfortable without a wetsuit, but check the athlete guide for wetsuit rules."
+      ],
+      "amenities": [
+        "Chip timing"
+      ],
+      "beginner_friendly": false,
+      "tags": [
+        "bergman-series",
+        "reservoir-swim"
+      ],
+      "sources": [
+        "https://bergmantri.com/races/bmpo2026",
+        "https://www.racesindia.com/races/bergman-ozar-pune-triathlon-and-swimathon/2026"
+      ]
+    },
+    {
+      "name": "Tigerman Triathlon & Duathlon Gurugram",
+      "edition": "2027",
+      "sport": "triathlon",
+      "discipline": "olympic",
+      "city": "Delhi NCR",
+      "venue": "Champions Aquatic Academy, Gurugram",
+      "venue_lat": null,
+      "venue_lon": null,
+      "start_date": "2027-10-10",
+      "end_date": "2027-10-10",
+      "date_status": "expected",
+      "last_edition_date": "2026-10-11",
+      "organiser": "Tigerman Sports Pvt. Ltd.",
+      "official_url": "https://tigerman.in/",
+      "registration": {
+        "status": "upcoming",
+        "opens": null,
+        "closes": null,
+        "url": "https://tigerman.in/",
+        "notes": "2027 date not announced. Fees in notes are 2026 prices, excluding 18% GST."
+      },
+      "summary": "Gurugram edition of the Tigerman series with super sprint (ages 10-14), sprint and Olympic triathlons and duathlons, all with relay options. Swims are at Champions Aquatic Academy, a pool venue.",
+      "categories": [
+        {
+          "name": "Sprint Triathlon",
+          "distance_km": 25.75,
+          "swim_km": 0.75,
+          "bike_km": 20,
+          "run_km": 5,
+          "fee_inr": null,
+          "start_time": "06:00",
+          "cutoff": null,
+          "min_age": 15,
+          "level": "beginner",
+          "eligibility": null,
+          "notes": "2026 fee INR 3,800 solo, INR 5,500 relay."
+        },
+        {
+          "name": "Olympic Triathlon",
+          "distance_km": 51.5,
+          "swim_km": 1.5,
+          "bike_km": 40,
+          "run_km": 10,
+          "fee_inr": null,
+          "start_time": "06:00",
+          "cutoff": null,
+          "min_age": 18,
+          "level": "intermediate",
+          "eligibility": null,
+          "notes": "2026 fee INR 9,000 solo, INR 12,000 relay."
+        },
+        {
+          "name": "Sprint Duathlon",
+          "distance_km": 27,
+          "swim_km": null,
+          "bike_km": 20,
+          "run_km": 7,
+          "fee_inr": null,
+          "start_time": "06:00",
+          "cutoff": null,
+          "min_age": 15,
+          "level": "beginner",
+          "eligibility": null,
+          "notes": "Run 2 km, bike 20 km, run 5 km. 2026 fee INR 3,800."
+        },
+        {
+          "name": "Olympic Duathlon",
+          "distance_km": 55,
+          "swim_km": null,
+          "bike_km": 40,
+          "run_km": 15,
+          "fee_inr": null,
+          "start_time": "06:00",
+          "cutoff": null,
+          "min_age": 18,
+          "level": "intermediate",
+          "eligibility": null,
+          "notes": "Run 5 km, bike 40 km, run 10 km. 2026 fee INR 9,000."
+        },
+        {
+          "name": "Super Sprint Triathlon (ages 10-14)",
+          "distance_km": 12.25,
+          "swim_km": 0.25,
+          "bike_km": 10,
+          "run_km": 2,
+          "fee_inr": null,
+          "start_time": "06:00",
+          "cutoff": null,
+          "min_age": 10,
+          "level": "beginner",
+          "eligibility": "Ages 10-14 only",
+          "notes": "2026 fee INR 3,500."
+        }
+      ],
+      "course": {
+        "terrain": "mixed",
+        "surface": "pool swim, tarmac",
+        "elevation_gain_m": null,
+        "profile": "flat",
+        "description": "Swim at Champions Aquatic Academy in Gurugram, then bike and run on surrounding roads."
+      },
+      "format": null,
+      "highlights": [
+        "Pool swim suitable for first-timers",
+        "Kids super sprint",
+        "RFID chip timing with digital certificate"
+      ],
+      "tips": [
+        "Mid-October mornings in Gurugram are pleasant (around 20 C) but air quality can start to worsen; check AQI the week before.",
+        "Swim caps are provided for triathletes; bring your own goggles and a spare pair.",
+        "Set up transition with the bike in a low gear for the first pedal strokes out of the pool area."
+      ],
+      "amenities": [
+        "RFID chip timing",
+        "Digital timing certificate",
+        "Hydration",
+        "Medical support",
+        "Swim cap"
+      ],
+      "beginner_friendly": true,
+      "tags": [
+        "pool-swim",
+        "relay",
+        "kids-race"
+      ],
+      "sources": [
+        "https://www.racesindia.com/races/tigerman-triathlon-duathlon-gurugram/2026"
+      ]
+    },
+    {
+      "name": "The Goa Swimathon (Racing at AquaMoga)",
+      "edition": "2026",
+      "sport": "swimming",
+      "discipline": "open-water",
+      "city": "Goa",
+      "venue": "Bambolim Beach, near Panaji",
+      "venue_lat": 15.452,
+      "venue_lon": 73.853,
+      "start_date": "2026-11-14",
+      "end_date": "2026-11-15",
+      "date_status": "confirmed",
+      "last_edition_date": null,
+      "organiser": "Enduro Sports Goa",
+      "official_url": "https://www.endurosportsgoa.com/goa-swimathon",
+      "registration": {
+        "status": "open",
+        "opens": null,
+        "closes": "2026-10-31",
+        "url": "https://www.endurosportsgoa.com/goa-swimathon",
+        "notes": "One long race per day: 1K or 2K on Saturday, 5K or 10K on Sunday. Long-distance entries need prior open-water swim evidence. Optional 45-minute orientation swims on 13-14 Nov are booked separately."
+      },
+      "summary": "Two-day sea swim festival at Bambolim Beach run by Enduro Sports Goa as part of AquaMoga, the organiser's water-sports festival. Distances run from a 250 m splash to a 10 km swim.",
+      "categories": [
+        {
+          "name": "1K Swim",
+          "distance_km": 1,
+          "swim_km": 1,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 2250,
+          "start_time": "07:30",
+          "cutoff": null,
+          "min_age": 12,
+          "level": "beginner",
+          "eligibility": null,
+          "notes": "Saturday 14 Nov. Listed cutoff '50 m' appears to be a typo for 50 minutes."
+        },
+        {
+          "name": "2K Swim",
+          "distance_km": 2,
+          "swim_km": 2,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 2800,
+          "start_time": "07:30",
+          "cutoff": "1:20",
+          "min_age": 14,
+          "level": "intermediate",
+          "eligibility": null,
+          "notes": "Saturday 14 Nov."
+        },
+        {
+          "name": "5K Swim",
+          "distance_km": 5,
+          "swim_km": 5,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 4750,
+          "start_time": "07:30",
+          "cutoff": "3:00",
+          "min_age": 16,
+          "level": "advanced",
+          "eligibility": "Prior open-water swimming evidence",
+          "notes": "Sunday 15 Nov."
+        },
+        {
+          "name": "10K Swim",
+          "distance_km": 10,
+          "swim_km": 10,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 6250,
+          "start_time": "07:30",
+          "cutoff": "5:30",
+          "min_age": 18,
+          "level": "advanced",
+          "eligibility": "Prior open-water swimming evidence",
+          "notes": "Sunday 15 Nov."
+        },
+        {
+          "name": "Splash-and-Dash (untimed)",
+          "distance_km": 0.25,
+          "swim_km": 0.25,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 600,
+          "start_time": "10:00",
+          "cutoff": null,
+          "min_age": 8,
+          "level": "beginner",
+          "eligibility": null,
+          "notes": "Medal and certificate only, no timing."
+        }
+      ],
+      "course": {
+        "terrain": "open-water",
+        "surface": "sea",
+        "elevation_gain_m": null,
+        "profile": null,
+        "description": "Buoyed sea course off Bambolim Beach, a few kilometres south of Panaji."
+      },
+      "format": null,
+      "highlights": [
+        "Distances from 250 m to 10 km",
+        "Orientation swims for sea first-timers",
+        "Part of the AquaMoga water festival"
+      ],
+      "tips": [
+        "Book an orientation swim on 13 or 14 Nov if you have not swum in the sea before.",
+        "Mid-November seas in Goa are usually calm with water around 28-29 C; no wetsuit needed, but use anti-chafe on neck and armpits for the 5K and 10K.",
+        "Jellyfish are sometimes seen off Goa beaches after the monsoon; ask the safety team on the morning and report stings to lifeguards.",
+        "Sight every 6-8 strokes on the large turn buoys; the morning sun rises behind the beach, so tinted goggles help on the return leg."
+      ],
+      "amenities": [
+        "Timing (except splash-and-dash)",
+        "Finisher medal",
+        "Certificate"
+      ],
+      "beginner_friendly": true,
+      "tags": [
+        "sea-swim",
+        "festival"
+      ],
+      "sources": [
+        "https://www.racesindia.com/races/the-goa-swimathon-racing-aquamoga/2026",
+        "https://www.endurosportsgoa.com/goa-swimathon"
+      ]
+    },
+    {
+      "name": "Nashik Swimathon",
+      "edition": "2026",
+      "sport": "swimming",
+      "discipline": "open-water",
+      "city": "Nashik",
+      "venue": "Lighthouse, Waldevi, Nashik",
+      "venue_lat": null,
+      "venue_lon": null,
+      "start_date": "2026-11-28",
+      "end_date": "2026-11-29",
+      "date_status": "confirmed",
+      "last_edition_date": null,
+      "organiser": "Nashik Open Water Swimmers",
+      "official_url": "https://nashikopenwaterswimmers.com",
+      "registration": {
+        "status": "unknown",
+        "opens": null,
+        "closes": null,
+        "url": "https://nashikopenwaterswimmers.com",
+        "notes": "Up to two different events per swimmer, INR 500 off the combined fee. Medical fitness certificate, Aadhaar, birth certificate and indemnity required; swimmers over 40 submit an indemnity bond on INR 100 stamp paper."
+      },
+      "summary": "Two-day freshwater open-water swim at Waldevi near Nashik with 500 m to 10 km races, each restricted to set birth-year bands. Run by the local open-water swimming club with kayak and boat cover.",
+      "categories": [
+        {
+          "name": "10 km",
+          "distance_km": 10,
+          "swim_km": 10,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 4000,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": 14,
+          "level": "advanced",
+          "eligibility": "Ages 14-70 (born 1956-2012)",
+          "notes": "Saturday 28 Nov."
+        },
+        {
+          "name": "5 km",
+          "distance_km": 5,
+          "swim_km": 5,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 3500,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": 11,
+          "level": "advanced",
+          "eligibility": "Ages 11-60 (born 1966-2015)",
+          "notes": "Saturday 28 Nov."
+        },
+        {
+          "name": "2 km",
+          "distance_km": 2,
+          "swim_km": 2,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 2000,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": 9,
+          "level": "intermediate",
+          "eligibility": "Ages 9-35 only (born 1991-2017)",
+          "notes": "Sunday 29 Nov."
+        },
+        {
+          "name": "1 km",
+          "distance_km": 1,
+          "swim_km": 1,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 1750,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "beginner",
+          "eligibility": "Born 2018-2019 or 1956-1990 only",
+          "notes": "Sunday 29 Nov."
+        },
+        {
+          "name": "500 m",
+          "distance_km": 0.5,
+          "swim_km": 0.5,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 1500,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "beginner",
+          "eligibility": "Born 2014-2019 or 1966-1981; separate Divyang category",
+          "notes": "Saturday 28 Nov."
+        }
+      ],
+      "course": {
+        "terrain": "open-water",
+        "surface": "freshwater reservoir",
+        "elevation_gain_m": null,
+        "profile": null,
+        "description": "Buoy-marked freshwater course at Waldevi near Nashik with kayaks and boats along the route and an on-site medical team."
+      },
+      "format": null,
+      "highlights": [
+        "Tow floats allowed",
+        "Distances from 500 m to 10 km",
+        "Divyang category"
+      ],
+      "tips": [
+        "Check the birth-year bands carefully: most distances are open only to certain age bands, and the 2 km is capped at 35.",
+        "Report at Decathlon Nashik the day before your race with all documents; there is no race-day kit pickup listed.",
+        "Late November mornings in Nashik are cold (around 12 C) and reservoir water is cool; bring a warm robe for after the swim.",
+        "Tow float, GPS watch, cap and goggles are allowed; fins, snorkels, paddles and pull buoys are banned."
+      ],
+      "amenities": [
+        "Timing",
+        "Kayak and boat safety cover",
+        "Medical team"
+      ],
+      "beginner_friendly": true,
+      "tags": [
+        "lake-swim",
+        "divyang-category"
+      ],
+      "sources": [
+        "https://www.racesindia.com/races/nashik-swimathon/2026"
+      ]
+    },
+    {
+      "name": "Namma Kadal Swimathon",
+      "edition": "2026",
+      "sport": "swimming",
+      "discipline": "open-water",
+      "city": "Mangaluru",
+      "venue": "Padukere Beach, Manoor, Udupi",
+      "venue_lat": 13.37,
+      "venue_lon": 74.69,
+      "start_date": "2026-11-29",
+      "end_date": "2026-11-29",
+      "date_status": "confirmed",
+      "last_edition_date": null,
+      "organiser": "BMF Trails",
+      "official_url": "https://zenmountain.in/event/namma-kadal-swimathon",
+      "registration": {
+        "status": "open",
+        "opens": null,
+        "closes": null,
+        "url": "https://zenmountain.in/event/namma-kadal-swimathon",
+        "notes": "Registration on Zen Mountain; per-category fees for the pure swims are not published on the listing seen."
+      },
+      "summary": "Sea swim and aquathlon on Padukere Beach near Udupi, about 60 km north of Mangaluru. Offers 1 km to 5 km swims plus two swim-run aquathlons.",
+      "categories": [
+        {
+          "name": "1 km Swim",
+          "distance_km": 1,
+          "swim_km": 1,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "beginner",
+          "eligibility": null,
+          "notes": null
+        },
+        {
+          "name": "2 km Swim",
+          "distance_km": 2,
+          "swim_km": 2,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "intermediate",
+          "eligibility": null,
+          "notes": null
+        },
+        {
+          "name": "3 km Swim",
+          "distance_km": 3,
+          "swim_km": 3,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "intermediate",
+          "eligibility": null,
+          "notes": null
+        },
+        {
+          "name": "5 km Swim",
+          "distance_km": 5,
+          "swim_km": 5,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": null,
+          "notes": null
+        },
+        {
+          "name": "Aquathlon 1 km swim + 5 km run",
+          "distance_km": 6,
+          "swim_km": 1,
+          "bike_km": null,
+          "run_km": 5,
+          "fee_inr": 2599,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "beginner",
+          "eligibility": null,
+          "notes": "Plus 0.9% platform fee."
+        },
+        {
+          "name": "Aquathlon 2 km swim + 10 km run",
+          "distance_km": 12,
+          "swim_km": 2,
+          "bike_km": null,
+          "run_km": 10,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "beginner",
+          "eligibility": null,
+          "notes": null
+        }
+      ],
+      "course": {
+        "terrain": "open-water",
+        "surface": "sea",
+        "elevation_gain_m": null,
+        "profile": null,
+        "description": "Sea swim off Padukere, a quiet beach on a sand spit between the Arabian Sea and the Udyavara river north of Malpe."
+      },
+      "format": null,
+      "highlights": [
+        "Quiet, uncrowded beach",
+        "Aquathlon options",
+        "Swims from 1 km to 5 km"
+      ],
+      "tips": [
+        "Late November is one of the calmer months on the Karnataka coast, but expect a small shore break; practise running entries and exits.",
+        "For the aquathlon, leave run shoes open with elastic laces at the swim exit to save time.",
+        "Use a bright cap and tow float so kayakers can spot you in the low early sun."
+      ],
+      "amenities": [],
+      "beginner_friendly": true,
+      "tags": [
+        "sea-swim",
+        "aquathlon"
+      ],
+      "sources": [
+        "https://www.nextlap.in/race/57f73c66-c338-46e5-b812-9bf4b454a2bf"
+      ]
+    },
+    {
+      "name": "MSS Ultra Swim",
+      "edition": "2026",
+      "sport": "swimming",
+      "discipline": "open-water",
+      "city": "Mumbai",
+      "venue": "Gateway of India area, Mumbai harbour",
+      "venue_lat": 18.922,
+      "venue_lon": 72.835,
+      "start_date": "2026-11-15",
+      "end_date": "2026-11-15",
+      "date_status": "expected",
+      "last_edition_date": "2025-11-16",
+      "organiser": "Mumbai Sea Swimmers",
+      "official_url": "https://www.mumbaiseaswimmers.com/",
+      "registration": {
+        "status": "unknown",
+        "opens": null,
+        "closes": null,
+        "url": "https://www.mumbaiseaswimmers.com/",
+        "notes": "2026 date not announced; projected from 17 Nov 2024 and 16 Nov 2025 editions. Route, fees, eligibility and safety rules are given in the edition briefing. Contact mumbaiseaswimmers@gmail.com."
+      },
+      "summary": "Point-to-point 15 km sea swim in Mumbai harbour by Mumbai Sea Swimmers, the city's most active open-water club. Swimmers race solo or as relays of two to four.",
+      "categories": [
+        {
+          "name": "Individual 15 km",
+          "distance_km": 15,
+          "swim_km": 15,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": "06:00",
+          "cutoff": null,
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": null,
+          "notes": null
+        },
+        {
+          "name": "Relay 15 km (2, 3 or 4 swimmers)",
+          "distance_km": 15,
+          "swim_km": 15,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": "06:00",
+          "cutoff": null,
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": null,
+          "notes": "Team total distance."
+        }
+      ],
+      "course": {
+        "terrain": "open-water",
+        "surface": "sea (harbour)",
+        "elevation_gain_m": null,
+        "profile": null,
+        "description": "Point-to-point swim in Mumbai harbour waters around the Gateway of India; exact route is set in the edition briefing."
+      },
+      "format": null,
+      "highlights": [
+        "15 km harbour swim",
+        "Relay option for teams of 2-4",
+        "Mumbai's main ultra sea swim"
+      ],
+      "tips": [
+        "Mumbai harbour currents are strongly tidal, so effort changes along the route; follow your escort's line and do not miss the pre-race briefing.",
+        "Mid-November water in Mumbai harbour is about 28 C; plan feeds every 30-45 minutes and practise taking them treading water.",
+        "Harbour water can be murky with floating debris; wear a well-sealing cap and goggles, and rinse after the swim.",
+        "Jellyfish are common in Mumbai waters after the monsoon; a long-sleeve swimskin, if allowed, reduces stings."
+      ],
+      "amenities": [],
+      "beginner_friendly": false,
+      "tags": [
+        "sea-swim",
+        "ultra",
+        "relay"
+      ],
+      "sources": [
+        "https://www.racesindia.com/races/mss-ultra-swim/2025",
+        "https://www.mumbaiseaswimmers.com/"
+      ]
+    },
+    {
+      "name": "Sindhudurg Ocean Swimathon and Malvan Open Sea Swimming Race",
+      "edition": "2026, 16th Sindhudurg Ocean Swimathon and 4th 10 km Open Sea Race",
+      "sport": "swimming",
+      "discipline": "open-water",
+      "city": "Goa",
+      "venue": "Chivla Beach, Malvan, Sindhudurg (about 130 km north of Panaji)",
+      "venue_lat": 16.05,
+      "venue_lon": 73.47,
+      "start_date": "2026-12-19",
+      "end_date": "2026-12-20",
+      "date_status": "confirmed",
+      "last_edition_date": null,
+      "organiser": "Maharashtra Aquatic Association",
+      "official_url": "https://maharashtraaquaticassociation.com/events/16th-sindhudurg-ocean-swimathon/",
+      "registration": {
+        "status": "open",
+        "opens": null,
+        "closes": "2026-12-10",
+        "url": "https://maharashtraaquaticassociation.com/events/16th-sindhudurg-ocean-swimathon/",
+        "notes": "Swimathon fee INR 2,000 until 25 Oct, INR 2,500 from 26 Oct to 30 Nov, INR 3,000 from 1 to 10 Dec. Original age proof, medical certificate and indemnity documents required. The 10 km race (19 Dec) costs INR 3,000 and needs a coach-attested certificate of a previous 5 km competition."
+      },
+      "summary": "Long-running state-association sea swim at Malvan where the distance is fixed by age group, from 500 m for 6-7 year olds to 5 km for 16-25. A separate 10 km open sea race and a finswimming championship run the day before.",
+      "categories": [
+        {
+          "name": "10 km Open Sea Swim",
+          "distance_km": 10,
+          "swim_km": 10,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 3000,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": "Coach-attested certificate of a previous 5 km competition; indemnity bond on INR 500 stamp paper",
+          "notes": "Saturday 19 Dec."
+        },
+        {
+          "name": "5 km (ages 16-25)",
+          "distance_km": 5,
+          "swim_km": 5,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 2500,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": 16,
+          "level": "advanced",
+          "eligibility": "Age groups 16-18 and 19-25",
+          "notes": "Sunday 20 Dec, reporting 06:00. Fee shown is the 26 Oct - 30 Nov tier."
+        },
+        {
+          "name": "3 km (ages 26-55 and 13-15)",
+          "distance_km": 3,
+          "swim_km": 3,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 2500,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": 13,
+          "level": "intermediate",
+          "eligibility": "Age groups 13-15, 26-35, 36-45, 46-55",
+          "notes": "Reporting 07:00."
+        },
+        {
+          "name": "2 km (ages 55+ and 11-12)",
+          "distance_km": 2,
+          "swim_km": 2,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 2500,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": 11,
+          "level": "intermediate",
+          "eligibility": "Age groups 11-12 and 55+",
+          "notes": "Reporting 08:00."
+        },
+        {
+          "name": "1 km (ages 8-10, Divyang)",
+          "distance_km": 1,
+          "swim_km": 1,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 2500,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": 8,
+          "level": "beginner",
+          "eligibility": "Ages 8-10, or Divyang categories 11-55",
+          "notes": "Reporting 09:00."
+        }
+      ],
+      "course": {
+        "terrain": "open-water",
+        "surface": "sea",
+        "elevation_gain_m": null,
+        "profile": null,
+        "description": "Sea swims off Chivla Beach in Malvan, near Sindhudurg Fort on the Konkan coast."
+      },
+      "format": null,
+      "highlights": [
+        "16th edition of a state-association swim",
+        "Distance set by age group",
+        "10 km open sea race and finswimming the day before"
+      ],
+      "tips": [
+        "You cannot choose your distance; check which distance your birth year maps to before training.",
+        "Evening reporting is at Mama Varerkar Natya Graha, Malvan at 18:00 the day before; bring originals of all documents.",
+        "Late December on the Konkan coast is usually calm with clear water around 26-27 C, good for a first sea swim.",
+        "Register before 25 Oct for the lowest fee; the price rises twice before entries close on 10 Dec."
+      ],
+      "amenities": [
+        "Finisher medal (10 km race)",
+        "Online participation certificate"
+      ],
+      "beginner_friendly": true,
+      "tags": [
+        "sea-swim",
+        "state-association",
+        "age-group"
+      ],
+      "sources": [
+        "https://www.racesindia.com/races/sindhudurg-ocean-swimathon/2026",
+        "https://maharashtraaquaticassociation.com/events/16th-sindhudurg-ocean-swimathon/",
+        "https://www.racesindia.com/races/malvan-open-sea-swimming-race-finswimming-championship/2026"
+      ]
+    },
+    {
+      "name": "Goa Aquatic Crown - The Goan Coastal Odyssey",
+      "edition": "2027",
+      "sport": "swimming",
+      "discipline": "open-water",
+      "city": "Goa",
+      "venue": "South Goa coast, Benaulim area (assembly at Benaulim, base at Beira Mar Beach Resort)",
+      "venue_lat": 15.25,
+      "venue_lon": 73.92,
+      "start_date": "2027-01-10",
+      "end_date": "2027-01-10",
+      "date_status": "expected",
+      "last_edition_date": "2026-01-11",
+      "organiser": "Open Water Swimming Academy India (OWSA)",
+      "official_url": "https://owsaindia.com",
+      "registration": {
+        "status": "upcoming",
+        "opens": null,
+        "closes": null,
+        "url": "https://owsaindia.com",
+        "notes": "2027 date not announced. 2026 fees: solo INR 42,000; relays listed at INR 12,000 and INR 22,500 (team size mapping not stated)."
+      },
+      "summary": "A 20 km point-to-point ocean swim along South Goa's coastline, raced solo or as two- or four-person relays with boat, kayak and lifeguard escort. Qualifying timed swims are required for each format.",
+      "categories": [
+        {
+          "name": "20 km Solo",
+          "distance_km": 20,
+          "swim_km": 20,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": "10:00",
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": "Timed swim of at least 10 km",
+          "notes": "2026 fee INR 42,000."
+        },
+        {
+          "name": "20 km Relay, 2 swimmers (10 km legs)",
+          "distance_km": 20,
+          "swim_km": 20,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": "Timed swim of 5 km",
+          "notes": "Swimmers change at 10 km."
+        },
+        {
+          "name": "20 km Relay, 4 swimmers (5 km legs)",
+          "distance_km": 20,
+          "swim_km": 20,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "intermediate",
+          "eligibility": "Timed swim of 2.5 km or 3.8 km",
+          "notes": "Swimmers change every 5 km."
+        }
+      ],
+      "course": {
+        "terrain": "open-water",
+        "surface": "sea",
+        "elevation_gain_m": null,
+        "profile": null,
+        "description": "Point-to-point coastal swim in South Goa ending at Zalor Beach; swimmers and crew assemble at Benaulim and travel by boat to the start."
+      },
+      "format": null,
+      "highlights": [
+        "20 km ocean swim",
+        "Boat, kayak and lifeguard escort",
+        "Relay format opens it to 5 km swimmers"
+      ],
+      "tips": [
+        "January is peak calm season in Goa with clear water around 27 C; the main challenge is sun exposure, so use zinc sunscreen and plan feeds.",
+        "Practise feeding from a boat or kayak: bottle on a line, quick turnaround, no holding on.",
+        "Relay swimmers wait on the boat; carry a towel and warm layer to stay comfortable between legs."
+      ],
+      "amenities": [
+        "Boat and kayak escort",
+        "Nutrition and hydration on course",
+        "First aid"
+      ],
+      "beginner_friendly": false,
+      "tags": [
+        "sea-swim",
+        "ultra",
+        "relay",
+        "point-to-point"
+      ],
+      "sources": [
+        "https://www.racesindia.com/races/goa-aquatic-crown-goan-coastal-odyssey/2026"
+      ]
+    },
+    {
+      "name": "Den Den Swim",
+      "edition": "2027",
+      "sport": "swimming",
+      "discipline": "open-water",
+      "city": "Mangaluru",
+      "venue": "Tannirbavi Beach, Mangalore Surf Club",
+      "venue_lat": 12.9,
+      "venue_lon": 74.81,
+      "start_date": "2027-01-31",
+      "end_date": "2027-01-31",
+      "date_status": "confirmed",
+      "last_edition_date": null,
+      "organiser": "Mangalore Surf Club",
+      "official_url": "https://surfmangalore.com/den-den-swim-2027",
+      "registration": {
+        "status": "open",
+        "opens": null,
+        "closes": null,
+        "url": "https://surfmangalore.com/den-den-swim-2027",
+        "notes": "Early-bird fees until 30 Nov 2026; standard fees listed below. One race per swimmer. Bib collection only on 30 Jan 2027."
+      },
+      "summary": "Sea swim at Tannirbavi Beach hosted by the Mangalore Surf Club, with distances from 500 m to 8 km. Mandatory tow floats and qualifying swims for the longest distances make it a well-regulated introduction to ocean racing.",
+      "categories": [
+        {
+          "name": "500 m",
+          "distance_km": 0.5,
+          "swim_km": 0.5,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 1500,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "beginner",
+          "eligibility": null,
+          "notes": null
+        },
+        {
+          "name": "1 km",
+          "distance_km": 1,
+          "swim_km": 1,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 1500,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "beginner",
+          "eligibility": null,
+          "notes": null
+        },
+        {
+          "name": "2 km",
+          "distance_km": 2,
+          "swim_km": 2,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 2360,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "intermediate",
+          "eligibility": "Medical fitness certificate",
+          "notes": "Early bird INR 1,770."
+        },
+        {
+          "name": "4 km",
+          "distance_km": 4,
+          "swim_km": 4,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 2360,
+          "start_time": null,
+          "cutoff": "2:30",
+          "min_age": null,
+          "level": "intermediate",
+          "eligibility": "Medical fitness certificate",
+          "notes": "Must reach 2 km within 1:15. Early bird INR 1,770."
+        },
+        {
+          "name": "6 km",
+          "distance_km": 6,
+          "swim_km": 6,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 3100,
+          "start_time": null,
+          "cutoff": "3:35",
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": "Medical certificate and proof of a 5 km+ open-water swim completed in 2026",
+          "notes": "Must reach 3 km within 1:45. Early bird INR 2,360."
+        },
+        {
+          "name": "8 km",
+          "distance_km": 8,
+          "swim_km": 8,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 3100,
+          "start_time": null,
+          "cutoff": "4:15",
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": "Medical certificate and proof of a 5 km+ open-water swim completed in 2026",
+          "notes": "Must reach 4 km within 2:10. Early bird INR 2,360."
+        }
+      ],
+      "course": {
+        "terrain": "open-water",
+        "surface": "sea",
+        "elevation_gain_m": null,
+        "profile": null,
+        "description": "Buoyed sea course off Tannirbavi Beach, the venue of the 2026 National Open Water Swimming Championships."
+      },
+      "format": null,
+      "highlights": [
+        "Distances from 500 m to 8 km",
+        "Tow float mandatory for safety",
+        "Run by a surf club that knows local conditions"
+      ],
+      "tips": [
+        "A tow float is compulsory; train with it beforehand so the drag and leash do not surprise you.",
+        "Late January seas off Mangaluru are typically calm in the morning, but a light onshore breeze builds by 10:00; longer distances start early for that reason.",
+        "Enter by Nov 30 for early-bird pricing.",
+        "Collect your bib on 30 Jan; there is no race-day collection."
+      ],
+      "amenities": [
+        "Timing"
+      ],
+      "beginner_friendly": true,
+      "tags": [
+        "sea-swim",
+        "tow-float-mandatory"
+      ],
+      "sources": [
+        "https://www.racesindia.com/races/den-den-swim/2027-january",
+        "https://surfmangalore.com/den-den-swim-2027",
+        "https://www.swimming.org.in/national-calendar/"
+      ]
+    },
+    {
+      "name": "TRI2CHAMP Open Water Championship Chennai",
+      "edition": "2027",
+      "sport": "swimming",
+      "discipline": "open-water",
+      "city": "Chennai",
+      "venue": "Kovalam Beach (Covelong), East Coast Road",
+      "venue_lat": 12.7895,
+      "venue_lon": 80.2549,
+      "start_date": "2027-02-07",
+      "end_date": "2027-02-07",
+      "date_status": "expected",
+      "last_edition_date": "2026-02-08",
+      "organiser": "Tri2Champ Sports Pvt. Ltd.",
+      "official_url": "https://www.tri2champ.in/",
+      "registration": {
+        "status": "upcoming",
+        "opens": null,
+        "closes": null,
+        "url": "https://www.tri2champ.in/",
+        "notes": "2027 date not announced. Fees in notes are from the 8 Feb 2026 edition. Separate from the May AquaFest multisport event."
+      },
+      "summary": "February sea swim championship at Kovalam, south of Chennai, with distances from 500 m to 10 km. Run by Tri2Champ, which also organises the AquaFest multisport festival on the same beach.",
+      "categories": [
+        {
+          "name": "0.5 km",
+          "distance_km": 0.5,
+          "swim_km": 0.5,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "beginner",
+          "eligibility": null,
+          "notes": "2026 fee INR 2,000."
+        },
+        {
+          "name": "1 km",
+          "distance_km": 1,
+          "swim_km": 1,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "beginner",
+          "eligibility": null,
+          "notes": "2026 fee INR 2,500."
+        },
+        {
+          "name": "2.5 km",
+          "distance_km": 2.5,
+          "swim_km": 2.5,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "intermediate",
+          "eligibility": null,
+          "notes": "2026 fee INR 3,500."
+        },
+        {
+          "name": "5 km",
+          "distance_km": 5,
+          "swim_km": 5,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": null,
+          "notes": "2026 fee INR 4,500."
+        },
+        {
+          "name": "10 km",
+          "distance_km": 10,
+          "swim_km": 10,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": null,
+          "notes": "2026 fee INR 6,000."
+        }
+      ],
+      "course": {
+        "terrain": "open-water",
+        "surface": "sea (Bay of Bengal)",
+        "elevation_gain_m": null,
+        "profile": null,
+        "description": "Sea swim off Kovalam Beach on Chennai's East Coast Road."
+      },
+      "format": null,
+      "highlights": [
+        "Distances from 500 m to 10 km",
+        "Kovalam Blue Flag beach area",
+        "Chip-timed by MyRace"
+      ],
+      "tips": [
+        "Bay of Bengal surf at Kovalam can be strong even in February; the IRONMAN 5150 swim here was cancelled in January 2026, so practise surf entries.",
+        "Longshore current usually runs along the beach; sight more often on the leg running parallel to shore.",
+        "Water in February is about 26-27 C; no wetsuit needed."
+      ],
+      "amenities": [
+        "Timing"
+      ],
+      "beginner_friendly": true,
+      "tags": [
+        "sea-swim"
+      ],
+      "sources": [
+        "https://www.racesindia.com/races/aquafest-chennai/2026"
+      ]
+    },
+    {
+      "name": "BMF Swimathon",
+      "edition": "2027",
+      "sport": "swimming",
+      "discipline": "open-water",
+      "city": "Bengaluru",
+      "venue": "Gunjur Lake, Campout Makali, Doddaballapura",
+      "venue_lat": null,
+      "venue_lon": null,
+      "start_date": "2027-03-07",
+      "end_date": "2027-03-07",
+      "date_status": "expected",
+      "last_edition_date": "2026-03-01",
+      "organiser": "Bangalore Multisport Federation (BMF)",
+      "official_url": null,
+      "registration": {
+        "status": "upcoming",
+        "opens": null,
+        "closes": null,
+        "url": null,
+        "notes": "2027 date not announced; projected as the first Sunday of March. Fees not published for 2026."
+      },
+      "summary": "Lake swim near Doddaballapura on Bengaluru's northern edge with 500 m to 5 km distances. Prior swimming experience is required for 2 km and above, and the children's 500 m has a dedicated safety lane.",
+      "categories": [
+        {
+          "name": "1 km",
+          "distance_km": 1,
+          "swim_km": 1,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": "06:00",
+          "cutoff": "0:50",
+          "min_age": null,
+          "level": "beginner",
+          "eligibility": null,
+          "notes": null
+        },
+        {
+          "name": "2 km",
+          "distance_km": 2,
+          "swim_km": 2,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": "1:45",
+          "min_age": null,
+          "level": "intermediate",
+          "eligibility": "Prior swimming experience required",
+          "notes": null
+        },
+        {
+          "name": "3 km",
+          "distance_km": 3,
+          "swim_km": 3,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": "2:30",
+          "min_age": null,
+          "level": "intermediate",
+          "eligibility": "Prior swimming experience required",
+          "notes": null
+        },
+        {
+          "name": "5 km",
+          "distance_km": 5,
+          "swim_km": 5,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": "3:45",
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": "Prior swimming experience required",
+          "notes": null
+        },
+        {
+          "name": "Children's 500 m",
+          "distance_km": 0.5,
+          "swim_km": 0.5,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": "06:00",
+          "cutoff": "0:30",
+          "min_age": null,
+          "level": "beginner",
+          "eligibility": "Children only",
+          "notes": "Dedicated safety swim lane."
+        }
+      ],
+      "course": {
+        "terrain": "open-water",
+        "surface": "lake",
+        "elevation_gain_m": null,
+        "profile": null,
+        "description": "Freshwater lake course at the Campout Makali venue near Doddaballapura, north of Bengaluru."
+      },
+      "format": null,
+      "highlights": [
+        "Calm lake water, good for a first open-water race",
+        "Breakfast after the swim",
+        "Separate kids' safety lane"
+      ],
+      "tips": [
+        "Early March lake water near Bengaluru is cool at dawn; arrive early and get in the water for a short warm-up.",
+        "Lake water is murky compared with a pool; practise sighting every few strokes since you will not see the bottom.",
+        "Doddaballapura is about an hour from central Bengaluru; leave by 04:30 for a 06:00 start."
+      ],
+      "amenities": [
+        "Finisher medal",
+        "E-certificate",
+        "Breakfast"
+      ],
+      "beginner_friendly": true,
+      "tags": [
+        "lake-swim",
+        "kids-race"
+      ],
+      "sources": [
+        "https://www.racesindia.com/races/bmf-swimathon/2026"
+      ]
+    },
+    {
+      "name": "Goa Sea Pride Swimathon",
+      "edition": "2027",
+      "sport": "swimming",
+      "discipline": "open-water",
+      "city": "Goa",
+      "venue": "Colva Beach, South Goa",
+      "venue_lat": 15.2797,
+      "venue_lon": 73.9112,
+      "start_date": "2027-03-27",
+      "end_date": "2027-03-28",
+      "date_status": "expected",
+      "last_edition_date": "2026-03-28",
+      "organiser": "Open Water Swimming Academy India (OWSA), supported by Goa Swimming Association",
+      "official_url": "https://owsaindia.com",
+      "registration": {
+        "status": "upcoming",
+        "opens": null,
+        "closes": null,
+        "url": "https://owsaindia.com",
+        "notes": "2027 date not announced; 2026 edition ran 28-29 Mar. Fees, cutoffs and eligibility not published on the listing."
+      },
+      "summary": "Two-day sea swim at Colva Beach in South Goa with 1 km and 10 km races on Saturday and 2 km and 5 km on Sunday. Results were timed by Alpha Racing Solution in 2026.",
+      "categories": [
+        {
+          "name": "1K Swim",
+          "distance_km": 1,
+          "swim_km": 1,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "beginner",
+          "eligibility": null,
+          "notes": "Saturday."
+        },
+        {
+          "name": "2K Swim",
+          "distance_km": 2,
+          "swim_km": 2,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "intermediate",
+          "eligibility": null,
+          "notes": "Sunday."
+        },
+        {
+          "name": "5K Swim",
+          "distance_km": 5,
+          "swim_km": 5,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": null,
+          "notes": "Sunday."
+        },
+        {
+          "name": "10K Swim",
+          "distance_km": 10,
+          "swim_km": 10,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": null,
+          "notes": "Saturday."
+        }
+      ],
+      "course": {
+        "terrain": "open-water",
+        "surface": "sea",
+        "elevation_gain_m": null,
+        "profile": null,
+        "description": "Sea swim off Colva, a long, open sandy beach in South Goa."
+      },
+      "format": null,
+      "highlights": [
+        "Two-day format with four distances",
+        "Supported by the Goa Swimming Association",
+        "Electronic timing"
+      ],
+      "tips": [
+        "Late March seas in Goa are generally calm in the early morning, with an afternoon sea breeze; start times are early for that reason.",
+        "Water is warm (around 29 C) by late March; hydrate well before long swims and consider a feed at 5 km in the 10K.",
+        "Colva is an open beach with lateral drift; pick a fixed landmark like a beach shack or the lifeguard tower when sighting back to shore."
+      ],
+      "amenities": [
+        "Timing"
+      ],
+      "beginner_friendly": true,
+      "tags": [
+        "sea-swim"
+      ],
+      "sources": [
+        "https://www.racesindia.com/races/goa-sea-pride/2026"
+      ]
+    },
+    {
+      "name": "Kochi Swimathon Ultra",
+      "edition": "2027, 6th edition",
+      "sport": "swimming",
+      "discipline": "open-water",
+      "city": "Kochi",
+      "venue": "Periyar River, Aluva",
+      "venue_lat": 10.11,
+      "venue_lon": 76.35,
+      "start_date": "2027-04-11",
+      "end_date": "2027-04-11",
+      "date_status": "expected",
+      "last_edition_date": "2026-04-12",
+      "organiser": "TDK Sports",
+      "official_url": "https://tdksports.in/",
+      "registration": {
+        "status": "upcoming",
+        "opens": null,
+        "closes": null,
+        "url": "https://tdksports.in/",
+        "notes": "2027 date not announced. In 2026 entries opened 31 Oct 2025 with five price windows (super early bird to express). Fees in notes are 2026 ranges. Ordinary entries non-refundable."
+      },
+      "summary": "River swim on the freshwater Periyar at Aluva, billed by TDK Sports as India's largest open-water swimathon, with distances from 400 m to a 20 km ultra. Longer distances need qualifying certificates or a river assessment swim.",
+      "categories": [
+        {
+          "name": "400 m River Swim",
+          "distance_km": 0.4,
+          "swim_km": 0.4,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": "12:00",
+          "cutoff": "0:30",
+          "min_age": null,
+          "level": "beginner",
+          "eligibility": null,
+          "notes": "2026 fee INR 1,160-1,740."
+        },
+        {
+          "name": "1 km River Swim",
+          "distance_km": 1,
+          "swim_km": 1,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": "11:30",
+          "cutoff": "1:00",
+          "min_age": null,
+          "level": "beginner",
+          "eligibility": null,
+          "notes": "2026 fee INR 1,960-2,940."
+        },
+        {
+          "name": "2 km River Swim",
+          "distance_km": 2,
+          "swim_km": 2,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": "08:00",
+          "cutoff": "2:00",
+          "min_age": null,
+          "level": "intermediate",
+          "eligibility": "1 km timing certificate or river assessment",
+          "notes": "2026 fee INR 2,360-3,540."
+        },
+        {
+          "name": "4 km River Swim",
+          "distance_km": 4,
+          "swim_km": 4,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": "07:30",
+          "cutoff": "2:45",
+          "min_age": null,
+          "level": "intermediate",
+          "eligibility": "2 km timing certificate or river assessment",
+          "notes": "2026 fee INR 3,160-4,740."
+        },
+        {
+          "name": "6 km River Swim",
+          "distance_km": 6,
+          "swim_km": 6,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": "07:00",
+          "cutoff": "3:30",
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": "4 km timing certificate or river assessment",
+          "notes": "Last-loop entry deadline applies. 2026 fee INR 3,960-5,940."
+        },
+        {
+          "name": "10 km Marathon Swim",
+          "distance_km": 10,
+          "swim_km": 10,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": "06:15",
+          "cutoff": "6:00",
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": "6 km timing certificate or river assessment",
+          "notes": "2026 fee INR 4,480-6,720."
+        },
+        {
+          "name": "10 Mile Ultra Swim",
+          "distance_km": 16.1,
+          "swim_km": 16.1,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": "06:00",
+          "cutoff": "6:30",
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": "10 km completed within 4 hours",
+          "notes": "2026 fee INR 5,360-8,040."
+        },
+        {
+          "name": "20 km Ultra Swim",
+          "distance_km": 20,
+          "swim_km": 20,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": "05:30",
+          "cutoff": "7:00",
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": "10 km completed within 4 hours",
+          "notes": "2026 fee INR 5,920-8,880."
+        }
+      ],
+      "course": {
+        "terrain": "open-water",
+        "surface": "river (freshwater)",
+        "elevation_gain_m": null,
+        "profile": null,
+        "description": "Looped river course on the Periyar at Aluva, north of Kochi. Longer distances have last-loop entry deadlines in addition to finish cutoffs."
+      },
+      "format": null,
+      "highlights": [
+        "Distances from 400 m to 20 km",
+        "Clear qualifying ladder for each distance",
+        "Billed as India's largest open-water swimathon"
+      ],
+      "tips": [
+        "Tow float and the coloured race cap are compulsory for every distance; fins, paddles, masks and snorkels are banned.",
+        "No qualifying certificate? Submit training proof by the deadline and book the river assessment the day before (INR 1,900 in 2026).",
+        "April in Kochi is hot and humid; the short swims start late morning, so wear water-resistant sunscreen and drink before the start.",
+        "River current changes the effort between upstream and downstream legs; pace by effort, not by split time."
+      ],
+      "amenities": [
+        "Timing",
+        "Finisher medal",
+        "Certificate",
+        "Breakfast"
+      ],
+      "beginner_friendly": true,
+      "tags": [
+        "river-swim",
+        "ultra",
+        "tow-float-mandatory"
+      ],
+      "sources": [
+        "https://www.racesindia.com/races/kochi-swimathon-ultra/2026",
+        "https://tdksports.in/"
+      ]
+    },
+    {
+      "name": "Bergman Swimathon Bengaluru",
+      "edition": "2027",
+      "sport": "swimming",
+      "discipline": "open-water",
+      "city": "Bengaluru",
+      "venue": "Nelligudde Kere, Bidadi",
+      "venue_lat": 12.79,
+      "venue_lon": 77.38,
+      "start_date": "2027-09-04",
+      "end_date": "2027-09-04",
+      "date_status": "expected",
+      "last_edition_date": "2026-09-05",
+      "organiser": "Bergman Triathlon India",
+      "official_url": "https://bergmantri.com/races/blr",
+      "registration": {
+        "status": "upcoming",
+        "opens": null,
+        "closes": null,
+        "url": "https://bergmantri.com/races/blr",
+        "notes": "2027 date not announced; held the Saturday before the Bergman Bengaluru Triathlon. Fees not published on the listing."
+      },
+      "summary": "Lake swimathon at Nelligudde Kere near Bidadi held the day before the Bergman Bengaluru Triathlon, with 500 m (kids), 1 km, 2 km and 4 km races. The organiser lists average water temperature at about 22 C.",
+      "categories": [
+        {
+          "name": "1 km",
+          "distance_km": 1,
+          "swim_km": 1,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": 9,
+          "level": "beginner",
+          "eligibility": null,
+          "notes": "Age groups 9-12, 13-15, 16-30, 31-40, 41-50, 51+."
+        },
+        {
+          "name": "2 km",
+          "distance_km": 2,
+          "swim_km": 2,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "intermediate",
+          "eligibility": null,
+          "notes": null
+        },
+        {
+          "name": "4 km",
+          "distance_km": 4,
+          "swim_km": 4,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "intermediate",
+          "eligibility": null,
+          "notes": null
+        },
+        {
+          "name": "Kids 500 m",
+          "distance_km": 0.5,
+          "swim_km": 0.5,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "beginner",
+          "eligibility": "Kids category",
+          "notes": null
+        }
+      ],
+      "course": {
+        "terrain": "open-water",
+        "surface": "lake",
+        "elevation_gain_m": null,
+        "profile": null,
+        "description": "Freshwater lake course at Nelligudde Kere, about 35 km south-west of central Bengaluru."
+      },
+      "format": null,
+      "highlights": [
+        "Chip-timed lake swim",
+        "Kids 500 m category",
+        "Same venue as the Bergman triathlon"
+      ],
+      "tips": [
+        "At about 22 C the lake is noticeably cooler than a pool; acclimatise with a couple of open-water swims in August.",
+        "Swimmers planning the triathlon next day should keep the swim easy; the bike and run are rolling.",
+        "Late monsoon showers are possible in early September; pack a dry bag for post-swim clothes."
+      ],
+      "amenities": [
+        "Chip timing"
+      ],
+      "beginner_friendly": true,
+      "tags": [
+        "lake-swim",
+        "bergman-series",
+        "kids-race"
+      ],
+      "sources": [
+        "https://bergmantri.com/races/blr",
+        "https://www.racesindia.com/races/bergman-bengaluru-triathlon-and-swimathon/2026"
+      ]
+    },
+    {
+      "name": "Bergman Swimathon Pune (Ozar)",
+      "edition": "2027",
+      "sport": "swimming",
+      "discipline": "open-water",
+      "city": "Pune",
+      "venue": "Ozar Dam backwaters, Ozar",
+      "venue_lat": 19.19,
+      "venue_lon": 73.96,
+      "start_date": "2027-10-02",
+      "end_date": "2027-10-02",
+      "date_status": "expected",
+      "last_edition_date": "2026-10-03",
+      "organiser": "Bergman Triathlon India",
+      "official_url": "https://bergmantri.com/races/bmpo2026",
+      "registration": {
+        "status": "upcoming",
+        "opens": null,
+        "closes": null,
+        "url": "https://bergmantri.com",
+        "notes": "2027 date not announced; held the Saturday before the Bergman Ozar Pune Triathlon. Fees not published."
+      },
+      "summary": "Reservoir swimathon in the Ozar Dam backwaters north of Pune, run the day before the Bergman Ozar triathlon. Offers kids 500 m, 1 km, 2 km and 4 km in water averaging about 23 C.",
+      "categories": [
+        {
+          "name": "1 km",
+          "distance_km": 1,
+          "swim_km": 1,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": 9,
+          "level": "beginner",
+          "eligibility": null,
+          "notes": "Age groups 9-12, 13-15, 16-30, 31-40, 41-50, 51+."
+        },
+        {
+          "name": "2 km",
+          "distance_km": 2,
+          "swim_km": 2,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "intermediate",
+          "eligibility": null,
+          "notes": null
+        },
+        {
+          "name": "4 km",
+          "distance_km": 4,
+          "swim_km": 4,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "intermediate",
+          "eligibility": null,
+          "notes": null
+        },
+        {
+          "name": "Kids 500 m",
+          "distance_km": 0.5,
+          "swim_km": 0.5,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "beginner",
+          "eligibility": "Kids category",
+          "notes": null
+        }
+      ],
+      "course": {
+        "terrain": "open-water",
+        "surface": "reservoir",
+        "elevation_gain_m": null,
+        "profile": null,
+        "description": "Freshwater reservoir course in the Ozar Dam backwater beside the Vighnahar Ganpati temple."
+      },
+      "format": null,
+      "highlights": [
+        "Chip-timed reservoir swim",
+        "Kids category",
+        "Pairs with a triathlon the next day"
+      ],
+      "tips": [
+        "Early October is just after the monsoon, so the reservoir is full and may have floating vegetation near the banks; follow the buoy line.",
+        "Ozar is about 85 km from Pune; stay overnight to avoid a pre-dawn drive on the Nashik highway.",
+        "Water around 23 C suits a non-wetsuit swim for most people."
+      ],
+      "amenities": [
+        "Chip timing"
+      ],
+      "beginner_friendly": true,
+      "tags": [
+        "reservoir-swim",
+        "bergman-series",
+        "kids-race"
+      ],
+      "sources": [
+        "https://bergmantri.com/races/bmpo2026",
+        "https://www.racesindia.com/races/bergman-ozar-pune-triathlon-and-swimathon/2026"
+      ]
+    },
+    {
+      "name": "Delhi International Swimathon",
+      "edition": "2027",
+      "sport": "swimming",
+      "discipline": "pool",
+      "city": "Delhi NCR",
+      "venue": "SPM Swimming Pool Complex, Talkatora, New Delhi",
+      "venue_lat": 28.628,
+      "venue_lon": 77.196,
+      "start_date": "2027-10-03",
+      "end_date": "2027-10-03",
+      "date_status": "expected",
+      "last_edition_date": "2025-10-05",
+      "organiser": "India Endurance",
+      "official_url": "https://indiaendurance.in/swimathon",
+      "registration": {
+        "status": "upcoming",
+        "opens": null,
+        "closes": null,
+        "url": "https://indiaendurance.in/swimathon",
+        "notes": "Last confirmed edition 5 Oct 2025; a 2026 date was listed but not confirmed by the organiser. Category-specific age and time limits apply. Fees in notes are from the last published edition."
+      },
+      "summary": "Pool swimathon at the SPM complex in Talkatora, New Delhi, with distances from 50 m to a 10 km ultra. One of the few organised distance swims for amateurs in Delhi NCR.",
+      "categories": [
+        {
+          "name": "500 m",
+          "distance_km": 0.5,
+          "swim_km": 0.5,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": "08:00",
+          "cutoff": null,
+          "min_age": null,
+          "level": "beginner",
+          "eligibility": null,
+          "notes": "Last fee INR 2,700. 50 m and 200 m categories (INR 2,500) also offered."
+        },
+        {
+          "name": "1.5 km",
+          "distance_km": 1.5,
+          "swim_km": 1.5,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": "08:00",
+          "cutoff": null,
+          "min_age": null,
+          "level": "beginner",
+          "eligibility": null,
+          "notes": "Last fee INR 3,200."
+        },
+        {
+          "name": "3 km",
+          "distance_km": 3,
+          "swim_km": 3,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": "08:00",
+          "cutoff": null,
+          "min_age": null,
+          "level": "intermediate",
+          "eligibility": null,
+          "notes": "Last fee INR 3,200. A 2 km category (INR 4,200) also listed."
+        },
+        {
+          "name": "Major 5 km",
+          "distance_km": 5,
+          "swim_km": 5,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": "08:00",
+          "cutoff": null,
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": null,
+          "notes": "Last fee INR 5,000."
+        },
+        {
+          "name": "Ultra 10 km",
+          "distance_km": 10,
+          "swim_km": 10,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": "08:00",
+          "cutoff": null,
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": null,
+          "notes": "Last fee INR 6,500. Mid Ultra 7 km (INR 5,700) also offered."
+        }
+      ],
+      "course": {
+        "terrain": "pool",
+        "surface": "pool",
+        "elevation_gain_m": null,
+        "profile": null,
+        "description": "Lane swimming at the SPM Swimming Pool Complex near Talkatora Stadium in central New Delhi."
+      },
+      "format": null,
+      "highlights": [
+        "Pool distances from 50 m to 10 km",
+        "Central Delhi venue",
+        "Good stepping stone before open water"
+      ],
+      "tips": [
+        "Count laps with a lap-counting watch or ask whether lap counters are provided; a 10 km pool swim is 200 lengths of a 50 m pool.",
+        "Early October in Delhi is still warm by mid-morning; hydrate between long sets and keep a bottle at the lane end if allowed.",
+        "Confirm the 2027 date with the organiser before booking travel, since the 2026 edition was not confirmed."
+      ],
+      "amenities": [
+        "Timing"
+      ],
+      "beginner_friendly": true,
+      "tags": [
+        "pool-swim"
+      ],
+      "sources": [
+        "https://www.racesindia.com/races/delhi-international-swimathon/2026"
+      ]
+    },
+    {
+      "name": "Lakeman Bhopal",
+      "edition": "2027, Lakeman 4.0 (projected)",
+      "sport": "swimming",
+      "discipline": "open-water",
+      "city": "Bhopal",
+      "venue": "Upper Lake (Bada Talab), Vardhman Park",
+      "venue_lat": 23.25,
+      "venue_lon": 77.38,
+      "start_date": "2027-10-10",
+      "end_date": "2027-10-10",
+      "date_status": "expected",
+      "last_edition_date": "2026-10-11",
+      "organiser": "TriZee Athletes",
+      "official_url": "https://trizee.in/",
+      "registration": {
+        "status": "upcoming",
+        "opens": null,
+        "closes": null,
+        "url": "https://trizee.in/",
+        "notes": "2027 date not announced. Fees in notes are from the 2026 (Lakeman 3.1) edition. Requires proof of prior open-water experience, a medical certificate issued within 30 days, signed waiver and Aadhaar copy."
+      },
+      "summary": "Open-water lake swim on Bhopal's Upper Lake with 500 m to 4 km loop races. Bring your own tow float; the organiser supplies caps.",
+      "categories": [
+        {
+          "name": "500 m Starter",
+          "distance_km": 0.5,
+          "swim_km": 0.5,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": "07:30",
+          "cutoff": "0:30",
+          "min_age": 8,
+          "level": "beginner",
+          "eligibility": "Proof of open-water experience, medical certificate",
+          "notes": "2026 fee INR 1,599."
+        },
+        {
+          "name": "1 km Challenge",
+          "distance_km": 1,
+          "swim_km": 1,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": "07:00",
+          "cutoff": "1:00",
+          "min_age": 8,
+          "level": "beginner",
+          "eligibility": "Proof of open-water experience, medical certificate",
+          "notes": "2026 fee INR 2,399."
+        },
+        {
+          "name": "2 km Endurance",
+          "distance_km": 2,
+          "swim_km": 2,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": "06:30",
+          "cutoff": "1:20",
+          "min_age": 8,
+          "level": "intermediate",
+          "eligibility": "Proof of open-water experience, medical certificate",
+          "notes": "2026 fee INR 2,999."
+        },
+        {
+          "name": "4 km Ultimate",
+          "distance_km": 4,
+          "swim_km": 4,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": "06:00",
+          "cutoff": "2:30",
+          "min_age": 8,
+          "level": "intermediate",
+          "eligibility": "Proof of open-water experience, medical certificate",
+          "notes": "Eight loops. 2026 fee INR 3,999."
+        }
+      ],
+      "course": {
+        "terrain": "open-water",
+        "surface": "lake",
+        "elevation_gain_m": null,
+        "profile": null,
+        "description": "Looped course on Bhopal's Upper Lake based at Vardhman Park, with manual gun timing."
+      },
+      "format": null,
+      "highlights": [
+        "Lake swim in the heart of Bhopal",
+        "Short loops, easy to monitor",
+        "Ages 8 and up"
+      ],
+      "tips": [
+        "Bring your own tow float or swim buoy; your race number goes on both the buoy and the cap.",
+        "Timing is manual from the gun, so line up at the front of your wave rather than drifting in late.",
+        "Get your medical certificate dated within 30 days of race day.",
+        "October lake water is still warm after the monsoon; tinted goggles help with glare on early-morning loops."
+      ],
+      "amenities": [
+        "Swim cap",
+        "Manual timing"
+      ],
+      "beginner_friendly": true,
+      "tags": [
+        "lake-swim"
+      ],
+      "sources": [
+        "https://www.racesindia.com/races/lakeman/2026"
+      ]
+    }
+  ]
+}

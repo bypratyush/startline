@@ -1,0 +1,3415 @@
+{
+  "cities": [
+    {
+      "name": "Mumbai",
+      "slug": "mumbai",
+      "state": "Maharashtra",
+      "tier": 1,
+      "lat": 19.0761,
+      "lon": 72.8775,
+      "elevation_m": 14,
+      "location_sources": {
+        "coordinates": "https://en.wikipedia.org/wiki/Mumbai",
+        "elevation": "https://en.wikipedia.org/wiki/Mumbai"
+      },
+      "climate": {
+        "station": "Santacruz (Chhatrapati Shivaji Maharaj International Airport)",
+        "normals_period": "1991-2020",
+        "mean_daily_max_c": [
+          31.2,
+          31.7,
+          33.1,
+          33.4,
+          33.7,
+          32.5,
+          30.4,
+          30.2,
+          30.9,
+          33.6,
+          34.1,
+          32.6
+        ],
+        "mean_daily_min_c": [
+          16.9,
+          18.1,
+          21.1,
+          24.2,
+          27.0,
+          26.6,
+          25.5,
+          25.2,
+          24.9,
+          23.9,
+          21.4,
+          18.4
+        ],
+        "mean_monthly_rainfall_mm": [
+          0.2,
+          0.2,
+          0.1,
+          0.1,
+          7.3,
+          526.3,
+          919.9,
+          560.8,
+          383.5,
+          91.3,
+          11.0,
+          1.6
+        ],
+        "mean_relative_humidity_pct": [
+          49,
+          47,
+          51,
+          59,
+          65,
+          74,
+          81,
+          81,
+          76,
+          63,
+          54,
+          51
+        ],
+        "humidity_basis": "afternoon (17:30 IST observation)",
+        "source": "India Meteorological Department climate normals as reproduced in the Wikipedia climate table",
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Mumbai#Climate"
+        ]
+      },
+      "air_quality_note": {
+        "text": "In CPCB daily bulletins for November 2025 to February 2026, Mumbai's AQI was Moderate or worse on 97 of 120 reported days (never Poor), while from June to September 2026 it was Good or Satisfactory on all 113 reported days.",
+        "sources": [
+          "https://cpcb.gov.in/AQI_Bulletin.php",
+          "https://cpcb.gov.in/upload/Downloads/AQI_Bulletin_20251021.pdf"
+        ]
+      },
+      "sports_note": {
+        "text": "The Mumbai Marathon runs on the third Sunday of January from opposite CSMT past Marine Drive, Haji Ali and the Bandra-Worli Sea Link, and its 2017 edition hosted 42,000 runners.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Tata_Mumbai_Marathon"
+        ]
+      }
+    },
+    {
+      "name": "Delhi NCR",
+      "slug": "delhi-ncr",
+      "state": "Delhi (National Capital Territory)",
+      "tier": 1,
+      "lat": 28.61,
+      "lon": 77.23,
+      "elevation_m": 221,
+      "location_sources": {
+        "coordinates": "https://en.wikipedia.org/wiki/Delhi",
+        "elevation": "https://www.wikidata.org/wiki/Q1353"
+      },
+      "climate": {
+        "station": "Safdarjung, New Delhi",
+        "normals_period": "1991-2020",
+        "mean_daily_max_c": [
+          20.1,
+          24.2,
+          29.9,
+          36.5,
+          39.9,
+          39.0,
+          35.6,
+          34.2,
+          34.1,
+          33.0,
+          28.4,
+          22.8
+        ],
+        "mean_daily_min_c": [
+          7.5,
+          10.6,
+          15.6,
+          21.3,
+          25.8,
+          27.7,
+          27.5,
+          26.7,
+          25.0,
+          19.5,
+          13.0,
+          8.4
+        ],
+        "mean_monthly_rainfall_mm": [
+          19.1,
+          21.3,
+          17.4,
+          16.3,
+          30.7,
+          74.1,
+          209.7,
+          233.1,
+          123.5,
+          15.1,
+          6.0,
+          8.1
+        ],
+        "mean_relative_humidity_pct": [
+          57,
+          46,
+          37,
+          25,
+          28,
+          43,
+          63,
+          68,
+          60,
+          47,
+          52,
+          59
+        ],
+        "humidity_basis": "afternoon (17:30 IST observation)",
+        "source": "India Meteorological Department climate normals as reproduced in the Wikipedia climate table",
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Delhi#Climate",
+          "https://en.wikipedia.org/wiki/Template:Delhi_weatherbox"
+        ]
+      },
+      "air_quality_note": {
+        "text": "In CPCB daily bulletins from mid-October 2025 to mid-October 2026, Delhi's AQI was Very Poor or Severe on 80 days, all between October and February and peaking at 461 on 14 December 2025, while from June to September 2026 it was Satisfactory or Moderate on 110 of 113 reported days.",
+        "sources": [
+          "https://cpcb.gov.in/AQI_Bulletin.php",
+          "https://cpcb.gov.in/upload/Downloads/AQI_Bulletin_20251214.pdf"
+        ]
+      },
+      "sports_note": {
+        "text": "The Delhi Half Marathon, held in late October or early November on a largely flat course starting at Nehru Stadium, draws about 40,000 participants across its race categories.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Delhi_Half_Marathon"
+        ]
+      },
+      "reference_city": "Delhi (New Delhi)"
+    },
+    {
+      "name": "Bengaluru",
+      "slug": "bengaluru",
+      "state": "Karnataka",
+      "tier": 1,
+      "lat": 12.9789,
+      "lon": 77.5917,
+      "elevation_m": 920,
+      "location_sources": {
+        "coordinates": "https://en.wikipedia.org/wiki/Bengaluru",
+        "elevation": "https://en.wikipedia.org/wiki/Bengaluru"
+      },
+      "climate": {
+        "station": "Bengaluru",
+        "normals_period": "1991-2020",
+        "mean_daily_max_c": [
+          28.4,
+          30.9,
+          33.4,
+          34.1,
+          33.1,
+          29.7,
+          28.3,
+          28.1,
+          28.6,
+          28.5,
+          27.4,
+          26.9
+        ],
+        "mean_daily_min_c": [
+          16.1,
+          17.6,
+          20.2,
+          22.1,
+          21.8,
+          20.6,
+          20.1,
+          20.0,
+          20.0,
+          19.8,
+          18.3,
+          16.4
+        ],
+        "mean_monthly_rainfall_mm": [
+          1.6,
+          7.1,
+          14.7,
+          61.7,
+          128.7,
+          110.3,
+          116.4,
+          162.7,
+          208.3,
+          186.4,
+          64.5,
+          15.4
+        ],
+        "mean_relative_humidity_pct": [
+          41,
+          32,
+          29,
+          35,
+          47,
+          62,
+          65,
+          67,
+          64,
+          65,
+          61,
+          53
+        ],
+        "humidity_basis": "afternoon (17:30 IST observation)",
+        "source": "India Meteorological Department climate normals as reproduced in the Wikipedia climate table",
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Bengaluru#Climate",
+          "https://en.wikipedia.org/wiki/Template:Bengaluru_Weather_box"
+        ]
+      },
+      "air_quality_note": {
+        "text": "In CPCB daily bulletins for November 2025 to February 2026, Bengaluru's AQI was Moderate or worse on 66 of 120 reported days (never Poor), while from June to September 2026 it was Good or Satisfactory on 110 of 113 reported days.",
+        "sources": [
+          "https://cpcb.gov.in/AQI_Bulletin.php",
+          "https://cpcb.gov.in/upload/Downloads/AQI_Bulletin_20260306.pdf"
+        ]
+      },
+      "sports_note": {
+        "text": "The World 10K Bengaluru is held each May, starting and finishing at Sree Kanteerava Stadium, and includes an Open 10K for amateur runners alongside shorter fun, senior and disability races.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/World_10K_Bangalore"
+        ]
+      }
+    },
+    {
+      "name": "Hyderabad",
+      "slug": "hyderabad",
+      "state": "Telangana",
+      "tier": 1,
+      "lat": 17.3617,
+      "lon": 78.4747,
+      "elevation_m": 536,
+      "location_sources": {
+        "coordinates": "https://en.wikipedia.org/wiki/Hyderabad",
+        "elevation": "https://en.wikipedia.org/wiki/Hyderabad"
+      },
+      "climate": {
+        "station": "Hyderabad",
+        "normals_period": "1991-2020",
+        "mean_daily_max_c": [
+          28.6,
+          31.8,
+          35.2,
+          37.6,
+          38.8,
+          34.4,
+          30.5,
+          29.6,
+          30.1,
+          30.4,
+          28.8,
+          27.8
+        ],
+        "mean_daily_min_c": [
+          13.9,
+          15.5,
+          20.3,
+          24.1,
+          26.0,
+          23.9,
+          22.5,
+          22.0,
+          21.7,
+          20.0,
+          16.4,
+          13.1
+        ],
+        "mean_monthly_rainfall_mm": [
+          9.2,
+          10.2,
+          12.3,
+          27.2,
+          34.5,
+          113.8,
+          162.0,
+          203.9,
+          148.5,
+          113.9,
+          19.1,
+          5.0
+        ],
+        "mean_relative_humidity_pct": [
+          41,
+          33,
+          29,
+          30,
+          31,
+          52,
+          65,
+          70,
+          67,
+          59,
+          49,
+          44
+        ],
+        "humidity_basis": "afternoon (17:30 IST observation)",
+        "source": "India Meteorological Department climate normals as reproduced in the Wikipedia climate table",
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Hyderabad#Climate",
+          "https://en.wikipedia.org/wiki/Template:Hyderabad_weatherbox"
+        ]
+      },
+      "air_quality_note": {
+        "text": "In CPCB daily bulletins for November 2025 to February 2026, Hyderabad's AQI was Moderate or worse on 28 of 120 reported days (never Poor), while from June to September 2026 it was Good or Satisfactory on all 113 reported days.",
+        "sources": [
+          "https://cpcb.gov.in/AQI_Bulletin.php",
+          "https://cpcb.gov.in/upload/Downloads/AQI_Bulletin_20251223.pdf"
+        ]
+      },
+      "sports_note": {
+        "text": "KBR National Park in Jubilee Hills draws regular evening and weekend visitors, and the city stages the Hyderabad Marathon on the last Sunday of August.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Kasu_Brahmananda_Reddy_National_Park",
+          "https://en.wikipedia.org/wiki/Hyderabad_Marathon"
+        ]
+      }
+    },
+    {
+      "name": "Chennai",
+      "slug": "chennai",
+      "state": "Tamil Nadu",
+      "tier": 1,
+      "lat": 13.0825,
+      "lon": 80.275,
+      "elevation_m": 7,
+      "location_sources": {
+        "coordinates": "https://www.wikidata.org/wiki/Q1352",
+        "elevation": "https://en.wikipedia.org/wiki/Chennai"
+      },
+      "climate": {
+        "station": "Nungambakkam (rainfall from Chennai Airport, Meenambakkam)",
+        "normals_period": "1991-2020",
+        "mean_daily_max_c": [
+          29.3,
+          30.9,
+          32.9,
+          34.5,
+          37.1,
+          37.0,
+          35.3,
+          34.7,
+          34.2,
+          32.1,
+          29.9,
+          28.9
+        ],
+        "mean_daily_min_c": [
+          21.2,
+          22.2,
+          24.2,
+          26.6,
+          28.0,
+          27.5,
+          26.4,
+          25.9,
+          25.6,
+          24.6,
+          23.1,
+          21.9
+        ],
+        "mean_monthly_rainfall_mm": [
+          20.0,
+          4.7,
+          3.4,
+          17.5,
+          49.7,
+          75.4,
+          113.1,
+          141.4,
+          143.9,
+          278.3,
+          377.3,
+          183.7
+        ],
+        "mean_relative_humidity_pct": [
+          67,
+          66,
+          67,
+          70,
+          68,
+          63,
+          65,
+          66,
+          71,
+          76,
+          76,
+          71
+        ],
+        "humidity_basis": "afternoon (17:30 IST observation)",
+        "source": "India Meteorological Department climate normals as reproduced in the Wikipedia climate table",
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Chennai#Climate",
+          "https://en.wikipedia.org/wiki/Geography_of_Chennai"
+        ]
+      },
+      "air_quality_note": {
+        "text": "In CPCB daily bulletins for November 2025 to February 2026, Chennai's AQI was Moderate or worse on 68 of 120 reported days (Poor or worse on 1), while from June to September 2026 it was Good or Satisfactory on 102 of 113 reported days.",
+        "sources": [
+          "https://cpcb.gov.in/AQI_Bulletin.php",
+          "https://cpcb.gov.in/upload/Downloads/AQI_Bulletin_20260211.pdf"
+        ]
+      },
+      "sports_note": {
+        "text": "The Chennai Marathon starts at Napier Bridge on Marina Beach for its full, 20-mile and 10K races, finishes longer races on East Coast Road, and draws more than 20,000 amateur runners.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Chennai_Marathon"
+        ]
+      }
+    },
+    {
+      "name": "Kolkata",
+      "slug": "kolkata",
+      "state": "West Bengal",
+      "tier": 1,
+      "lat": 22.5675,
+      "lon": 88.37,
+      "elevation_m": 9,
+      "location_sources": {
+        "coordinates": "https://www.wikidata.org/wiki/Q1348",
+        "elevation": "https://en.wikipedia.org/wiki/Kolkata"
+      },
+      "climate": {
+        "station": "Alipore",
+        "normals_period": "1991-2020",
+        "mean_daily_max_c": [
+          25.5,
+          29.4,
+          33.7,
+          35.4,
+          35.5,
+          34.1,
+          32.5,
+          32.3,
+          32.6,
+          32.3,
+          30.2,
+          26.7
+        ],
+        "mean_daily_min_c": [
+          14.3,
+          18.1,
+          22.9,
+          25.7,
+          26.8,
+          27.1,
+          26.7,
+          26.6,
+          26.3,
+          24.4,
+          20.1,
+          15.5
+        ],
+        "mean_monthly_rainfall_mm": [
+          15.4,
+          24.6,
+          36.8,
+          55.0,
+          118.5,
+          276.7,
+          371.6,
+          372.1,
+          325.0,
+          179.6,
+          32.6,
+          5.6
+        ],
+        "mean_relative_humidity_pct": [
+          62,
+          55,
+          51,
+          61,
+          68,
+          77,
+          82,
+          83,
+          82,
+          76,
+          68,
+          65
+        ],
+        "humidity_basis": "afternoon (17:30 IST observation)",
+        "source": "India Meteorological Department climate normals as reproduced in the Wikipedia climate table",
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Kolkata#Climate",
+          "https://en.wikipedia.org/wiki/Template:Kolkata_weatherbox"
+        ]
+      },
+      "air_quality_note": {
+        "text": "In CPCB daily bulletins for November 2025 to February 2026, Kolkata's AQI was Moderate or worse on 116 of 120 reported days (Poor or worse on 34), while from June to September 2026 it was Good or Satisfactory on 109 of 112 reported days.",
+        "sources": [
+          "https://cpcb.gov.in/AQI_Bulletin.php",
+          "https://cpcb.gov.in/upload/Downloads/AQI_Bulletin_20251212.pdf"
+        ]
+      },
+      "sports_note": {
+        "text": "Rabindra Sarobar lake in South Kolkata draws morning walkers and joggers and houses several rowing and swimming clubs, including the Calcutta Rowing Club, a hub of competitive rowing for over 150 years.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Rabindra_Sarobar"
+        ]
+      }
+    },
+    {
+      "name": "Pune",
+      "slug": "pune",
+      "state": "Maharashtra",
+      "tier": 1,
+      "lat": 18.5211,
+      "lon": 73.8553,
+      "elevation_m": 571,
+      "location_sources": {
+        "coordinates": "https://en.wikipedia.org/wiki/Pune",
+        "elevation": "https://en.wikipedia.org/wiki/Pune"
+      },
+      "climate": {
+        "station": "Pune",
+        "normals_period": "1991-2020",
+        "mean_daily_max_c": [
+          29.8,
+          32.2,
+          35.6,
+          37.9,
+          37.3,
+          32.0,
+          28.3,
+          27.8,
+          29.5,
+          31.5,
+          30.7,
+          29.5
+        ],
+        "mean_daily_min_c": [
+          11.2,
+          12.7,
+          16.0,
+          19.9,
+          22.9,
+          23.1,
+          22.4,
+          21.7,
+          21.0,
+          19.0,
+          15.1,
+          11.8
+        ],
+        "mean_monthly_rainfall_mm": [
+          0.7,
+          0.1,
+          3.1,
+          6.8,
+          19.8,
+          183.9,
+          190.0,
+          156.3,
+          140.4,
+          105.3,
+          28.1,
+          6.8
+        ],
+        "mean_relative_humidity_pct": [
+          36,
+          27,
+          22,
+          24,
+          36,
+          66,
+          77,
+          79,
+          73,
+          57,
+          47,
+          41
+        ],
+        "humidity_basis": "afternoon (17:30 IST observation)",
+        "source": "India Meteorological Department climate normals as reproduced in the Wikipedia climate table",
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Pune#Climate"
+        ]
+      },
+      "air_quality_note": {
+        "text": "In CPCB daily bulletins for November 2025 to February 2026, Pune's AQI was Moderate or worse on 108 of 120 reported days (Poor or worse on 16), while from June to September 2026 it was Good or Satisfactory on all 112 reported days.",
+        "sources": [
+          "https://cpcb.gov.in/AQI_Bulletin.php",
+          "https://cpcb.gov.in/upload/Downloads/AQI_Bulletin_20251230.pdf"
+        ]
+      },
+      "sports_note": {
+        "text": "The Pune International Marathon, first held in 1983, is run in early December on a route through the city's historic areas and drew over 50,000 runners in 2006.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Pune_International_Marathon"
+        ]
+      }
+    },
+    {
+      "name": "Ahmedabad",
+      "slug": "ahmedabad",
+      "state": "Gujarat",
+      "tier": 1,
+      "lat": 23.0225,
+      "lon": 72.5714,
+      "elevation_m": 70,
+      "location_sources": {
+        "coordinates": "https://en.wikipedia.org/wiki/Ahmedabad",
+        "elevation": "https://en.wikipedia.org/wiki/Ahmedabad"
+      },
+      "climate": {
+        "station": "Ahmedabad",
+        "normals_period": "1991-2020",
+        "mean_daily_max_c": [
+          27.9,
+          31.0,
+          35.8,
+          39.7,
+          41.8,
+          39.0,
+          33.7,
+          32.3,
+          33.6,
+          35.6,
+          33.1,
+          29.5
+        ],
+        "mean_daily_min_c": [
+          12.4,
+          14.6,
+          19.6,
+          24.2,
+          27.3,
+          27.7,
+          26.1,
+          25.3,
+          24.9,
+          21.8,
+          17.2,
+          13.6
+        ],
+        "mean_monthly_rainfall_mm": [
+          1.2,
+          0.6,
+          1.1,
+          2.5,
+          5.5,
+          84.3,
+          310.1,
+          242.2,
+          120.2,
+          13.1,
+          1.9,
+          0.9
+        ],
+        "mean_relative_humidity_pct": [
+          35,
+          26,
+          21,
+          20,
+          25,
+          44,
+          69,
+          72,
+          63,
+          43,
+          39,
+          38
+        ],
+        "humidity_basis": "afternoon (17:30 IST observation)",
+        "source": "India Meteorological Department climate normals as reproduced in the Wikipedia climate table",
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Ahmedabad#Climate"
+        ]
+      },
+      "air_quality_note": {
+        "text": "In CPCB daily bulletins for November 2025 to February 2026, Ahmedabad's AQI was Moderate or worse on 114 of 120 reported days (Poor or worse on 4), while from June to September 2026 it was Good or Satisfactory on 96 of 110 reported days.",
+        "sources": [
+          "https://cpcb.gov.in/AQI_Bulletin.php",
+          "https://cpcb.gov.in/upload/Downloads/AQI_Bulletin_20261007.pdf"
+        ]
+      },
+      "sports_note": {
+        "text": "The Sabarmati Riverfront's continuous 11.2 km east-bank promenade attracts runners and fitness enthusiasts and hosts annual events such as the Sabarmati Marathon and Sabarmati Cyclothon.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Sabarmati_Riverfront"
+        ]
+      }
+    },
+    {
+      "name": "Jaipur",
+      "slug": "jaipur",
+      "state": "Rajasthan",
+      "tier": 2,
+      "lat": 26.915,
+      "lon": 75.82,
+      "elevation_m": 431,
+      "location_sources": {
+        "coordinates": "https://en.wikipedia.org/wiki/Jaipur",
+        "elevation": "https://en.wikipedia.org/wiki/Jaipur"
+      },
+      "climate": {
+        "station": "Jaipur International Airport",
+        "normals_period": "1991-2020",
+        "mean_daily_max_c": [
+          22.5,
+          26.1,
+          32.0,
+          37.6,
+          41.1,
+          39.7,
+          34.8,
+          32.7,
+          34.2,
+          34.1,
+          29.6,
+          25.1
+        ],
+        "mean_daily_min_c": [
+          8.4,
+          12.0,
+          17.4,
+          22.8,
+          27.1,
+          27.9,
+          26.2,
+          24.9,
+          24.0,
+          20.1,
+          14.4,
+          9.9
+        ],
+        "mean_monthly_rainfall_mm": [
+          5.9,
+          10.2,
+          4.4,
+          7.1,
+          12.2,
+          61.9,
+          190.5,
+          203.4,
+          79.6,
+          19.4,
+          1.9,
+          3.8
+        ],
+        "mean_relative_humidity_pct": [
+          38,
+          31,
+          22,
+          18,
+          19,
+          35,
+          62,
+          69,
+          52,
+          32,
+          34,
+          39
+        ],
+        "humidity_basis": "afternoon (17:30 IST observation)",
+        "source": "India Meteorological Department climate normals as reproduced in the Wikipedia climate table",
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Jaipur#Climate"
+        ]
+      },
+      "air_quality_note": {
+        "text": "In CPCB daily bulletins for November 2025 to February 2026, Jaipur's AQI was Moderate or worse on 116 of 120 reported days (Poor or worse on 19), while from June to September 2026 it was Good or Satisfactory on 80 of 113 reported days.",
+        "sources": [
+          "https://cpcb.gov.in/AQI_Bulletin.php",
+          "https://cpcb.gov.in/upload/Downloads/AQI_Bulletin_20251122.pdf"
+        ]
+      },
+      "sports_note": {
+        "text": "The Jaipur Marathon, run since 2010, starts at the South Gate of Ram Niwas Garden and passes landmarks such as Albert Hall Museum, and its 2018 edition drew 80,000 participants.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Jaipur_Marathon"
+        ]
+      }
+    },
+    {
+      "name": "Lucknow",
+      "slug": "lucknow",
+      "state": "Uttar Pradesh",
+      "tier": 2,
+      "lat": 26.85,
+      "lon": 80.95,
+      "elevation_m": 123,
+      "location_sources": {
+        "coordinates": "https://en.wikipedia.org/wiki/Lucknow",
+        "elevation": "https://en.wikipedia.org/wiki/Lucknow"
+      },
+      "climate": {
+        "station": "Chaudhary Charan Singh International Airport",
+        "normals_period": "1991-2020",
+        "mean_daily_max_c": [
+          21.4,
+          26.2,
+          32.2,
+          38.2,
+          39.9,
+          38.3,
+          34.2,
+          33.4,
+          33.4,
+          32.8,
+          29.0,
+          23.6
+        ],
+        "mean_daily_min_c": [
+          7.8,
+          11.0,
+          15.4,
+          21.0,
+          24.8,
+          26.7,
+          26.0,
+          25.6,
+          24.4,
+          19.5,
+          13.3,
+          8.9
+        ],
+        "mean_monthly_rainfall_mm": [
+          21.6,
+          14.0,
+          11.0,
+          5.5,
+          24.5,
+          107.4,
+          238.5,
+          241.6,
+          162.1,
+          27.9,
+          2.5,
+          4.7
+        ],
+        "mean_relative_humidity_pct": [
+          61,
+          49,
+          35,
+          26,
+          32,
+          49,
+          73,
+          77,
+          73,
+          62,
+          59,
+          63
+        ],
+        "humidity_basis": "afternoon (17:30 IST observation)",
+        "source": "India Meteorological Department climate normals as reproduced in the Wikipedia climate table",
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Lucknow#Climate"
+        ]
+      },
+      "air_quality_note": {
+        "text": "In CPCB daily bulletins for November 2025 to February 2026, Lucknow's AQI was Moderate or worse on 110 of 120 reported days (Poor or worse on 21), while from June to September 2026 it was Good or Satisfactory on 99 of 113 reported days.",
+        "sources": [
+          "https://cpcb.gov.in/AQI_Bulletin.php",
+          "https://cpcb.gov.in/upload/Downloads/AQI_Bulletin_20260117.pdf"
+        ]
+      },
+      "sports_note": {
+        "text": "Janeshwar Mishra Park, about 376 acres and among Asia's largest urban parks, has cycling and jogging tracks around its full perimeter and is a regular early-morning destination for fitness users.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Janeshwar_Mishra_Park"
+        ]
+      }
+    },
+    {
+      "name": "Chandigarh",
+      "slug": "chandigarh",
+      "state": "Chandigarh (Union Territory)",
+      "tier": 2,
+      "lat": 30.7333,
+      "lon": 76.7797,
+      "elevation_m": 321,
+      "location_sources": {
+        "coordinates": "https://www.wikidata.org/wiki/Q43433",
+        "elevation": "https://en.wikipedia.org/wiki/Chandigarh"
+      },
+      "climate": {
+        "station": "Chandigarh",
+        "normals_period": "1991-2020",
+        "mean_daily_max_c": [
+          18.2,
+          22.6,
+          28.0,
+          34.6,
+          38.6,
+          37.7,
+          34.1,
+          33.2,
+          32.9,
+          32.0,
+          27.0,
+          22.1
+        ],
+        "mean_daily_min_c": [
+          7.2,
+          10.4,
+          14.7,
+          20.3,
+          24.7,
+          26.7,
+          26.9,
+          26.2,
+          24.4,
+          18.4,
+          12.3,
+          8.0
+        ],
+        "mean_monthly_rainfall_mm": [
+          37.8,
+          37.3,
+          27.4,
+          17.5,
+          26.8,
+          146.7,
+          275.6,
+          273.0,
+          154.6,
+          14.2,
+          5.2,
+          22.3
+        ],
+        "mean_relative_humidity_pct": [
+          65,
+          53,
+          45,
+          27,
+          24,
+          39,
+          65,
+          70,
+          65,
+          50,
+          53,
+          62
+        ],
+        "humidity_basis": "afternoon (17:30 IST observation)",
+        "source": "India Meteorological Department climate normals as reproduced in the Wikipedia climate table",
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Chandigarh#Climate",
+          "https://en.wikipedia.org/wiki/Template:Chandigarh_weatherbox"
+        ]
+      },
+      "air_quality_note": {
+        "text": "In CPCB daily bulletins for November 2025 to February 2026, Chandigarh's AQI was Moderate or worse on 96 of 120 reported days (Poor or worse on 20), while from June to September 2026 it was Good or Satisfactory on all 113 reported days.",
+        "sources": [
+          "https://cpcb.gov.in/AQI_Bulletin.php",
+          "https://cpcb.gov.in/upload/Downloads/AQI_Bulletin_20251220.pdf"
+        ]
+      },
+      "sports_note": {
+        "text": "Sukhna Lake has a jogging track and a dam-top promenade, allows rowing, sculling, sailing and kayaking year-round, and has hosted the Asian Rowing Championships.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Sukhna_Lake"
+        ]
+      }
+    },
+    {
+      "name": "Kochi",
+      "slug": "kochi",
+      "state": "Kerala",
+      "tier": 2,
+      "lat": 9.9312,
+      "lon": 76.2673,
+      "elevation_m": 26,
+      "location_sources": {
+        "coordinates": "https://en.wikipedia.org/wiki/Kochi",
+        "elevation": "https://en.wikipedia.org/wiki/Kochi"
+      },
+      "climate": {
+        "station": "Kochi Naval Base (INS Venduruthy)",
+        "normals_period": "1981-2010",
+        "mean_daily_max_c": [
+          31.9,
+          32.0,
+          32.6,
+          33.0,
+          32.4,
+          30.3,
+          29.6,
+          29.5,
+          30.2,
+          30.7,
+          31.3,
+          31.9
+        ],
+        "mean_daily_min_c": [
+          23.0,
+          24.2,
+          25.5,
+          25.9,
+          25.7,
+          24.2,
+          23.8,
+          24.0,
+          24.2,
+          24.1,
+          24.1,
+          23.2
+        ],
+        "mean_monthly_rainfall_mm": [
+          24.3,
+          27.1,
+          45.0,
+          113.1,
+          284.5,
+          700.3,
+          575.5,
+          378.8,
+          310.3,
+          366.6,
+          150.4,
+          39.0
+        ],
+        "mean_relative_humidity_pct": [
+          61,
+          65,
+          68,
+          70,
+          73,
+          82,
+          83,
+          82,
+          79,
+          77,
+          72,
+          64
+        ],
+        "humidity_basis": "afternoon (17:30 IST observation)",
+        "source": "India Meteorological Department climate normals as reproduced in the Wikipedia climate table",
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Kochi#Climate"
+        ]
+      },
+      "air_quality_note": {
+        "text": "CPCB daily bulletins rated Kochi's AQI Moderate on both 15 December 2023 (150, mainly PM2.5) and 15 January 2024 (119, mainly PM10).",
+        "sources": [
+          "https://cpcb.gov.in/upload/Downloads/AQI_Bulletin_20231215.pdf",
+          "https://cpcb.gov.in/upload/Downloads/AQI_Bulletin_20240115.pdf"
+        ]
+      },
+      "sports_note": {
+        "text": "Maharaja's Stadium on MG Road is Kerala's major athletics facility with synthetic tracks, and the Rajiv Gandhi indoor stadium at Kadavanthra has a 25 m pool, one of the state's larger water sports facilities.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Kochi"
+        ]
+      }
+    },
+    {
+      "name": "Thiruvananthapuram",
+      "slug": "thiruvananthapuram",
+      "state": "Kerala",
+      "tier": 2,
+      "lat": 8.5241,
+      "lon": 76.9366,
+      "elevation_m": 39,
+      "location_sources": {
+        "coordinates": "https://en.wikipedia.org/wiki/Thiruvananthapuram",
+        "elevation": "https://en.wikipedia.org/wiki/Thiruvananthapuram"
+      },
+      "climate": {
+        "station": "Thiruvananthapuram City",
+        "normals_period": "1991-2020",
+        "mean_daily_max_c": [
+          32.4,
+          32.8,
+          33.5,
+          33.3,
+          32.6,
+          30.4,
+          30.1,
+          30.3,
+          30.9,
+          30.9,
+          31.0,
+          32.0
+        ],
+        "mean_daily_min_c": [
+          22.3,
+          22.9,
+          24.3,
+          25.1,
+          25.1,
+          23.8,
+          23.3,
+          23.4,
+          23.5,
+          23.5,
+          23.2,
+          22.6
+        ],
+        "mean_monthly_rainfall_mm": [
+          17.9,
+          21.7,
+          30.6,
+          122.3,
+          213.8,
+          307.8,
+          185.2,
+          161.0,
+          196.7,
+          297.2,
+          212.8,
+          68.4
+        ],
+        "mean_relative_humidity_pct": [
+          64,
+          63,
+          66,
+          73,
+          75,
+          80,
+          79,
+          77,
+          77,
+          80,
+          78,
+          69
+        ],
+        "humidity_basis": "afternoon (17:30 IST observation)",
+        "source": "India Meteorological Department climate normals as reproduced in the Wikipedia climate table",
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Thiruvananthapuram#Climate"
+        ]
+      },
+      "air_quality_note": {
+        "text": "In CPCB daily bulletins for November 2025 to February 2026, Thiruvananthapuram's AQI was Moderate or worse on 50 of 120 reported days (never Poor), while from June to September 2026 it was Good or Satisfactory on all 110 reported days.",
+        "sources": [
+          "https://cpcb.gov.in/AQI_Bulletin.php",
+          "https://cpcb.gov.in/upload/Downloads/AQI_Bulletin_20251215.pdf"
+        ]
+      },
+      "sports_note": {
+        "text": "The Trivandrum runners club organises the annual Trivandrum Marathon (half, full and a 2 km fun run), Trivand Run is held every January, and surf contests are held at Kovalam and Varkala beaches.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Thiruvananthapuram"
+        ]
+      }
+    },
+    {
+      "name": "Coimbatore",
+      "slug": "coimbatore",
+      "state": "Tamil Nadu",
+      "tier": 2,
+      "lat": 11.0008,
+      "lon": 76.9633,
+      "elevation_m": 427,
+      "location_sources": {
+        "coordinates": "https://en.wikipedia.org/wiki/Coimbatore",
+        "elevation": "https://en.wikipedia.org/wiki/Coimbatore"
+      },
+      "climate": {
+        "station": "Coimbatore International Airport",
+        "normals_period": "1991-2020",
+        "mean_daily_max_c": [
+          30.9,
+          33.2,
+          35.6,
+          36.4,
+          35.0,
+          32.4,
+          31.5,
+          31.8,
+          32.5,
+          31.7,
+          30.2,
+          29.5
+        ],
+        "mean_daily_min_c": [
+          19.2,
+          20.3,
+          22.3,
+          24.1,
+          24.0,
+          23.0,
+          22.4,
+          22.4,
+          22.5,
+          22.3,
+          21.5,
+          19.7
+        ],
+        "mean_monthly_rainfall_mm": [
+          4.1,
+          10.3,
+          15.6,
+          43.3,
+          57.4,
+          24.6,
+          27.6,
+          44.3,
+          62.4,
+          156.1,
+          139.7,
+          33.1
+        ],
+        "mean_relative_humidity_pct": [
+          39,
+          32,
+          30,
+          42,
+          56,
+          64,
+          67,
+          67,
+          64,
+          65,
+          62,
+          53
+        ],
+        "humidity_basis": "afternoon (17:30 IST observation)",
+        "source": "India Meteorological Department climate normals as reproduced in the Wikipedia climate table",
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Coimbatore#Climate"
+        ]
+      },
+      "air_quality_note": {
+        "text": "In CPCB daily bulletins for November 2025 to February 2026, Coimbatore's AQI was Moderate or worse on 49 of 116 reported days (Poor or worse on 4), while from June to September 2026 it was Good or Satisfactory on all 78 reported days.",
+        "sources": [
+          "https://cpcb.gov.in/AQI_Bulletin.php",
+          "https://cpcb.gov.in/upload/Downloads/AQI_Bulletin_20251130.pdf"
+        ]
+      },
+      "sports_note": {
+        "text": "Coimbatore hosts the annual Coimbatore Marathon for cancer awareness, Nehru Stadium has a synthetic athletics track, and the city is often called India's motorsports hub, home to the Kari Motor Speedway.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Coimbatore"
+        ]
+      }
+    },
+    {
+      "name": "Mysuru",
+      "slug": "mysuru",
+      "state": "Karnataka",
+      "tier": 2,
+      "lat": 12.3086,
+      "lon": 76.6531,
+      "elevation_m": 770,
+      "location_sources": {
+        "coordinates": "https://en.wikipedia.org/wiki/Mysore",
+        "elevation": "https://en.wikipedia.org/wiki/Mysore"
+      },
+      "climate": {
+        "station": "Mysuru",
+        "normals_period": "1991-2020",
+        "mean_daily_max_c": [
+          29.3,
+          31.4,
+          33.6,
+          34.3,
+          33.4,
+          30.0,
+          28.7,
+          28.6,
+          29.5,
+          29.4,
+          28.7,
+          28.3
+        ],
+        "mean_daily_min_c": [
+          16.3,
+          17.3,
+          19.4,
+          21.0,
+          21.2,
+          20.4,
+          19.9,
+          19.8,
+          19.7,
+          19.7,
+          18.7,
+          16.9
+        ],
+        "mean_monthly_rainfall_mm": [
+          1.1,
+          2.5,
+          12.6,
+          84.5,
+          127.8,
+          76.6,
+          84.2,
+          96.9,
+          102.3,
+          162.7,
+          67.5,
+          12.9
+        ],
+        "mean_relative_humidity_pct": [
+          50,
+          49,
+          45,
+          50,
+          62,
+          73,
+          76,
+          75,
+          72,
+          72,
+          70,
+          61
+        ],
+        "humidity_basis": "afternoon (17:30 IST observation)",
+        "source": "India Meteorological Department climate normals as reproduced in the Wikipedia climate table",
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Mysore#Climate"
+        ]
+      },
+      "air_quality_note": {
+        "text": "In CPCB daily bulletins for November 2025 to February 2026, Mysuru's AQI was Moderate or worse on 6 of 117 reported days (never Poor), while from June to September 2026 it was Good or Satisfactory on 99 of 100 reported days.",
+        "sources": [
+          "https://cpcb.gov.in/AQI_Bulletin.php",
+          "https://cpcb.gov.in/upload/Downloads/AQI_Bulletin_20260412.pdf"
+        ]
+      },
+      "sports_note": {
+        "text": "Kukkarahalli Lake has a 3.5 km walkway used by large numbers of morning walkers, and an ancient stone stairway of more than 1,000 steps climbs Chamundi Hills to the summit.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Kukkarahalli_Lake",
+          "https://en.wikipedia.org/wiki/Chamundi_Hills"
+        ]
+      }
+    },
+    {
+      "name": "Mangaluru",
+      "slug": "mangaluru",
+      "state": "Karnataka",
+      "tier": 2,
+      "lat": 12.8717,
+      "lon": 74.8425,
+      "elevation_m": 22,
+      "location_sources": {
+        "coordinates": "https://www.wikidata.org/wiki/Q127041",
+        "elevation": "https://en.wikipedia.org/wiki/Mangaluru"
+      },
+      "climate": {
+        "station": "Panambur",
+        "normals_period": "1991-2020",
+        "mean_daily_max_c": [
+          33.2,
+          33.2,
+          33.5,
+          34.1,
+          33.5,
+          30.2,
+          29.0,
+          29.0,
+          29.9,
+          31.2,
+          33.0,
+          33.4
+        ],
+        "mean_daily_min_c": [
+          21.3,
+          22.3,
+          24.3,
+          25.6,
+          25.5,
+          24.1,
+          23.6,
+          23.7,
+          23.8,
+          23.8,
+          23.3,
+          21.7
+        ],
+        "mean_monthly_rainfall_mm": [
+          2.5,
+          0.1,
+          4.2,
+          33.2,
+          189.2,
+          999.4,
+          1015.8,
+          687.3,
+          344.5,
+          234.2,
+          76.7,
+          14.4
+        ],
+        "mean_relative_humidity_pct": [
+          61,
+          62,
+          65,
+          66,
+          70,
+          84,
+          87,
+          87,
+          83,
+          79,
+          71,
+          62
+        ],
+        "humidity_basis": "afternoon (17:30 IST observation)",
+        "source": "India Meteorological Department climate normals as reproduced in the Wikipedia climate table",
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Mangaluru#Climate"
+        ]
+      },
+      "air_quality_note": {
+        "text": "CPCB daily bulletins rated Mangaluru's AQI Good or Satisfactory on 192 of 206 reported days from mid-October 2025 to mid-October 2026, with a single Poor reading of 214 on 30 November 2025.",
+        "sources": [
+          "https://cpcb.gov.in/AQI_Bulletin.php",
+          "https://cpcb.gov.in/upload/Downloads/AQI_Bulletin_20251130.pdf"
+        ]
+      },
+      "sports_note": {
+        "text": "Panambur Beach hosts an International Kite Festival and has lifeguard patrols, and Sasihithlu Beach north of Mangaluru hosted the Indian Open of Surfing in 2016 and 2017.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Panambur_Beach",
+          "https://en.wikipedia.org/wiki/Sasihithlu_Beach"
+        ]
+      }
+    },
+    {
+      "name": "Goa",
+      "slug": "goa",
+      "state": "Goa",
+      "tier": 2,
+      "lat": 15.4989,
+      "lon": 73.8278,
+      "elevation_m": 7,
+      "location_sources": {
+        "coordinates": "https://en.wikipedia.org/wiki/Panaji",
+        "elevation": "https://en.wikipedia.org/wiki/Panaji"
+      },
+      "climate": {
+        "station": "Panaji",
+        "normals_period": "1991-2020",
+        "mean_daily_max_c": [
+          32.5,
+          32.4,
+          32.6,
+          33.4,
+          33.8,
+          30.9,
+          29.3,
+          29.5,
+          30.2,
+          32.0,
+          33.5,
+          33.1
+        ],
+        "mean_daily_min_c": [
+          20.0,
+          20.6,
+          23.3,
+          25.4,
+          26.3,
+          24.9,
+          24.2,
+          24.2,
+          24.0,
+          24.0,
+          22.7,
+          20.9
+        ],
+        "mean_monthly_rainfall_mm": [
+          1.0,
+          0.1,
+          0.0,
+          4.9,
+          76.6,
+          890.4,
+          955.2,
+          571.7,
+          304.1,
+          156.4,
+          21.3,
+          2.5
+        ],
+        "mean_relative_humidity_pct": [
+          57,
+          59,
+          65,
+          67,
+          69,
+          83,
+          87,
+          86,
+          82,
+          76,
+          65,
+          58
+        ],
+        "humidity_basis": "afternoon (17:30 IST observation)",
+        "source": "India Meteorological Department climate normals as reproduced in the Wikipedia climate table",
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Panaji#Climate"
+        ]
+      },
+      "air_quality_note": {
+        "text": "Goa SPCB's Panaji monitoring station recorded Satisfactory AQI (66 to 86) on all sampling days in January 2025 and Good to Satisfactory (49 to 84) in November 2025.",
+        "sources": [
+          "https://goaspcb.gov.in/wp-content/uploads/2025/04/Monthly-Jan-2025.pdf",
+          "https://goaspcb.gov.in/wp-content/uploads/2026/02/Monthly-Nov-25-31106.pdf"
+        ]
+      },
+      "sports_note": {
+        "text": "Miramar Beach near Panaji was the beach volleyball venue for the 2014 Lusofonia Games, and the SKF Goa River Marathon is scheduled for 13 December 2026.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Miramar_Beach,_Goa",
+          "https://skfgoarivermarathon.com/"
+        ]
+      },
+      "reference_city": "Panaji"
+    },
+    {
+      "name": "Indore",
+      "slug": "indore",
+      "state": "Madhya Pradesh",
+      "tier": 2,
+      "lat": 22.7186,
+      "lon": 75.855,
+      "elevation_m": 550,
+      "location_sources": {
+        "coordinates": "https://en.wikipedia.org/wiki/Indore",
+        "elevation": "https://en.wikipedia.org/wiki/Indore"
+      },
+      "climate": {
+        "station": "Indore",
+        "normals_period": "1991-2020",
+        "mean_daily_max_c": [
+          26.2,
+          29.4,
+          34.5,
+          38.7,
+          40.4,
+          36.4,
+          30.2,
+          28.6,
+          30.6,
+          32.8,
+          30.4,
+          27.6
+        ],
+        "mean_daily_min_c": [
+          10.3,
+          12.6,
+          16.9,
+          21.3,
+          24.6,
+          24.4,
+          22.8,
+          22.0,
+          21.1,
+          18.2,
+          14.7,
+          11.4
+        ],
+        "mean_monthly_rainfall_mm": [
+          7.0,
+          2.4,
+          2.7,
+          3.5,
+          13.4,
+          147.3,
+          310.1,
+          258.1,
+          167.2,
+          28.7,
+          11.0,
+          3.7
+        ],
+        "mean_relative_humidity_pct": [
+          37,
+          27,
+          18,
+          15,
+          20,
+          46,
+          72,
+          78,
+          66,
+          40,
+          36,
+          38
+        ],
+        "humidity_basis": "afternoon (17:30 IST observation)",
+        "source": "India Meteorological Department climate normals as reproduced in the Wikipedia climate table",
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Indore#Climate"
+        ]
+      },
+      "air_quality_note": {
+        "text": "In CPCB daily bulletins for November 2025 to February 2026, Indore's AQI was Moderate or worse on 72 of 120 reported days (Poor or worse on 3), while from June to September 2026 it was Good or Satisfactory on all 113 reported days.",
+        "sources": [
+          "https://cpcb.gov.in/AQI_Bulletin.php",
+          "https://cpcb.gov.in/upload/Downloads/AQI_Bulletin_20260101.pdf"
+        ]
+      },
+      "sports_note": {
+        "text": "Indore hosted the three-day National Triathlon Championship in December 2012 with about 450 athletes from 23 states, and the Holkar Cricket Stadium is the city's international cricket ground.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Indore"
+        ]
+      }
+    },
+    {
+      "name": "Bhopal",
+      "slug": "bhopal",
+      "state": "Madhya Pradesh",
+      "tier": 2,
+      "lat": 23.2589,
+      "lon": 77.4125,
+      "elevation_m": 519,
+      "location_sources": {
+        "coordinates": "https://www.wikidata.org/wiki/Q80989",
+        "elevation": "https://en.wikipedia.org/wiki/Bhopal"
+      },
+      "climate": {
+        "station": "Bairagarh",
+        "normals_period": "1991-2020",
+        "mean_daily_max_c": [
+          24.9,
+          28.4,
+          33.9,
+          38.7,
+          41.1,
+          37.4,
+          30.9,
+          28.9,
+          31.3,
+          32.7,
+          29.9,
+          26.7
+        ],
+        "mean_daily_min_c": [
+          10.6,
+          13.1,
+          17.6,
+          22.4,
+          26.6,
+          26.0,
+          23.8,
+          23.0,
+          22.2,
+          19.1,
+          15.0,
+          11.2
+        ],
+        "mean_monthly_rainfall_mm": [
+          11.3,
+          9.4,
+          8.8,
+          6.5,
+          14.2,
+          132.8,
+          367.7,
+          326.0,
+          175.6,
+          31.5,
+          8.7,
+          8.5
+        ],
+        "mean_relative_humidity_pct": [
+          42,
+          33,
+          24,
+          19,
+          22,
+          46,
+          74,
+          79,
+          66,
+          45,
+          43,
+          43
+        ],
+        "humidity_basis": "afternoon (17:30 IST observation)",
+        "source": "India Meteorological Department climate normals as reproduced in the Wikipedia climate table",
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Bhopal#Climate"
+        ]
+      },
+      "air_quality_note": {
+        "text": "In CPCB daily bulletins for November 2025 to February 2026, Bhopal's AQI was Moderate or worse on 112 of 120 reported days (Poor or worse on 36), while from June to September 2026 it was Good or Satisfactory on 109 of 113 reported days.",
+        "sources": [
+          "https://cpcb.gov.in/AQI_Bulletin.php",
+          "https://cpcb.gov.in/upload/Downloads/AQI_Bulletin_20251123.pdf"
+        ]
+      },
+      "sports_note": {
+        "text": "The Boat Club on Bhopal's Upper Lake (Bhojtal) houses the National Sailing School and offers kayaking, canoeing, water skiing and other water sports.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Upper_Lake_(Bhopal)"
+        ]
+      }
+    },
+    {
+      "name": "Nagpur",
+      "slug": "nagpur",
+      "state": "Maharashtra",
+      "tier": 2,
+      "lat": 21.1498,
+      "lon": 79.0806,
+      "elevation_m": 310,
+      "location_sources": {
+        "coordinates": "https://en.wikipedia.org/wiki/Nagpur",
+        "elevation": "https://en.wikipedia.org/wiki/Nagpur"
+      },
+      "climate": {
+        "station": "Nagpur",
+        "normals_period": "1991-2020",
+        "mean_daily_max_c": [
+          28.9,
+          31.9,
+          36.4,
+          40.6,
+          43.1,
+          38.1,
+          31.9,
+          30.8,
+          32.4,
+          33.2,
+          31.3,
+          29.3
+        ],
+        "mean_daily_min_c": [
+          14.1,
+          16.0,
+          19.7,
+          25.1,
+          28.1,
+          26.6,
+          24.4,
+          23.5,
+          23.4,
+          21.4,
+          17.1,
+          13.2
+        ],
+        "mean_monthly_rainfall_mm": [
+          14.9,
+          13.1,
+          20.4,
+          12.5,
+          19.1,
+          190.6,
+          347.7,
+          277.2,
+          183.7,
+          53.3,
+          13.1,
+          5.5
+        ],
+        "mean_relative_humidity_pct": [
+          43,
+          34,
+          27,
+          23,
+          24,
+          50,
+          75,
+          78,
+          73,
+          63,
+          56,
+          49
+        ],
+        "humidity_basis": "afternoon (17:30 IST observation)",
+        "source": "India Meteorological Department climate normals as reproduced in the Wikipedia climate table",
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Nagpur#Climate"
+        ]
+      },
+      "air_quality_note": {
+        "text": "In CPCB daily bulletins for November 2025 to February 2026, Nagpur's AQI was Moderate or worse on 105 of 120 reported days (Poor or worse on 14), while from June to September 2026 it was Good or Satisfactory on all 113 reported days.",
+        "sources": [
+          "https://cpcb.gov.in/AQI_Bulletin.php",
+          "https://cpcb.gov.in/upload/Downloads/AQI_Bulletin_20260222.pdf"
+        ]
+      },
+      "sports_note": {
+        "text": "Ambazari Garden beside Ambazari Lake, Nagpur's largest lake, draws morning walkers and has an open-air green gym.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Ambazari_Lake"
+        ]
+      }
+    },
+    {
+      "name": "Nashik",
+      "slug": "nashik",
+      "state": "Maharashtra",
+      "tier": 2,
+      "lat": 19.9975,
+      "lon": 73.7898,
+      "elevation_m": 602,
+      "location_sources": {
+        "coordinates": "https://en.wikipedia.org/wiki/Nashik",
+        "elevation": "https://en.wikipedia.org/wiki/Nashik"
+      },
+      "climate": {
+        "station": "Ozar Airport",
+        "normals_period": "1991-2020",
+        "mean_daily_max_c": [
+          29.0,
+          31.5,
+          34.9,
+          37.6,
+          37.4,
+          32.1,
+          28.0,
+          27.6,
+          29.1,
+          31.7,
+          30.6,
+          29.4
+        ],
+        "mean_daily_min_c": [
+          10.4,
+          12.6,
+          16.2,
+          20.0,
+          22.4,
+          23.2,
+          22.3,
+          21.6,
+          21.2,
+          18.6,
+          14.7,
+          11.8
+        ],
+        "mean_monthly_rainfall_mm": [
+          0.6,
+          3.2,
+          7.5,
+          1.1,
+          10.2,
+          120.1,
+          240.6,
+          196.5,
+          169.4,
+          68.0,
+          26.2,
+          2.3
+        ],
+        "mean_relative_humidity_pct": [
+          32,
+          25,
+          20,
+          20,
+          30,
+          64,
+          81,
+          82,
+          78,
+          54,
+          44,
+          39
+        ],
+        "humidity_basis": "afternoon (17:30 IST observation)",
+        "source": "India Meteorological Department climate normals as reproduced in the Wikipedia climate table",
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Nashik#Climate"
+        ]
+      },
+      "air_quality_note": {
+        "text": "In CPCB daily bulletins for November 2025 to February 2026, Nashik's AQI was Moderate or worse on 73 of 120 reported days (never Poor), while from June to September 2026 it was Good or Satisfactory on all 113 reported days.",
+        "sources": [
+          "https://cpcb.gov.in/AQI_Bulletin.php",
+          "https://cpcb.gov.in/upload/Downloads/AQI_Bulletin_20251122.pdf"
+        ]
+      },
+      "sports_note": {
+        "text": "Anjaneri, about 20 km from Nashik on Trimbak Road, is a popular trekking spot, especially in the rainy season.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Anjaneri"
+        ]
+      }
+    },
+    {
+      "name": "Surat",
+      "slug": "surat",
+      "state": "Gujarat",
+      "tier": 2,
+      "lat": 21.205,
+      "lon": 72.84,
+      "elevation_m": 35,
+      "location_sources": {
+        "coordinates": "https://www.wikidata.org/wiki/Q4629",
+        "elevation": "https://en.wikipedia.org/wiki/Surat"
+      },
+      "climate": {
+        "station": "Surat",
+        "normals_period": "1991-2020",
+        "mean_daily_max_c": [
+          30.2,
+          32.2,
+          35.4,
+          36.6,
+          35.7,
+          33.8,
+          31.1,
+          30.8,
+          32.0,
+          34.9,
+          34.1,
+          31.6
+        ],
+        "mean_daily_min_c": [
+          15.2,
+          17.2,
+          20.9,
+          24.4,
+          27.4,
+          27.3,
+          26.2,
+          25.9,
+          25.6,
+          23.5,
+          19.9,
+          16.6
+        ],
+        "mean_monthly_rainfall_mm": [
+          1.9,
+          0.3,
+          0.7,
+          0.5,
+          2.4,
+          255.9,
+          466.3,
+          281.7,
+          186.7,
+          40.7,
+          5.1,
+          1.1
+        ],
+        "mean_relative_humidity_pct": [
+          41,
+          35,
+          32,
+          43,
+          61,
+          72,
+          81,
+          80,
+          72,
+          54,
+          46,
+          45
+        ],
+        "humidity_basis": "afternoon (17:30 IST observation)",
+        "source": "India Meteorological Department climate normals as reproduced in the Wikipedia climate table",
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Surat#Climate"
+        ]
+      },
+      "air_quality_note": {
+        "text": "In CPCB daily bulletins for November 2025 to February 2026, Surat's AQI was Moderate or worse on 72 of 108 reported days (Poor or worse on 10), while from June to September 2026 it was Good or Satisfactory on 109 of 112 reported days.",
+        "sources": [
+          "https://cpcb.gov.in/AQI_Bulletin.php",
+          "https://cpcb.gov.in/upload/Downloads/AQI_Bulletin_20260213.pdf"
+        ]
+      },
+      "sports_note": {
+        "text": "Surat's Pandit Dindayal Upadhyay Indoor Stadium seats about 6,800 for volleyball, badminton and basketball, and Dumas Beach, with its promenade, is a popular seaside destination.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Surat",
+          "https://en.wikipedia.org/wiki/Dumas_Beach"
+        ]
+      }
+    },
+    {
+      "name": "Vadodara",
+      "slug": "vadodara",
+      "state": "Gujarat",
+      "tier": 2,
+      "lat": 22.3,
+      "lon": 73.2,
+      "elevation_m": 36,
+      "location_sources": {
+        "coordinates": "https://en.wikipedia.org/wiki/Vadodara",
+        "elevation": "https://en.wikipedia.org/wiki/Vadodara"
+      },
+      "climate": {
+        "station": "Vadodara Airport",
+        "normals_period": "1991-2020",
+        "mean_daily_max_c": [
+          29.4,
+          32.1,
+          36.5,
+          39.3,
+          40.1,
+          37.3,
+          32.6,
+          31.7,
+          33.2,
+          35.8,
+          33.8,
+          30.8
+        ],
+        "mean_daily_min_c": [
+          13.2,
+          15.4,
+          19.7,
+          24.2,
+          27.4,
+          27.6,
+          26.1,
+          25.5,
+          25.2,
+          22.7,
+          18.0,
+          14.3
+        ],
+        "mean_monthly_rainfall_mm": [
+          4.4,
+          0.0,
+          0.1,
+          1.3,
+          3.6,
+          128.8,
+          363.7,
+          316.1,
+          163.0,
+          15.5,
+          3.7,
+          2.0
+        ],
+        "mean_relative_humidity_pct": [
+          38,
+          31,
+          26,
+          24,
+          32,
+          52,
+          74,
+          74,
+          65,
+          46,
+          41,
+          42
+        ],
+        "humidity_basis": "afternoon (17:30 IST observation)",
+        "source": "India Meteorological Department climate normals as reproduced in the Wikipedia climate table",
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Vadodara#Climate"
+        ]
+      },
+      "air_quality_note": {
+        "text": "CPCB daily bulletins list Vadodara only from 31 January 2026 in the year to mid-October 2026: its AQI was Poor or worse on 8 of 28 reported days to the end of February, peaking at 344 on 1 February, but Good or Satisfactory on 107 of 111 days from June to September.",
+        "sources": [
+          "https://cpcb.gov.in/AQI_Bulletin.php",
+          "https://cpcb.gov.in/upload/Downloads/AQI_Bulletin_20260201.pdf"
+        ]
+      },
+      "sports_note": {
+        "text": "The Vadodara Marathon, a charity road race first held in 2009 with marathon and half-marathon distances, drew over 1.1 lakh registrations for its 1 February 2026 edition.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Vadodara_Marathon"
+        ]
+      }
+    },
+    {
+      "name": "Visakhapatnam",
+      "slug": "visakhapatnam",
+      "state": "Andhra Pradesh",
+      "tier": 2,
+      "lat": 17.6939,
+      "lon": 83.2922,
+      "elevation_m": 45,
+      "location_sources": {
+        "coordinates": "https://en.wikipedia.org/wiki/Visakhapatnam",
+        "elevation": "https://www.wikidata.org/wiki/Q200016"
+      },
+      "climate": {
+        "station": "Visakhapatnam",
+        "normals_period": "1991-2020",
+        "mean_daily_max_c": [
+          28.1,
+          29.6,
+          31.2,
+          32.1,
+          33.3,
+          32.8,
+          31.4,
+          31.5,
+          31.6,
+          31.5,
+          30.3,
+          28.7
+        ],
+        "mean_daily_min_c": [
+          20.5,
+          22.1,
+          24.6,
+          26.5,
+          27.8,
+          27.4,
+          26.4,
+          26.2,
+          26.0,
+          25.2,
+          23.2,
+          21.0
+        ],
+        "mean_monthly_rainfall_mm": [
+          10.8,
+          8.9,
+          8.9,
+          28.4,
+          73.6,
+          134.5,
+          133.0,
+          165.3,
+          194.9,
+          239.9,
+          101.7,
+          13.2
+        ],
+        "mean_relative_humidity_pct": [
+          69,
+          70,
+          74,
+          76,
+          76,
+          76,
+          77,
+          78,
+          80,
+          74,
+          68,
+          65
+        ],
+        "humidity_basis": "afternoon (17:30 IST observation)",
+        "source": "India Meteorological Department climate normals as reproduced in the Wikipedia climate table",
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Visakhapatnam#Climate"
+        ]
+      },
+      "air_quality_note": {
+        "text": "In CPCB daily bulletins for November 2025 to February 2026, Visakhapatnam's AQI was Poor or worse on 50 of 113 reported days (Very Poor on 10), and even from June to September 2026 it was Good or Satisfactory on only 37 of 108 days.",
+        "sources": [
+          "https://cpcb.gov.in/AQI_Bulletin.php",
+          "https://cpcb.gov.in/upload/Downloads/AQI_Bulletin_20251219.pdf"
+        ]
+      },
+      "sports_note": {
+        "text": "The Indian Navy's Vizag Navy Marathon runs 5K to 42K races from RK Beach, with the 2026 edition on 13 December, and surfing is common at Rushikonda beach.",
+        "sources": [
+          "https://www.vizagnavymarathon.run/",
+          "https://en.wikipedia.org/wiki/Visakhapatnam"
+        ]
+      }
+    },
+    {
+      "name": "Vijayawada",
+      "slug": "vijayawada",
+      "state": "Andhra Pradesh",
+      "tier": 2,
+      "lat": 16.5144,
+      "lon": 80.6192,
+      "elevation_m": 11,
+      "location_sources": {
+        "coordinates": "https://en.wikipedia.org/wiki/Vijayawada",
+        "elevation": "https://en.wikipedia.org/wiki/Vijayawada"
+      },
+      "climate": {
+        "station": "Vijayawada Airport, Gannavaram",
+        "normals_period": "1991-2020",
+        "mean_daily_max_c": [
+          30.4,
+          32.8,
+          35.9,
+          37.9,
+          40.2,
+          37.2,
+          33.9,
+          33.0,
+          33.2,
+          32.4,
+          31.4,
+          30.4
+        ],
+        "mean_daily_min_c": [
+          18.5,
+          20.0,
+          22.7,
+          25.3,
+          27.3,
+          26.7,
+          25.4,
+          25.1,
+          24.9,
+          23.8,
+          21.4,
+          18.9
+        ],
+        "mean_monthly_rainfall_mm": [
+          5.8,
+          10.4,
+          11.0,
+          17.2,
+          63.0,
+          138.3,
+          207.7,
+          180.5,
+          170.3,
+          150.6,
+          60.5,
+          16.7
+        ],
+        "mean_relative_humidity_pct": [
+          58,
+          54,
+          49,
+          48,
+          46,
+          52,
+          66,
+          71,
+          75,
+          77,
+          70,
+          60
+        ],
+        "humidity_basis": "afternoon (17:30 IST observation)",
+        "source": "India Meteorological Department climate normals as reproduced in the Wikipedia climate table",
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Vijayawada#Climate"
+        ]
+      },
+      "air_quality_note": {
+        "text": "In CPCB daily bulletins for November 2025 to February 2026, Vijayawada's AQI was Moderate or worse on 19 of 119 reported days (never Poor), while from June to September 2026 it was Good or Satisfactory on all 112 reported days.",
+        "sources": [
+          "https://cpcb.gov.in/AQI_Bulletin.php",
+          "https://cpcb.gov.in/upload/Downloads/AQI_Bulletin_20251128.pdf"
+        ]
+      },
+      "sports_note": {
+        "text": "Vijayawada's Indira Gandhi Stadium is the headquarters of the Sports Authority of Andhra Pradesh, and Bhavani Island on the Krishna river offers cycling among its leisure activities.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Vijayawada",
+          "https://en.wikipedia.org/wiki/Bhavani_Island"
+        ]
+      }
+    },
+    {
+      "name": "Bhubaneswar",
+      "slug": "bhubaneswar",
+      "state": "Odisha",
+      "tier": 2,
+      "lat": 20.27,
+      "lon": 85.84,
+      "elevation_m": 45,
+      "location_sources": {
+        "coordinates": "https://en.wikipedia.org/wiki/Bhubaneswar",
+        "elevation": "https://en.wikipedia.org/wiki/Bhubaneswar"
+      },
+      "climate": {
+        "station": "Biju Patnaik International Airport",
+        "normals_period": "1991-2020",
+        "mean_daily_max_c": [
+          29.2,
+          32.5,
+          35.9,
+          37.7,
+          37.7,
+          35.3,
+          32.4,
+          32.0,
+          32.4,
+          31.9,
+          30.8,
+          28.9
+        ],
+        "mean_daily_min_c": [
+          15.5,
+          18.5,
+          22.8,
+          25.3,
+          26.7,
+          26.4,
+          25.6,
+          25.4,
+          25.2,
+          23.4,
+          19.3,
+          15.4
+        ],
+        "mean_monthly_rainfall_mm": [
+          13.1,
+          21.1,
+          20.6,
+          40.4,
+          101.6,
+          208.5,
+          359.7,
+          374.6,
+          281.7,
+          201.2,
+          30.3,
+          4.9
+        ],
+        "mean_relative_humidity_pct": [
+          55,
+          52,
+          58,
+          64,
+          67,
+          75,
+          85,
+          86,
+          85,
+          80,
+          69,
+          60
+        ],
+        "humidity_basis": "afternoon (17:30 IST observation)",
+        "source": "India Meteorological Department climate normals as reproduced in the Wikipedia climate table",
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Bhubaneswar#Climate"
+        ]
+      },
+      "air_quality_note": {
+        "text": "In CPCB daily bulletins for November 2025 to February 2026, Bhubaneswar's AQI was Moderate or worse on 114 of 119 reported days (Poor or worse on 70), while from June to September 2026 it was Good or Satisfactory on 107 of 113 reported days.",
+        "sources": [
+          "https://cpcb.gov.in/AQI_Bulletin.php",
+          "https://cpcb.gov.in/upload/Downloads/AQI_Bulletin_20251125.pdf"
+        ]
+      },
+      "sports_note": {
+        "text": "Bhubaneswar's Kalinga Stadium is a multi-purpose complex with an 8-lane synthetic athletics track and swimming facilities, and it hosted the 2017 Asian Athletics Championships and the 2018 and 2023 men's Hockey World Cups.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Kalinga_Stadium"
+        ]
+      }
+    },
+    {
+      "name": "Guwahati",
+      "slug": "guwahati",
+      "state": "Assam",
+      "tier": 2,
+      "lat": 26.1722,
+      "lon": 91.7458,
+      "elevation_m": 51,
+      "location_sources": {
+        "coordinates": "https://en.wikipedia.org/wiki/Guwahati",
+        "elevation": "https://www.wikidata.org/wiki/Q199605"
+      },
+      "climate": {
+        "station": "Lokpriya Gopinath Bordoloi International Airport",
+        "normals_period": "1991-2020",
+        "mean_daily_max_c": [
+          23.9,
+          27.0,
+          30.5,
+          31.2,
+          31.8,
+          32.6,
+          32.8,
+          33.2,
+          32.5,
+          31.3,
+          28.5,
+          25.4
+        ],
+        "mean_daily_min_c": [
+          10.8,
+          13.0,
+          16.5,
+          20.3,
+          22.9,
+          25.2,
+          25.9,
+          25.8,
+          24.9,
+          22.3,
+          17.2,
+          12.6
+        ],
+        "mean_monthly_rainfall_mm": [
+          11.5,
+          18.0,
+          52.5,
+          182.1,
+          253.0,
+          314.0,
+          283.4,
+          264.3,
+          184.5,
+          117.9,
+          9.6,
+          4.6
+        ],
+        "mean_relative_humidity_pct": [
+          72,
+          59,
+          51,
+          62,
+          71,
+          78,
+          80,
+          81,
+          82,
+          79,
+          77,
+          76
+        ],
+        "humidity_basis": "not stated in the source table",
+        "source": "India Meteorological Department climate normals as reproduced in the Wikipedia climate table",
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Guwahati#Climate"
+        ]
+      },
+      "air_quality_note": {
+        "text": "In CPCB daily bulletins for November 2025 to February 2026, Guwahati's AQI was Moderate or worse on 75 of 120 reported days (Poor or worse on 11), while from June to September 2026 it was Good or Satisfactory on 99 of 111 reported days.",
+        "sources": [
+          "https://cpcb.gov.in/AQI_Bulletin.php",
+          "https://cpcb.gov.in/upload/Downloads/AQI_Bulletin_20260216.pdf"
+        ]
+      },
+      "sports_note": {
+        "text": "Guwahati has an active cycling community and has had a Bicycle Mayor, and the Indira Gandhi Athletic Stadium at Sarusajai, built for the 2007 National Games, was the main 2016 South Asian Games venue.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Guwahati",
+          "https://en.wikipedia.org/wiki/Indira_Gandhi_Athletic_Stadium"
+        ]
+      }
+    },
+    {
+      "name": "Dehradun",
+      "slug": "dehradun",
+      "state": "Uttarakhand",
+      "tier": 2,
+      "lat": 30.345,
+      "lon": 78.029,
+      "elevation_m": 450,
+      "location_sources": {
+        "coordinates": "https://en.wikipedia.org/wiki/Dehradun",
+        "elevation": "https://en.wikipedia.org/wiki/Dehradun"
+      },
+      "climate": {
+        "station": "Dehradun",
+        "normals_period": "1991-2020",
+        "mean_daily_max_c": [
+          19.7,
+          22.5,
+          27.4,
+          32.5,
+          35.3,
+          34.1,
+          30.6,
+          30.1,
+          30.1,
+          29.0,
+          25.5,
+          21.7
+        ],
+        "mean_daily_min_c": [
+          6.6,
+          9.2,
+          13.1,
+          17.4,
+          21.2,
+          23.2,
+          23.6,
+          23.1,
+          21.3,
+          16.3,
+          11.4,
+          7.6
+        ],
+        "mean_monthly_rainfall_mm": [
+          43.5,
+          57.9,
+          45.8,
+          32.9,
+          51.4,
+          231.1,
+          621.6,
+          714.9,
+          305.9,
+          38.3,
+          5.2,
+          13.0
+        ],
+        "mean_relative_humidity_pct": [
+          66,
+          56,
+          45,
+          35,
+          37,
+          55,
+          79,
+          83,
+          77,
+          66,
+          68,
+          69
+        ],
+        "humidity_basis": "afternoon (17:30 IST observation)",
+        "source": "India Meteorological Department climate normals as reproduced in the Wikipedia climate table",
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Dehradun#Climate"
+        ]
+      },
+      "air_quality_note": {
+        "text": "In CPCB daily bulletins for November 2025 to February 2026, Dehradun's AQI was Moderate or worse on 87 of 118 reported days (Poor or worse on 21), while from June to September 2026 it was Good or Satisfactory on 89 of 95 reported days.",
+        "sources": [
+          "https://cpcb.gov.in/AQI_Bulletin.php",
+          "https://cpcb.gov.in/upload/Downloads/AQI_Bulletin_20251231.pdf"
+        ]
+      },
+      "sports_note": {
+        "text": "Dehradun's Rajiv Gandhi International Cricket Stadium was the main stadium of the 38th National Games in early 2025, and the surrounding region is a base for trekking, rafting and paragliding.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/2025_National_Games_of_India",
+          "https://en.wikipedia.org/wiki/Dehradun"
+        ]
+      }
+    },
+    {
+      "name": "Amritsar",
+      "slug": "amritsar",
+      "state": "Punjab",
+      "tier": 2,
+      "lat": 31.64,
+      "lon": 74.86,
+      "elevation_m": 234,
+      "location_sources": {
+        "coordinates": "https://en.wikipedia.org/wiki/Amritsar",
+        "elevation": "https://www.wikidata.org/wiki/Q48403"
+      },
+      "climate": {
+        "station": "Sri Guru Ram Das Ji International Airport",
+        "normals_period": "1991-2020",
+        "mean_daily_max_c": [
+          17.7,
+          21.7,
+          27.0,
+          34.4,
+          39.4,
+          38.9,
+          35.0,
+          34.1,
+          33.9,
+          32.0,
+          27.0,
+          20.9
+        ],
+        "mean_daily_min_c": [
+          3.8,
+          6.7,
+          11.2,
+          16.6,
+          21.9,
+          24.7,
+          25.7,
+          25.3,
+          22.7,
+          16.4,
+          9.4,
+          4.6
+        ],
+        "mean_monthly_rainfall_mm": [
+          27.1,
+          39.8,
+          32.6,
+          21.9,
+          20.8,
+          80.9,
+          181.6,
+          168.9,
+          90.7,
+          12.3,
+          5.8,
+          6.8
+        ],
+        "mean_relative_humidity_pct": [
+          68,
+          58,
+          50,
+          32,
+          26,
+          40,
+          65,
+          70,
+          64,
+          52,
+          53,
+          63
+        ],
+        "humidity_basis": "afternoon (17:30 IST observation)",
+        "source": "India Meteorological Department climate normals as reproduced in the Wikipedia climate table",
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Amritsar#Climate",
+          "https://en.wikipedia.org/wiki/Template:Amritsar_weatherbox"
+        ]
+      },
+      "air_quality_note": {
+        "text": "In CPCB daily bulletins for November 2025 to February 2026, Amritsar's AQI was Moderate or worse on 69 of 118 reported days (Poor or worse on 4), while from June to September 2026 it was Good or Satisfactory on 86 of 109 reported days.",
+        "sources": [
+          "https://cpcb.gov.in/AQI_Bulletin.php",
+          "https://cpcb.gov.in/upload/Downloads/AQI_Bulletin_20251213.pdf"
+        ]
+      },
+      "sports_note": {
+        "text": "Amritsar's Guru Nanak Dev University has won the Maulana Abul Kalam Azad Trophy, for India's best university in sports, more often than any other, and Ram Bagh garden has tennis courts and a skating rink.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Maulana_Abul_Kalam_Azad_Trophy",
+          "https://en.wikipedia.org/wiki/Ram_Bagh_Palace"
+        ]
+      }
+    },
+    {
+      "name": "Ludhiana",
+      "slug": "ludhiana",
+      "state": "Punjab",
+      "tier": 2,
+      "lat": 30.909,
+      "lon": 75.8516,
+      "elevation_m": 247,
+      "location_sources": {
+        "coordinates": "https://en.wikipedia.org/wiki/Ludhiana",
+        "elevation": "https://en.wikipedia.org/wiki/Ludhiana"
+      },
+      "climate": {
+        "station": "Ludhiana Airport",
+        "normals_period": "1991-2020",
+        "mean_daily_max_c": [
+          17.9,
+          21.8,
+          27.3,
+          34.8,
+          39.0,
+          38.0,
+          34.1,
+          33.4,
+          33.1,
+          31.9,
+          27.1,
+          20.9
+        ],
+        "mean_daily_min_c": [
+          6.1,
+          8.7,
+          13.0,
+          18.2,
+          23.5,
+          26.1,
+          26.6,
+          25.9,
+          23.5,
+          17.3,
+          11.2,
+          6.8
+        ],
+        "mean_monthly_rainfall_mm": [
+          28.0,
+          36.2,
+          27.0,
+          17.5,
+          21.2,
+          87.4,
+          217.1,
+          187.2,
+          138.4,
+          18.8,
+          3.9,
+          8.6
+        ],
+        "mean_relative_humidity_pct": [
+          66,
+          58,
+          48,
+          27,
+          26,
+          42,
+          67,
+          73,
+          65,
+          50,
+          50,
+          62
+        ],
+        "humidity_basis": "afternoon (17:30 IST observation)",
+        "source": "India Meteorological Department climate normals as reproduced in the Wikipedia climate table",
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Ludhiana#Climate",
+          "https://en.wikipedia.org/wiki/Template:Ludhiana_weatherbox"
+        ]
+      },
+      "air_quality_note": {
+        "text": "In CPCB daily bulletins for November 2025 to February 2026, Ludhiana's AQI was Moderate or worse on 100 of 117 reported days (Poor or worse on 2), while from June to September 2026 it was Good or Satisfactory on 74 of 88 reported days.",
+        "sources": [
+          "https://cpcb.gov.in/AQI_Bulletin.php",
+          "https://cpcb.gov.in/upload/Downloads/AQI_Bulletin_20251022.pdf"
+        ]
+      },
+      "sports_note": {
+        "text": "Ludhiana's Guru Nanak Stadium hosts athletics and has twice staged Kabaddi World Cup finals, and the annual Qila Raipur Sports Festival, known as the Rural Olympics, is held at nearby Kila Raipur.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Ludhiana"
+        ]
+      }
+    },
+    {
+      "name": "Raipur",
+      "slug": "raipur",
+      "state": "Chhattisgarh",
+      "tier": 2,
+      "lat": 21.2444,
+      "lon": 81.6306,
+      "elevation_m": 298,
+      "location_sources": {
+        "coordinates": "https://en.wikipedia.org/wiki/Raipur",
+        "elevation": "https://en.wikipedia.org/wiki/Raipur"
+      },
+      "climate": {
+        "station": "Raipur",
+        "normals_period": "1991-2020",
+        "mean_daily_max_c": [
+          28.0,
+          31.1,
+          35.2,
+          39.5,
+          41.8,
+          37.1,
+          31.3,
+          30.4,
+          31.6,
+          31.9,
+          30.4,
+          28.5
+        ],
+        "mean_daily_min_c": [
+          13.9,
+          16.9,
+          20.9,
+          24.8,
+          27.8,
+          26.7,
+          24.6,
+          24.5,
+          24.4,
+          22.0,
+          17.4,
+          13.8
+        ],
+        "mean_monthly_rainfall_mm": [
+          14.4,
+          16.3,
+          13.2,
+          15.7,
+          23.8,
+          197.8,
+          377.4,
+          334.2,
+          235.5,
+          46.9,
+          8.2,
+          6.9
+        ],
+        "mean_relative_humidity_pct": [
+          43,
+          35,
+          29,
+          24,
+          26,
+          52,
+          76,
+          79,
+          74,
+          62,
+          53,
+          47
+        ],
+        "humidity_basis": "afternoon (17:30 IST observation)",
+        "source": "India Meteorological Department climate normals as reproduced in the Wikipedia climate table",
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Raipur#Climate"
+        ]
+      },
+      "air_quality_note": {
+        "text": "In CPCB daily bulletins for November 2025 to February 2026, Raipur's AQI was Moderate or worse on 27 of 120 reported days (never Poor), while from June to September 2026 it was Good or Satisfactory on all 112 reported days.",
+        "sources": [
+          "https://cpcb.gov.in/AQI_Bulletin.php",
+          "https://cpcb.gov.in/upload/Downloads/AQI_Bulletin_20260522.pdf"
+        ]
+      },
+      "sports_note": {
+        "text": "Telibandha Lake, known as Marine Drive, is a popular Raipur leisure spot with a garden and musical fountain, and Nava Raipur's 65,000-seat Shaheed Veer Narayan Singh stadium is India's third-largest cricket ground.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Telibandha_Lake",
+          "https://en.wikipedia.org/wiki/Shaheed_Veer_Narayan_Singh_International_Cricket_Stadium"
+        ]
+      }
+    },
+    {
+      "name": "Ranchi",
+      "slug": "ranchi",
+      "state": "Jharkhand",
+      "tier": 2,
+      "lat": 23.36,
+      "lon": 85.33,
+      "elevation_m": 651,
+      "location_sources": {
+        "coordinates": "https://en.wikipedia.org/wiki/Ranchi",
+        "elevation": "https://en.wikipedia.org/wiki/Ranchi"
+      },
+      "climate": {
+        "station": "Ranchi",
+        "normals_period": "1991-2020",
+        "mean_daily_max_c": [
+          24.0,
+          27.0,
+          31.5,
+          35.8,
+          36.9,
+          33.9,
+          29.9,
+          29.6,
+          29.8,
+          29.1,
+          27.1,
+          24.3
+        ],
+        "mean_daily_min_c": [
+          9.4,
+          12.7,
+          16.9,
+          21.3,
+          23.4,
+          23.7,
+          22.8,
+          22.6,
+          22.0,
+          18.8,
+          13.8,
+          9.9
+        ],
+        "mean_monthly_rainfall_mm": [
+          17.7,
+          19.3,
+          28.1,
+          24.9,
+          59.0,
+          246.1,
+          331.3,
+          320.9,
+          247.2,
+          91.9,
+          7.5,
+          11.0
+        ],
+        "mean_relative_humidity_pct": [
+          47,
+          39,
+          31,
+          28,
+          39,
+          64,
+          81,
+          82,
+          79,
+          67,
+          56,
+          50
+        ],
+        "humidity_basis": "afternoon (17:30 IST observation)",
+        "source": "India Meteorological Department climate normals as reproduced in the Wikipedia climate table",
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Ranchi#Climate"
+        ]
+      },
+      "air_quality_note": null,
+      "sports_note": {
+        "text": "Ranchi hosted the 34th National Games in February 2011, with athletics at the 35,000-capacity Birsa Munda Athletics Stadium in the Mega Sports Complex.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/2011_National_Games_of_India",
+          "https://en.wikipedia.org/wiki/Ranchi"
+        ]
+      }
+    },
+    {
+      "name": "Patna",
+      "slug": "patna",
+      "state": "Bihar",
+      "tier": 2,
+      "lat": 25.5939,
+      "lon": 85.1375,
+      "elevation_m": 53,
+      "location_sources": {
+        "coordinates": "https://en.wikipedia.org/wiki/Patna",
+        "elevation": "https://en.wikipedia.org/wiki/Patna"
+      },
+      "climate": {
+        "station": "Patna Airport",
+        "normals_period": "1991-2020",
+        "mean_daily_max_c": [
+          22.1,
+          26.1,
+          32.2,
+          37.1,
+          37.5,
+          36.4,
+          33.4,
+          33.1,
+          32.6,
+          32.1,
+          29.1,
+          24.3
+        ],
+        "mean_daily_min_c": [
+          9.2,
+          12.5,
+          17.0,
+          22.2,
+          25.2,
+          26.7,
+          26.5,
+          26.5,
+          25.7,
+          22.0,
+          15.4,
+          10.7
+        ],
+        "mean_monthly_rainfall_mm": [
+          10.2,
+          12.6,
+          8.9,
+          11.9,
+          48.4,
+          162.2,
+          289.1,
+          266.6,
+          209.7,
+          49.7,
+          5.3,
+          4.7
+        ],
+        "mean_relative_humidity_pct": [
+          67,
+          53,
+          38,
+          33,
+          43,
+          59,
+          74,
+          76,
+          76,
+          69,
+          67,
+          72
+        ],
+        "humidity_basis": "afternoon (17:30 IST observation)",
+        "source": "India Meteorological Department climate normals as reproduced in the Wikipedia climate table",
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Patna#Climate"
+        ]
+      },
+      "air_quality_note": {
+        "text": "In CPCB daily bulletins for November 2025 to February 2026, Patna's AQI was Moderate or worse on 113 of 120 reported days (Poor or worse on 8), while from June to September 2026 it was Good or Satisfactory on 103 of 113 reported days.",
+        "sources": [
+          "https://cpcb.gov.in/AQI_Bulletin.php",
+          "https://cpcb.gov.in/upload/Downloads/AQI_Bulletin_20260117.pdf"
+        ]
+      },
+      "sports_note": {
+        "text": "Patna's Patliputra Sports Complex in Kankarbagh hosted the first women's Kabaddi World Cup in March 2012, and the city stages Pro Kabaddi League matches as home of the Patna Pirates.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Patna"
+        ]
+      }
+    },
+    {
+      "name": "Kanpur",
+      "slug": "kanpur",
+      "state": "Uttar Pradesh",
+      "tier": 2,
+      "lat": 26.4499,
+      "lon": 80.3319,
+      "elevation_m": 126,
+      "location_sources": {
+        "coordinates": "https://en.wikipedia.org/wiki/Kanpur",
+        "elevation": "https://en.wikipedia.org/wiki/Kanpur"
+      },
+      "climate": {
+        "station": "Kanpur Airport",
+        "normals_period": "1991-2020",
+        "mean_daily_max_c": [
+          22.3,
+          25.8,
+          30.7,
+          37.0,
+          40.3,
+          39.2,
+          34.7,
+          32.9,
+          32.8,
+          32.9,
+          28.3,
+          24.1
+        ],
+        "mean_daily_min_c": [
+          8.0,
+          10.8,
+          14.8,
+          20.0,
+          25.4,
+          27.4,
+          27.0,
+          26.0,
+          24.2,
+          18.0,
+          13.0,
+          9.0
+        ],
+        "mean_monthly_rainfall_mm": [
+          22.7,
+          14.0,
+          8.9,
+          5.9,
+          10.3,
+          84.0,
+          260.0,
+          235.0,
+          166.0,
+          33.4,
+          6.0,
+          4.7
+        ],
+        "mean_relative_humidity_pct": [
+          56,
+          53,
+          43,
+          30,
+          31,
+          45,
+          66,
+          76,
+          70,
+          55,
+          61,
+          60
+        ],
+        "humidity_basis": "afternoon (17:30 IST observation)",
+        "source": "India Meteorological Department climate normals as reproduced in the Wikipedia climate table",
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Kanpur#Climate"
+        ]
+      },
+      "air_quality_note": {
+        "text": "In CPCB daily bulletins for November 2025 to February 2026, Kanpur's AQI was Moderate or worse on 96 of 120 reported days (Poor or worse on 8), while from June to September 2026 it was Good or Satisfactory on 110 of 112 reported days.",
+        "sources": [
+          "https://cpcb.gov.in/AQI_Bulletin.php",
+          "https://cpcb.gov.in/upload/Downloads/AQI_Bulletin_20251108.pdf"
+        ]
+      },
+      "sports_note": {
+        "text": "Kanpur's Green Park Stadium in Civil Lines is a roughly 32,000-seat international cricket venue and home of the Uttar Pradesh team, and Moti Jheel lake has been developed as a recreational area with landscaped gardens.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Green_Park_Stadium",
+          "https://en.wikipedia.org/wiki/Kanpur"
+        ]
+      }
+    },
+    {
+      "name": "Madurai",
+      "slug": "madurai",
+      "state": "Tamil Nadu",
+      "tier": 2,
+      "lat": 9.9252,
+      "lon": 78.1198,
+      "elevation_m": 134,
+      "location_sources": {
+        "coordinates": "https://en.wikipedia.org/wiki/Madurai",
+        "elevation": "https://en.wikipedia.org/wiki/Madurai"
+      },
+      "climate": {
+        "station": "Madurai (humidity normals 1981-2010)",
+        "normals_period": "1991-2020",
+        "mean_daily_max_c": [
+          31.1,
+          33.2,
+          35.8,
+          36.7,
+          37.5,
+          36.1,
+          36.2,
+          36.3,
+          35.2,
+          33.0,
+          31.5,
+          30.8
+        ],
+        "mean_daily_min_c": [
+          21.2,
+          22.2,
+          23.4,
+          24.6,
+          25.6,
+          25.2,
+          24.9,
+          24.9,
+          24.5,
+          23.6,
+          22.9,
+          21.5
+        ],
+        "mean_monthly_rainfall_mm": [
+          4.3,
+          4.3,
+          12.4,
+          47.4,
+          58.1,
+          39.1,
+          38.0,
+          55.1,
+          85.7,
+          142.7,
+          135.8,
+          49.3
+        ],
+        "mean_relative_humidity_pct": [
+          77,
+          77,
+          76,
+          72,
+          70,
+          68,
+          70,
+          71,
+          71,
+          76,
+          78,
+          78
+        ],
+        "humidity_basis": "not stated in the source table",
+        "source": "India Meteorological Department climate normals as reproduced in the Wikipedia climate table",
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Madurai#Climate"
+        ]
+      },
+      "air_quality_note": {
+        "text": "CPCB daily bulletins rated Madurai's AQI Good or Satisfactory on 107 of 115 reported days from mid-October 2025 to mid-October 2026, and never worse than Moderate (peak 113 on 11 November 2025).",
+        "sources": [
+          "https://cpcb.gov.in/AQI_Bulletin.php",
+          "https://cpcb.gov.in/upload/Downloads/AQI_Bulletin_20251111.pdf"
+        ]
+      },
+      "sports_note": {
+        "text": "Madurai's MGR Race Course Stadium has a 400 m synthetic athletics track that hosts national meets, and the Madurai International Hockey Stadium was a venue for the 2025 Men's FIH Hockey Junior World Cup.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Madurai"
+        ]
+      }
+    },
+    {
+      "name": "Udaipur",
+      "slug": "udaipur",
+      "state": "Rajasthan",
+      "tier": 2,
+      "lat": 24.58,
+      "lon": 73.68,
+      "elevation_m": 578,
+      "location_sources": {
+        "coordinates": "https://en.wikipedia.org/wiki/Udaipur",
+        "elevation": "https://www.wikidata.org/wiki/Q200340"
+      },
+      "climate": {
+        "station": "Udaipur Airport",
+        "normals_period": "1991-2020",
+        "mean_daily_max_c": [
+          24.5,
+          27.9,
+          33.6,
+          37.8,
+          40.2,
+          37.5,
+          32.2,
+          30.5,
+          32.1,
+          33.4,
+          29.8,
+          26.0
+        ],
+        "mean_daily_min_c": [
+          7.6,
+          10.3,
+          15.6,
+          21.1,
+          25.8,
+          26.4,
+          24.9,
+          23.7,
+          22.0,
+          17.8,
+          13.0,
+          8.8
+        ],
+        "mean_monthly_rainfall_mm": [
+          3.0,
+          1.3,
+          1.7,
+          7.8,
+          11.0,
+          76.8,
+          235.6,
+          205.4,
+          112.1,
+          13.7,
+          5.2,
+          0.8
+        ],
+        "mean_relative_humidity_pct": [
+          34,
+          28,
+          21,
+          19,
+          23,
+          42,
+          66,
+          71,
+          60,
+          36,
+          36,
+          36
+        ],
+        "humidity_basis": "afternoon (17:30 IST observation)",
+        "source": "India Meteorological Department climate normals as reproduced in the Wikipedia climate table",
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Udaipur#Climate"
+        ]
+      },
+      "air_quality_note": {
+        "text": "In CPCB daily bulletins for November 2025 to February 2026, Udaipur's AQI was Moderate or worse on 102 of 116 reported days (Poor or worse on 2), while from June to September 2026 it was Good or Satisfactory on 65 of 108 reported days.",
+        "sources": [
+          "https://cpcb.gov.in/AQI_Bulletin.php",
+          "https://cpcb.gov.in/upload/Downloads/AQI_Bulletin_20251021.pdf"
+        ]
+      },
+      "sports_note": {
+        "text": "Kayaking and canoeing camps run at Udaipur's Fateh Sagar Lake, which hosted the 2012 National Kayaking and Canoeing Championship, and a road circles the entire lake.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Udaipur",
+          "https://en.wikipedia.org/wiki/Fateh_Sagar_Lake"
+        ]
+      }
+    }
+  ],
+  "heat_guidance": {
+    "summary": "Use the heat index (air temperature plus relative humidity, in shade) for the weather card, and WBGT when an on-site WBGT reading is available. Humid coastal cities can reach high heat index values even when the air temperature looks moderate.",
+    "heat_index_bands": [
+      {
+        "band": "Below Caution",
+        "heat_index_c": "below 26.7",
+        "heat_index_f": "below 80",
+        "effect": "Below the lowest NWS heat index band.",
+        "suggested_action": "Train and race as normal; drink to thirst."
+      },
+      {
+        "band": "Caution",
+        "heat_index_c": "26.7 to 32.2",
+        "heat_index_f": "80 to 90",
+        "effect": "Fatigue possible with prolonged exposure and/or physical activity.",
+        "suggested_action": "Start early, carry fluids on long sessions, and expect slower paces."
+      },
+      {
+        "band": "Extreme Caution",
+        "heat_index_c": "32.2 to 39.4",
+        "heat_index_f": "90 to 103",
+        "effect": "Heat stroke, heat cramps, or heat exhaustion possible with prolonged exposure and/or physical activity.",
+        "suggested_action": "Shorten or ease hard efforts, take extra breaks in shade, and use aid stations; unacclimatised athletes should hold back."
+      },
+      {
+        "band": "Danger",
+        "heat_index_c": "39.4 to 51.1",
+        "heat_index_f": "103 to 124",
+        "effect": "Heat cramps or heat exhaustion likely, and heat stroke possible with prolonged exposure and/or physical activity.",
+        "suggested_action": "Avoid hard or long outdoor efforts; organisers should consider delaying, shortening or rescheduling."
+      },
+      {
+        "band": "Extreme Danger",
+        "heat_index_c": "51.7 and above",
+        "heat_index_f": "125 and above",
+        "effect": "Heat stroke highly likely.",
+        "suggested_action": "No outdoor exercise."
+      }
+    ],
+    "heat_index_notes": [
+      "Effects are NWS wording; suggested actions are StartLine guidance built on those effects and on NATA's advice to delay, reschedule or shorten sessions in stressful heat.",
+      "NWS heat index values assume shade; full sun can raise the heat index by up to 15 F (about 8 C).",
+      "Celsius ranges are converted from the NWS Fahrenheit bands.",
+      "To compute the heat index from temperature and relative humidity, use the NWS Rothfusz regression with its low and high humidity adjustments; the regression applies when the simple formula gives 80 F (26.7 C) or more."
+    ],
+    "wbgt_bands": [
+      {
+        "wbgt_c": "below 27.8",
+        "wbgt_f": "below 82.0",
+        "guidance": "Normal activities; at least 3 rest breaks per hour of at least 3 minutes each."
+      },
+      {
+        "wbgt_c": "27.8 to 30.5",
+        "wbgt_f": "82.0 to 86.9",
+        "guidance": "Use discretion for intense or prolonged exercise and watch at-risk athletes; at least 3 rest breaks per hour of at least 4 minutes each."
+      },
+      {
+        "wbgt_c": "30.5 to 32.2",
+        "wbgt_f": "87.0 to 89.9",
+        "guidance": "Limit sessions to 2 hours; at least 4 rest breaks per hour of at least 4 minutes each."
+      },
+      {
+        "wbgt_c": "32.2 to 33.3",
+        "wbgt_f": "90.0 to 92.0",
+        "guidance": "Limit sessions to 1 hour with 20 minutes of rest breaks within the hour."
+      },
+      {
+        "wbgt_c": "above 33.3",
+        "wbgt_f": "above 92.0",
+        "guidance": "No outdoor workouts; delay until a cooler WBGT reading."
+      }
+    ],
+    "wbgt_notes": [
+      "WBGT combines temperature, humidity, sun and wind, so it reflects heat stress better than air temperature alone.",
+      "These bands are the example table in the NATA 2015 position statement, taken from Georgia (USA) high school guidelines; NATA says WBGT thresholds should be adjusted to the local climate, so treat them as a guide."
+    ],
+    "practical_points": [
+      "Acclimatise gradually over 7 to 14 days before racing in heat; the benefit fades within about 3 weeks without heat exposure (NATA Recommendation 2).",
+      "Drink enough to avoid losing more than 2% of body mass during a session (NATA Recommendation 4).",
+      "Treat any collapse in the heat as possible exertional heat stroke: cold-water immersion is the most effective cooling, and patients should be cooled first and transported second when medical staff are on site (NATA Recommendations 38 and 41).",
+      "When conditions are stressful, delay, reschedule or shorten the session (NATA Recommendation 10)."
+    ],
+    "sources": [
+      "https://www.weather.gov/ama/heatindex",
+      "https://www.wpc.ncep.noaa.gov/html/heatindex_equation.shtml",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC4639891/"
+    ]
+  },
+  "air_quality_guidance": [
+    {
+      "text": "CPCB's National AQI has six categories: Good (0-50), Satisfactory (51-100), Moderate (101-200), Poor (201-300), Very Poor (301-400) and Severe (401-500). The city figure in CPCB's daily bulletin is the 24-hour average up to 4 PM, set by the worst pollutant and averaged across the city's stations.",
+      "sources": [
+        "https://cpcb.gov.in/displaypdf.php?id=bmF0aW9uYWwtYWlyLXF1YWxpdHktaW5kZXgvQWJvdXRfQVFJLnBkZg==",
+        "https://cpcb.gov.in/upload/Downloads/AQI_Bulletin_20261014.pdf"
+      ]
+    },
+    {
+      "text": "CPCB health statements: Satisfactory can cause minor breathing discomfort to sensitive people; Moderate, breathing discomfort for people with lung disease, asthma or heart disease; Poor, breathing discomfort for most people on prolonged exposure; Very Poor, respiratory illness on prolonged exposure; Severe affects healthy people too.",
+      "sources": [
+        "https://cpcb.gov.in/upload/Downloads/AQI_Bulletin_20261014.pdf"
+      ]
+    },
+    {
+      "text": "When to reduce intensity: at Moderate, athletes with asthma or heart conditions should shorten and ease hard sessions and keep reliever medicine handy; at Poor, everyone should cut long or intense outdoor efforts and take more breaks; at Very Poor or Severe, move training indoors or reschedule. This applies CPCB's health statements using US EPA activity advice, which is written for the US AQI scale, so it is guidance rather than an official CPCB rule.",
+      "sources": [
+        "https://cpcb.gov.in/upload/Downloads/AQI_Bulletin_20261014.pdf",
+        "https://document.airnow.gov/air-quality-guide-for-particle-pollution.pdf"
+      ]
+    },
+    {
+      "text": "On polluted days, choose a less intense activity, shorten the session or reschedule it, and exercise away from busy roads. Check the station nearest the venue on race morning, because CPCB's city figure averages all stations and individual locations can differ.",
+      "sources": [
+        "https://document.airnow.gov/air-quality-guide-for-particle-pollution.pdf",
+        "https://cpcb.gov.in/upload/Downloads/AQI_Bulletin_20261014.pdf"
+      ]
+    }
+  ]
+}

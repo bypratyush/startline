@@ -1,0 +1,3709 @@
+{
+  "events": [
+    {
+      "name": "Tour of Nilgiris",
+      "edition": "TFN 2026",
+      "sport": "cycling",
+      "discipline": "stage-race",
+      "city": "Mysuru",
+      "venue": "Mysuru (flag-off); finish in Ooty",
+      "venue_lat": 12.2958,
+      "venue_lon": 76.6394,
+      "start_date": "2026-12-06",
+      "end_date": "2026-12-12",
+      "date_status": "confirmed",
+      "last_edition_date": null,
+      "organiser": "Tour of Nilgiris (TFN)",
+      "official_url": "https://www.tourofnilgiris.com/",
+      "registration": {
+        "status": "open",
+        "opens": null,
+        "closes": null,
+        "url": "https://www.tourofnilgiris.com/store",
+        "notes": "Registration is sold through the TFN online store with room-sharing options (triple, double, single). Pre-tour briefing in Mysuru on 5 Dec 2026."
+      },
+      "summary": "A fully supported 7-day touring ride of about 700 km from Mysuru through Coorg and Wayanad to Ooty, run for 16 editions. Riders stay in resorts each night and get support stations, a sag wagon, mechanics, doctors and physios every day. It is one of India's best known multi-day cycling tours and is non-competitive.",
+      "categories": [
+        {
+          "name": "Full TFN (7 riding days)",
+          "distance_km": 694,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 90000,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": null,
+          "notes": "694 km is the sum of the published daily stages. Store price shown; it varies with room-sharing option. Includes 8 nights stay, meals and full support."
+        },
+        {
+          "name": "Half TFN",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 61000,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": null,
+          "notes": "First-half or second-half option per the store listing; exact half distances not published."
+        }
+      ],
+      "course": {
+        "terrain": "road",
+        "surface": "tarmac, ghat roads",
+        "elevation_gain_m": 14529,
+        "profile": "mountain",
+        "description": "Stages: Mysuru to Madikeri 153 km (+2302 m), Madikeri to Sultan Bathery 153 km, Sultan Bathery to Ooty 108 km (+2821 m), rest day, Ooty-Kinnakorai loop 111 km (+2843 m), Ooty-Kodanad loop 102 km (+2572 m), Ooty-Pillur Dam loop 67 km (+1597 m). Elevation total is summed from the official stage figures."
+      },
+      "format": null,
+      "highlights": [
+        "About 694 km and roughly 14,500 m of climbing over 6 riding days plus a rest day in Ooty",
+        "Crosses Karnataka, Kerala and Tamil Nadu",
+        "3-5 support stations a day, sweep truck, ambulance, doctor and physio on route",
+        "Any human-powered cycle allowed; road and gravel bikes available to rent"
+      ],
+      "tips": [
+        "Reach Mysuru for the 5 Dec briefing; FlyBus from Bengaluru airport or fly to Mysuru airport (about 10 km from the start)",
+        "Riding after sundown is not allowed and each support station has a cut-off, so practise back-to-back 100-150 km hilly days",
+        "Mechanics do not fix flats mid-ride; carry tubes and know how to change one",
+        "Plan your exit from Ooty: Coimbatore airport is 130-140 km away and return transport is not included"
+      ],
+      "amenities": [
+        "8 nights accommodation",
+        "All meals and on-ride snacks",
+        "Daily luggage transfer",
+        "Mechanics",
+        "Medical and physio support",
+        "Tour jersey"
+      ],
+      "beginner_friendly": false,
+      "tags": [
+        "iconic",
+        "multi-day",
+        "supported",
+        "hilly"
+      ],
+      "sources": [
+        "https://www.tourofnilgiris.com/",
+        "https://www.tourofnilgiris.com/route",
+        "https://www.tourofnilgiris.com/faq",
+        "https://www.tourofnilgiris.com/store",
+        "https://www.tourofnilgiris.com/15editions"
+      ]
+    },
+    {
+      "name": "Deccan Cliffhanger",
+      "edition": "2026 (expected)",
+      "sport": "cycling",
+      "discipline": "ultra",
+      "city": "Pune",
+      "venue": "Keshavbaug, DP Road, Karve Nagar, Pune (start); Bogmallo Beach, Goa (finish)",
+      "venue_lat": 18.493,
+      "venue_lon": 73.82,
+      "start_date": "2026-11-28",
+      "end_date": "2026-11-29",
+      "date_status": "expected",
+      "last_edition_date": "2024-11-30",
+      "organiser": "Inspire India",
+      "official_url": null,
+      "registration": {
+        "status": "unknown",
+        "opens": null,
+        "closes": null,
+        "url": null,
+        "notes": "No 2026 announcement found. Expected date follows the late-November start of the 2024 edition (30 Nov 2024); the 2025 edition date could not be verified."
+      },
+      "summary": "A non-stop supported ultra-cycling race of about 646 km from Pune to Goa through the Sahyadri ghats, with solo and relay team categories. It has served as a Race Across America qualifier for Indian riders. Riders need their own support crew vehicle.",
+      "categories": [
+        {
+          "name": "Solo",
+          "distance_km": 646,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": "38:00",
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": null,
+          "notes": "Time limit of 38 hours as reported for the 2024 edition; a 2017 report cited 33 hours for RAAM qualification."
+        },
+        {
+          "name": "Relay team",
+          "distance_km": 646,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": null,
+          "notes": "Team sizes not published in sources found."
+        }
+      ],
+      "course": {
+        "terrain": "road",
+        "surface": "tarmac, highways and ghat roads",
+        "elevation_gain_m": null,
+        "profile": "hilly",
+        "description": "Point-to-point from Karve Nagar, Pune to Bogmallo Beach in South Goa, about 643-646 km depending on source, ridden through the night."
+      },
+      "format": null,
+      "highlights": [
+        "One of India's longest-running ultra-cycling races",
+        "Used by Indian riders as a Race Across America qualifier",
+        "Solo and relay categories"
+      ],
+      "tips": [
+        "Confirm the 2026 date directly with Inspire India before booking leave or crew",
+        "Plan night riding with lights and a follow vehicle; the route runs through the night",
+        "Build up with 400 and 600 km brevets before attempting solo"
+      ],
+      "amenities": [],
+      "beginner_friendly": false,
+      "tags": [
+        "ultra",
+        "raam-qualifier",
+        "night-riding",
+        "point-to-point"
+      ],
+      "sources": [
+        "https://www.ayvens.com/en-in/about-us/pedal-with-kini-ayvens/",
+        "https://abbf.in/event/deccan-cliffhanger-pune-to-goa-race-2017"
+      ]
+    },
+    {
+      "name": "Mumbai Randonneurs BRM 200: Pali Parikrama",
+      "edition": "2026",
+      "sport": "cycling",
+      "discipline": "brevet",
+      "city": "Mumbai",
+      "venue": "Marathon Cosmos, LBS Road, Mulund West",
+      "venue_lat": 19.16987,
+      "venue_lon": 72.93605,
+      "start_date": "2026-10-24",
+      "end_date": "2026-10-24",
+      "date_status": "confirmed",
+      "last_edition_date": null,
+      "organiser": "Mumbai Randonneurs (Audax India Randonneurs, ACP-affiliated)",
+      "official_url": "https://www.audaxindia.in/event-e-10572",
+      "registration": {
+        "status": "open",
+        "opens": null,
+        "closes": "2026-10-19",
+        "url": "https://www.audaxindia.in/event-e-10572",
+        "notes": "Closes 19 Oct 2026 at 19:00. Fee paid to AIR via gateway; non-refundable and non-transferable."
+      },
+      "summary": "A 200 km Brevet de Randonneur Mondial run by Mumbai Randonneurs, India's first randonneuring club (first Indian brevet was held in Mumbai in 2010). The loop heads out of Mumbai to the Pali Ballaleshwar temple area and back. Finishing within 13.5 hours earns an ACP-homologated brevet. Self-supported: no aid stations or sag wagon, riders carry or buy their own food and water between controls.",
+      "categories": [
+        {
+          "name": "200 km BRM",
+          "distance_km": 200.8,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 1100,
+          "start_time": "06:00",
+          "cutoff": "13:30",
+          "min_age": null,
+          "level": "intermediate",
+          "eligibility": "AIR rider account (subscriber login) needed to register",
+          "notes": null
+        }
+      ],
+      "course": {
+        "terrain": "road",
+        "surface": "tarmac, open traffic roads",
+        "elevation_gain_m": 1191,
+        "profile": "rolling",
+        "description": "Mulund to Khopoli, Pali and Karnala and back to Ghansoli, through the Sahyadri foothills of Raigad district. 200.8 km and about 1191 m of climbing per the official route map."
+      },
+      "format": null,
+      "highlights": [
+        "ACP-sanctioned 200 km brevet, 13.5 h limit",
+        "Pali, Khopoli and Karnala loop in the Sahyadri foothills",
+        "Organised by India's oldest randonneuring club"
+      ],
+      "tips": [
+        "Start from Mulund West at 06:00; exit Mumbai before highway traffic builds",
+        "Carry enough water for the Khopoli-Pali stretch and buy food at towns en route",
+        "Lights and reflective gear needed for any riding after dusk"
+      ],
+      "amenities": [
+        "Brevet card",
+        "ACP homologation",
+        "Medal available on request after finishing"
+      ],
+      "beginner_friendly": false,
+      "tags": [
+        "audax",
+        "acp-sanctioned",
+        "self-supported"
+      ],
+      "sources": [
+        "https://www.audaxindia.in/event-e-10572",
+        "https://www.audaxindia.in/mumbai-randonneurs-mumbai-c-4",
+        "https://ridewithgps.com/routes/47617101",
+        "https://www.audaxindia.in/events-ec-2027"
+      ]
+    },
+    {
+      "name": "Pune Randonneurs Knight Riders 100 (BP)",
+      "edition": "2026",
+      "sport": "cycling",
+      "discipline": "brevet",
+      "city": "Pune",
+      "venue": "Fitness Culture, Sinhagad Road",
+      "venue_lat": 18.49158,
+      "venue_lon": 73.83373,
+      "start_date": "2026-10-20",
+      "end_date": "2026-10-20",
+      "date_status": "confirmed",
+      "last_edition_date": null,
+      "organiser": "Pune Randonneurs (Audax India Randonneurs, ACP-affiliated)",
+      "official_url": "https://www.audaxindia.in/event-e-10938",
+      "registration": {
+        "status": "open",
+        "opens": null,
+        "closes": "2026-10-18",
+        "url": "https://www.audaxindia.in/event-e-10938",
+        "notes": "Closes 18 Oct 2026 at 20:00."
+      },
+      "summary": "A 100 km Brevet Populaire run by Pune Randonneurs, the introductory distance in Audax randonneuring. It is a good first timed long ride before attempting a 200 km BRM. Self-supported: no aid stations or sag wagon, riders carry or buy their own food and water between controls.",
+      "categories": [
+        {
+          "name": "100 km BP",
+          "distance_km": 102.8,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 300,
+          "start_time": "05:30",
+          "cutoff": "7:30",
+          "min_age": null,
+          "level": "intermediate",
+          "eligibility": "AIR rider account (subscriber login) needed to register",
+          "notes": null
+        }
+      ],
+      "course": {
+        "terrain": "road",
+        "surface": "tarmac, open traffic roads",
+        "elevation_gain_m": 792,
+        "profile": "rolling",
+        "description": "Fitness Culture, Narhe, Chandni Chowk, Dehu Road to Tony Da Dhaba and back via Sun City to Sinhagad Road. 102.8 km and about 792 m of climbing per the official route map."
+      },
+      "format": null,
+      "highlights": [
+        "Entry-level 100 km Audax ride with a 7.5 h limit",
+        "Low fee of Rs 300",
+        "Run by Pune Randonneurs, the club that ran India's first overnight brevets"
+      ],
+      "tips": [
+        "05:30 start: fit front and rear lights for the pre-dawn section",
+        "Chandni Chowk and Dehu Road carry heavy truck traffic; ride single file",
+        "Good stepping stone to a BRM 200 later in the season"
+      ],
+      "amenities": [
+        "Brevet card",
+        "AIR homologation"
+      ],
+      "beginner_friendly": true,
+      "tags": [
+        "audax",
+        "brevet-populaire",
+        "self-supported"
+      ],
+      "sources": [
+        "https://www.audaxindia.in/event-e-10938",
+        "https://www.audaxindia.in/pune-randonneurs-pune-c-7",
+        "https://ridewithgps.com/routes/45638802",
+        "https://www.audaxindia.in/events-ec-2027"
+      ]
+    },
+    {
+      "name": "Secunderabad Randonneurs BRM 200: MEGA-200",
+      "edition": "2026",
+      "sport": "cycling",
+      "discipline": "brevet",
+      "city": "Hyderabad",
+      "venue": "Open ground near Kendriya Vidyalaya, Secunderabad",
+      "venue_lat": 17.4562,
+      "venue_lon": 78.49503,
+      "start_date": "2026-10-27",
+      "end_date": "2026-10-27",
+      "date_status": "confirmed",
+      "last_edition_date": null,
+      "organiser": "Secunderabad Randonneurs (Audax India Randonneurs, ACP-affiliated)",
+      "official_url": "https://www.audaxindia.in/event-e-10048",
+      "registration": {
+        "status": "open",
+        "opens": null,
+        "closes": "2026-10-22",
+        "url": "https://www.audaxindia.in/event-e-10048",
+        "notes": "Closes 22 Oct 2026 at 23:59."
+      },
+      "summary": "A 200 km BRM run by Secunderabad Randonneurs heading north from Secunderabad to Kamareddy and back. It is part of a late-October block where the club also runs 300 km and 400 km brevets. Self-supported: no aid stations or sag wagon, riders carry or buy their own food and water between controls.",
+      "categories": [
+        {
+          "name": "200 km BRM",
+          "distance_km": 211.7,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 850,
+          "start_time": "06:00",
+          "cutoff": "13:30",
+          "min_age": null,
+          "level": "intermediate",
+          "eligibility": "AIR rider account (subscriber login) needed to register",
+          "notes": null
+        }
+      ],
+      "course": {
+        "terrain": "road",
+        "surface": "tarmac, open traffic roads",
+        "elevation_gain_m": 1378,
+        "profile": "rolling",
+        "description": "Secunderabad (Gunrock area) to Kamareddy and back on the NH44 corridor. 211.7 km and about 1378 m of climbing per the official route map."
+      },
+      "format": null,
+      "highlights": [
+        "ACP-sanctioned 200 km brevet, 13.5 h limit",
+        "Mostly highway riding on the Deccan plateau",
+        "Same club runs 300 km (28 Oct) and 400 km (30 Oct) the same week"
+      ],
+      "tips": [
+        "Long highway stretches with little shade: carry two bottles and electrolytes",
+        "Mid-week date (Tuesday): plan leave in advance",
+        "Route is 211.7 km, not 200, so pace for the extra distance"
+      ],
+      "amenities": [
+        "Brevet card",
+        "ACP homologation"
+      ],
+      "beginner_friendly": false,
+      "tags": [
+        "audax",
+        "acp-sanctioned",
+        "self-supported"
+      ],
+      "sources": [
+        "https://www.audaxindia.in/event-e-10048",
+        "https://www.audaxindia.in/secunderabad-randonneurs-secunderabad-c-111",
+        "https://ridewithgps.com/routes/49469273",
+        "https://www.audaxindia.in/events-ec-2027"
+      ]
+    },
+    {
+      "name": "Hyderabad Randonneurs Cities to Coast 1200 LRM",
+      "edition": "2026",
+      "sport": "cycling",
+      "discipline": "ultra",
+      "city": "Hyderabad",
+      "venue": "Gachibowli Stadium, Hyderabad",
+      "venue_lat": 17.449,
+      "venue_lon": 78.3483,
+      "start_date": "2026-11-12",
+      "end_date": "2026-11-16",
+      "date_status": "confirmed",
+      "last_edition_date": null,
+      "organiser": "Hyderabad Randonneurs (Audax India Randonneurs, ACP-affiliated)",
+      "official_url": "https://www.audaxindia.in/event-e-10013",
+      "registration": {
+        "status": "closed",
+        "opens": null,
+        "closes": "2026-10-02",
+        "url": "https://www.audaxindia.in/event-e-10013",
+        "notes": "Registration closed on 2 Oct 2026. Fee is non-refundable and non-transferable; bike transport back is an optional paid service."
+      },
+      "summary": "A 1200 km Les Randonneurs Mondiaux (LRM) ride from Hyderabad to the Goa coast, to be completed within 90 hours. It crosses the Deccan plateau, the Western Ghats at Jog Falls and the Konkan coast. Unlike shorter brevets, the fee covers drop bags and rest points.",
+      "categories": [
+        {
+          "name": "1200 km BRM",
+          "distance_km": 1211.4,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 10500,
+          "start_time": "07:00",
+          "cutoff": "90:00",
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": "AIR rider account (subscriber login) needed to register",
+          "notes": "Fee includes drop bags and rest rooms at 394 km and 782 km, one night in Goa, food at drop-bag points, medal, event T-shirt and homologation."
+        }
+      ],
+      "course": {
+        "terrain": "road",
+        "surface": "tarmac, open traffic roads",
+        "elevation_gain_m": 7188,
+        "profile": "hilly",
+        "description": "Hyderabad via Shadnagar and NH44 to Kurnool and Anantapur, then into the Western Ghats via Chitradurga, Shivamogga and Jog Falls, down to Gokarna and Karwar on the Konkan coast and on to Goa. 1211.4 km and about 7188 m of climbing per the official route map."
+      },
+      "format": null,
+      "highlights": [
+        "1200 km in 90 hours, about 7200 m of climbing",
+        "Deccan plateau to Western Ghats to Konkan coast",
+        "Drop bags and rest rooms at 394 km and 782 km"
+      ],
+      "tips": [
+        "Registration is already closed; use it as a target for the next season",
+        "Plan sleep at the 394 km and 782 km drop-bag points",
+        "Book the optional bike transport from Goa early"
+      ],
+      "amenities": [
+        "Drop bags at two controls",
+        "One night accommodation in Goa",
+        "Finisher medal",
+        "Event T-shirt"
+      ],
+      "beginner_friendly": false,
+      "tags": [
+        "audax",
+        "ultra",
+        "lrm",
+        "multi-day",
+        "night-riding"
+      ],
+      "sources": [
+        "https://www.audaxindia.in/event-e-10013",
+        "https://www.audaxindia.in/hyderabad-randonneurs-hyderabad-c-5",
+        "https://ridewithgps.com/routes/47730481",
+        "https://www.audaxindia.in/events-ec-2027"
+      ]
+    },
+    {
+      "name": "Bangalore Randonneurs BRM 600: Benne Dose",
+      "edition": "2026",
+      "sport": "cycling",
+      "discipline": "brevet",
+      "city": "Bengaluru",
+      "venue": "Sir M. Visvesvaraya Central College Metro Station area",
+      "venue_lat": 12.97323,
+      "venue_lon": 77.58115,
+      "start_date": "2026-10-30",
+      "end_date": "2026-10-31",
+      "date_status": "confirmed",
+      "last_edition_date": null,
+      "organiser": "Bangalore Randonneurs (Audax India Randonneurs, ACP-affiliated)",
+      "official_url": "https://www.audaxindia.in/event-e-10870",
+      "registration": {
+        "status": "open",
+        "opens": null,
+        "closes": "2026-10-27",
+        "url": "https://www.audaxindia.in/event-e-10870",
+        "notes": "Closes 27 Oct 2026 at 20:00."
+      },
+      "summary": "A 600 km brevet by Bangalore Randonneurs, one of India's largest randonneuring clubs. It must be finished within 40 hours and is part of a Super Randonneur series (200, 300, 400, 600). Self-supported: no aid stations or sag wagon, riders carry or buy their own food and water between controls.",
+      "categories": [
+        {
+          "name": "600 km BRM",
+          "distance_km": 602.4,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 1000,
+          "start_time": "06:00",
+          "cutoff": "40:00",
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": "AIR rider account (subscriber login) needed to register",
+          "notes": null
+        }
+      ],
+      "course": {
+        "terrain": "road",
+        "surface": "tarmac, open traffic roads",
+        "elevation_gain_m": 3650,
+        "profile": "hilly",
+        "description": "A 602 km loop from central Bengaluru named after the benne dose (butter dosa) of Davanagere. About 3650 m of climbing per the official route map."
+      },
+      "format": null,
+      "highlights": [
+        "600 km in 40 hours",
+        "Counts towards the Super Randonneur series",
+        "Large club with regular rider turnout"
+      ],
+      "tips": [
+        "Plan a short sleep stop; most riders take 30-36 hours",
+        "Carry lights with spare batteries for two nights on the road",
+        "Start is in central Bengaluru near the KG Road metro"
+      ],
+      "amenities": [
+        "Brevet card",
+        "ACP homologation"
+      ],
+      "beginner_friendly": false,
+      "tags": [
+        "audax",
+        "acp-sanctioned",
+        "self-supported",
+        "night-riding"
+      ],
+      "sources": [
+        "https://www.audaxindia.in/event-e-10870",
+        "https://www.audaxindia.in/bangalore-randonneurs-bangalore-c-9",
+        "https://ridewithgps.com/routes/55189400",
+        "https://www.audaxindia.in/events-ec-2027"
+      ]
+    },
+    {
+      "name": "Bangalore Randonneurs BRM 300: Basavanbetta (SR5 series)",
+      "edition": "2026",
+      "sport": "cycling",
+      "discipline": "brevet",
+      "city": "Bengaluru",
+      "venue": "FKCCI Complex, KG Road",
+      "venue_lat": 12.9731,
+      "venue_lon": 77.58185,
+      "start_date": "2026-11-21",
+      "end_date": "2026-11-22",
+      "date_status": "confirmed",
+      "last_edition_date": null,
+      "organiser": "Bangalore Randonneurs (Audax India Randonneurs, ACP-affiliated)",
+      "official_url": "https://www.audaxindia.in/event-e-10003",
+      "registration": {
+        "status": "open",
+        "opens": null,
+        "closes": "2026-11-10",
+        "url": "https://www.audaxindia.in/event-e-10003",
+        "notes": "Closes 10 Nov 2026 at 20:00."
+      },
+      "summary": "A hilly 300 km brevet, part of Bangalore Randonneurs' SR5 week in November 2026 (600 km on 18 Nov, 400 km on 20 Nov, 300 km on 21 Nov, 200 km on 22 Nov). Must be completed within 20 hours. Self-supported: no aid stations or sag wagon, riders carry or buy their own food and water between controls.",
+      "categories": [
+        {
+          "name": "300 km BRM",
+          "distance_km": 304.9,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 900,
+          "start_time": "07:00",
+          "cutoff": "20:00",
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": "AIR rider account (subscriber login) needed to register",
+          "notes": null
+        }
+      ],
+      "course": {
+        "terrain": "road",
+        "surface": "tarmac, open traffic roads",
+        "elevation_gain_m": 2959,
+        "profile": "hilly",
+        "description": "A 305 km loop from KG Road to the Basavanbetta hills south of Bengaluru and back, with about 2959 m of climbing per the official route map."
+      },
+      "format": null,
+      "highlights": [
+        "300 km in 20 hours with nearly 3000 m of climbing",
+        "Part of a back-to-back SR series week",
+        "Starts from FKCCI, KG Road in central Bengaluru"
+      ],
+      "tips": [
+        "Hilly for a 300: use compact gearing and pace the climbs",
+        "07:00 start means finishing after dark; carry full night lighting",
+        "Register before 10 Nov; the club's events fill with large fields"
+      ],
+      "amenities": [
+        "Brevet card",
+        "ACP homologation"
+      ],
+      "beginner_friendly": false,
+      "tags": [
+        "audax",
+        "acp-sanctioned",
+        "self-supported",
+        "hilly"
+      ],
+      "sources": [
+        "https://www.audaxindia.in/event-e-10003",
+        "https://www.audaxindia.in/bangalore-randonneurs-bangalore-c-9",
+        "https://ridewithgps.com/routes/57540798",
+        "https://www.audaxindia.in/events-ec-2027"
+      ]
+    },
+    {
+      "name": "Bangalore Randonneurs BRM 200: Village 200K",
+      "edition": "2026",
+      "sport": "cycling",
+      "discipline": "brevet",
+      "city": "Bengaluru",
+      "venue": "FKCCI Complex, KG Road",
+      "venue_lat": 12.97341,
+      "venue_lon": 77.58034,
+      "start_date": "2026-11-22",
+      "end_date": "2026-11-22",
+      "date_status": "confirmed",
+      "last_edition_date": null,
+      "organiser": "Bangalore Randonneurs (Audax India Randonneurs, ACP-affiliated)",
+      "official_url": "https://www.audaxindia.in/event-e-10004",
+      "registration": {
+        "status": "open",
+        "opens": null,
+        "closes": "2026-11-10",
+        "url": "https://www.audaxindia.in/event-e-10004",
+        "notes": "Closes 10 Nov 2026 at 20:00."
+      },
+      "summary": "Bangalore Randonneurs' anniversary 200 km brevet on rural roads outside the city, to be completed within 13.5 hours. A common first BRM for Bengaluru riders. Self-supported: no aid stations or sag wagon, riders carry or buy their own food and water between controls.",
+      "categories": [
+        {
+          "name": "200 km BRM",
+          "distance_km": 204.5,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 800,
+          "start_time": "06:00",
+          "cutoff": "13:30",
+          "min_age": null,
+          "level": "intermediate",
+          "eligibility": "AIR rider account (subscriber login) needed to register",
+          "notes": null
+        }
+      ],
+      "course": {
+        "terrain": "road",
+        "surface": "tarmac, open traffic roads",
+        "elevation_gain_m": 1317,
+        "profile": "rolling",
+        "description": "A 204.5 km loop on village roads around Bengaluru, run as the club's anniversary brevet. About 1317 m of climbing per the official route map."
+      },
+      "format": null,
+      "highlights": [
+        "200 km in 13.5 hours",
+        "Village roads away from highway traffic",
+        "Club anniversary ride"
+      ],
+      "tips": [
+        "06:00 start from KG Road: reach early to collect your brevet card",
+        "Village roads have fewer shops; refill at every town",
+        "Fee of Rs 800 includes payment gateway and taxes"
+      ],
+      "amenities": [
+        "Brevet card",
+        "ACP homologation"
+      ],
+      "beginner_friendly": false,
+      "tags": [
+        "audax",
+        "acp-sanctioned",
+        "self-supported"
+      ],
+      "sources": [
+        "https://www.audaxindia.in/event-e-10004",
+        "https://www.audaxindia.in/bangalore-randonneurs-bangalore-c-9",
+        "https://ridewithgps.com/routes/51765627",
+        "https://www.audaxindia.in/events-ec-2027"
+      ]
+    },
+    {
+      "name": "Madras Randonneurs BRM 300: The Village Link",
+      "edition": "2026",
+      "sport": "cycling",
+      "discipline": "brevet",
+      "city": "Chennai",
+      "venue": "Just Buy Cycles Elite, Velachery",
+      "venue_lat": 12.979,
+      "venue_lon": 80.22,
+      "start_date": "2026-10-17",
+      "end_date": "2026-10-18",
+      "date_status": "confirmed",
+      "last_edition_date": null,
+      "organiser": "Madras Randonneurs (Audax India Randonneurs, ACP-affiliated)",
+      "official_url": "https://www.audaxindia.in/event-e-10526",
+      "registration": {
+        "status": "open",
+        "opens": null,
+        "closes": "2026-10-16",
+        "url": "https://www.audaxindia.in/event-e-10526",
+        "notes": "Online registration closes 16 Oct 2026 at 13:00; limited spot registration."
+      },
+      "summary": "A 300 km brevet by Madras Randonneurs on coastal and village roads around Chennai, to be completed within 20 hours. The route is designed to avoid city traffic. Self-supported: no aid stations or sag wagon, riders carry or buy their own food and water between controls.",
+      "categories": [
+        {
+          "name": "300 km BRM",
+          "distance_km": 300,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 1200,
+          "start_time": "05:30",
+          "cutoff": "20:00",
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": "AIR rider account (subscriber login) needed to register",
+          "notes": null
+        }
+      ],
+      "course": {
+        "terrain": "road",
+        "surface": "tarmac, open traffic roads",
+        "elevation_gain_m": null,
+        "profile": "flat",
+        "description": "Starts in Velachery, takes OMR to villages around Chennai, connects to GST Road and returns via ECR, mixing state highway and village roads to avoid traffic. Start coordinates are approximate."
+      },
+      "format": null,
+      "highlights": [
+        "300 km in 20 hours",
+        "OMR, GST Road and ECR coastal loop",
+        "Mostly flat coastal plain"
+      ],
+      "tips": [
+        "Registration closes the day before; spot entries are limited",
+        "Expect heat and humidity on ECR by midday; carry electrolytes",
+        "05:30 start: lights needed at the start and finish"
+      ],
+      "amenities": [
+        "Brevet card",
+        "ACP homologation"
+      ],
+      "beginner_friendly": false,
+      "tags": [
+        "audax",
+        "acp-sanctioned",
+        "self-supported",
+        "coastal"
+      ],
+      "sources": [
+        "https://www.audaxindia.in/event-e-10526",
+        "https://www.audaxindia.in/madras-randonneurs-chennai-c-26",
+        "https://www.audaxindia.in/events-ec-2027"
+      ]
+    },
+    {
+      "name": "Cycle Network Grow BRM 200: NH2",
+      "edition": "2026",
+      "sport": "cycling",
+      "discipline": "brevet",
+      "city": "Kolkata",
+      "venue": "Netaji Island, Salt Lake",
+      "venue_lat": 22.58,
+      "venue_lon": 88.415,
+      "start_date": "2026-11-01",
+      "end_date": "2026-11-01",
+      "date_status": "confirmed",
+      "last_edition_date": null,
+      "organiser": "Cycle Network Grow (Audax India Randonneurs, ACP-affiliated)",
+      "official_url": "https://www.audaxindia.in/event-e-10178",
+      "registration": {
+        "status": "open",
+        "opens": null,
+        "closes": "2026-10-28",
+        "url": "https://www.audaxindia.in/event-e-10178",
+        "notes": "Closes 28 Oct 2026 at 23:00."
+      },
+      "summary": "A 200 km brevet run by Kolkata's Cycle Network Grow club on the flat NH2 corridor, to be completed within 13.5 hours. It opens the club's 2026-27 season, which continues with 400 km (21 Nov), 600 km (5 Dec) and 300 km (13 Dec) brevets. Self-supported: no aid stations or sag wagon, riders carry or buy their own food and water between controls.",
+      "categories": [
+        {
+          "name": "200 km BRM",
+          "distance_km": 200,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 850,
+          "start_time": "06:00",
+          "cutoff": "13:30",
+          "min_age": null,
+          "level": "intermediate",
+          "eligibility": "AIR rider account (subscriber login) needed to register",
+          "notes": null
+        }
+      ],
+      "course": {
+        "terrain": "road",
+        "surface": "tarmac, open traffic roads",
+        "elevation_gain_m": null,
+        "profile": "flat",
+        "description": "A 200 km out-and-back on the NH2 corridor from Salt Lake. Start coordinates are approximate (Salt Lake)."
+      },
+      "format": null,
+      "highlights": [
+        "200 km in 13.5 hours",
+        "Flat route suited to a first BRM",
+        "Season opener for Kolkata's brevet calendar"
+      ],
+      "tips": [
+        "Flat but exposed: practise holding a steady pace on the bars for hours",
+        "Watch for heavy trucks on NH2; use a mirror and bright rear light",
+        "Route map is on MapMyRide via the event page"
+      ],
+      "amenities": [
+        "Brevet card",
+        "ACP homologation"
+      ],
+      "beginner_friendly": false,
+      "tags": [
+        "audax",
+        "acp-sanctioned",
+        "self-supported"
+      ],
+      "sources": [
+        "https://www.audaxindia.in/event-e-10178",
+        "https://www.audaxindia.in/cycle-network-grow-kolkata-c-82",
+        "https://www.audaxindia.in/events-ec-2027",
+        "https://www.mapmyride.com/routes/view/3609139861"
+      ]
+    },
+    {
+      "name": "Lakshya Randonneurs BRM 600: Mussoorie Masala",
+      "edition": "2026",
+      "sport": "cycling",
+      "discipline": "brevet",
+      "city": "Delhi NCR",
+      "venue": "Firefox Rajesh Cycles, Noida",
+      "venue_lat": 28.57171,
+      "venue_lon": 77.32503,
+      "start_date": "2026-10-23",
+      "end_date": "2026-10-25",
+      "date_status": "confirmed",
+      "last_edition_date": null,
+      "organiser": "Lakshya Randonneurs (Audax India Randonneurs, ACP-affiliated)",
+      "official_url": "https://www.audaxindia.in/event-e-10132",
+      "registration": {
+        "status": "open",
+        "opens": null,
+        "closes": "2026-10-21",
+        "url": "https://www.audaxindia.in/event-e-10132",
+        "notes": "Closes 21 Oct 2026 at 20:00. Night start at 22:00."
+      },
+      "summary": "A mountainous 600 km brevet from Noida to Mussoorie and back with over 6000 m of climbing, to be completed within 40 hours. It starts at 22:00, so the first night is spent riding the plains towards Dehradun. Self-supported: no aid stations or sag wagon, riders carry or buy their own food and water between controls.",
+      "categories": [
+        {
+          "name": "600 km BRM",
+          "distance_km": 601.1,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 3000,
+          "start_time": "22:00",
+          "cutoff": "40:00",
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": "AIR rider account (subscriber login) needed to register",
+          "notes": "Fee includes an exclusive finisher medal; no other charges or GST."
+        }
+      ],
+      "course": {
+        "terrain": "road",
+        "surface": "tarmac, open traffic roads",
+        "elevation_gain_m": 6391,
+        "profile": "mountain",
+        "description": "Noida to the Mussoorie hills in the Garhwal Himalaya and back, starting at night. 601 km and about 6391 m of climbing per the official route map."
+      },
+      "format": null,
+      "highlights": [
+        "600 km with about 6400 m of climbing",
+        "Climb to Mussoorie in the Himalayan foothills",
+        "Finisher medal included in the fee"
+      ],
+      "tips": [
+        "Night start at 22:00: sleep during the day before",
+        "Mussoorie can be cold at night in late October; pack a windproof layer",
+        "Use low gearing; the Mussoorie climb is long and steep"
+      ],
+      "amenities": [
+        "Brevet card",
+        "ACP homologation",
+        "Finisher medal"
+      ],
+      "beginner_friendly": false,
+      "tags": [
+        "audax",
+        "acp-sanctioned",
+        "self-supported",
+        "night-riding",
+        "hilly"
+      ],
+      "sources": [
+        "https://www.audaxindia.in/event-e-10132",
+        "https://www.audaxindia.in/lakshya-randonneurs-new-delhi-c-139",
+        "https://ridewithgps.com/routes/56474486",
+        "https://www.audaxindia.in/events-ec-2027"
+      ]
+    },
+    {
+      "name": "Lakshya Randonneurs BRM 400: The GT Road Saga",
+      "edition": "2026",
+      "sport": "cycling",
+      "discipline": "brevet",
+      "city": "Delhi NCR",
+      "venue": "Firefox Rajesh Cycles, Noida",
+      "venue_lat": 28.57173,
+      "venue_lon": 77.32506,
+      "start_date": "2026-12-05",
+      "end_date": "2026-12-06",
+      "date_status": "confirmed",
+      "last_edition_date": null,
+      "organiser": "Lakshya Randonneurs (Audax India Randonneurs, ACP-affiliated)",
+      "official_url": "https://www.audaxindia.in/event-e-10134",
+      "registration": {
+        "status": "open",
+        "opens": null,
+        "closes": "2026-12-04",
+        "url": "https://www.audaxindia.in/event-e-10134",
+        "notes": "Closes 4 Dec 2026 at 20:00."
+      },
+      "summary": "A 400 km brevet along the historic Grand Trunk Road from Noida into Haryana, to be completed within 27 hours. Flat but long, with a night section on the return. Self-supported: no aid stations or sag wagon, riders carry or buy their own food and water between controls.",
+      "categories": [
+        {
+          "name": "400 km BRM",
+          "distance_km": 400.8,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 2250,
+          "start_time": "06:00",
+          "cutoff": "27:00",
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": "AIR rider account (subscriber login) needed to register",
+          "notes": null
+        }
+      ],
+      "course": {
+        "terrain": "road",
+        "surface": "tarmac, open traffic roads",
+        "elevation_gain_m": 1410,
+        "profile": "flat",
+        "description": "Noida via Murthal, Panipat, Karnal and Kurukshetra to Shahbad on the Grand Trunk Road and back. 400.8 km and about 1410 m of climbing per the official route map."
+      },
+      "format": null,
+      "highlights": [
+        "400 km in 27 hours on the GT Road (NH44)",
+        "Flat profile",
+        "Dhaba stops at Murthal on the route"
+      ],
+      "tips": [
+        "December nights in Haryana are cold and foggy: carry warm layers and strong lights",
+        "Expect heavy highway traffic; ride on the shoulder with a reflective vest",
+        "Murthal dhabas are a reliable food stop on both legs"
+      ],
+      "amenities": [
+        "Brevet card",
+        "ACP homologation"
+      ],
+      "beginner_friendly": false,
+      "tags": [
+        "audax",
+        "acp-sanctioned",
+        "self-supported",
+        "night-riding"
+      ],
+      "sources": [
+        "https://www.audaxindia.in/event-e-10134",
+        "https://www.audaxindia.in/lakshya-randonneurs-new-delhi-c-139",
+        "https://ridewithgps.com/routes/53803775",
+        "https://www.audaxindia.in/events-ec-2027"
+      ]
+    },
+    {
+      "name": "Lakshya Randonneurs BRM 200: Gajraula",
+      "edition": "2026",
+      "sport": "cycling",
+      "discipline": "brevet",
+      "city": "Delhi NCR",
+      "venue": "Firefox Rajesh Cycles, Noida",
+      "venue_lat": 28.57162,
+      "venue_lon": 77.32513,
+      "start_date": "2026-12-13",
+      "end_date": "2026-12-13",
+      "date_status": "confirmed",
+      "last_edition_date": null,
+      "organiser": "Lakshya Randonneurs (Audax India Randonneurs, ACP-affiliated)",
+      "official_url": "https://www.audaxindia.in/event-e-10135",
+      "registration": {
+        "status": "open",
+        "opens": null,
+        "closes": "2026-12-11",
+        "url": "https://www.audaxindia.in/event-e-10135",
+        "notes": "Closes 11 Dec 2026 at 20:00."
+      },
+      "summary": "A flat 200 km out-and-back brevet from Noida across the Ganga at Garhmukteshwar to Gajraula, to be completed within 13.5 hours. A good first BRM for Delhi NCR riders. Self-supported: no aid stations or sag wagon, riders carry or buy their own food and water between controls.",
+      "categories": [
+        {
+          "name": "200 km BRM",
+          "distance_km": 203.7,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 1300,
+          "start_time": "06:00",
+          "cutoff": "13:30",
+          "min_age": null,
+          "level": "intermediate",
+          "eligibility": "AIR rider account (subscriber login) needed to register",
+          "notes": "Fee includes an exclusive finisher medal; no other charges or GST."
+        }
+      ],
+      "course": {
+        "terrain": "road",
+        "surface": "tarmac, open traffic roads",
+        "elevation_gain_m": 768,
+        "profile": "flat",
+        "description": "Noida to Hapur, Garhmukteshwar and Gajraula and back on the same road. 203.7 km and about 768 m of climbing per the official route map."
+      },
+      "format": null,
+      "highlights": [
+        "Flat 200 km with under 800 m of climbing",
+        "Crosses the Ganga at Garhmukteshwar",
+        "Finisher medal included"
+      ],
+      "tips": [
+        "Mid-December mornings are foggy: use a bright front light and reflective vest at the 06:00 start",
+        "Out-and-back route makes it easy to plan food stops on the way out",
+        "Register by 11 Dec"
+      ],
+      "amenities": [
+        "Brevet card",
+        "ACP homologation",
+        "Finisher medal"
+      ],
+      "beginner_friendly": false,
+      "tags": [
+        "audax",
+        "acp-sanctioned",
+        "self-supported"
+      ],
+      "sources": [
+        "https://www.audaxindia.in/event-e-10135",
+        "https://www.audaxindia.in/lakshya-randonneurs-new-delhi-c-139",
+        "https://ridewithgps.com/routes/54538708",
+        "https://www.audaxindia.in/events-ec-2027"
+      ]
+    },
+    {
+      "name": "Lakshya Randonneurs BRM 300: Mathura",
+      "edition": "2026",
+      "sport": "cycling",
+      "discipline": "brevet",
+      "city": "Delhi NCR",
+      "venue": "Cyclofit, Sector 18, Noida",
+      "venue_lat": 28.57171,
+      "venue_lon": 77.32509,
+      "start_date": "2026-12-19",
+      "end_date": "2026-12-20",
+      "date_status": "confirmed",
+      "last_edition_date": null,
+      "organiser": "Lakshya Randonneurs (Audax India Randonneurs, ACP-affiliated)",
+      "official_url": "https://www.audaxindia.in/event-e-10136",
+      "registration": {
+        "status": "open",
+        "opens": null,
+        "closes": "2026-12-17",
+        "url": "https://www.audaxindia.in/event-e-10136",
+        "notes": "Closes 17 Dec 2026 at 20:00."
+      },
+      "summary": "A 300 km brevet from Noida to Mathura and back, to be completed within 20 hours. Flat terrain but a winter finish after dark. Self-supported: no aid stations or sag wagon, riders carry or buy their own food and water between controls.",
+      "categories": [
+        {
+          "name": "300 km BRM",
+          "distance_km": 309.9,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 1700,
+          "start_time": "06:30",
+          "cutoff": "20:00",
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": "AIR rider account (subscriber login) needed to register",
+          "notes": "Fee includes an exclusive finisher medal; no other charges or GST."
+        }
+      ],
+      "course": {
+        "terrain": "road",
+        "surface": "tarmac, open traffic roads",
+        "elevation_gain_m": 1334,
+        "profile": "flat",
+        "description": "Noida to Mathura and back, about 310 km with 1334 m of climbing per the official route map."
+      },
+      "format": null,
+      "highlights": [
+        "300 km in 20 hours",
+        "Flat route to Mathura",
+        "Finisher medal included"
+      ],
+      "tips": [
+        "06:30 start; plan to finish after dark in cold, foggy conditions",
+        "Carry warm gloves and a gilet for the evening return",
+        "Register by 17 Dec"
+      ],
+      "amenities": [
+        "Brevet card",
+        "ACP homologation",
+        "Finisher medal"
+      ],
+      "beginner_friendly": false,
+      "tags": [
+        "audax",
+        "acp-sanctioned",
+        "self-supported"
+      ],
+      "sources": [
+        "https://www.audaxindia.in/event-e-10136",
+        "https://www.audaxindia.in/lakshya-randonneurs-new-delhi-c-139",
+        "https://ridewithgps.com/routes/38015884",
+        "https://www.audaxindia.in/events-ec-2027"
+      ]
+    },
+    {
+      "name": "Tri Goa Foundation BRM 200: A Taste of Goa",
+      "edition": "2026",
+      "sport": "cycling",
+      "discipline": "brevet",
+      "city": "Goa",
+      "venue": "Probyk, Panjim",
+      "venue_lat": 15.49481,
+      "venue_lon": 73.82071,
+      "start_date": "2026-10-18",
+      "end_date": "2026-10-18",
+      "date_status": "confirmed",
+      "last_edition_date": null,
+      "organiser": "Tri Goa Foundation (Audax India Randonneurs, ACP-affiliated)",
+      "official_url": "https://www.audaxindia.in/event-e-10422",
+      "registration": {
+        "status": "open",
+        "opens": null,
+        "closes": "2026-10-16",
+        "url": "https://www.audaxindia.in/event-e-10422",
+        "notes": "Closes 16 Oct 2026 at 00:00."
+      },
+      "summary": "A 200 km brevet looping through South Goa's interior and coast, including the Netravali Wildlife Sanctuary, to be completed within 13.5 hours. Hillier than most 200s with nearly 1800 m of climbing. Self-supported: no aid stations or sag wagon, riders carry or buy their own food and water between controls.",
+      "categories": [
+        {
+          "name": "200 km BRM",
+          "distance_km": 201.7,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 1995,
+          "start_time": "06:00",
+          "cutoff": "13:30",
+          "min_age": null,
+          "level": "intermediate",
+          "eligibility": "AIR rider account (subscriber login) needed to register",
+          "notes": "Fee includes AIR homologation, ride validation and a rider kit."
+        }
+      ],
+      "course": {
+        "terrain": "road",
+        "surface": "tarmac, open traffic roads",
+        "elevation_gain_m": 1774,
+        "profile": "hilly",
+        "description": "Panjim, Dona Paula, Old Goa, Margao, Sanguem, Rivona, Netravali, Cavorem, Cuncolim, Cavelossim, Colva and back to Panjim. 201.7 km and about 1774 m of climbing per the official route map."
+      },
+      "format": null,
+      "highlights": [
+        "Netravali Wildlife Sanctuary and South Goa beaches on one loop",
+        "Rider kit included",
+        "Nearly 1800 m of climbing"
+      ],
+      "tips": [
+        "Helmet, front and rear lights and a reflective vest are mandatory",
+        "Take selfies at unmanned control points as proof of passage",
+        "Mobile signal is patchy in Netravali; download the route offline"
+      ],
+      "amenities": [
+        "Brevet card",
+        "Rider kit",
+        "AIR homologation"
+      ],
+      "beginner_friendly": false,
+      "tags": [
+        "audax",
+        "acp-sanctioned",
+        "self-supported",
+        "scenic"
+      ],
+      "sources": [
+        "https://www.audaxindia.in/event-e-10422",
+        "https://www.audaxindia.in/tri-goa-foundation-panjim-c-55",
+        "https://ridewithgps.com/routes/53480967",
+        "https://www.audaxindia.in/events-ec-2027"
+      ]
+    },
+    {
+      "name": "Cyclone Cycling Club BRM 300: Baroda Trimandir",
+      "edition": "2026",
+      "sport": "cycling",
+      "discipline": "brevet",
+      "city": "Ahmedabad",
+      "venue": "Gotila Garden, Ahmedabad",
+      "venue_lat": 23.041272,
+      "venue_lon": 72.493849,
+      "start_date": "2026-11-01",
+      "end_date": "2026-11-02",
+      "date_status": "confirmed",
+      "last_edition_date": null,
+      "organiser": "Cyclone Cycling Club (Audax India Randonneurs, ACP-affiliated)",
+      "official_url": "https://www.audaxindia.in/event-e-10924",
+      "registration": {
+        "status": "open",
+        "opens": null,
+        "closes": "2026-10-30",
+        "url": "https://www.audaxindia.in/event-e-10924",
+        "notes": "Closes 30 Oct 2026 at 23:00. Early-bird price of Rs 1700 for the first 15 riders until 21 Oct."
+      },
+      "summary": "A 300 km brevet from Ahmedabad to Vadodara and back, to be completed within 20 hours. Flat terrain on paved highway and side roads. Self-supported: no aid stations or sag wagon, riders carry or buy their own food and water between controls.",
+      "categories": [
+        {
+          "name": "300 km BRM",
+          "distance_km": 300.1,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 2000,
+          "start_time": "06:00",
+          "cutoff": "20:00",
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": "AIR rider account (subscriber login) needed to register",
+          "notes": "Standard price; early-bird Rs 1700 for the first 15 registrations."
+        }
+      ],
+      "course": {
+        "terrain": "road",
+        "surface": "tarmac, open traffic roads",
+        "elevation_gain_m": 1155,
+        "profile": "flat",
+        "description": "Ahmedabad to Vadodara along the Ahmedabad-Baroda highway and back, with tree-lined paved roads and farmland. 300 km and about 1155 m of climbing per the official route map."
+      },
+      "format": null,
+      "highlights": [
+        "300 km in 20 hours",
+        "Flat Ahmedabad-Vadodara route",
+        "Season opener for Ahmedabad's club"
+      ],
+      "tips": [
+        "Book by 21 Oct for the early-bird price",
+        "Flat course rewards steady aero riding; practise long tempo efforts",
+        "06:00 start from Gotila Garden; plan for a night finish"
+      ],
+      "amenities": [
+        "Brevet card",
+        "ACP homologation"
+      ],
+      "beginner_friendly": false,
+      "tags": [
+        "audax",
+        "acp-sanctioned",
+        "self-supported"
+      ],
+      "sources": [
+        "https://www.audaxindia.in/event-e-10924",
+        "https://www.audaxindia.in/cyclone-cycling-club-ahmedabad-c-3",
+        "https://ridewithgps.com/routes/31527748",
+        "https://www.audaxindia.in/events-ec-2027"
+      ]
+    },
+    {
+      "name": "Jaipur Cycling Comrades BRM 400: Chittorgarh",
+      "edition": "2026",
+      "sport": "cycling",
+      "discipline": "brevet",
+      "city": "Jaipur",
+      "venue": "Bicycle Paradise, Jaipur",
+      "venue_lat": 26.91136,
+      "venue_lon": 75.73964,
+      "start_date": "2026-11-01",
+      "end_date": "2026-11-02",
+      "date_status": "confirmed",
+      "last_edition_date": null,
+      "organiser": "Jaipur Cycling Comrades (Audax India Randonneurs, ACP-affiliated)",
+      "official_url": "https://www.audaxindia.in/event-e-10729",
+      "registration": {
+        "status": "open",
+        "opens": null,
+        "closes": "2026-11-01",
+        "url": "https://www.audaxindia.in/event-e-10729",
+        "notes": "Closes 1 Nov 2026 at 00:00. Early-bird Rs 1600 for the first 15 riders until 15 Oct."
+      },
+      "summary": "A 400 km brevet from Jaipur to Chittorgarh fort and back, to be completed within 27 hours. It starts just after midnight, so the first leg is ridden in the dark. Self-supported: no aid stations or sag wagon, riders carry or buy their own food and water between controls.",
+      "categories": [
+        {
+          "name": "400 km BRM",
+          "distance_km": 404.8,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 1800,
+          "start_time": "00:05",
+          "cutoff": "27:00",
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": "AIR rider account (subscriber login) needed to register",
+          "notes": "Standard price; early-bird Rs 1600 for the first 15 registrations."
+        }
+      ],
+      "course": {
+        "terrain": "road",
+        "surface": "tarmac, open traffic roads",
+        "elevation_gain_m": 1229,
+        "profile": "rolling",
+        "description": "Jaipur to Bhilwara and Chittorgarh and back. 404.8 km and about 1229 m of climbing per the official route map."
+      },
+      "format": null,
+      "highlights": [
+        "400 km in 27 hours",
+        "Turnaround at Chittorgarh",
+        "Midnight start at 00:05"
+      ],
+      "tips": [
+        "Midnight start: rest during the day on 31 Oct",
+        "Desert nights get cold in November; layer up for the first hours",
+        "Carry extra water for the long Bhilwara stretches"
+      ],
+      "amenities": [
+        "Brevet card",
+        "ACP homologation"
+      ],
+      "beginner_friendly": false,
+      "tags": [
+        "audax",
+        "acp-sanctioned",
+        "self-supported",
+        "night-riding"
+      ],
+      "sources": [
+        "https://www.audaxindia.in/event-e-10729",
+        "https://www.audaxindia.in/jaipur-cycling-comrades-jaipur-c-54",
+        "https://ridewithgps.com/routes/19247279",
+        "https://www.audaxindia.in/events-ec-2027"
+      ]
+    },
+    {
+      "name": "IndusInd Bank HYROX Gujarat",
+      "edition": "Season 26/27, first HYROX in Gujarat",
+      "sport": "fitness-racing",
+      "discipline": "hyrox",
+      "city": "Ahmedabad",
+      "venue": "Helipad Exhibition Centre, Gandhinagar",
+      "venue_lat": 23.219,
+      "venue_lon": 72.656,
+      "start_date": "2026-11-26",
+      "end_date": "2026-11-28",
+      "date_status": "confirmed",
+      "last_edition_date": null,
+      "organiser": "HYROX India",
+      "official_url": "https://hyrox.com/event/hyrox-gujarat/",
+      "registration": {
+        "status": "open",
+        "opens": null,
+        "closes": null,
+        "url": "https://india.hyrox.co.in/event/hyrox-gujarat-season-26-27-8yjjhs",
+        "notes": "Prices as listed on the official ticket shop, per athlete. Flex add-on allows 100% refund up to 31 days and 50% up to 7 days before. Spectator ticket Rs 770; under-12 and 65+ spectators free."
+      },
+      "summary": "HYROX's first race in Gujarat, held over three days in Gandhinagar after sell-out events in Delhi and Mumbai. HYROX is a standardised indoor fitness race of 8 km running and 8 functional stations, with the same format worldwide. Results count towards age-group World Championship qualification in some divisions.",
+      "categories": [
+        {
+          "name": "HYROX Open (Men / Women)",
+          "distance_km": 8,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 8692,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "intermediate",
+          "eligibility": null,
+          "notes": "Men race Thu 26 or Fri 27 Nov; Women Thu 26 or Sat 28 Nov. 8 x 1 km run, each followed by a station: SkiErg 1000 m, sled push 50 m, sled pull 50 m, burpee broad jumps 80 m, row 1000 m, farmers carry 200 m, sandbag lunges 100 m, 100 wall balls."
+        },
+        {
+          "name": "HYROX Pro (Men / Women)",
+          "distance_km": 8,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 8692,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": null,
+          "notes": "Fri 27 Nov. Heavier weights (e.g. men's sled push 202 kg vs 152 kg Open, wall ball 9 kg vs 6 kg)."
+        },
+        {
+          "name": "HYROX Doubles (Men / Women / Mixed)",
+          "distance_km": 8,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 8345,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "beginner",
+          "eligibility": null,
+          "notes": "Price per athlete; both partners buy a ticket. Partners run together and split station work. Thu to Sat depending on category."
+        },
+        {
+          "name": "HYROX Pro Doubles (Men / Women)",
+          "distance_km": 8,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 8345,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": null,
+          "notes": "Price per athlete. Sat 28 Nov."
+        },
+        {
+          "name": "HYROX Relay (Men / Women / Mixed, team of 4)",
+          "distance_km": 8,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 4889,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "beginner",
+          "eligibility": null,
+          "notes": "Price per team member. Each member runs 2 x 1 km and does 2 stations. Sat 28 Nov."
+        },
+        {
+          "name": "HYROX Adaptive (Men / Women)",
+          "distance_km": 8,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 8692,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "open",
+          "eligibility": null,
+          "notes": "Men Fri 27 Nov, Women Sat 28 Nov."
+        }
+      ],
+      "course": {
+        "terrain": "indoor",
+        "surface": "exhibition hall floor, running lanes",
+        "elevation_gain_m": null,
+        "profile": "flat",
+        "description": "Indoor race in an exhibition centre: 8 laps of 1 km running, each followed by one of 8 workout stations in a fixed order. Venue coordinates approximate."
+      },
+      "format": null,
+      "highlights": [
+        "First HYROX race in Gujarat",
+        "Standard global format: 8 km running plus 8 stations",
+        "Age-group awards and World Championship qualification slots in some age groups",
+        "Sportograf race photos available"
+      ],
+      "tips": [
+        "Bring physical photo ID; check-in is only on your race day and opens 90 minutes before your division's first wave",
+        "Individual start times are published about 3 days before; start time changes are not allowed",
+        "Each athlete must personalise the ticket with their own unique email or it cannot be used",
+        "Buy the Flex add-on if your plans may change; standard tickets are non-refundable"
+      ],
+      "amenities": [
+        "Finisher patch",
+        "Live leaderboard and split times",
+        "Aid stations",
+        "Age-group awards"
+      ],
+      "beginner_friendly": true,
+      "tags": [
+        "indoor",
+        "world-series",
+        "new-city"
+      ],
+      "sources": [
+        "https://hyrox.com/event/hyrox-gujarat/",
+        "https://india.hyrox.co.in/event/hyrox-gujarat-season-26-27-8yjjhs",
+        "https://support.hyrox.com/?country=IN",
+        "https://hyrox.com/the-fitness-race/"
+      ]
+    },
+    {
+      "name": "HYROX Noida",
+      "edition": "Season 26/27",
+      "sport": "fitness-racing",
+      "discipline": "hyrox",
+      "city": "Delhi NCR",
+      "venue": "India Expo Mart (IEML), Knowledge Park II, Greater Noida",
+      "venue_lat": 28.4613,
+      "venue_lon": 77.5068,
+      "start_date": "2027-01-15",
+      "end_date": "2027-01-17",
+      "date_status": "confirmed",
+      "last_edition_date": null,
+      "organiser": "HYROX India",
+      "official_url": "https://hyrox.com/event/hyrox-noida/",
+      "registration": {
+        "status": "upcoming",
+        "opens": null,
+        "closes": null,
+        "url": "https://hyrox.com/event/hyrox-noida/",
+        "notes": "Tickets not yet on sale. For reference, HYROX Gujarat 2026 singles were Rs 8,692, doubles Rs 8,345 per athlete and relay Rs 4,889 per athlete."
+      },
+      "summary": "A three-day HYROX race at India Expo Mart in Greater Noida, the Delhi NCR stop of the 2026/27 season. HYROX is a standardised indoor fitness race of 8 km running and 8 functional stations. Tickets were not yet on sale as of mid-October 2026.",
+      "categories": [
+        {
+          "name": "HYROX Open",
+          "distance_km": 8,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "intermediate",
+          "eligibility": null,
+          "notes": "8 x 1 km run, each followed by a station: SkiErg 1000 m, sled push 50 m, sled pull 50 m, burpee broad jumps 80 m, row 1000 m, farmers carry 200 m, sandbag lunges 100 m, 100 wall balls."
+        },
+        {
+          "name": "HYROX Pro",
+          "distance_km": 8,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": null,
+          "notes": "Same format with heavier weights."
+        },
+        {
+          "name": "HYROX Doubles",
+          "distance_km": 8,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "beginner",
+          "eligibility": null,
+          "notes": "Two athletes run together and split station work."
+        },
+        {
+          "name": "HYROX Relay (team of 4)",
+          "distance_km": 8,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "beginner",
+          "eligibility": null,
+          "notes": "Each member runs 2 x 1 km and does 2 stations."
+        }
+      ],
+      "course": {
+        "terrain": "indoor",
+        "surface": "exhibition hall floor, running lanes",
+        "elevation_gain_m": null,
+        "profile": "flat",
+        "description": "Indoor race: 8 laps of 1 km running, each followed by one of 8 workout stations in a fixed order. Venue coordinates approximate."
+      },
+      "format": null,
+      "highlights": [
+        "Delhi NCR stop of the HYROX India 2026/27 season",
+        "Standard global format: 8 km running plus 8 stations",
+        "Age-group awards and World Championship qualification slots in some age groups"
+      ],
+      "tips": [
+        "Bring physical photo ID; check-in is only on your race day and opens 90 minutes before your division's first wave",
+        "Individual start times are published about 3 days before; start time changes are not allowed",
+        "Each athlete must personalise the ticket with their own unique email or it cannot be used",
+        "Greater Noida is about 40 km from central Delhi; the Aqua Line metro serves Knowledge Park II",
+        "HYROX India races have sold out; join the ticket alert list on the event page"
+      ],
+      "amenities": [
+        "Finisher patch",
+        "Live leaderboard and split times",
+        "Aid stations",
+        "Age-group awards"
+      ],
+      "beginner_friendly": true,
+      "tags": [
+        "indoor",
+        "world-series"
+      ],
+      "sources": [
+        "https://hyrox.com/event/hyrox-noida/",
+        "https://support.hyrox.com/?country=IN",
+        "https://hyrox.com/the-fitness-race/",
+        "https://www.roxradar.com/hyrox-india"
+      ]
+    },
+    {
+      "name": "HYROX Bengaluru",
+      "edition": "Season 26/27",
+      "sport": "fitness-racing",
+      "discipline": "hyrox",
+      "city": "Bengaluru",
+      "venue": "Bangalore International Exhibition Centre (BIEC), Hall 4, Tumkur Road",
+      "venue_lat": 13.0632,
+      "venue_lon": 77.4747,
+      "start_date": "2027-05-12",
+      "end_date": "2027-05-16",
+      "date_status": "confirmed",
+      "last_edition_date": null,
+      "organiser": "HYROX India",
+      "official_url": "https://hyrox.com/event/hyrox-bengaluru/",
+      "registration": {
+        "status": "upcoming",
+        "opens": null,
+        "closes": null,
+        "url": "https://hyrox.com/event/hyrox-bengaluru/",
+        "notes": "Tickets not yet on sale. For reference, HYROX Gujarat 2026 singles were Rs 8,692, doubles Rs 8,345 per athlete and relay Rs 4,889 per athlete."
+      },
+      "summary": "HYROX's first five-day race in India, at BIEC on Tumkur Road in Bengaluru. HYROX is a standardised indoor fitness race of 8 km running and 8 functional stations. Tickets were not yet on sale as of mid-October 2026.",
+      "categories": [
+        {
+          "name": "HYROX Open",
+          "distance_km": 8,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "intermediate",
+          "eligibility": null,
+          "notes": "8 x 1 km run, each followed by a station: SkiErg 1000 m, sled push 50 m, sled pull 50 m, burpee broad jumps 80 m, row 1000 m, farmers carry 200 m, sandbag lunges 100 m, 100 wall balls."
+        },
+        {
+          "name": "HYROX Pro",
+          "distance_km": 8,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "advanced",
+          "eligibility": null,
+          "notes": "Same format with heavier weights."
+        },
+        {
+          "name": "HYROX Doubles",
+          "distance_km": 8,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "beginner",
+          "eligibility": null,
+          "notes": "Two athletes run together and split station work."
+        },
+        {
+          "name": "HYROX Relay (team of 4)",
+          "distance_km": 8,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "beginner",
+          "eligibility": null,
+          "notes": "Each member runs 2 x 1 km and does 2 stations."
+        }
+      ],
+      "course": {
+        "terrain": "indoor",
+        "surface": "exhibition hall floor, running lanes",
+        "elevation_gain_m": null,
+        "profile": "flat",
+        "description": "Indoor race: 8 laps of 1 km running, each followed by one of 8 workout stations in a fixed order. Venue coordinates approximate."
+      },
+      "format": null,
+      "highlights": [
+        "First five-day HYROX competition in India",
+        "Standard global format: 8 km running plus 8 stations",
+        "Age-group awards and World Championship qualification slots in some age groups"
+      ],
+      "tips": [
+        "Bring physical photo ID; check-in is only on your race day and opens 90 minutes before your division's first wave",
+        "Individual start times are published about 3 days before; start time changes are not allowed",
+        "Each athlete must personalise the ticket with their own unique email or it cannot be used",
+        "BIEC is on Tumkur Road about 25 km from central Bengaluru; the Green Line metro has a station at Madavara near the venue",
+        "HYROX India races have sold out; join the ticket alert list on the event page"
+      ],
+      "amenities": [
+        "Finisher patch",
+        "Live leaderboard and split times",
+        "Aid stations",
+        "Age-group awards"
+      ],
+      "beginner_friendly": true,
+      "tags": [
+        "indoor",
+        "world-series"
+      ],
+      "sources": [
+        "https://hyrox.com/event/hyrox-bengaluru/",
+        "https://support.hyrox.com/?country=IN",
+        "https://hyrox.com/the-fitness-race/",
+        "https://www.roxradar.com/hyrox-india"
+      ]
+    },
+    {
+      "name": "The Yoddha Race Mumbai",
+      "edition": "Season 3 (2026-27) regional",
+      "sport": "fitness-racing",
+      "discipline": "fitness-race",
+      "city": "Mumbai",
+      "venue": "To be announced",
+      "venue_lat": 19.076,
+      "venue_lon": 72.8777,
+      "start_date": "2026-11-21",
+      "end_date": "2026-11-22",
+      "date_status": "confirmed",
+      "last_edition_date": null,
+      "organiser": "Spectacom Global",
+      "official_url": "https://theyoddharace.com/find-race",
+      "registration": {
+        "status": "open",
+        "opens": null,
+        "closes": "2026-11-21",
+        "url": "https://getmybib.com/298/register",
+        "notes": "Doubles and Mixed Doubles available; Male and Female Open paused at time of check. Ticket transfer allowed up to 7 days before for Rs 300 + GST; not transferable across category or city."
+      },
+      "summary": "A regional round of The Yoddha Race, an Indian fitness race by Spectacom Global (organisers of Devils Circuit) combining about 5 km of running with 7 strength and conditioning zones. Season 3 has six regionals feeding a national finale with a Rs 30 lakh prize pool; there is no regional prize money this season. Female Open and Male/Female Doubles race on Saturday 21 Nov; Male Open and Mixed Doubles on Sunday 22 Nov.",
+      "categories": [
+        {
+          "name": "Male Open",
+          "distance_km": 4.9,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 5000,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": 16,
+          "level": "intermediate",
+          "eligibility": null,
+          "notes": "Sled push 150 kg, sled pull 100 kg, 2 x 24 kg kettlebells, 60 cm box, 20 kg lunge, 75 wall balls at 6 kg to 9 ft. 7 x 700 m run, each followed by a zone: row 1000 m, sled push 50 m, sled pull 50 m, kettlebell carry 200 m, 30 box jumps, lunge walk 100 m, wall balls."
+        },
+        {
+          "name": "Female Open",
+          "distance_km": 4.9,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 5000,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": 16,
+          "level": "intermediate",
+          "eligibility": null,
+          "notes": "Sled push 100 kg, sled pull 70 kg, 2 x 16 kg kettlebells, 50 cm box, 10 kg lunge, 50 wall balls at 4 kg to 8 ft."
+        },
+        {
+          "name": "Male Doubles",
+          "distance_km": 4.9,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 7500,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": 16,
+          "level": "beginner",
+          "eligibility": null,
+          "notes": "Price per team of 2; Male Open weights."
+        },
+        {
+          "name": "Female Doubles",
+          "distance_km": 4.9,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 7500,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": 16,
+          "level": "beginner",
+          "eligibility": null,
+          "notes": "Price per team of 2; Female Open weights."
+        },
+        {
+          "name": "Mixed Doubles",
+          "distance_km": 4.9,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 7500,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": 16,
+          "level": "beginner",
+          "eligibility": null,
+          "notes": "Price per team of 2; both partners use Male Open weights."
+        }
+      ],
+      "course": {
+        "terrain": "indoor",
+        "surface": "event arena with running loop",
+        "elevation_gain_m": null,
+        "profile": "flat",
+        "description": "Continuous loop: a 700 m run followed by one workout zone, repeated 7 times (about 5 km of running in total). Venue not yet announced; coordinates are a city-centre placeholder."
+      },
+      "format": null,
+      "highlights": [
+        "About 5 km running plus 7 workout zones",
+        "Dynamic national leaderboard feeding a Rs 30 lakh finale",
+        "Masters (40+) recognition at regional level this season",
+        "Finisher medal only for times under 90 minutes"
+      ],
+      "tips": [
+        "Reporting time is emailed 10-14 days before; waves are allotted, not chosen",
+        "Headphones, phones and lifting belts or straps are not allowed on course",
+        "Wrong lap counts add 5 minutes per error; missing a run or zone is a DQ",
+        "Up to 2 spectators per athlete free; register them via the link sent before race day"
+      ],
+      "amenities": [
+        "Finisher medal (under 90 min)",
+        "Event tee",
+        "Bandana",
+        "Timing chip",
+        "Hydration on course",
+        "Baggage counter"
+      ],
+      "beginner_friendly": true,
+      "tags": [
+        "fitness-race",
+        "series",
+        "spectacom"
+      ],
+      "sources": [
+        "https://theyoddharace.com/",
+        "https://theyoddharace.com/race-format",
+        "https://theyoddharace.com/rule-book-english",
+        "https://theyoddharace.com/faq",
+        "https://theyoddharace.com/prize",
+        "https://getmybib.com/298/register"
+      ]
+    },
+    {
+      "name": "The Yoddha Race Hyderabad",
+      "edition": "Season 3 (2026-27) regional",
+      "sport": "fitness-racing",
+      "discipline": "fitness-race",
+      "city": "Hyderabad",
+      "venue": "To be announced",
+      "venue_lat": 17.385,
+      "venue_lon": 78.4867,
+      "start_date": "2026-12-05",
+      "end_date": "2026-12-05",
+      "date_status": "confirmed",
+      "last_edition_date": null,
+      "organiser": "Spectacom Global",
+      "official_url": "https://theyoddharace.com/find-race",
+      "registration": {
+        "status": "open",
+        "opens": null,
+        "closes": "2026-12-05",
+        "url": "https://getmybib.com/294/register",
+        "notes": "Male Open and Mixed Doubles available; other categories paused at time of check. Ticket transfer allowed up to 7 days before for Rs 300 + GST; not transferable across category or city."
+      },
+      "summary": "A regional round of The Yoddha Race, an Indian fitness race by Spectacom Global (organisers of Devils Circuit) combining about 5 km of running with 7 strength and conditioning zones. Season 3 has six regionals feeding a national finale with a Rs 30 lakh prize pool; there is no regional prize money this season. Single-day event on Saturday 5 Dec.",
+      "categories": [
+        {
+          "name": "Male Open",
+          "distance_km": 4.9,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 5000,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": 16,
+          "level": "intermediate",
+          "eligibility": null,
+          "notes": "Sled push 150 kg, sled pull 100 kg, 2 x 24 kg kettlebells, 60 cm box, 20 kg lunge, 75 wall balls at 6 kg to 9 ft. 7 x 700 m run, each followed by a zone: row 1000 m, sled push 50 m, sled pull 50 m, kettlebell carry 200 m, 30 box jumps, lunge walk 100 m, wall balls."
+        },
+        {
+          "name": "Female Open",
+          "distance_km": 4.9,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 5000,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": 16,
+          "level": "intermediate",
+          "eligibility": null,
+          "notes": "Sled push 100 kg, sled pull 70 kg, 2 x 16 kg kettlebells, 50 cm box, 10 kg lunge, 50 wall balls at 4 kg to 8 ft."
+        },
+        {
+          "name": "Male Doubles",
+          "distance_km": 4.9,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 7500,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": 16,
+          "level": "beginner",
+          "eligibility": null,
+          "notes": "Price per team of 2; Male Open weights."
+        },
+        {
+          "name": "Female Doubles",
+          "distance_km": 4.9,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 7500,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": 16,
+          "level": "beginner",
+          "eligibility": null,
+          "notes": "Price per team of 2; Female Open weights."
+        },
+        {
+          "name": "Mixed Doubles",
+          "distance_km": 4.9,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 7500,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": 16,
+          "level": "beginner",
+          "eligibility": null,
+          "notes": "Price per team of 2; both partners use Male Open weights."
+        }
+      ],
+      "course": {
+        "terrain": "indoor",
+        "surface": "event arena with running loop",
+        "elevation_gain_m": null,
+        "profile": "flat",
+        "description": "Continuous loop: a 700 m run followed by one workout zone, repeated 7 times (about 5 km of running in total). Venue not yet announced; coordinates are a city-centre placeholder."
+      },
+      "format": null,
+      "highlights": [
+        "About 5 km running plus 7 workout zones",
+        "Dynamic national leaderboard feeding a Rs 30 lakh finale",
+        "Masters (40+) recognition at regional level this season",
+        "Finisher medal only for times under 90 minutes"
+      ],
+      "tips": [
+        "Reporting time is emailed 10-14 days before; waves are allotted, not chosen",
+        "Headphones, phones and lifting belts or straps are not allowed on course",
+        "Wrong lap counts add 5 minutes per error; missing a run or zone is a DQ",
+        "Up to 2 spectators per athlete free; register them via the link sent before race day"
+      ],
+      "amenities": [
+        "Finisher medal (under 90 min)",
+        "Event tee",
+        "Bandana",
+        "Timing chip",
+        "Hydration on course",
+        "Baggage counter"
+      ],
+      "beginner_friendly": true,
+      "tags": [
+        "fitness-race",
+        "series",
+        "spectacom"
+      ],
+      "sources": [
+        "https://theyoddharace.com/",
+        "https://theyoddharace.com/race-format",
+        "https://theyoddharace.com/rule-book-english",
+        "https://theyoddharace.com/faq",
+        "https://theyoddharace.com/prize",
+        "https://getmybib.com/294/register"
+      ]
+    },
+    {
+      "name": "The Yoddha Race Bengaluru",
+      "edition": "Season 3 (2026-27) regional",
+      "sport": "fitness-racing",
+      "discipline": "fitness-race",
+      "city": "Bengaluru",
+      "venue": "To be announced",
+      "venue_lat": 12.9716,
+      "venue_lon": 77.5946,
+      "start_date": "2026-12-19",
+      "end_date": "2026-12-20",
+      "date_status": "confirmed",
+      "last_edition_date": null,
+      "organiser": "Spectacom Global",
+      "official_url": "https://theyoddharace.com/find-race",
+      "registration": {
+        "status": "unknown",
+        "opens": null,
+        "closes": "2026-12-19",
+        "url": "https://getmybib.com/293/register",
+        "notes": "All categories paused on the ticketing site at time of check (phase change or sold out). Ticket transfer allowed up to 7 days before for Rs 300 + GST; not transferable across category or city."
+      },
+      "summary": "A regional round of The Yoddha Race, an Indian fitness race by Spectacom Global (organisers of Devils Circuit) combining about 5 km of running with 7 strength and conditioning zones. Season 3 has six regionals feeding a national finale with a Rs 30 lakh prize pool; there is no regional prize money this season. Female Open and Male/Female Doubles race on Saturday 19 Dec; Male Open and Mixed Doubles on Sunday 20 Dec.",
+      "categories": [
+        {
+          "name": "Male Open",
+          "distance_km": 4.9,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 5000,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": 16,
+          "level": "intermediate",
+          "eligibility": null,
+          "notes": "Sled push 150 kg, sled pull 100 kg, 2 x 24 kg kettlebells, 60 cm box, 20 kg lunge, 75 wall balls at 6 kg to 9 ft. 7 x 700 m run, each followed by a zone: row 1000 m, sled push 50 m, sled pull 50 m, kettlebell carry 200 m, 30 box jumps, lunge walk 100 m, wall balls."
+        },
+        {
+          "name": "Female Open",
+          "distance_km": 4.9,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 5000,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": 16,
+          "level": "intermediate",
+          "eligibility": null,
+          "notes": "Sled push 100 kg, sled pull 70 kg, 2 x 16 kg kettlebells, 50 cm box, 10 kg lunge, 50 wall balls at 4 kg to 8 ft."
+        },
+        {
+          "name": "Male Doubles",
+          "distance_km": 4.9,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 7500,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": 16,
+          "level": "beginner",
+          "eligibility": null,
+          "notes": "Price per team of 2; Male Open weights."
+        },
+        {
+          "name": "Female Doubles",
+          "distance_km": 4.9,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 7500,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": 16,
+          "level": "beginner",
+          "eligibility": null,
+          "notes": "Price per team of 2; Female Open weights."
+        },
+        {
+          "name": "Mixed Doubles",
+          "distance_km": 4.9,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 7500,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": 16,
+          "level": "beginner",
+          "eligibility": null,
+          "notes": "Price per team of 2; both partners use Male Open weights."
+        }
+      ],
+      "course": {
+        "terrain": "indoor",
+        "surface": "event arena with running loop",
+        "elevation_gain_m": null,
+        "profile": "flat",
+        "description": "Continuous loop: a 700 m run followed by one workout zone, repeated 7 times (about 5 km of running in total). Venue not yet announced; coordinates are a city-centre placeholder."
+      },
+      "format": null,
+      "highlights": [
+        "About 5 km running plus 7 workout zones",
+        "Dynamic national leaderboard feeding a Rs 30 lakh finale",
+        "Masters (40+) recognition at regional level this season",
+        "Finisher medal only for times under 90 minutes"
+      ],
+      "tips": [
+        "Reporting time is emailed 10-14 days before; waves are allotted, not chosen",
+        "Headphones, phones and lifting belts or straps are not allowed on course",
+        "Wrong lap counts add 5 minutes per error; missing a run or zone is a DQ",
+        "Up to 2 spectators per athlete free; register them via the link sent before race day"
+      ],
+      "amenities": [
+        "Finisher medal (under 90 min)",
+        "Event tee",
+        "Bandana",
+        "Timing chip",
+        "Hydration on course",
+        "Baggage counter"
+      ],
+      "beginner_friendly": true,
+      "tags": [
+        "fitness-race",
+        "series",
+        "spectacom"
+      ],
+      "sources": [
+        "https://theyoddharace.com/",
+        "https://theyoddharace.com/race-format",
+        "https://theyoddharace.com/rule-book-english",
+        "https://theyoddharace.com/faq",
+        "https://theyoddharace.com/prize",
+        "https://getmybib.com/293/register"
+      ]
+    },
+    {
+      "name": "The Yoddha Race Ahmedabad",
+      "edition": "Season 3 (2026-27) regional",
+      "sport": "fitness-racing",
+      "discipline": "fitness-race",
+      "city": "Ahmedabad",
+      "venue": "To be announced",
+      "venue_lat": 23.0225,
+      "venue_lon": 72.5714,
+      "start_date": "2027-01-09",
+      "end_date": "2027-01-09",
+      "date_status": "confirmed",
+      "last_edition_date": null,
+      "organiser": "Spectacom Global",
+      "official_url": "https://theyoddharace.com/find-race",
+      "registration": {
+        "status": "open",
+        "opens": null,
+        "closes": "2027-01-09",
+        "url": "https://getmybib.com/297/register",
+        "notes": "All categories available. Ticket transfer allowed up to 7 days before for Rs 300 + GST; not transferable across category or city."
+      },
+      "summary": "A regional round of The Yoddha Race, an Indian fitness race by Spectacom Global (organisers of Devils Circuit) combining about 5 km of running with 7 strength and conditioning zones. Season 3 has six regionals feeding a national finale with a Rs 30 lakh prize pool; there is no regional prize money this season. Single-day event on Saturday 9 Jan.",
+      "categories": [
+        {
+          "name": "Male Open",
+          "distance_km": 4.9,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 5000,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": 16,
+          "level": "intermediate",
+          "eligibility": null,
+          "notes": "Sled push 150 kg, sled pull 100 kg, 2 x 24 kg kettlebells, 60 cm box, 20 kg lunge, 75 wall balls at 6 kg to 9 ft. 7 x 700 m run, each followed by a zone: row 1000 m, sled push 50 m, sled pull 50 m, kettlebell carry 200 m, 30 box jumps, lunge walk 100 m, wall balls."
+        },
+        {
+          "name": "Female Open",
+          "distance_km": 4.9,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 5000,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": 16,
+          "level": "intermediate",
+          "eligibility": null,
+          "notes": "Sled push 100 kg, sled pull 70 kg, 2 x 16 kg kettlebells, 50 cm box, 10 kg lunge, 50 wall balls at 4 kg to 8 ft."
+        },
+        {
+          "name": "Male Doubles",
+          "distance_km": 4.9,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 7500,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": 16,
+          "level": "beginner",
+          "eligibility": null,
+          "notes": "Price per team of 2; Male Open weights."
+        },
+        {
+          "name": "Female Doubles",
+          "distance_km": 4.9,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 7500,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": 16,
+          "level": "beginner",
+          "eligibility": null,
+          "notes": "Price per team of 2; Female Open weights."
+        },
+        {
+          "name": "Mixed Doubles",
+          "distance_km": 4.9,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 7500,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": 16,
+          "level": "beginner",
+          "eligibility": null,
+          "notes": "Price per team of 2; both partners use Male Open weights."
+        }
+      ],
+      "course": {
+        "terrain": "indoor",
+        "surface": "event arena with running loop",
+        "elevation_gain_m": null,
+        "profile": "flat",
+        "description": "Continuous loop: a 700 m run followed by one workout zone, repeated 7 times (about 5 km of running in total). Venue not yet announced; coordinates are a city-centre placeholder."
+      },
+      "format": null,
+      "highlights": [
+        "About 5 km running plus 7 workout zones",
+        "Dynamic national leaderboard feeding a Rs 30 lakh finale",
+        "Masters (40+) recognition at regional level this season",
+        "Finisher medal only for times under 90 minutes"
+      ],
+      "tips": [
+        "Reporting time is emailed 10-14 days before; waves are allotted, not chosen",
+        "Headphones, phones and lifting belts or straps are not allowed on course",
+        "Wrong lap counts add 5 minutes per error; missing a run or zone is a DQ",
+        "Up to 2 spectators per athlete free; register them via the link sent before race day"
+      ],
+      "amenities": [
+        "Finisher medal (under 90 min)",
+        "Event tee",
+        "Bandana",
+        "Timing chip",
+        "Hydration on course",
+        "Baggage counter"
+      ],
+      "beginner_friendly": true,
+      "tags": [
+        "fitness-race",
+        "series",
+        "spectacom"
+      ],
+      "sources": [
+        "https://theyoddharace.com/",
+        "https://theyoddharace.com/race-format",
+        "https://theyoddharace.com/rule-book-english",
+        "https://theyoddharace.com/faq",
+        "https://theyoddharace.com/prize",
+        "https://getmybib.com/297/register"
+      ]
+    },
+    {
+      "name": "The Yoddha Race Chandigarh",
+      "edition": "Season 3 (2026-27) regional",
+      "sport": "fitness-racing",
+      "discipline": "fitness-race",
+      "city": "Chandigarh",
+      "venue": "To be announced",
+      "venue_lat": 30.7333,
+      "venue_lon": 76.7794,
+      "start_date": "2027-01-30",
+      "end_date": "2027-01-30",
+      "date_status": "confirmed",
+      "last_edition_date": null,
+      "organiser": "Spectacom Global",
+      "official_url": "https://theyoddharace.com/find-race",
+      "registration": {
+        "status": "open",
+        "opens": null,
+        "closes": "2027-01-30",
+        "url": "https://getmybib.com/295/register",
+        "notes": "All categories available. Ticket transfer allowed up to 7 days before for Rs 300 + GST; not transferable across category or city."
+      },
+      "summary": "A regional round of The Yoddha Race, an Indian fitness race by Spectacom Global (organisers of Devils Circuit) combining about 5 km of running with 7 strength and conditioning zones. Season 3 has six regionals feeding a national finale with a Rs 30 lakh prize pool; there is no regional prize money this season. Single-day event on Saturday 30 Jan.",
+      "categories": [
+        {
+          "name": "Male Open",
+          "distance_km": 4.9,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 5000,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": 16,
+          "level": "intermediate",
+          "eligibility": null,
+          "notes": "Sled push 150 kg, sled pull 100 kg, 2 x 24 kg kettlebells, 60 cm box, 20 kg lunge, 75 wall balls at 6 kg to 9 ft. 7 x 700 m run, each followed by a zone: row 1000 m, sled push 50 m, sled pull 50 m, kettlebell carry 200 m, 30 box jumps, lunge walk 100 m, wall balls."
+        },
+        {
+          "name": "Female Open",
+          "distance_km": 4.9,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 5000,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": 16,
+          "level": "intermediate",
+          "eligibility": null,
+          "notes": "Sled push 100 kg, sled pull 70 kg, 2 x 16 kg kettlebells, 50 cm box, 10 kg lunge, 50 wall balls at 4 kg to 8 ft."
+        },
+        {
+          "name": "Male Doubles",
+          "distance_km": 4.9,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 7500,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": 16,
+          "level": "beginner",
+          "eligibility": null,
+          "notes": "Price per team of 2; Male Open weights."
+        },
+        {
+          "name": "Female Doubles",
+          "distance_km": 4.9,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 7500,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": 16,
+          "level": "beginner",
+          "eligibility": null,
+          "notes": "Price per team of 2; Female Open weights."
+        },
+        {
+          "name": "Mixed Doubles",
+          "distance_km": 4.9,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 7500,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": 16,
+          "level": "beginner",
+          "eligibility": null,
+          "notes": "Price per team of 2; both partners use Male Open weights."
+        }
+      ],
+      "course": {
+        "terrain": "indoor",
+        "surface": "event arena with running loop",
+        "elevation_gain_m": null,
+        "profile": "flat",
+        "description": "Continuous loop: a 700 m run followed by one workout zone, repeated 7 times (about 5 km of running in total). Venue not yet announced; coordinates are a city-centre placeholder."
+      },
+      "format": null,
+      "highlights": [
+        "About 5 km running plus 7 workout zones",
+        "Dynamic national leaderboard feeding a Rs 30 lakh finale",
+        "Masters (40+) recognition at regional level this season",
+        "Finisher medal only for times under 90 minutes"
+      ],
+      "tips": [
+        "Reporting time is emailed 10-14 days before; waves are allotted, not chosen",
+        "Headphones, phones and lifting belts or straps are not allowed on course",
+        "Wrong lap counts add 5 minutes per error; missing a run or zone is a DQ",
+        "Up to 2 spectators per athlete free; register them via the link sent before race day"
+      ],
+      "amenities": [
+        "Finisher medal (under 90 min)",
+        "Event tee",
+        "Bandana",
+        "Timing chip",
+        "Hydration on course",
+        "Baggage counter"
+      ],
+      "beginner_friendly": true,
+      "tags": [
+        "fitness-race",
+        "series",
+        "spectacom"
+      ],
+      "sources": [
+        "https://theyoddharace.com/",
+        "https://theyoddharace.com/race-format",
+        "https://theyoddharace.com/rule-book-english",
+        "https://theyoddharace.com/faq",
+        "https://theyoddharace.com/prize",
+        "https://getmybib.com/295/register"
+      ]
+    },
+    {
+      "name": "The Yoddha Race Delhi",
+      "edition": "Season 3 (2026-27) regional",
+      "sport": "fitness-racing",
+      "discipline": "fitness-race",
+      "city": "Delhi NCR",
+      "venue": "To be announced",
+      "venue_lat": 28.6139,
+      "venue_lon": 77.209,
+      "start_date": "2027-02-13",
+      "end_date": "2027-02-14",
+      "date_status": "confirmed",
+      "last_edition_date": null,
+      "organiser": "Spectacom Global",
+      "official_url": "https://theyoddharace.com/find-race",
+      "registration": {
+        "status": "open",
+        "opens": null,
+        "closes": "2027-02-13",
+        "url": "https://getmybib.com/296/register",
+        "notes": "All categories available. Ticket transfer allowed up to 7 days before for Rs 300 + GST; not transferable across category or city."
+      },
+      "summary": "A regional round of The Yoddha Race, an Indian fitness race by Spectacom Global (organisers of Devils Circuit) combining about 5 km of running with 7 strength and conditioning zones. Season 3 has six regionals feeding a national finale with a Rs 30 lakh prize pool; there is no regional prize money this season. Female Open and Male/Female Doubles race on Saturday 13 Feb; Male Open and Mixed Doubles on Sunday 14 Feb. Last regional before the finale.",
+      "categories": [
+        {
+          "name": "Male Open",
+          "distance_km": 4.9,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 5000,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": 16,
+          "level": "intermediate",
+          "eligibility": null,
+          "notes": "Sled push 150 kg, sled pull 100 kg, 2 x 24 kg kettlebells, 60 cm box, 20 kg lunge, 75 wall balls at 6 kg to 9 ft. 7 x 700 m run, each followed by a zone: row 1000 m, sled push 50 m, sled pull 50 m, kettlebell carry 200 m, 30 box jumps, lunge walk 100 m, wall balls."
+        },
+        {
+          "name": "Female Open",
+          "distance_km": 4.9,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 5000,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": 16,
+          "level": "intermediate",
+          "eligibility": null,
+          "notes": "Sled push 100 kg, sled pull 70 kg, 2 x 16 kg kettlebells, 50 cm box, 10 kg lunge, 50 wall balls at 4 kg to 8 ft."
+        },
+        {
+          "name": "Male Doubles",
+          "distance_km": 4.9,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 7500,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": 16,
+          "level": "beginner",
+          "eligibility": null,
+          "notes": "Price per team of 2; Male Open weights."
+        },
+        {
+          "name": "Female Doubles",
+          "distance_km": 4.9,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 7500,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": 16,
+          "level": "beginner",
+          "eligibility": null,
+          "notes": "Price per team of 2; Female Open weights."
+        },
+        {
+          "name": "Mixed Doubles",
+          "distance_km": 4.9,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 7500,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": 16,
+          "level": "beginner",
+          "eligibility": null,
+          "notes": "Price per team of 2; both partners use Male Open weights."
+        }
+      ],
+      "course": {
+        "terrain": "indoor",
+        "surface": "event arena with running loop",
+        "elevation_gain_m": null,
+        "profile": "flat",
+        "description": "Continuous loop: a 700 m run followed by one workout zone, repeated 7 times (about 5 km of running in total). Venue not yet announced; coordinates are a city-centre placeholder."
+      },
+      "format": null,
+      "highlights": [
+        "About 5 km running plus 7 workout zones",
+        "Dynamic national leaderboard feeding a Rs 30 lakh finale",
+        "Masters (40+) recognition at regional level this season",
+        "Finisher medal only for times under 90 minutes"
+      ],
+      "tips": [
+        "Reporting time is emailed 10-14 days before; waves are allotted, not chosen",
+        "Headphones, phones and lifting belts or straps are not allowed on course",
+        "Wrong lap counts add 5 minutes per error; missing a run or zone is a DQ",
+        "Up to 2 spectators per athlete free; register them via the link sent before race day"
+      ],
+      "amenities": [
+        "Finisher medal (under 90 min)",
+        "Event tee",
+        "Bandana",
+        "Timing chip",
+        "Hydration on course",
+        "Baggage counter"
+      ],
+      "beginner_friendly": true,
+      "tags": [
+        "fitness-race",
+        "series",
+        "spectacom"
+      ],
+      "sources": [
+        "https://theyoddharace.com/",
+        "https://theyoddharace.com/race-format",
+        "https://theyoddharace.com/rule-book-english",
+        "https://theyoddharace.com/faq",
+        "https://theyoddharace.com/prize",
+        "https://getmybib.com/296/register"
+      ]
+    },
+    {
+      "name": "Maruti Suzuki Swift Devils Circuit Ahmedabad",
+      "edition": "Season 2026-27 (13th season)",
+      "sport": "ocr",
+      "discipline": "obstacle-race",
+      "city": "Ahmedabad",
+      "venue": "Malhaar Exotica, behind Dahegam Power Grid, Nehru Chokdi, Dahegam",
+      "venue_lat": 23.164,
+      "venue_lon": 72.809,
+      "start_date": "2026-10-25",
+      "end_date": "2026-10-25",
+      "date_status": "confirmed",
+      "last_edition_date": null,
+      "organiser": "Spectacom Global",
+      "official_url": "https://devilscircuit.com/find-your-race/",
+      "registration": {
+        "status": "open",
+        "opens": null,
+        "closes": "2026-10-18",
+        "url": "https://getmybib.com/283/register?ename=Maruti-Suzuki-Arena-Devils-Circuit-Ahmedabad-2026-27",
+        "notes": "Wave-based entry; individual waves sell out and close separately. Remaining waves close on 18 Oct 2026."
+      },
+      "summary": "The Ahmedabad leg of Devils Circuit, India's largest obstacle course race series, run by Spectacom Global across 12 cities in the 2026-27 season. Each leg is a 5 km course with 15 military-style obstacles, with timed competitive waves and untimed non-competitive waves. The fastest competitive finishers qualify for the Grand Finale on 14 March 2027, where the season's top man and woman win a Maruti Suzuki Swift.",
+      "categories": [
+        {
+          "name": "Competitive Pro (Wave A)",
+          "distance_km": 5,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 4500,
+          "start_time": "07:00",
+          "cutoff": null,
+          "min_age": 16,
+          "level": "advanced",
+          "eligibility": "Limited to 100 elite participants; first wave on a fresh course",
+          "notes": "Podium standard: men 15 obstacles under 50 min, women 13 obstacles under 70 min."
+        },
+        {
+          "name": "Competitive",
+          "distance_km": 5,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 3800,
+          "start_time": "07:20",
+          "cutoff": null,
+          "min_age": 16,
+          "level": "advanced",
+          "eligibility": null,
+          "notes": "Timed. Podium standard: men all 15 obstacles under 50 min, women 13 of 15 under 70 min, Masters (men 40+) 15 under 60 min. Top 25 qualify for the Grand Finale. City prizes Rs 30,000 / 15,000 / 5,000."
+        },
+        {
+          "name": "Non-Competitive",
+          "distance_km": 5,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 2500,
+          "start_time": "08:00",
+          "cutoff": null,
+          "min_age": 16,
+          "level": "beginner",
+          "eligibility": null,
+          "notes": "Untimed for ranking; obstacles can be skipped."
+        }
+      ],
+      "course": {
+        "terrain": "mixed",
+        "surface": "grass, dirt and mud with water obstacles",
+        "elevation_gain_m": null,
+        "profile": "flat",
+        "description": "5 km course with 15 military-style obstacles including Brain Freeze and the Summit. Venue at Dahegam, about 30 km north-east of Ahmedabad; coordinates approximate."
+      },
+      "format": null,
+      "highlights": [
+        "5 km, 15 obstacles",
+        "Top 25 competitive finishers per city qualify for the Grand Finale (14 Mar 2027)",
+        "Season winner (men and women) gets a Maruti Suzuki Swift and Rs 1 lakh"
+      ],
+      "tips": [
+        "Venue is at Dahegam, about 30 km from central Ahmedabad: plan a car pool and leave early for 07:00-09:40 waves",
+        "Reach the venue 60-90 minutes before your wave; your start time is in the confirmation email and on your bib",
+        "No showers on site: carry a towel and a full change of clothes, and leave watches and jewellery at home",
+        "One bag per participant at the baggage counter; parking is limited and first come, first served",
+        "Each participant can bring one spectator, who collects a band at registration against your bib"
+      ],
+      "amenities": [
+        "Finisher medal",
+        "T-shirt",
+        "Bandana",
+        "Energy drink",
+        "Goody bag",
+        "Water on course and in the village",
+        "Baggage counter"
+      ],
+      "beginner_friendly": true,
+      "tags": [
+        "obstacle-race",
+        "series",
+        "mud",
+        "wave-start"
+      ],
+      "sources": [
+        "https://devilscircuit.com/find-your-race/",
+        "https://devilscircuit.com/categories/",
+        "https://devilscircuit.com/faq/",
+        "https://getmybib.com/283/register?ename=Maruti-Suzuki-Arena-Devils-Circuit-Ahmedabad-2026-27"
+      ]
+    },
+    {
+      "name": "Maruti Suzuki Swift Devils Circuit Pune",
+      "edition": "Season 2026-27 (13th season)",
+      "sport": "ocr",
+      "discipline": "obstacle-race",
+      "city": "Pune",
+      "venue": "To be announced",
+      "venue_lat": 18.5204,
+      "venue_lon": 73.8567,
+      "start_date": "2026-11-15",
+      "end_date": "2026-11-15",
+      "date_status": "confirmed",
+      "last_edition_date": null,
+      "organiser": "Spectacom Global",
+      "official_url": "https://devilscircuit.com/find-your-race/",
+      "registration": {
+        "status": "open",
+        "opens": null,
+        "closes": "2026-11-15",
+        "url": "https://getmybib.com/284/register?ename=Maruti-Suzuki-Arena-Devils-Circuit-Pune-2026-27",
+        "notes": "Wave-based entry; individual waves sell out and close separately. Competitive Wave C sales end 8 Nov 2026."
+      },
+      "summary": "The Pune leg of Devils Circuit, India's largest obstacle course race series, run by Spectacom Global across 12 cities in the 2026-27 season. Each leg is a 5 km course with 15 military-style obstacles, with timed competitive waves and untimed non-competitive waves. The fastest competitive finishers qualify for the Grand Finale on 14 March 2027, where the season's top man and woman win a Maruti Suzuki Swift.",
+      "categories": [
+        {
+          "name": "Competitive Pro (Wave A)",
+          "distance_km": 5,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 4500,
+          "start_time": "07:00",
+          "cutoff": null,
+          "min_age": 16,
+          "level": "advanced",
+          "eligibility": "Limited to 100 elite participants; first wave on a fresh course",
+          "notes": "Podium standard: men 15 obstacles under 50 min, women 13 obstacles under 70 min."
+        },
+        {
+          "name": "Competitive",
+          "distance_km": 5,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 3800,
+          "start_time": "07:20",
+          "cutoff": null,
+          "min_age": 16,
+          "level": "advanced",
+          "eligibility": null,
+          "notes": "Timed. Podium standard: men all 15 obstacles under 50 min, women 13 of 15 under 70 min, Masters (men 40+) 15 under 60 min. Top 25 qualify for the Grand Finale. City prizes Rs 30,000 / 15,000 / 5,000."
+        },
+        {
+          "name": "Non-Competitive",
+          "distance_km": 5,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 2500,
+          "start_time": "08:00",
+          "cutoff": null,
+          "min_age": 16,
+          "level": "beginner",
+          "eligibility": null,
+          "notes": "Untimed for ranking; obstacles can be skipped."
+        }
+      ],
+      "course": {
+        "terrain": "mixed",
+        "surface": "grass, dirt and mud with water obstacles",
+        "elevation_gain_m": null,
+        "profile": "flat",
+        "description": "5 km course with 15 military-style obstacles including Brain Freeze and the Summit. Venue not yet announced; coordinates are a city-centre placeholder."
+      },
+      "format": null,
+      "highlights": [
+        "5 km, 15 obstacles",
+        "Top 25 competitive finishers per city qualify for the Grand Finale (14 Mar 2027)",
+        "Season winner (men and women) gets a Maruti Suzuki Swift and Rs 1 lakh"
+      ],
+      "tips": [
+        "Reach the venue 60-90 minutes before your wave; your start time is in the confirmation email and on your bib",
+        "No showers on site: carry a towel and a full change of clothes, and leave watches and jewellery at home",
+        "One bag per participant at the baggage counter; parking is limited and first come, first served",
+        "Each participant can bring one spectator, who collects a band at registration against your bib"
+      ],
+      "amenities": [
+        "Finisher medal",
+        "T-shirt",
+        "Bandana",
+        "Energy drink",
+        "Goody bag",
+        "Water on course and in the village",
+        "Baggage counter"
+      ],
+      "beginner_friendly": true,
+      "tags": [
+        "obstacle-race",
+        "series",
+        "mud",
+        "wave-start"
+      ],
+      "sources": [
+        "https://devilscircuit.com/find-your-race/",
+        "https://devilscircuit.com/categories/",
+        "https://devilscircuit.com/faq/",
+        "https://getmybib.com/284/register?ename=Maruti-Suzuki-Arena-Devils-Circuit-Pune-2026-27"
+      ]
+    },
+    {
+      "name": "Maruti Suzuki Swift Devils Circuit Mumbai",
+      "edition": "Season 2026-27 (13th season)",
+      "sport": "ocr",
+      "discipline": "obstacle-race",
+      "city": "Mumbai",
+      "venue": "To be announced",
+      "venue_lat": 19.076,
+      "venue_lon": 72.8777,
+      "start_date": "2026-11-28",
+      "end_date": "2026-11-29",
+      "date_status": "confirmed",
+      "last_edition_date": null,
+      "organiser": "Spectacom Global",
+      "official_url": "https://devilscircuit.com/find-your-race/",
+      "registration": {
+        "status": "open",
+        "opens": null,
+        "closes": "2026-11-28",
+        "url": "https://getmybib.com/281/register?ename=Maruti-Suzuki-Arena-Devils-Circuit-Mumbai-2026-27",
+        "notes": "Wave-based entry; individual waves sell out and close separately. Competitive Pro listed at Rs 3,150 for Mumbai (Rs 4,500 in most cities)."
+      },
+      "summary": "The Mumbai leg of Devils Circuit, India's largest obstacle course race series, run by Spectacom Global across 12 cities in the 2026-27 season. Each leg is a 5 km course with 15 military-style obstacles, with timed competitive waves and untimed non-competitive waves. The fastest competitive finishers qualify for the Grand Finale on 14 March 2027, where the season's top man and woman win a Maruti Suzuki Swift.",
+      "categories": [
+        {
+          "name": "Competitive Pro (Wave A)",
+          "distance_km": 5,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 3150,
+          "start_time": "07:00",
+          "cutoff": null,
+          "min_age": 16,
+          "level": "advanced",
+          "eligibility": "Limited to 100 elite participants; first wave on a fresh course",
+          "notes": "Podium standard: men 15 obstacles under 50 min, women 13 obstacles under 70 min."
+        },
+        {
+          "name": "Competitive",
+          "distance_km": 5,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 3800,
+          "start_time": "07:40",
+          "cutoff": null,
+          "min_age": 16,
+          "level": "advanced",
+          "eligibility": null,
+          "notes": "Timed. Podium standard: men all 15 obstacles under 50 min, women 13 of 15 under 70 min, Masters (men 40+) 15 under 60 min. Top 25 qualify for the Grand Finale. City prizes Rs 30,000 / 15,000 / 5,000."
+        },
+        {
+          "name": "Non-Competitive",
+          "distance_km": 5,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 2500,
+          "start_time": "09:40",
+          "cutoff": null,
+          "min_age": 16,
+          "level": "beginner",
+          "eligibility": null,
+          "notes": "Untimed for ranking; obstacles can be skipped."
+        },
+        {
+          "name": "Competitive Doubles",
+          "distance_km": 5,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 6500,
+          "start_time": "07:20",
+          "cutoff": null,
+          "min_age": 16,
+          "level": "advanced",
+          "eligibility": null,
+          "notes": "Price per pair. Saturday. 15 obstacles in 60 min, time taken when last partner finishes; Brain Freeze needs both partners."
+        },
+        {
+          "name": "Corporate Cup (team of 3)",
+          "distance_km": 5,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 12000,
+          "start_time": "09:30",
+          "cutoff": null,
+          "min_age": 16,
+          "level": "intermediate",
+          "eligibility": "All 3 members from the same company",
+          "notes": "Price per team. Saturday. Only one member must clear most obstacles; Brain Freeze needs the full team."
+        },
+        {
+          "name": "Non-Competitive Elite",
+          "distance_km": 5,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 2900,
+          "start_time": "07:00",
+          "cutoff": null,
+          "min_age": 16,
+          "level": "beginner",
+          "eligibility": "Limited to 200 participants",
+          "notes": "First non-competitive wave on Sunday, fewer runners and fresher obstacles."
+        }
+      ],
+      "course": {
+        "terrain": "mixed",
+        "surface": "grass, dirt and mud with water obstacles",
+        "elevation_gain_m": null,
+        "profile": "flat",
+        "description": "5 km course with 15 military-style obstacles including Brain Freeze and the Summit. Venue not yet announced; coordinates are a city-centre placeholder."
+      },
+      "format": null,
+      "highlights": [
+        "5 km, 15 obstacles",
+        "Top 25 competitive finishers per city qualify for the Grand Finale (14 Mar 2027)",
+        "Season winner (men and women) gets a Maruti Suzuki Swift and Rs 1 lakh",
+        "Two-day city with Doubles, Corporate Cup and Non-Competitive Elite waves"
+      ],
+      "tips": [
+        "Reach the venue 60-90 minutes before your wave; your start time is in the confirmation email and on your bib",
+        "No showers on site: carry a towel and a full change of clothes, and leave watches and jewellery at home",
+        "One bag per participant at the baggage counter; parking is limited and first come, first served",
+        "Each participant can bring one spectator, who collects a band at registration against your bib"
+      ],
+      "amenities": [
+        "Finisher medal",
+        "T-shirt",
+        "Bandana",
+        "Energy drink",
+        "Goody bag",
+        "Water on course and in the village",
+        "Baggage counter"
+      ],
+      "beginner_friendly": true,
+      "tags": [
+        "obstacle-race",
+        "series",
+        "mud",
+        "wave-start"
+      ],
+      "sources": [
+        "https://devilscircuit.com/find-your-race/",
+        "https://devilscircuit.com/categories/",
+        "https://devilscircuit.com/faq/",
+        "https://getmybib.com/281/register?ename=Maruti-Suzuki-Arena-Devils-Circuit-Mumbai-2026-27"
+      ]
+    },
+    {
+      "name": "Maruti Suzuki Swift Devils Circuit Bengaluru",
+      "edition": "Season 2026-27 (13th season)",
+      "sport": "ocr",
+      "discipline": "obstacle-race",
+      "city": "Bengaluru",
+      "venue": "To be announced",
+      "venue_lat": 12.9716,
+      "venue_lon": 77.5946,
+      "start_date": "2026-12-12",
+      "end_date": "2026-12-13",
+      "date_status": "confirmed",
+      "last_edition_date": null,
+      "organiser": "Spectacom Global",
+      "official_url": "https://devilscircuit.com/find-your-race/",
+      "registration": {
+        "status": "open",
+        "opens": null,
+        "closes": "2026-12-12",
+        "url": "https://getmybib.com/286/register?ename=Maruti-Suzuki-Arena-Devils-Circuit-Bengaluru-2026-27",
+        "notes": "Wave-based entry; individual waves sell out and close separately. Most Saturday waves full at time of check; Corporate Cup and late Sunday non-competitive waves open. Competitive Pro listed at Rs 3,150."
+      },
+      "summary": "The Bengaluru leg of Devils Circuit, India's largest obstacle course race series, run by Spectacom Global across 12 cities in the 2026-27 season. Each leg is a 5 km course with 15 military-style obstacles, with timed competitive waves and untimed non-competitive waves. The fastest competitive finishers qualify for the Grand Finale on 14 March 2027, where the season's top man and woman win a Maruti Suzuki Swift.",
+      "categories": [
+        {
+          "name": "Competitive Pro (Wave A)",
+          "distance_km": 5,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 3150,
+          "start_time": "07:00",
+          "cutoff": null,
+          "min_age": 16,
+          "level": "advanced",
+          "eligibility": "Limited to 100 elite participants; first wave on a fresh course",
+          "notes": "Podium standard: men 15 obstacles under 50 min, women 13 obstacles under 70 min."
+        },
+        {
+          "name": "Competitive",
+          "distance_km": 5,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 3800,
+          "start_time": "07:40",
+          "cutoff": null,
+          "min_age": 16,
+          "level": "advanced",
+          "eligibility": null,
+          "notes": "Timed. Podium standard: men all 15 obstacles under 50 min, women 13 of 15 under 70 min, Masters (men 40+) 15 under 60 min. Top 25 qualify for the Grand Finale. City prizes Rs 30,000 / 15,000 / 5,000."
+        },
+        {
+          "name": "Non-Competitive",
+          "distance_km": 5,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 2500,
+          "start_time": "09:40",
+          "cutoff": null,
+          "min_age": 16,
+          "level": "beginner",
+          "eligibility": null,
+          "notes": "Untimed for ranking; obstacles can be skipped."
+        },
+        {
+          "name": "Competitive Doubles",
+          "distance_km": 5,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 6500,
+          "start_time": "07:20",
+          "cutoff": null,
+          "min_age": 16,
+          "level": "advanced",
+          "eligibility": null,
+          "notes": "Price per pair. Saturday. 15 obstacles in 60 min, time taken when last partner finishes; Brain Freeze needs both partners."
+        },
+        {
+          "name": "Corporate Cup (team of 3)",
+          "distance_km": 5,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 12000,
+          "start_time": "09:30",
+          "cutoff": null,
+          "min_age": 16,
+          "level": "intermediate",
+          "eligibility": "All 3 members from the same company",
+          "notes": "Price per team. Saturday. Only one member must clear most obstacles; Brain Freeze needs the full team."
+        },
+        {
+          "name": "Non-Competitive Elite",
+          "distance_km": 5,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 2900,
+          "start_time": "07:00",
+          "cutoff": null,
+          "min_age": 16,
+          "level": "beginner",
+          "eligibility": "Limited to 200 participants",
+          "notes": "First non-competitive wave on Sunday, fewer runners and fresher obstacles."
+        }
+      ],
+      "course": {
+        "terrain": "mixed",
+        "surface": "grass, dirt and mud with water obstacles",
+        "elevation_gain_m": null,
+        "profile": "flat",
+        "description": "5 km course with 15 military-style obstacles including Brain Freeze and the Summit. Venue not yet announced; coordinates are a city-centre placeholder."
+      },
+      "format": null,
+      "highlights": [
+        "5 km, 15 obstacles",
+        "Top 25 competitive finishers per city qualify for the Grand Finale (14 Mar 2027)",
+        "Season winner (men and women) gets a Maruti Suzuki Swift and Rs 1 lakh",
+        "Two-day city with Doubles, Corporate Cup and Non-Competitive Elite waves"
+      ],
+      "tips": [
+        "Reach the venue 60-90 minutes before your wave; your start time is in the confirmation email and on your bib",
+        "No showers on site: carry a towel and a full change of clothes, and leave watches and jewellery at home",
+        "One bag per participant at the baggage counter; parking is limited and first come, first served",
+        "Each participant can bring one spectator, who collects a band at registration against your bib"
+      ],
+      "amenities": [
+        "Finisher medal",
+        "T-shirt",
+        "Bandana",
+        "Energy drink",
+        "Goody bag",
+        "Water on course and in the village",
+        "Baggage counter"
+      ],
+      "beginner_friendly": true,
+      "tags": [
+        "obstacle-race",
+        "series",
+        "mud",
+        "wave-start"
+      ],
+      "sources": [
+        "https://devilscircuit.com/find-your-race/",
+        "https://devilscircuit.com/categories/",
+        "https://devilscircuit.com/faq/",
+        "https://getmybib.com/286/register?ename=Maruti-Suzuki-Arena-Devils-Circuit-Bengaluru-2026-27"
+      ]
+    },
+    {
+      "name": "Maruti Suzuki Swift Devils Circuit Hyderabad",
+      "edition": "Season 2026-27 (13th season)",
+      "sport": "ocr",
+      "discipline": "obstacle-race",
+      "city": "Hyderabad",
+      "venue": "To be announced",
+      "venue_lat": 17.385,
+      "venue_lon": 78.4867,
+      "start_date": "2027-01-10",
+      "end_date": "2027-01-10",
+      "date_status": "confirmed",
+      "last_edition_date": null,
+      "organiser": "Spectacom Global",
+      "official_url": "https://devilscircuit.com/find-your-race/",
+      "registration": {
+        "status": "open",
+        "opens": null,
+        "closes": "2027-01-10",
+        "url": "https://getmybib.com/285/register?ename=Maruti-Suzuki-Arena-Devils-Circuit-Hyderabad-2026-27",
+        "notes": "Wave-based entry; individual waves sell out and close separately."
+      },
+      "summary": "The Hyderabad leg of Devils Circuit, India's largest obstacle course race series, run by Spectacom Global across 12 cities in the 2026-27 season. Each leg is a 5 km course with 15 military-style obstacles, with timed competitive waves and untimed non-competitive waves. The fastest competitive finishers qualify for the Grand Finale on 14 March 2027, where the season's top man and woman win a Maruti Suzuki Swift.",
+      "categories": [
+        {
+          "name": "Competitive Pro (Wave A)",
+          "distance_km": 5,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 4500,
+          "start_time": "07:00",
+          "cutoff": null,
+          "min_age": 16,
+          "level": "advanced",
+          "eligibility": "Limited to 100 elite participants; first wave on a fresh course",
+          "notes": "Podium standard: men 15 obstacles under 50 min, women 13 obstacles under 70 min."
+        },
+        {
+          "name": "Competitive",
+          "distance_km": 5,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 3800,
+          "start_time": "07:20",
+          "cutoff": null,
+          "min_age": 16,
+          "level": "advanced",
+          "eligibility": null,
+          "notes": "Timed. Podium standard: men all 15 obstacles under 50 min, women 13 of 15 under 70 min, Masters (men 40+) 15 under 60 min. Top 25 qualify for the Grand Finale. City prizes Rs 30,000 / 15,000 / 5,000."
+        },
+        {
+          "name": "Non-Competitive",
+          "distance_km": 5,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 2500,
+          "start_time": "08:00",
+          "cutoff": null,
+          "min_age": 16,
+          "level": "beginner",
+          "eligibility": null,
+          "notes": "Untimed for ranking; obstacles can be skipped."
+        }
+      ],
+      "course": {
+        "terrain": "mixed",
+        "surface": "grass, dirt and mud with water obstacles",
+        "elevation_gain_m": null,
+        "profile": "flat",
+        "description": "5 km course with 15 military-style obstacles including Brain Freeze and the Summit. Venue not yet announced; coordinates are a city-centre placeholder."
+      },
+      "format": null,
+      "highlights": [
+        "5 km, 15 obstacles",
+        "Top 25 competitive finishers per city qualify for the Grand Finale (14 Mar 2027)",
+        "Season winner (men and women) gets a Maruti Suzuki Swift and Rs 1 lakh"
+      ],
+      "tips": [
+        "Reach the venue 60-90 minutes before your wave; your start time is in the confirmation email and on your bib",
+        "No showers on site: carry a towel and a full change of clothes, and leave watches and jewellery at home",
+        "One bag per participant at the baggage counter; parking is limited and first come, first served",
+        "Each participant can bring one spectator, who collects a band at registration against your bib"
+      ],
+      "amenities": [
+        "Finisher medal",
+        "T-shirt",
+        "Bandana",
+        "Energy drink",
+        "Goody bag",
+        "Water on course and in the village",
+        "Baggage counter"
+      ],
+      "beginner_friendly": true,
+      "tags": [
+        "obstacle-race",
+        "series",
+        "mud",
+        "wave-start"
+      ],
+      "sources": [
+        "https://devilscircuit.com/find-your-race/",
+        "https://devilscircuit.com/categories/",
+        "https://devilscircuit.com/faq/",
+        "https://getmybib.com/285/register?ename=Maruti-Suzuki-Arena-Devils-Circuit-Hyderabad-2026-27"
+      ]
+    },
+    {
+      "name": "Maruti Suzuki Swift Devils Circuit Kochi",
+      "edition": "Season 2026-27 (13th season)",
+      "sport": "ocr",
+      "discipline": "obstacle-race",
+      "city": "Kochi",
+      "venue": "To be announced",
+      "venue_lat": 9.9312,
+      "venue_lon": 76.2673,
+      "start_date": "2027-01-24",
+      "end_date": "2027-01-24",
+      "date_status": "confirmed",
+      "last_edition_date": null,
+      "organiser": "Spectacom Global",
+      "official_url": "https://devilscircuit.com/find-your-race/",
+      "registration": {
+        "status": "open",
+        "opens": null,
+        "closes": "2027-01-24",
+        "url": "https://getmybib.com/287/register?ename=Maruti-Suzuki-Arena-Devils-Circuit-Kochi-2026-27",
+        "notes": "Wave-based entry; individual waves sell out and close separately."
+      },
+      "summary": "The Kochi leg of Devils Circuit, India's largest obstacle course race series, run by Spectacom Global across 12 cities in the 2026-27 season. Each leg is a 5 km course with 15 military-style obstacles, with timed competitive waves and untimed non-competitive waves. The fastest competitive finishers qualify for the Grand Finale on 14 March 2027, where the season's top man and woman win a Maruti Suzuki Swift.",
+      "categories": [
+        {
+          "name": "Competitive Pro (Wave A)",
+          "distance_km": 5,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 4500,
+          "start_time": "07:00",
+          "cutoff": null,
+          "min_age": 16,
+          "level": "advanced",
+          "eligibility": "Limited to 100 elite participants; first wave on a fresh course",
+          "notes": "Podium standard: men 15 obstacles under 50 min, women 13 obstacles under 70 min."
+        },
+        {
+          "name": "Competitive",
+          "distance_km": 5,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 3800,
+          "start_time": "07:20",
+          "cutoff": null,
+          "min_age": 16,
+          "level": "advanced",
+          "eligibility": null,
+          "notes": "Timed. Podium standard: men all 15 obstacles under 50 min, women 13 of 15 under 70 min, Masters (men 40+) 15 under 60 min. Top 25 qualify for the Grand Finale. City prizes Rs 30,000 / 15,000 / 5,000."
+        },
+        {
+          "name": "Non-Competitive",
+          "distance_km": 5,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 2500,
+          "start_time": "07:40",
+          "cutoff": null,
+          "min_age": 16,
+          "level": "beginner",
+          "eligibility": null,
+          "notes": "Untimed for ranking; obstacles can be skipped."
+        }
+      ],
+      "course": {
+        "terrain": "mixed",
+        "surface": "grass, dirt and mud with water obstacles",
+        "elevation_gain_m": null,
+        "profile": "flat",
+        "description": "5 km course with 15 military-style obstacles including Brain Freeze and the Summit. Venue not yet announced; coordinates are a city-centre placeholder."
+      },
+      "format": null,
+      "highlights": [
+        "5 km, 15 obstacles",
+        "Top 25 competitive finishers per city qualify for the Grand Finale (14 Mar 2027)",
+        "Season winner (men and women) gets a Maruti Suzuki Swift and Rs 1 lakh"
+      ],
+      "tips": [
+        "Reach the venue 60-90 minutes before your wave; your start time is in the confirmation email and on your bib",
+        "No showers on site: carry a towel and a full change of clothes, and leave watches and jewellery at home",
+        "One bag per participant at the baggage counter; parking is limited and first come, first served",
+        "Each participant can bring one spectator, who collects a band at registration against your bib"
+      ],
+      "amenities": [
+        "Finisher medal",
+        "T-shirt",
+        "Bandana",
+        "Energy drink",
+        "Goody bag",
+        "Water on course and in the village",
+        "Baggage counter"
+      ],
+      "beginner_friendly": true,
+      "tags": [
+        "obstacle-race",
+        "series",
+        "mud",
+        "wave-start"
+      ],
+      "sources": [
+        "https://devilscircuit.com/find-your-race/",
+        "https://devilscircuit.com/categories/",
+        "https://devilscircuit.com/faq/",
+        "https://getmybib.com/287/register?ename=Maruti-Suzuki-Arena-Devils-Circuit-Kochi-2026-27"
+      ]
+    },
+    {
+      "name": "Maruti Suzuki Swift Devils Circuit Chennai",
+      "edition": "Season 2026-27 (13th season)",
+      "sport": "ocr",
+      "discipline": "obstacle-race",
+      "city": "Chennai",
+      "venue": "To be announced",
+      "venue_lat": 13.0827,
+      "venue_lon": 80.2707,
+      "start_date": "2027-02-07",
+      "end_date": "2027-02-07",
+      "date_status": "confirmed",
+      "last_edition_date": null,
+      "organiser": "Spectacom Global",
+      "official_url": "https://devilscircuit.com/find-your-race/",
+      "registration": {
+        "status": "open",
+        "opens": null,
+        "closes": "2027-02-07",
+        "url": "https://getmybib.com/288/register?ename=Maruti-Suzuki-Arena-Devils-Circuit-Chennai-2026-27",
+        "notes": "Wave-based entry; individual waves sell out and close separately."
+      },
+      "summary": "The Chennai leg of Devils Circuit, India's largest obstacle course race series, run by Spectacom Global across 12 cities in the 2026-27 season. Each leg is a 5 km course with 15 military-style obstacles, with timed competitive waves and untimed non-competitive waves. The fastest competitive finishers qualify for the Grand Finale on 14 March 2027, where the season's top man and woman win a Maruti Suzuki Swift.",
+      "categories": [
+        {
+          "name": "Competitive Pro (Wave A)",
+          "distance_km": 5,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 4500,
+          "start_time": "07:00",
+          "cutoff": null,
+          "min_age": 16,
+          "level": "advanced",
+          "eligibility": "Limited to 100 elite participants; first wave on a fresh course",
+          "notes": "Podium standard: men 15 obstacles under 50 min, women 13 obstacles under 70 min."
+        },
+        {
+          "name": "Competitive",
+          "distance_km": 5,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 3800,
+          "start_time": "07:20",
+          "cutoff": null,
+          "min_age": 16,
+          "level": "advanced",
+          "eligibility": null,
+          "notes": "Timed. Podium standard: men all 15 obstacles under 50 min, women 13 of 15 under 70 min, Masters (men 40+) 15 under 60 min. Top 25 qualify for the Grand Finale. City prizes Rs 30,000 / 15,000 / 5,000."
+        },
+        {
+          "name": "Non-Competitive",
+          "distance_km": 5,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 2500,
+          "start_time": "08:00",
+          "cutoff": null,
+          "min_age": 16,
+          "level": "beginner",
+          "eligibility": null,
+          "notes": "Untimed for ranking; obstacles can be skipped."
+        }
+      ],
+      "course": {
+        "terrain": "mixed",
+        "surface": "grass, dirt and mud with water obstacles",
+        "elevation_gain_m": null,
+        "profile": "flat",
+        "description": "5 km course with 15 military-style obstacles including Brain Freeze and the Summit. Venue not yet announced; coordinates are a city-centre placeholder."
+      },
+      "format": null,
+      "highlights": [
+        "5 km, 15 obstacles",
+        "Top 25 competitive finishers per city qualify for the Grand Finale (14 Mar 2027)",
+        "Season winner (men and women) gets a Maruti Suzuki Swift and Rs 1 lakh"
+      ],
+      "tips": [
+        "Reach the venue 60-90 minutes before your wave; your start time is in the confirmation email and on your bib",
+        "No showers on site: carry a towel and a full change of clothes, and leave watches and jewellery at home",
+        "One bag per participant at the baggage counter; parking is limited and first come, first served",
+        "Each participant can bring one spectator, who collects a band at registration against your bib"
+      ],
+      "amenities": [
+        "Finisher medal",
+        "T-shirt",
+        "Bandana",
+        "Energy drink",
+        "Goody bag",
+        "Water on course and in the village",
+        "Baggage counter"
+      ],
+      "beginner_friendly": true,
+      "tags": [
+        "obstacle-race",
+        "series",
+        "mud",
+        "wave-start"
+      ],
+      "sources": [
+        "https://devilscircuit.com/find-your-race/",
+        "https://devilscircuit.com/categories/",
+        "https://devilscircuit.com/faq/",
+        "https://getmybib.com/288/register?ename=Maruti-Suzuki-Arena-Devils-Circuit-Chennai-2026-27"
+      ]
+    },
+    {
+      "name": "Maruti Suzuki Swift Devils Circuit Kolkata",
+      "edition": "Season 2026-27 (13th season)",
+      "sport": "ocr",
+      "discipline": "obstacle-race",
+      "city": "Kolkata",
+      "venue": "To be announced",
+      "venue_lat": 22.5726,
+      "venue_lon": 88.3639,
+      "start_date": "2027-02-28",
+      "end_date": "2027-02-28",
+      "date_status": "confirmed",
+      "last_edition_date": null,
+      "organiser": "Spectacom Global",
+      "official_url": "https://devilscircuit.com/find-your-race/",
+      "registration": {
+        "status": "open",
+        "opens": null,
+        "closes": "2027-02-21",
+        "url": "https://getmybib.com/307/register?ename=Maruti-Suzuki-Arena-Devils-Circuit-Kolkata-2026-27",
+        "notes": "Wave-based entry; individual waves sell out and close separately. All waves close 21 Feb 2027, a week before race day."
+      },
+      "summary": "The Kolkata leg of Devils Circuit, India's largest obstacle course race series, run by Spectacom Global across 12 cities in the 2026-27 season. Each leg is a 5 km course with 15 military-style obstacles, with timed competitive waves and untimed non-competitive waves. The fastest competitive finishers qualify for the Grand Finale on 14 March 2027, where the season's top man and woman win a Maruti Suzuki Swift.",
+      "categories": [
+        {
+          "name": "Competitive Pro (Wave A)",
+          "distance_km": 5,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 4500,
+          "start_time": "07:00",
+          "cutoff": null,
+          "min_age": 16,
+          "level": "advanced",
+          "eligibility": "Limited to 100 elite participants; first wave on a fresh course",
+          "notes": "Podium standard: men 15 obstacles under 50 min, women 13 obstacles under 70 min."
+        },
+        {
+          "name": "Competitive",
+          "distance_km": 5,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 3800,
+          "start_time": "07:20",
+          "cutoff": null,
+          "min_age": 16,
+          "level": "advanced",
+          "eligibility": null,
+          "notes": "Timed. Podium standard: men all 15 obstacles under 50 min, women 13 of 15 under 70 min, Masters (men 40+) 15 under 60 min. Top 25 qualify for the Grand Finale. City prizes Rs 30,000 / 15,000 / 5,000."
+        },
+        {
+          "name": "Non-Competitive",
+          "distance_km": 5,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 2500,
+          "start_time": "07:40",
+          "cutoff": null,
+          "min_age": 16,
+          "level": "beginner",
+          "eligibility": null,
+          "notes": "Untimed for ranking; obstacles can be skipped."
+        }
+      ],
+      "course": {
+        "terrain": "mixed",
+        "surface": "grass, dirt and mud with water obstacles",
+        "elevation_gain_m": null,
+        "profile": "flat",
+        "description": "5 km course with 15 military-style obstacles including Brain Freeze and the Summit. Venue not yet announced; coordinates are a city-centre placeholder."
+      },
+      "format": null,
+      "highlights": [
+        "5 km, 15 obstacles",
+        "Top 25 competitive finishers per city qualify for the Grand Finale (14 Mar 2027)",
+        "Season winner (men and women) gets a Maruti Suzuki Swift and Rs 1 lakh"
+      ],
+      "tips": [
+        "Reach the venue 60-90 minutes before your wave; your start time is in the confirmation email and on your bib",
+        "No showers on site: carry a towel and a full change of clothes, and leave watches and jewellery at home",
+        "One bag per participant at the baggage counter; parking is limited and first come, first served",
+        "Each participant can bring one spectator, who collects a band at registration against your bib"
+      ],
+      "amenities": [
+        "Finisher medal",
+        "T-shirt",
+        "Bandana",
+        "Energy drink",
+        "Goody bag",
+        "Water on course and in the village",
+        "Baggage counter"
+      ],
+      "beginner_friendly": true,
+      "tags": [
+        "obstacle-race",
+        "series",
+        "mud",
+        "wave-start"
+      ],
+      "sources": [
+        "https://devilscircuit.com/find-your-race/",
+        "https://devilscircuit.com/categories/",
+        "https://devilscircuit.com/faq/",
+        "https://getmybib.com/307/register?ename=Maruti-Suzuki-Arena-Devils-Circuit-Kolkata-2026-27"
+      ]
+    },
+    {
+      "name": "Maruti Suzuki Swift Devils Circuit Delhi NCR",
+      "edition": "Season 2026-27 (13th season)",
+      "sport": "ocr",
+      "discipline": "obstacle-race",
+      "city": "Delhi NCR",
+      "venue": "To be announced",
+      "venue_lat": 28.6139,
+      "venue_lon": 77.209,
+      "start_date": "2027-03-13",
+      "end_date": "2027-03-14",
+      "date_status": "confirmed",
+      "last_edition_date": null,
+      "organiser": "Spectacom Global",
+      "official_url": "https://devilscircuit.com/find-your-race/",
+      "registration": {
+        "status": "open",
+        "opens": null,
+        "closes": "2027-03-13",
+        "url": "https://getmybib.com/290/register?ename=Maruti-Suzuki-Arena-Devils-Circuit-Delhi-NCR-2026-27",
+        "notes": "Wave-based entry; individual waves sell out and close separately. Season-ending city leg; the Grand Finale is on 14 Mar 2027."
+      },
+      "summary": "The Delhi NCR leg of Devils Circuit, India's largest obstacle course race series, run by Spectacom Global across 12 cities in the 2026-27 season. Each leg is a 5 km course with 15 military-style obstacles, with timed competitive waves and untimed non-competitive waves. The fastest competitive finishers qualify for the Grand Finale on 14 March 2027, where the season's top man and woman win a Maruti Suzuki Swift.",
+      "categories": [
+        {
+          "name": "Competitive Pro (Wave A)",
+          "distance_km": 5,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 4500,
+          "start_time": "07:00",
+          "cutoff": null,
+          "min_age": 16,
+          "level": "advanced",
+          "eligibility": "Limited to 100 elite participants; first wave on a fresh course",
+          "notes": "Podium standard: men 15 obstacles under 50 min, women 13 obstacles under 70 min."
+        },
+        {
+          "name": "Competitive",
+          "distance_km": 5,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 3800,
+          "start_time": "07:40",
+          "cutoff": null,
+          "min_age": 16,
+          "level": "advanced",
+          "eligibility": null,
+          "notes": "Timed. Podium standard: men all 15 obstacles under 50 min, women 13 of 15 under 70 min, Masters (men 40+) 15 under 60 min. Top 25 qualify for the Grand Finale. City prizes Rs 30,000 / 15,000 / 5,000."
+        },
+        {
+          "name": "Non-Competitive",
+          "distance_km": 5,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 2500,
+          "start_time": "09:40",
+          "cutoff": null,
+          "min_age": 16,
+          "level": "beginner",
+          "eligibility": null,
+          "notes": "Untimed for ranking; obstacles can be skipped."
+        },
+        {
+          "name": "Competitive Doubles",
+          "distance_km": 5,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 6500,
+          "start_time": "07:20",
+          "cutoff": null,
+          "min_age": 16,
+          "level": "advanced",
+          "eligibility": null,
+          "notes": "Price per pair. Saturday. 15 obstacles in 60 min, time taken when last partner finishes; Brain Freeze needs both partners."
+        },
+        {
+          "name": "Corporate Cup (team of 3)",
+          "distance_km": 5,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 12000,
+          "start_time": "09:30",
+          "cutoff": null,
+          "min_age": 16,
+          "level": "intermediate",
+          "eligibility": "All 3 members from the same company",
+          "notes": "Price per team. Saturday. Only one member must clear most obstacles; Brain Freeze needs the full team."
+        },
+        {
+          "name": "Non-Competitive Elite",
+          "distance_km": 5,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 2900,
+          "start_time": "07:30",
+          "cutoff": null,
+          "min_age": 16,
+          "level": "beginner",
+          "eligibility": "Limited to 200 participants",
+          "notes": "First non-competitive wave on Sunday, fewer runners and fresher obstacles."
+        }
+      ],
+      "course": {
+        "terrain": "mixed",
+        "surface": "grass, dirt and mud with water obstacles",
+        "elevation_gain_m": null,
+        "profile": "flat",
+        "description": "5 km course with 15 military-style obstacles including Brain Freeze and the Summit. Venue not yet announced; coordinates are a city-centre placeholder."
+      },
+      "format": null,
+      "highlights": [
+        "5 km, 15 obstacles",
+        "Top 25 competitive finishers per city qualify for the Grand Finale (14 Mar 2027)",
+        "Season winner (men and women) gets a Maruti Suzuki Swift and Rs 1 lakh",
+        "Two-day city with Doubles, Corporate Cup and Non-Competitive Elite waves"
+      ],
+      "tips": [
+        "Reach the venue 60-90 minutes before your wave; your start time is in the confirmation email and on your bib",
+        "No showers on site: carry a towel and a full change of clothes, and leave watches and jewellery at home",
+        "One bag per participant at the baggage counter; parking is limited and first come, first served",
+        "Each participant can bring one spectator, who collects a band at registration against your bib"
+      ],
+      "amenities": [
+        "Finisher medal",
+        "T-shirt",
+        "Bandana",
+        "Energy drink",
+        "Goody bag",
+        "Water on course and in the village",
+        "Baggage counter"
+      ],
+      "beginner_friendly": true,
+      "tags": [
+        "obstacle-race",
+        "series",
+        "mud",
+        "wave-start"
+      ],
+      "sources": [
+        "https://devilscircuit.com/find-your-race/",
+        "https://devilscircuit.com/categories/",
+        "https://devilscircuit.com/faq/",
+        "https://getmybib.com/290/register?ename=Maruti-Suzuki-Arena-Devils-Circuit-Delhi-NCR-2026-27"
+      ]
+    }
+  ]
+}

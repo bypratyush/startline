@@ -1,0 +1,1465 @@
+{
+  "events": [
+    {
+      "name": "DH Cup",
+      "edition": "2026, 5th edition (expected)",
+      "sport": "football",
+      "discipline": "corporate 5-a-side",
+      "city": "Bengaluru",
+      "venue": "Bengaluru (2026 venue not yet announced)",
+      "venue_lat": null,
+      "venue_lon": null,
+      "start_date": "2026-11-21",
+      "end_date": "2026-12-06",
+      "date_status": "expected",
+      "last_edition_date": null,
+      "organiser": "Deccan Herald (The Printers Mysore Ltd)",
+      "official_url": "https://www.deccanherald.com/dhcup2025",
+      "registration": {
+        "status": "unknown",
+        "opens": null,
+        "closes": null,
+        "url": null,
+        "notes": "Corporate entry only. Queries go to dhcup@deccanherald.co.in. The 2025 edition was launched on 8 November 2025 and its final was played in early December; the 2024 final was in mid-December. Exact 2025 match dates are not published, so last_edition_date is null."
+      },
+      "summary": "Inter-corporate five-a-side football tournament run by Deccan Herald in Bengaluru every year since 2022, billed as the city's first five-a-side event for corporates. The 2025 edition had 59 matches with company teams including Bosch, Elfonze, TVS Motor, UST, BEML, OpenText, Karle Infra and Brigade Group. Bosch and Elfonze met in both the 2024 and 2025 finals.",
+      "categories": [
+        {
+          "name": "Corporate 5-a-side",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "open",
+          "eligibility": "Every player must be a full-time employee on the rolls of the entering organisation, declared at entry. An organisation can enter several teams but cannot swap players between them.",
+          "notes": "Fee per team not published online. No refund if a team leaves the tournament."
+        }
+      ],
+      "course": {
+        "terrain": "turf",
+        "surface": "five-a-side pitch (spiked shoes not allowed)",
+        "elevation_gain_m": null,
+        "profile": null,
+        "description": "Venue for 2026 not yet announced. The 2025 launch event was at Fox in the Field, Nexus Shantiniketan Mall, Whitefield."
+      },
+      "format": "Draw-based groups playing a round-robin, then knockouts. Two 20-minute halves with a 5-minute break. Squad of 10 with rolling substitutions, 5 on the field including the goalkeeper. Win 3 points, draw 1, forfeit costs 3 points. Group ties broken by goals scored, then fewest conceded. Organisers supply jerseys and shorts that must be worn unaltered.",
+      "highlights": [
+        "Four editions held, 2022 to 2025",
+        "Rolling trophy",
+        "59 matches in the 2025 edition",
+        "Match photos and videos published on the DH Cup site"
+      ],
+      "tips": [
+        "Submit the full 10-player list with name, designation and department before the tournament; only players listed on the DH Cup site may play",
+        "Reach the venue 30 minutes before kick-off; late teams can forfeit",
+        "No studs, spikes, watches or jewellery; shin guards are allowed if they do not cover the kit logos"
+      ],
+      "amenities": [
+        "Team jerseys and shorts supplied",
+        "Referees",
+        "Match photos and videos"
+      ],
+      "beginner_friendly": true,
+      "tags": ["corporate", "5-a-side"],
+      "sources": [
+        "https://www.deccanherald.com/dhcup2025/about-us",
+        "https://www.deccanherald.com/dhcup2025/rules-regulations",
+        "https://www.deccanherald.com/dhcup2025/video",
+        "https://www.deccanherald.com/dhcup2024"
+      ]
+    },
+    {
+      "name": "IGCC Unity Cup (Indo-German Chamber football tournament)",
+      "edition": "2026, 16th edition (expected)",
+      "sport": "football",
+      "discipline": "corporate 5-a-side",
+      "city": "Bengaluru",
+      "venue": "Bengaluru (2026 venue not announced; the 2025 edition was advertised at Depot 18, Jayamahal Main Road)",
+      "venue_lat": null,
+      "venue_lon": null,
+      "start_date": "2026-11-07",
+      "end_date": "2026-11-07",
+      "date_status": "expected",
+      "last_edition_date": "2025-11-08",
+      "organiser": "Indo-German Chamber of Commerce (IGCC), supported by the German Consulate Bangalore",
+      "official_url": "https://indien.ahk.de/en/events2/indo-german-unity-cup-2025",
+      "registration": {
+        "status": "unknown",
+        "opens": null,
+        "closes": null,
+        "url": "https://indien.ahk.de/en/events2/indo-german-unity-cup-2025",
+        "notes": "2025 entry was by online form with a 31 July deadline. A 2026 edition was not found online; the IGCC page advertised 13 September 2025 while a participating team's report gives 8 November 2025, so confirm the date with IGCC."
+      },
+      "summary": "Annual corporate five-a-side football tournament for companies in the Indo-German business network in Bengaluru. The 15th edition in 2025, called the Crystal Jubilee edition, had 16 teams and welcomed women's teams and women players from member companies.",
+      "categories": [
+        {
+          "name": "Corporate 5-a-side",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 60000,
+          "start_time": "07:30",
+          "cutoff": null,
+          "min_age": null,
+          "level": "open",
+          "eligibility": "Teams from Indo-German companies and IGCC partners",
+          "notes": "2025 participation fee Rs 60,000 plus 18% GST; the page lists it as the participation fee and does not say explicitly that it is per team."
+        }
+      ],
+      "course": {
+        "terrain": "turf",
+        "surface": "five-a-side pitch",
+        "elevation_gain_m": null,
+        "profile": null,
+        "description": "One-day event in central or north Bengaluru; the 2025 edition was advertised at Depot 18 on Jayamahal Main Road."
+      },
+      "format": "One-day five-a-side tournament, 7:30 AM to 6:00 PM in 2025, 16 teams. Match length and squad size not published.",
+      "highlights": [
+        "15 editions held up to 2025",
+        "Women's teams and players welcomed",
+        "Supported by the German Consulate Bangalore"
+      ],
+      "tips": [
+        "Entries closed on 31 July for the 2025 edition, so start company approvals by mid-year",
+        "Ask IGCC whether non-member companies can enter before planning a team"
+      ],
+      "amenities": [],
+      "beginner_friendly": true,
+      "tags": ["corporate", "5-a-side"],
+      "sources": [
+        "https://indien.ahk.de/en/events2/indo-german-unity-cup-2025",
+        "https://trivandrum.german.in/events-detail/299"
+      ]
+    },
+    {
+      "name": "BSLA Old is Gold Veterans Football Tournament",
+      "edition": "2027, 7th edition (expected)",
+      "sport": "football",
+      "discipline": "veterans 5-a-side",
+      "city": "Bengaluru",
+      "venue": "VeloCT Play Arena, Bengaluru",
+      "venue_lat": null,
+      "venue_lon": null,
+      "start_date": "2027-07-11",
+      "end_date": "2027-07-11",
+      "date_status": "expected",
+      "last_edition_date": "2026-07-05",
+      "organiser": "Bangalore Sports Lovers Association (BSLA)",
+      "official_url": null,
+      "registration": {
+        "status": "upcoming",
+        "opens": null,
+        "closes": null,
+        "url": null,
+        "notes": "2026 entries closed on 21 June for the 5 July event; registration was by phone using numbers published in the announcement. Team fees go to charity."
+      },
+      "summary": "One-day charity five-a-side football tournament for players aged 40 and over, held by BSLA in July at VeloCT in Bengaluru. The 5th edition on 20 July 2025 drew 24 teams from Bengaluru, Secunderabad, Chennai, Chikkamagaluru, Kerala and Pondicherry. The 2026 edition on 5 July raised money for HIV-positive children and had a Rs 24,000 prize pool.",
+      "categories": [
+        {
+          "name": "Veterans 40+ 5-a-side",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 4000,
+          "start_time": "10:00",
+          "cutoff": null,
+          "min_age": 40,
+          "level": "open",
+          "eligibility": "All players aged 40 and above",
+          "notes": "Fee per team (2026). Up to three substitutes."
+        }
+      ],
+      "course": {
+        "terrain": "turf",
+        "surface": "five-a-side arena",
+        "elevation_gain_m": null,
+        "profile": null,
+        "description": "Single-day event at the VeloCT play arena in Bengaluru."
+      },
+      "format": "Five-a-side with up to three substitutes per team, one-day event from 10 AM. Trophies, medals and certificates for winners and participants; total cash prize Rs 24,000 in 2026.",
+      "highlights": [
+        "Six editions held up to 2026",
+        "Teams travel from across South India",
+        "Entry fees fund charity work"
+      ],
+      "tips": [
+        "Entries close about two weeks before the July date and the field reached 24 teams in 2025",
+        "Carry age proof in case organisers check the 40+ rule",
+        "July is monsoon season in Bengaluru; bring a spare kit"
+      ],
+      "amenities": [
+        "Trophies and medals",
+        "Participation certificates"
+      ],
+      "beginner_friendly": true,
+      "tags": ["veterans", "charity", "5-a-side"],
+      "sources": [
+        "https://newskarnataka.com/sports/veterans-football-tournament-2026-to-support-hiv-positive-children/18062026/",
+        "https://newskarnataka.com/bengaluru/south-india-rallies-for-education-at-veterans-tournament/21072025/"
+      ]
+    },
+    {
+      "name": "IFCCI Bangalore Sports Tournament (football)",
+      "edition": "2027, 3rd edition (expected)",
+      "sport": "football",
+      "discipline": "corporate 6-a-side",
+      "city": "Bengaluru",
+      "venue": "Play Arena, Sarjapur Road",
+      "venue_lat": 12.9104,
+      "venue_lon": 77.6826,
+      "start_date": "2027-01-22",
+      "end_date": "2027-01-22",
+      "date_status": "expected",
+      "last_edition_date": "2026-01-23",
+      "organiser": "Indo-French Chamber of Commerce and Industry (IFCCI)",
+      "official_url": "https://www.ifcci.org.in/events/upcoming-events/e/event/2nd-edition-of-the-ifcci-bangalore-sports-tournament.html",
+      "registration": {
+        "status": "upcoming",
+        "opens": null,
+        "closes": null,
+        "url": "https://www.ifcci.org.in/events/upcoming-events/e/event/2nd-edition-of-the-ifcci-bangalore-sports-tournament.html",
+        "notes": "2026 registration closed on 9 January for the 23 January event. Companies nominate up to two football teams."
+      },
+      "summary": "One-day multi-sport corporate tournament for the Indo-French business community in Bengaluru, with 6 v 6 football, badminton, table tennis and pickleball. The 2nd edition was held on 23 January 2026 at Play Arena on Sarjapur Road.",
+      "categories": [
+        {
+          "name": "Corporate 6-a-side football",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 11800,
+          "start_time": "08:30",
+          "cutoff": null,
+          "min_age": null,
+          "level": "open",
+          "eligibility": "Company-nominated teams from the Indo-French business community, up to two teams per company",
+          "notes": "Fee per team, inclusive of taxes (2026)."
+        }
+      ],
+      "course": {
+        "terrain": "turf",
+        "surface": "multi-sport arena",
+        "elevation_gain_m": null,
+        "profile": null,
+        "description": "Play Arena is a multi-sport venue off Sarjapur Road in south-east Bengaluru."
+      },
+      "format": "6 v 6 football in a one-day event (8:30 AM to 4 PM in 2026). Match length and squad size not published.",
+      "highlights": [
+        "Also offers badminton, table tennis singles (Rs 2,360 per player) and pickleball",
+        "Open to employees across roles and experience levels"
+      ],
+      "tips": [
+        "Registration closes about two weeks before the event",
+        "The 2026 event was on a Friday morning; Sarjapur Road traffic is heavy at that time, so leave early"
+      ],
+      "amenities": [],
+      "beginner_friendly": true,
+      "tags": ["corporate", "multi-sport"],
+      "sources": [
+        "https://www.ifcci.org.in/events/upcoming-events/e/event/2nd-edition-of-the-ifcci-bangalore-sports-tournament.html"
+      ]
+    },
+    {
+      "name": "Bengal Chamber Corporate Futsal Gold Cup",
+      "edition": "Next edition (expected)",
+      "sport": "football",
+      "discipline": "corporate futsal 5-a-side",
+      "city": "Kolkata",
+      "venue": "Kolkata (2025: Sportsplex, Tangra; 2024: Turf XL, New Alipore)",
+      "venue_lat": null,
+      "venue_lon": null,
+      "start_date": "2027-09-04",
+      "end_date": "2027-09-05",
+      "date_status": "expected",
+      "last_edition_date": "2025-09-06",
+      "organiser": "Bengal Chamber of Commerce and Industry (BCC&I), Sports Development Committee",
+      "official_url": "https://bengalchamber.com/futsal-gold-cup-2025.html",
+      "registration": {
+        "status": "unknown",
+        "opens": null,
+        "closes": null,
+        "url": null,
+        "notes": "Corporate teams only; fee not published. No 2026 edition was found online, so ask BCC&I whether one is planned before the expected 2027 slot."
+      },
+      "summary": "Two-day inter-corporate futsal tournament run by the Bengal Chamber in Kolkata. The 2nd edition (22-23 June 2024) had 24 teams and the 3rd (6-7 September 2025) had 19, including TCS, Genpact, LTIMindtree, Tata Steel and Berger Paints. Sun Knowledge Services won both editions.",
+      "categories": [
+        {
+          "name": "Corporate 5-a-side futsal",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "open",
+          "eligibility": "Company teams",
+          "notes": null
+        }
+      ],
+      "course": {
+        "terrain": "turf",
+        "surface": "5-a-side turf (venue changes each year)",
+        "elevation_gain_m": null,
+        "profile": null,
+        "description": "Played at a different Kolkata turf venue each year."
+      },
+      "format": "Two-day tournament under 5-a-side rules. Awards for fair play, top scorer, best goalkeeper, best player and best referee, plus man of the match in the final.",
+      "highlights": [
+        "Three editions held up to 2025",
+        "24 teams in 2024, 19 in 2025"
+      ],
+      "tips": [
+        "Confirm the venue each year; it moved from New Alipore to Tangra between editions",
+        "Sun Knowledge Services won in 2024 and 2025"
+      ],
+      "amenities": [],
+      "beginner_friendly": true,
+      "tags": ["corporate", "futsal"],
+      "sources": [
+        "https://bengalchamber.com/futsal-gold-cup-2025.html",
+        "https://agm24.bengalchamber.com/sports/1628487820001"
+      ]
+    },
+    {
+      "name": "Rev. Fr. Edward F. Rego Memorial All Goa 3-a-side Tie-Breaker Football Tournament",
+      "edition": "2027, 13th edition (expected)",
+      "sport": "football",
+      "discipline": "3-a-side tie-breaker",
+      "city": "Goa",
+      "venue": "St Joseph's High School ground, Calangute",
+      "venue_lat": null,
+      "venue_lon": null,
+      "start_date": "2027-02-21",
+      "end_date": "2027-02-21",
+      "date_status": "expected",
+      "last_edition_date": "2026-02-22",
+      "organiser": "St Joseph's Boys Home Old Boys Association",
+      "official_url": null,
+      "registration": {
+        "status": "upcoming",
+        "opens": null,
+        "closes": null,
+        "url": null,
+        "notes": "On-the-spot entries were accepted on the day in 2026."
+      },
+      "summary": "One-day All Goa 3-a-side tie-breaker football tournament in Calangute, held in memory of Rev. Fr. Edward F. Rego. The 12th edition on 22 February 2026 paid Rs 30,000 to the champions and Rs 20,000 to the runners-up, with awards for best shooter and best goalkeeper.",
+      "categories": [
+        {
+          "name": "Open 3-a-side tie-breaker",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": 600,
+          "start_time": "11:00",
+          "cutoff": null,
+          "min_age": null,
+          "level": "open",
+          "eligibility": "Teams from across Goa",
+          "notes": "Fee per team (2026)."
+        }
+      ],
+      "course": {
+        "terrain": "turf",
+        "surface": "school football ground",
+        "elevation_gain_m": null,
+        "profile": null,
+        "description": "School ground in Calangute, north Goa."
+      },
+      "format": "3-a-side tie-breaker format, single day from 11 AM with prize distribution at 6 PM. Detailed match rules not published.",
+      "highlights": [
+        "12 editions held up to 2026",
+        "Rs 30,000 winners' prize in 2026",
+        "Low entry fee and on-the-spot registration"
+      ],
+      "tips": [
+        "Arrive before the 11 AM start to enter on the spot",
+        "Plan for a full day; the 2026 closing ceremony was at 6 PM"
+      ],
+      "amenities": [
+        "Cash prizes and trophies"
+      ],
+      "beginner_friendly": true,
+      "tags": ["community", "one-day"],
+      "sources": [
+        "https://www.thegoan.net/sports/%EF%BB%BFall-goa-3aside-tiebreaker-set-for-february-22-at-calangute/143838.html"
+      ]
+    },
+    {
+      "name": "All Goa Inter-Village 8-a-side Tribal Football Festival",
+      "edition": "2027, 5th edition (expected)",
+      "sport": "football",
+      "discipline": "8-a-side",
+      "city": "Goa",
+      "venue": "Laymati Davorlim ground, Salcete",
+      "venue_lat": null,
+      "venue_lon": null,
+      "start_date": "2027-01-09",
+      "end_date": "2027-01-10",
+      "date_status": "expected",
+      "last_edition_date": "2026-01-10",
+      "organiser": "Youth Hostels Association of India, Margao Unit, with the Directorate of Sports and Youth Affairs, Govt of Goa",
+      "official_url": null,
+      "registration": {
+        "status": "upcoming",
+        "opens": null,
+        "closes": null,
+        "url": null,
+        "notes": "Teams had to register before 5 January for the 2026 edition; contact numbers were published in The Goan. Fee not stated."
+      },
+      "summary": "Two-day inter-village 8-a-side football festival in Salcete, south Goa, organised by YHAI Margao with the state sports directorate. The 4th edition ran on 10-11 January 2026 with cash prizes, trophies and medals for winners and runners-up.",
+      "categories": [
+        {
+          "name": "Inter-village 8-a-side",
+          "distance_km": null,
+          "swim_km": null,
+          "bike_km": null,
+          "run_km": null,
+          "fee_inr": null,
+          "start_time": null,
+          "cutoff": null,
+          "min_age": null,
+          "level": "open",
+          "eligibility": "Village teams; the event is billed as a tribal football festival, so confirm team eligibility with the organisers",
+          "notes": null
+        }
+      ],
+      "course": {
+        "terrain": "turf",
+        "surface": "village football ground",
+        "elevation_gain_m": null,
+        "profile": null,
+        "description": "Village ground at Davorlim in Salcete taluka, near Margao."
+      },
+      "format": "8-a-side, two-day tournament. Match length and squad size not published.",
+      "highlights": [
+        "Four editions held up to 2026",
+        "Backed by the Goa sports directorate"
+      ],
+      "tips": [
+        "Register before the early-January deadline (5 January in 2026)",
+        "Ask whether teams must represent a single village or community"
+      ],
+      "amenities": [
+        "Cash prizes, trophies and medals"
+      ],
+      "beginner_friendly": true,
+      "tags": ["community"],
+      "sources": [
+        "https://www.thegoan.net/sports/%EF%BB%BFall-goa-intervillage-8aside-tribal-football-festival-on-january-10-and-11/141261.html"
+      ]
+    },
+    {
+      "name": "National Ranking Table Tennis Championships 2026 (Uttarakhand)",
+      "edition": "2026-27 season",
+      "sport": "table-tennis",
+      "discipline": "singles",
+      "city": "Dehradun",
+      "venue": "New Multipurpose Hall, Parade Ground, Dehradun",
+      "venue_lat": 30.3254,
+      "venue_lon": 78.0436,
+      "start_date": "2026-10-31",
+      "end_date": "2026-11-07",
+      "date_status": "confirmed",
+      "last_edition_date": null,
+      "organiser": "Uttarakhand Table Tennis Association under the Table Tennis Federation of India (TTFI)",
+      "official_url": "https://www.ttfi.org/events/view/national-ranking-table-tennis-championships2026-uttarakhand",
+      "registration": {
+        "status": "open",
+        "opens": null,
+        "closes": "2026-10-17",
+        "url": "https://www.ttfi.org",
+        "notes": "Entries only through a state association (noon 17 October) or institution (noon 15 October) on the TTFI online system; individuals cannot enter directly. Players must hold 2026 TTFI registration (Rs 500 per year). TTFI's government recognition was suspended in August 2026, but ranking events have continued."
+      },
+      "summary": "Eight-day national ranking (zonal) championship on the TTFI 2026-27 domestic circuit, with men's and women's singles plus boys' and girls' singles from U-11 to U-19. It awards national ranking points and runs in the 31 October to 7 November slot that the TTFI calendar had first listed for Pondicherry.",
+      "categories": [
+        {
+          "name": "Men's Singles",
+          "distance_km": null, "swim_km": null, "bike_km": null, "run_km": null,
+          "fee_inr": 1000,
+          "start_time": null, "cutoff": null, "min_age": null,
+          "level": "advanced",
+          "eligibility": "TTFI-registered player entered by a state association or institution",
+          "notes": "Rs 1,000 per entry for a state's first five entries; additional entries Rs 3,700."
+        },
+        {
+          "name": "Women's Singles",
+          "distance_km": null, "swim_km": null, "bike_km": null, "run_km": null,
+          "fee_inr": 1000,
+          "start_time": null, "cutoff": null, "min_age": null,
+          "level": "advanced",
+          "eligibility": "TTFI-registered player entered by a state association or institution",
+          "notes": "Rs 1,000 per entry for a state's first five entries; additional entries Rs 3,700."
+        },
+        {
+          "name": "Youth Singles U-19 and U-17 (boys and girls)",
+          "distance_km": null, "swim_km": null, "bike_km": null, "run_km": null,
+          "fee_inr": 900,
+          "start_time": null, "cutoff": null, "min_age": null,
+          "level": "advanced",
+          "eligibility": "U-19: born on or after 1 Jan 2008. U-17: born on or after 1 Jan 2010.",
+          "notes": "Rs 900 for a state's first four entries per event; additional entries Rs 3,700."
+        },
+        {
+          "name": "Youth Singles U-15 and U-13 (boys and girls)",
+          "distance_km": null, "swim_km": null, "bike_km": null, "run_km": null,
+          "fee_inr": 800,
+          "start_time": null, "cutoff": null, "min_age": null,
+          "level": "intermediate",
+          "eligibility": "U-15: born on or after 1 Jan 2012. U-13: born on or after 1 Jan 2014.",
+          "notes": "Rs 800 for a state's first four entries per event; additional entries Rs 2,700."
+        },
+        {
+          "name": "Youth Singles U-11 (boys and girls)",
+          "distance_km": null, "swim_km": null, "bike_km": null, "run_km": null,
+          "fee_inr": 700,
+          "start_time": null, "cutoff": null, "min_age": null,
+          "level": "intermediate",
+          "eligibility": "Born on or after 1 Jan 2016",
+          "notes": "Rs 700 for a state's first four entries; additional entries Rs 1,700."
+        }
+      ],
+      "course": {
+        "terrain": "indoor",
+        "surface": "Stag Roma tables, Stag Global 3-star 40+ balls",
+        "elevation_gain_m": null,
+        "profile": null,
+        "description": "Indoor multipurpose hall at Parade Ground in central Dehradun."
+      },
+      "format": "Qualification stage followed by knockout main draws (men's and women's main draws from round of 256). Tentative schedule: U-11 and U-13 from 31 October, men's and women's singles main draw 5 to 7 November. Ranking points awarded per TTFI guidelines.",
+      "highlights": [
+        "Part of the TTFI national ranking circuit",
+        "11 singles events from U-11 to senior"
+      ],
+      "tips": [
+        "Talk to your state association before 17 October; it controls entries and fees",
+        "Players arrange their own boarding and lodging",
+        "Withdrawals after noon on 30 October cost 20 ranking points",
+        "Youth players should carry an original birth certificate and Aadhaar copy"
+      ],
+      "amenities": [],
+      "beginner_friendly": false,
+      "tags": ["ranking", "national-circuit"],
+      "sources": [
+        "https://www.ttfi.org/events/view/national-ranking-table-tennis-championships2026-uttarakhand",
+        "https://www.ttfi.org/webroot/uploads/Tournaments/Pdf/b7577b762973.pdf",
+        "https://www.ttfi.org/webroot/uploads/pdf/Calender-2026.pdf",
+        "https://dailypioneer.com/news/utt-national-ranking-table-tennis-championships-1900-players"
+      ]
+    },
+    {
+      "name": "National Ranking Table Tennis Championships 2026 (Punjab)",
+      "edition": "2026-27 season",
+      "sport": "table-tennis",
+      "discipline": "singles",
+      "city": "Ludhiana",
+      "venue": "Lovely Professional University, Jalandhar-Delhi GT Road, Phagwara",
+      "venue_lat": 31.2536,
+      "venue_lon": 75.7036,
+      "start_date": "2026-11-14",
+      "end_date": "2026-11-21",
+      "date_status": "confirmed",
+      "last_edition_date": null,
+      "organiser": "Punjab Table Tennis Association with Lovely Professional University, under TTFI",
+      "official_url": "https://www.ttfi.org/events/view/national-ranking-table-tennis-championships-2026-punjab",
+      "registration": {
+        "status": "open",
+        "opens": null,
+        "closes": "2026-10-31",
+        "url": "https://www.ttfi.org",
+        "notes": "Entries only through a state association (noon 31 October) or institution (noon 29 October) on the TTFI online system. Players must hold 2026 TTFI registration (Rs 500 per year)."
+      },
+      "summary": "Eight-day national ranking championship on the TTFI 2026-27 circuit at LPU, Phagwara, about 40 km from Ludhiana. It starts with men's and women's singles and runs through youth events down to U-11. Total prize money is Rs 9,99,400.",
+      "categories": [
+        {
+          "name": "Men's Singles",
+          "distance_km": null, "swim_km": null, "bike_km": null, "run_km": null,
+          "fee_inr": 1000,
+          "start_time": null, "cutoff": null, "min_age": null,
+          "level": "advanced",
+          "eligibility": "TTFI-registered player entered by a state association or institution",
+          "notes": "Rs 1,000 per entry for a state's first five entries; additional entries Rs 3,700."
+        },
+        {
+          "name": "Women's Singles",
+          "distance_km": null, "swim_km": null, "bike_km": null, "run_km": null,
+          "fee_inr": 1000,
+          "start_time": null, "cutoff": null, "min_age": null,
+          "level": "advanced",
+          "eligibility": "TTFI-registered player entered by a state association or institution",
+          "notes": "Rs 1,000 per entry for a state's first five entries; additional entries Rs 3,700."
+        },
+        {
+          "name": "Youth Singles U-19 and U-17 (boys and girls)",
+          "distance_km": null, "swim_km": null, "bike_km": null, "run_km": null,
+          "fee_inr": 900,
+          "start_time": null, "cutoff": null, "min_age": null,
+          "level": "advanced",
+          "eligibility": "Age cut-offs as per TTFI 2026 rules (U-19 born on or after 1 Jan 2008)",
+          "notes": "Rs 900 for a state's first four entries per event; additional entries Rs 3,700."
+        },
+        {
+          "name": "Youth Singles U-15, U-13 and U-11 (boys and girls)",
+          "distance_km": null, "swim_km": null, "bike_km": null, "run_km": null,
+          "fee_inr": 800,
+          "start_time": null, "cutoff": null, "min_age": null,
+          "level": "intermediate",
+          "eligibility": "Age cut-offs as per TTFI 2026 rules",
+          "notes": "Rs 800 for U-15 and U-13, Rs 700 for U-11 (first four state entries); additional entries Rs 2,700 (U-15/U-13) or Rs 1,700 (U-11)."
+        }
+      ],
+      "course": {
+        "terrain": "indoor",
+        "surface": "indoor hall",
+        "elevation_gain_m": null,
+        "profile": null,
+        "description": "LPU campus on the Jalandhar-Delhi GT Road at Phagwara, between Jalandhar and Ludhiana."
+      },
+      "format": "Qualification stage then knockout main draws. Tentative schedule: men's and women's singles qualifying 14 November, through to finals 17 November; youth events 17 to 21 November. Ranking points per TTFI guidelines.",
+      "highlights": [
+        "Total prize money Rs 9,99,400",
+        "Senior events played first, so adult players finish within four days"
+      ],
+      "tips": [
+        "Senior draw is made at 11 AM on 13 November at the venue; plan to arrive the day before",
+        "Jalandhar City and Phagwara railway stations are the closest rail links",
+        "Mid-November nights are cool in Punjab; bring warm-up layers"
+      ],
+      "amenities": [
+        "Prize money"
+      ],
+      "beginner_friendly": false,
+      "tags": ["ranking", "national-circuit"],
+      "sources": [
+        "https://www.ttfi.org/events/view/national-ranking-table-tennis-championships-2026-punjab",
+        "https://www.ttfi.org/webroot/uploads/Tournaments/Pdf/2888ede4449d.pdf",
+        "https://www.ttfi.org/webroot/uploads/pdf/Calender-2026.pdf"
+      ]
+    },
+    {
+      "name": "National Masters Table Tennis Championships",
+      "edition": "2026 edition (held February 2027)",
+      "sport": "table-tennis",
+      "discipline": "veterans",
+      "city": "Jaipur",
+      "venue": "Jaipur (venue to be announced)",
+      "venue_lat": null,
+      "venue_lon": null,
+      "start_date": "2027-02-14",
+      "end_date": "2027-02-21",
+      "date_status": "confirmed",
+      "last_edition_date": "2026-04-24",
+      "organiser": "Table Tennis Federation of India (host association to be confirmed)",
+      "official_url": "https://www.ttfi.org/webroot/uploads/pdf/Calender-2026.pdf",
+      "registration": {
+        "status": "upcoming",
+        "opens": null,
+        "closes": null,
+        "url": "https://www.ttfi.org",
+        "notes": "Dates and city are from the TTFI 2026 tournament calendar; the prospectus is not yet published and other 2026 calendar events have moved venue. TTFI keeps a separate veteran player register."
+      },
+      "summary": "TTFI's national championship for masters (veteran) players, listed on the federation's 2026 calendar for 14-21 February 2027 in Jaipur. The previous edition was held at Balewadi Sports Stadium, Pune, from 24 April 2026.",
+      "categories": [
+        {
+          "name": "Masters age-group events",
+          "distance_km": null, "swim_km": null, "bike_km": null, "run_km": null,
+          "fee_inr": null,
+          "start_time": null, "cutoff": null, "min_age": null,
+          "level": "open",
+          "eligibility": "Players on TTFI's veteran player register, entered through their state association or institution",
+          "notes": "Age bands and fees will be in the prospectus."
+        }
+      ],
+      "course": {
+        "terrain": "indoor",
+        "surface": "indoor hall",
+        "elevation_gain_m": null,
+        "profile": null,
+        "description": "Venue in Jaipur not yet announced."
+      },
+      "format": "Age-group championships for veterans; draw format to be set in the prospectus.",
+      "highlights": [
+        "National title event for veteran players",
+        "Scheduled for Jaipur in February 2027"
+      ],
+      "tips": [
+        "Check that you appear on the TTFI veteran player list (ttfi.org/veterans) before entries open",
+        "Wait for the prospectus before booking; TTFI calendar venues have changed during 2026",
+        "February is peak tourist season in Jaipur, so book rooms early"
+      ],
+      "amenities": [],
+      "beginner_friendly": false,
+      "tags": ["veterans", "national-championship"],
+      "sources": [
+        "https://www.ttfi.org/webroot/uploads/pdf/Calender-2026.pdf",
+        "https://www.ttfi.org/veterans",
+        "https://www.amarujala.com/chandigarh/bhandari-performs-well-in-indian-veterans-table-tennis-championship-chandigarh-news-c-16-pkl1079-1009990-2026-05-03"
+      ]
+    },
+    {
+      "name": "IFCCI Chennai Sports Tournament (table tennis)",
+      "edition": "2027, 7th edition (expected)",
+      "sport": "table-tennis",
+      "discipline": "corporate doubles",
+      "city": "Chennai",
+      "venue": "Loyola-ICAM College of Engineering and Technology, Loyola Campus, Nungambakkam",
+      "venue_lat": 13.0627,
+      "venue_lon": 80.2336,
+      "start_date": "2027-03-12",
+      "end_date": "2027-03-12",
+      "date_status": "expected",
+      "last_edition_date": "2026-03-13",
+      "organiser": "Indo-French Chamber of Commerce and Industry (IFCCI)",
+      "official_url": "https://www.ifcci.org.in/events/upcoming-events/e/event/6th-edition-of-the-ifcci-chennai-sports-tournament.html",
+      "registration": {
+        "status": "upcoming",
+        "opens": null,
+        "closes": null,
+        "url": "https://www.ifcci.org.in/events/upcoming-events/e/event/6th-edition-of-the-ifcci-chennai-sports-tournament.html",
+        "notes": "Prior registration mandatory, slots first-come first-served. The 2026 listing gives both 6 March and 13 March, so confirm the date."
+      },
+      "summary": "One-day multi-sport corporate tournament run by the Indo-French Chamber in Chennai, with table tennis doubles alongside 5 v 5 football, throwball, cricket and badminton. The 6th edition was held in March 2026 at the Loyola campus in Nungambakkam.",
+      "categories": [
+        {
+          "name": "Table Tennis Doubles (men's, women's or mixed)",
+          "distance_km": null, "swim_km": null, "bike_km": null, "run_km": null,
+          "fee_inr": 3500,
+          "start_time": "07:00",
+          "cutoff": null, "min_age": null,
+          "level": "open",
+          "eligibility": "Company teams; no gender classification",
+          "notes": "Fee per pair (2026). Single entry Rs 2,000."
+        }
+      ],
+      "course": {
+        "terrain": "indoor",
+        "surface": "indoor hall",
+        "elevation_gain_m": null,
+        "profile": null,
+        "description": "College campus in Nungambakkam, central Chennai."
+      },
+      "format": "Doubles; pairs can be all-men, all-women or mixed. One-day event, 7 AM to 4 PM. Draw format not published.",
+      "highlights": [
+        "Six editions held up to 2026",
+        "Same event offers 5 v 5 football at Rs 10,000 per team (6 players)"
+      ],
+      "tips": [
+        "Slots fill first-come first-served; register in January",
+        "March in Chennai is already hot; carry water and a spare shirt"
+      ],
+      "amenities": [],
+      "beginner_friendly": true,
+      "tags": ["corporate", "multi-sport"],
+      "sources": [
+        "https://www.ifcci.org.in/events/upcoming-events/e/event/6th-edition-of-the-ifcci-chennai-sports-tournament.html"
+      ]
+    },
+    {
+      "name": "CCI Western India Squash Championship",
+      "edition": "2026, 81st edition",
+      "sport": "squash",
+      "discipline": "singles",
+      "city": "Mumbai",
+      "venue": "Cricket Club of India (Anil Nayar squash complex), Brabourne Stadium, Churchgate",
+      "venue_lat": 18.9322,
+      "venue_lon": 72.8247,
+      "start_date": "2026-12-08",
+      "end_date": "2026-12-13",
+      "date_status": "confirmed",
+      "last_edition_date": "2025-12-17",
+      "organiser": "Cricket Club of India, under SRFI and the Maharashtra Squash Racquets Association",
+      "official_url": "https://www.indiasquash.com",
+      "registration": {
+        "status": "open",
+        "opens": "2026-05-01",
+        "closes": "2026-11-03",
+        "url": "https://www.indiasquash.com",
+        "notes": "Entry through the SRFI online system. Rs 1,000 per category."
+      },
+      "summary": "India's oldest squash tournament, first held in 1943, and a 4-star SRFI national circuit event at CCI's six glass-backed courts. Draws cover juniors, men's and women's open, pro coaches and masters age groups from 35+ to 65+. Past champions include Saurav Ghosal and Joshna Chinappa.",
+      "categories": [
+        {
+          "name": "Men's Open",
+          "distance_km": null, "swim_km": null, "bike_km": null, "run_km": null,
+          "fee_inr": 1000,
+          "start_time": null, "cutoff": null, "min_age": null,
+          "level": "advanced",
+          "eligibility": null,
+          "notes": "Fee per player per category."
+        },
+        {
+          "name": "Women's Open",
+          "distance_km": null, "swim_km": null, "bike_km": null, "run_km": null,
+          "fee_inr": 1000,
+          "start_time": null, "cutoff": null, "min_age": null,
+          "level": "advanced",
+          "eligibility": null,
+          "notes": "Fee per player per category."
+        },
+        {
+          "name": "Men's Masters 35+, 40+, 45+, 50+, 55+, 60+, 65+",
+          "distance_km": null, "swim_km": null, "bike_km": null, "run_km": null,
+          "fee_inr": 1000,
+          "start_time": null, "cutoff": null, "min_age": 35,
+          "level": "intermediate",
+          "eligibility": "Age group as per SRFI masters rules",
+          "notes": "Seven separate age-group draws."
+        },
+        {
+          "name": "Women's Masters 35+",
+          "distance_km": null, "swim_km": null, "bike_km": null, "run_km": null,
+          "fee_inr": 1000,
+          "start_time": null, "cutoff": null, "min_age": 35,
+          "level": "intermediate",
+          "eligibility": "Age group as per SRFI masters rules",
+          "notes": null
+        },
+        {
+          "name": "Pro Coach",
+          "distance_km": null, "swim_km": null, "bike_km": null, "run_km": null,
+          "fee_inr": 1000,
+          "start_time": null, "cutoff": null, "min_age": null,
+          "level": "advanced",
+          "eligibility": "Professional squash coaches",
+          "notes": null
+        },
+        {
+          "name": "Junior Boys and Girls U-11 to U-19",
+          "distance_km": null, "swim_km": null, "bike_km": null, "run_km": null,
+          "fee_inr": 1000,
+          "start_time": null, "cutoff": null, "min_age": null,
+          "level": "intermediate",
+          "eligibility": "Age group as per SRFI junior rules",
+          "notes": "U-11, U-13, U-15, U-17 and U-19 draws for boys and girls."
+        }
+      ],
+      "course": {
+        "terrain": "indoor",
+        "surface": "glass-backed air-conditioned squash courts",
+        "elevation_gain_m": null,
+        "profile": null,
+        "description": "Six glass-backed courts at the Anil Nayar squash complex inside CCI's Brabourne Stadium in south Mumbai."
+      },
+      "format": "Knockout draws per category on the SRFI national circuit, rated 4-star for junior, senior and masters ranking points. Junior events add playoffs for the top 8 places.",
+      "highlights": [
+        "Held since 1943",
+        "Six glass-backed courts",
+        "4-star ranking points in junior, senior and masters draws"
+      ],
+      "tips": [
+        "Entries close on 3 November, five weeks before play",
+        "CCI is a short walk from Churchgate station; take the train rather than driving into south Mumbai",
+        "Check draw timings on the SRFI site each evening; schedules shift as junior rounds run long"
+      ],
+      "amenities": [
+        "Glass-backed courts",
+        "Air-conditioned courts"
+      ],
+      "beginner_friendly": false,
+      "tags": ["iconic", "national-circuit", "masters"],
+      "sources": [
+        "https://api.indiasquash.com/tournament/tour/AL/2026",
+        "https://api.indiasquash.com/tournament/tourweb/AL/2026/AL/AL",
+        "https://ianslive.in/80th-western-india-squash-tournament-to-commence-on-wednesday--20251215193536"
+      ]
+    },
+    {
+      "name": "Goa Squash Masters",
+      "edition": "2027 (expected)",
+      "sport": "squash",
+      "discipline": "masters singles",
+      "city": "Goa",
+      "venue": "SAG squash courts, SAG Sports Complex, Chicalim (near Vasco da Gama)",
+      "venue_lat": null,
+      "venue_lon": null,
+      "start_date": "2027-04-09",
+      "end_date": "2027-04-11",
+      "date_status": "expected",
+      "last_edition_date": "2026-04-10",
+      "organiser": "SRFI national circuit event (local organiser not named in the SRFI listing)",
+      "official_url": "https://www.indiasquash.com",
+      "registration": {
+        "status": "upcoming",
+        "opens": null,
+        "closes": null,
+        "url": "https://www.indiasquash.com",
+        "notes": "2026 entries ran 1 December 2025 to 4 March 2026 on the SRFI system. Rs 2,000 per category."
+      },
+      "summary": "Masters-only squash tournament in Goa on the SRFI national circuit, rated 5-star in both 2025 (28-30 March) and 2026 (10-12 April). Draws run from 35+ to 70+ for men and 35+ for women.",
+      "categories": [
+        {
+          "name": "Men's Masters 35+, 40+, 45+, 50+, 55+, 60+, 65+, 70+",
+          "distance_km": null, "swim_km": null, "bike_km": null, "run_km": null,
+          "fee_inr": 2000,
+          "start_time": null, "cutoff": null, "min_age": 35,
+          "level": "intermediate",
+          "eligibility": "Age group as per SRFI masters rules",
+          "notes": "Fee per player per category (2026)."
+        },
+        {
+          "name": "Women's Masters 35+",
+          "distance_km": null, "swim_km": null, "bike_km": null, "run_km": null,
+          "fee_inr": 2000,
+          "start_time": null, "cutoff": null, "min_age": 35,
+          "level": "intermediate",
+          "eligibility": "Age group as per SRFI masters rules",
+          "notes": "Listed in 2026, not in 2025."
+        }
+      ],
+      "course": {
+        "terrain": "indoor",
+        "surface": "squash courts",
+        "elevation_gain_m": null,
+        "profile": null,
+        "description": "Sports Authority of Goa courts at Chicalim, close to Dabolim airport and Vasco da Gama."
+      },
+      "format": "Three-day knockout tournament by age group, 5-star SRFI masters ranking event.",
+      "highlights": [
+        "Masters-only event",
+        "5-star SRFI rating",
+        "Eight men's age groups up to 70+"
+      ],
+      "tips": [
+        "Entries close about five weeks before play (4 March in 2026)",
+        "Chicalim is minutes from Dabolim airport, handy for flying in",
+        "April is hot and humid in Goa; hydrate between rounds"
+      ],
+      "amenities": [],
+      "beginner_friendly": false,
+      "tags": ["masters", "national-circuit"],
+      "sources": [
+        "https://api.indiasquash.com/tournament/tourweb/AL/2026/AL/AL",
+        "https://api.indiasquash.com/tournament/tourweb/AL/2025/AL/AL"
+      ]
+    },
+    {
+      "name": "Mumbai Masters Squash Championships",
+      "edition": "2027, 6th edition (expected)",
+      "sport": "squash",
+      "discipline": "masters singles",
+      "city": "Mumbai",
+      "venue": "Cricket Club of India, Brabourne Stadium, Churchgate",
+      "venue_lat": 18.9322,
+      "venue_lon": 72.8247,
+      "start_date": "2027-10-07",
+      "end_date": "2027-10-10",
+      "date_status": "expected",
+      "last_edition_date": "2026-10-08",
+      "organiser": "Mumbai Masters organising committee, at the Cricket Club of India (SRFI national circuit)",
+      "official_url": "https://www.indiasquash.com",
+      "registration": {
+        "status": "upcoming",
+        "opens": null,
+        "closes": null,
+        "url": "https://www.indiasquash.com",
+        "notes": "2026 entries ran 27 May to 4 September on the SRFI system. Rs 2,000 per category."
+      },
+      "summary": "Masters squash championship at CCI's glass-backed courts, rated 5-star on the SRFI national circuit. Held 9-12 October 2025 (4th edition) and 8-11 October 2026 (5th). The 2025 handbook was published through the Asian Squash Federation with travel information for overseas players.",
+      "categories": [
+        {
+          "name": "Men's Masters 35+, 40+, 45+, 50+, 55+, 60+, 65+, 70+",
+          "distance_km": null, "swim_km": null, "bike_km": null, "run_km": null,
+          "fee_inr": 2000,
+          "start_time": null, "cutoff": null, "min_age": 35,
+          "level": "intermediate",
+          "eligibility": "Age group as per SRFI masters rules",
+          "notes": "Fee per player per category (2026)."
+        },
+        {
+          "name": "Women's Masters 35+ and 50+",
+          "distance_km": null, "swim_km": null, "bike_km": null, "run_km": null,
+          "fee_inr": 2000,
+          "start_time": null, "cutoff": null, "min_age": 35,
+          "level": "intermediate",
+          "eligibility": "Age group as per SRFI masters rules",
+          "notes": null
+        },
+        {
+          "name": "Pro Coach",
+          "distance_km": null, "swim_km": null, "bike_km": null, "run_km": null,
+          "fee_inr": 2000,
+          "start_time": null, "cutoff": null, "min_age": null,
+          "level": "advanced",
+          "eligibility": "Professional squash coaches",
+          "notes": null
+        }
+      ],
+      "course": {
+        "terrain": "indoor",
+        "surface": "glass-backed air-conditioned squash courts",
+        "elevation_gain_m": null,
+        "profile": null,
+        "description": "Six glass-backed courts at the Anil Nayar squash complex inside CCI, Churchgate."
+      },
+      "format": "Four-day knockout tournament by age group, 5-star SRFI masters ranking event.",
+      "highlights": [
+        "5-star SRFI masters ranking event",
+        "Women's 50+ draw, rare on the circuit",
+        "Glass-backed courts at CCI"
+      ],
+      "tips": [
+        "Entries close about five weeks before play (4 September in 2026)",
+        "Mumbai is hot and humid in early October; courts are air-conditioned",
+        "CCI is a short walk from Churchgate station"
+      ],
+      "amenities": [
+        "Glass-backed courts",
+        "Air-conditioned courts"
+      ],
+      "beginner_friendly": false,
+      "tags": ["masters", "national-circuit"],
+      "sources": [
+        "https://api.indiasquash.com/tournament/tourweb/AL/2026/AL/AL",
+        "https://api.indiasquash.com/tournament/tourweb/AL/2025/AL/AL",
+        "https://api.asiansquash.org/uploads/4th_Mumbai_Master_s_Squash_Championships_CHAMPIONSHIP_HANDBOOK_2025_6f08144e4d.pdf"
+      ]
+    },
+    {
+      "name": "Maharashtra State Open Squash Tournament (Bombay Gymkhana)",
+      "edition": "2027, 50th edition (expected)",
+      "sport": "squash",
+      "discipline": "singles",
+      "city": "Mumbai",
+      "venue": "Bombay Gymkhana squash complex, Mahatma Gandhi Road, Fort",
+      "venue_lat": 18.9385,
+      "venue_lon": 72.8322,
+      "start_date": "2027-08-28",
+      "end_date": "2027-09-02",
+      "date_status": "expected",
+      "last_edition_date": "2026-08-29",
+      "organiser": "Bombay Gymkhana, on the SRFI national circuit",
+      "official_url": "https://www.indiasquash.com",
+      "registration": {
+        "status": "upcoming",
+        "opens": null,
+        "closes": null,
+        "url": "https://www.indiasquash.com",
+        "notes": "2026 entries ran 8 April to 27 July on the SRFI system. Rs 1,000 per category."
+      },
+      "summary": "Long-running open squash tournament at Bombay Gymkhana (48th edition 9-14 August 2025, 49th 29 August to 3 September 2026). It is listed as a 4-star national circuit event rather than a state-closed one, with junior, open, pro-coach and masters draws.",
+      "categories": [
+        {
+          "name": "Men's Open",
+          "distance_km": null, "swim_km": null, "bike_km": null, "run_km": null,
+          "fee_inr": 1000,
+          "start_time": null, "cutoff": null, "min_age": null,
+          "level": "advanced",
+          "eligibility": null,
+          "notes": "Fee per player per category (2026)."
+        },
+        {
+          "name": "Women's Open",
+          "distance_km": null, "swim_km": null, "bike_km": null, "run_km": null,
+          "fee_inr": 1000,
+          "start_time": null, "cutoff": null, "min_age": null,
+          "level": "advanced",
+          "eligibility": null,
+          "notes": null
+        },
+        {
+          "name": "Men's Masters 35+, 40+, 45+, 50+, 55+, 60+, 65+",
+          "distance_km": null, "swim_km": null, "bike_km": null, "run_km": null,
+          "fee_inr": 1000,
+          "start_time": null, "cutoff": null, "min_age": 35,
+          "level": "intermediate",
+          "eligibility": "Age group as per SRFI masters rules",
+          "notes": null
+        },
+        {
+          "name": "Women's Masters 35+",
+          "distance_km": null, "swim_km": null, "bike_km": null, "run_km": null,
+          "fee_inr": 1000,
+          "start_time": null, "cutoff": null, "min_age": 35,
+          "level": "intermediate",
+          "eligibility": "Age group as per SRFI masters rules",
+          "notes": "Listed in 2026."
+        },
+        {
+          "name": "Junior Boys and Girls U-11 to U-19",
+          "distance_km": null, "swim_km": null, "bike_km": null, "run_km": null,
+          "fee_inr": 1000,
+          "start_time": null, "cutoff": null, "min_age": null,
+          "level": "intermediate",
+          "eligibility": "Age group as per SRFI junior rules",
+          "notes": null
+        }
+      ],
+      "course": {
+        "terrain": "indoor",
+        "surface": "squash courts",
+        "elevation_gain_m": null,
+        "profile": null,
+        "description": "Bombay Gymkhana's squash complex beside Azad Maidan in south Mumbai."
+      },
+      "format": "Knockout draws per category, 4-star SRFI national circuit ranking event.",
+      "highlights": [
+        "Nearly 50 editions",
+        "Historic Bombay Gymkhana venue",
+        "Masters draws from 35+ to 65+"
+      ],
+      "tips": [
+        "Entries close about a month before play (27 July in 2026)",
+        "Late August is still monsoon in Mumbai; allow extra travel time",
+        "Bombay Gymkhana is a short walk from CSMT and Churchgate stations"
+      ],
+      "amenities": [],
+      "beginner_friendly": false,
+      "tags": ["national-circuit", "masters"],
+      "sources": [
+        "https://api.indiasquash.com/tournament/tourweb/AL/2026/AL/AL",
+        "https://api.indiasquash.com/tournament/tourweb/AL/2025/AL/AL"
+      ]
+    },
+    {
+      "name": "White Lotus Bengaluru Squash Open",
+      "edition": "2027, 5th edition (expected)",
+      "sport": "squash",
+      "discipline": "singles",
+      "city": "Bengaluru",
+      "venue": "The Bangalore Club, Residency Road",
+      "venue_lat": 12.9697,
+      "venue_lon": 77.6036,
+      "start_date": "2027-09-08",
+      "end_date": "2027-09-12",
+      "date_status": "expected",
+      "last_edition_date": "2026-09-09",
+      "organiser": "Sanctioned by the Squash Association of Karnataka; title sponsor White Lotus Group",
+      "official_url": "https://www.indiasquash.com",
+      "registration": {
+        "status": "upcoming",
+        "opens": null,
+        "closes": null,
+        "url": "https://www.indiasquash.com",
+        "notes": "2026 entries ran 27 July to 13 August on the SRFI system. Rs 1,000 per category."
+      },
+      "summary": "3-star SRFI national circuit event at The Bangalore Club. The 4th edition (9-13 September 2026) drew 305 players from 21 states across 17 categories, including open and masters draws.",
+      "categories": [
+        {
+          "name": "Men's Open",
+          "distance_km": null, "swim_km": null, "bike_km": null, "run_km": null,
+          "fee_inr": 1000,
+          "start_time": null, "cutoff": null, "min_age": null,
+          "level": "advanced",
+          "eligibility": null,
+          "notes": "Fee per player per category (2026)."
+        },
+        {
+          "name": "Women's Open",
+          "distance_km": null, "swim_km": null, "bike_km": null, "run_km": null,
+          "fee_inr": 1000,
+          "start_time": null, "cutoff": null, "min_age": null,
+          "level": "advanced",
+          "eligibility": null,
+          "notes": null
+        },
+        {
+          "name": "Men's Masters 35+, 45+, 55+, 60+, 70+",
+          "distance_km": null, "swim_km": null, "bike_km": null, "run_km": null,
+          "fee_inr": 1000,
+          "start_time": null, "cutoff": null, "min_age": 35,
+          "level": "intermediate",
+          "eligibility": "Age group as per SRFI masters rules",
+          "notes": "Age groups as listed for 2026."
+        },
+        {
+          "name": "Women's Masters 35+ and 45+",
+          "distance_km": null, "swim_km": null, "bike_km": null, "run_km": null,
+          "fee_inr": 1000,
+          "start_time": null, "cutoff": null, "min_age": 35,
+          "level": "intermediate",
+          "eligibility": "Age group as per SRFI masters rules",
+          "notes": null
+        },
+        {
+          "name": "Junior Boys and Girls U-11 to U-19",
+          "distance_km": null, "swim_km": null, "bike_km": null, "run_km": null,
+          "fee_inr": 1000,
+          "start_time": null, "cutoff": null, "min_age": null,
+          "level": "intermediate",
+          "eligibility": "Age group as per SRFI junior rules",
+          "notes": null
+        }
+      ],
+      "course": {
+        "terrain": "indoor",
+        "surface": "squash courts",
+        "elevation_gain_m": null,
+        "profile": null,
+        "description": "Squash courts at The Bangalore Club on Residency Road in central Bengaluru."
+      },
+      "format": "Knockout draws per category, 3-star SRFI national circuit ranking event.",
+      "highlights": [
+        "305 players from 21 states in 2026",
+        "17 categories including women's 45+ masters"
+      ],
+      "tips": [
+        "The 2026 entry window was only about two and a half weeks, so watch the SRFI calendar from late July",
+        "Large junior field; check your draw times daily"
+      ],
+      "amenities": [],
+      "beginner_friendly": false,
+      "tags": ["national-circuit", "masters"],
+      "sources": [
+        "https://api.indiasquash.com/tournament/tourweb/AL/2026/AL/AL",
+        "https://www.uniindia.com/sports/sports-squash-tournament-bengaluru/172466"
+      ]
+    },
+    {
+      "name": "Willingdon Squash Open (Little Masters Willingdon Open)",
+      "edition": "2027 (expected)",
+      "sport": "squash",
+      "discipline": "singles",
+      "city": "Mumbai",
+      "venue": "The Willingdon Sports Club, Tardeo",
+      "venue_lat": null,
+      "venue_lon": null,
+      "start_date": "2027-01-15",
+      "end_date": "2027-01-19",
+      "date_status": "expected",
+      "last_edition_date": "2026-01-16",
+      "organiser": "The Willingdon Sports Club, on the SRFI national circuit",
+      "official_url": "https://www.indiasquash.com",
+      "registration": {
+        "status": "upcoming",
+        "opens": null,
+        "closes": null,
+        "url": "https://www.indiasquash.com",
+        "notes": "2026 entries ran 4 to 19 December 2025 on the SRFI system. Rs 1,000 per category."
+      },
+      "summary": "4-star SRFI national circuit event at The Willingdon Sports Club, held each January (19-23 January 2025, 16-20 January 2026). The 2026 edition had masters draws from 35+ to 65+ for men and 35+ for women alongside open and junior events.",
+      "categories": [
+        {
+          "name": "Men's Open",
+          "distance_km": null, "swim_km": null, "bike_km": null, "run_km": null,
+          "fee_inr": 1000,
+          "start_time": null, "cutoff": null, "min_age": null,
+          "level": "advanced",
+          "eligibility": null,
+          "notes": "Fee per player per category (2026)."
+        },
+        {
+          "name": "Women's Open",
+          "distance_km": null, "swim_km": null, "bike_km": null, "run_km": null,
+          "fee_inr": 1000,
+          "start_time": null, "cutoff": null, "min_age": null,
+          "level": "advanced",
+          "eligibility": null,
+          "notes": null
+        },
+        {
+          "name": "Men's Masters 35+, 40+, 45+, 50+, 55+, 60+, 65+",
+          "distance_km": null, "swim_km": null, "bike_km": null, "run_km": null,
+          "fee_inr": 1000,
+          "start_time": null, "cutoff": null, "min_age": 35,
+          "level": "intermediate",
+          "eligibility": "Age group as per SRFI masters rules",
+          "notes": "Age groups as listed for 2026."
+        },
+        {
+          "name": "Women's Masters 35+",
+          "distance_km": null, "swim_km": null, "bike_km": null, "run_km": null,
+          "fee_inr": 1000,
+          "start_time": null, "cutoff": null, "min_age": 35,
+          "level": "intermediate",
+          "eligibility": "Age group as per SRFI masters rules",
+          "notes": null
+        },
+        {
+          "name": "Junior Boys and Girls U-11 to U-19",
+          "distance_km": null, "swim_km": null, "bike_km": null, "run_km": null,
+          "fee_inr": 1000,
+          "start_time": null, "cutoff": null, "min_age": null,
+          "level": "intermediate",
+          "eligibility": "Age group as per SRFI junior rules",
+          "notes": null
+        }
+      ],
+      "course": {
+        "terrain": "indoor",
+        "surface": "squash courts",
+        "elevation_gain_m": null,
+        "profile": null,
+        "description": "Club squash courts at The Willingdon Sports Club, Tardeo, south-central Mumbai."
+      },
+      "format": "Knockout draws per category, 4-star SRFI national circuit ranking event.",
+      "highlights": [
+        "4-star ranking points",
+        "Seven men's masters age groups in 2026"
+      ],
+      "tips": [
+        "Entries close in mid-December, about four weeks before play",
+        "In 2026 the Juhu Gymkhana Squash Open ran the week before (10-14 January), so Mumbai players can enter both"
+      ],
+      "amenities": [],
+      "beginner_friendly": false,
+      "tags": ["national-circuit", "masters"],
+      "sources": [
+        "https://api.indiasquash.com/tournament/tourweb/AL/2026/AL/AL",
+        "https://api.indiasquash.com/tournament/tourweb/AL/2025/AL/AL"
+      ]
+    },
+    {
+      "name": "Telangana Squash Open",
+      "edition": "2027 (expected)",
+      "sport": "squash",
+      "discipline": "singles",
+      "city": "Hyderabad",
+      "venue": "Secunderabad Club, Picket, Secunderabad",
+      "venue_lat": null,
+      "venue_lon": null,
+      "start_date": "2027-07-03",
+      "end_date": "2027-07-07",
+      "date_status": "expected",
+      "last_edition_date": "2026-07-04",
+      "organiser": "Hosted at Secunderabad Club on the SRFI national circuit",
+      "official_url": "https://www.indiasquash.com",
+      "registration": {
+        "status": "upcoming",
+        "opens": null,
+        "closes": null,
+        "url": "https://www.indiasquash.com",
+        "notes": "2026 entries ran 8 April to 4 June on the SRFI system. Rs 1,000 per category."
+      },
+      "summary": "3-star SRFI national circuit event at the Secunderabad Club, held 25-29 June 2025 and 4-8 July 2026. It includes men's and women's open draws and masters draws for men 35+, 45+, 55+ and 60+ and women 35+.",
+      "categories": [
+        {
+          "name": "Men's Open",
+          "distance_km": null, "swim_km": null, "bike_km": null, "run_km": null,
+          "fee_inr": 1000,
+          "start_time": null, "cutoff": null, "min_age": null,
+          "level": "advanced",
+          "eligibility": null,
+          "notes": "Fee per player per category (2026)."
+        },
+        {
+          "name": "Women's Open",
+          "distance_km": null, "swim_km": null, "bike_km": null, "run_km": null,
+          "fee_inr": 1000,
+          "start_time": null, "cutoff": null, "min_age": null,
+          "level": "advanced",
+          "eligibility": null,
+          "notes": null
+        },
+        {
+          "name": "Men's Masters 35+, 45+, 55+, 60+",
+          "distance_km": null, "swim_km": null, "bike_km": null, "run_km": null,
+          "fee_inr": 1000,
+          "start_time": null, "cutoff": null, "min_age": 35,
+          "level": "intermediate",
+          "eligibility": "Age group as per SRFI masters rules",
+          "notes": "Age groups as listed for 2026."
+        },
+        {
+          "name": "Women's Masters 35+",
+          "distance_km": null, "swim_km": null, "bike_km": null, "run_km": null,
+          "fee_inr": 1000,
+          "start_time": null, "cutoff": null, "min_age": 35,
+          "level": "intermediate",
+          "eligibility": "Age group as per SRFI masters rules",
+          "notes": null
+        },
+        {
+          "name": "Junior Boys and Girls U-11 to U-19",
+          "distance_km": null, "swim_km": null, "bike_km": null, "run_km": null,
+          "fee_inr": 1000,
+          "start_time": null, "cutoff": null, "min_age": null,
+          "level": "intermediate",
+          "eligibility": "Age group as per SRFI junior rules",
+          "notes": null
+        }
+      ],
+      "course": {
+        "terrain": "indoor",
+        "surface": "squash courts",
+        "elevation_gain_m": null,
+        "profile": null,
+        "description": "Squash courts at the Secunderabad Club, near Jubilee Bus Station."
+      },
+      "format": "Knockout draws per category, 3-star SRFI national circuit ranking event.",
+      "highlights": [
+        "The only SRFI national circuit open in Hyderabad in the 2025 and 2026 calendars",
+        "Masters draws up to 60+"
+      ],
+      "tips": [
+        "Entries close about a month before play (4 June in 2026)",
+        "Early July is monsoon onset in Hyderabad; allow extra travel time"
+      ],
+      "amenities": [],
+      "beginner_friendly": false,
+      "tags": ["national-circuit", "masters"],
+      "sources": [
+        "https://api.indiasquash.com/tournament/tourweb/AL/2026/AL/AL",
+        "https://api.indiasquash.com/tournament/tourweb/AL/2025/AL/AL"
+      ]
+    },
+    {
+      "name": "Red Bull Half Court India",
+      "edition": "2027 (expected)",
+      "sport": "basketball",
+      "discipline": "3x3",
+      "city": "Chandigarh",
+      "venue": "Sector 17, Chandigarh (2026 national final); 2026 city qualifiers in Chandigarh and Ludhiana",
+      "venue_lat": 30.7398,
+      "venue_lon": 76.7827,
+      "start_date": "2027-03-28",
+      "end_date": "2027-05-15",
+      "date_status": "expected",
+      "last_edition_date": "2026-05-16",
+      "organiser": "Red Bull India",
+      "official_url": "https://www.redbull.com/in-en/events/red-bull-half-court",
+      "registration": {
+        "status": "unknown",
+        "opens": null,
+        "closes": null,
+        "url": "https://www.redbull.com/in-en/events/red-bull-half-court",
+        "notes": "India team fee not published (the Australian edition charges A$150 per team). National winners go to the Red Bull Half Court World Final. last_edition_date is the 2026 national final; qualifiers ran in the weeks before."
+      },
+      "summary": "Red Bull's global 3x3 streetball competition, run in about 14 to 16 countries. The 2026 India edition had two city qualifiers, Chandigarh and Ludhiana, with 32 teams each; the top 8 met at the national final in Sector 17, Chandigarh, where Team 911 beat John Deere 14-12 to qualify for the World Final in Manila on 5 December 2026. An India edition was also held in 2024.",
+      "categories": [
+        {
+          "name": "Men's 3x3 Open",
+          "distance_km": null, "swim_km": null, "bike_km": null, "run_km": null,
+          "fee_inr": null,
+          "start_time": null, "cutoff": null, "min_age": null,
+          "level": "advanced",
+          "eligibility": null,
+          "notes": "All 32 players at the 2026 national final had played for their states and 16 at national level."
+        }
+      ],
+      "course": {
+        "terrain": "court",
+        "surface": "outdoor half court",
+        "elevation_gain_m": null,
+        "profile": null,
+        "description": "Outdoor court in the Sector 17 plaza, Chandigarh's central shopping district, for the 2026 final."
+      },
+      "format": "3x3 half-court games; teams advance from their group by winning games, plus one 'Own the Court' bonus spot per group for the team scoring the most total points. 2026: two qualifiers of 32 teams each, top 8 to the national final.",
+      "highlights": [
+        "Winners represent India at the global World Final",
+        "64 teams across two qualifiers in 2026",
+        "National final played outdoors in Sector 17"
+      ],
+      "tips": [
+        "Watch Red Bull India's events page from early in the year; 2026 qualifiers came before the May final",
+        "Points scored count towards the bonus spot, so run up the score in group games",
+        "The field is strong (state-level players), so it suits experienced club teams"
+      ],
+      "amenities": [],
+      "beginner_friendly": false,
+      "tags": ["3x3", "streetball", "world-final-qualifier"],
+      "sources": [
+        "https://newsable.asianetnews.com/sports/team-911-wins-red-bull-half-court-2026-to-represent-india-globally-articleshow-4f0sqpr",
+        "https://www.redbull.com/ua-uk/event-series/half-court"
+      ]
+    }
+  ]
+}
