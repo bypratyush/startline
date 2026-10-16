@@ -1,0 +1,54 @@
+# Full local stack: PostgreSQL + FastAPI + React/nginx.
+#   docker compose up --build        then open http://localhost:3000
+#   docker compose down -v           stop and delete the database volume
+name: startline
+
+services:
+  db:
+    image: postgres:17-alpine
+    environment:
+      POSTGRES_DB: startline
+      POSTGRES_USER: startline
+      POSTGRES_PASSWORD: ${DB_PASSWORD:-startline-local}
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U startline -d startline"]
+      interval: 5s
+      timeout: 3s
+      retries: 10
+    ports:
+      # 5433 on the host so it does not clash with a locally installed Postgres
+      - "127.0.0.1:5433:5432"
+
+  backend:
+    build:
+      context: ./backend
+      args:
+        APP_VERSION: compose
+    environment:
+      APP_ENV: compose
+      DB_HOST: db
+      DB_PORT: "5432"
+      DB_NAME: startline
+      DB_USER: startline
+      DB_PASSWORD: ${DB_PASSWORD:-startline-local}
+      LOG_LEVEL: INFO
+      CORS_ORIGINS: http://localhost:3000,http://localhost:5173
+    depends_on:
+      db:
+        condition: service_healthy
+    ports:
+      - "8000:8000"
+
+  frontend:
+    build: ./frontend
+    environment:
+      BACKEND_URL: http://backend:8000
+    depends_on:
+      - backend
+    ports:
+      - "3000:8080"
+
+volumes:
+  pgdata:
