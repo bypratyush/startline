@@ -83,9 +83,9 @@ variable "eks_version" {
 }
 
 variable "node_instance_types" {
-  description = "Instance types for the managed node group."
+  description = "Instance types for the managed node group. c7i-flex.large (2 vCPU, 4 GiB) is the size of a t3.medium and is also allowed on AWS Free plan accounts."
   type        = list(string)
-  default     = ["t3.medium"]
+  default     = ["c7i-flex.large"]
 }
 
 variable "node_scaling" {
@@ -111,10 +111,10 @@ variable "api_allowed_cidrs" {
 
 # ---- GitHub Actions deploy role (github-oidc.tf) -----------------------------
 
-variable "github_repository" {
-  description = "owner/name of the repository whose deploy job may assume the deploy role."
+variable "github_oidc_sub_prefix" {
+  description = "Subject prefix in the repository's GitHub OIDC tokens. Newer repositories use immutable owner and repo IDs; read it with: gh api repos/<owner>/<repo>/actions/oidc/customization/sub"
   type        = string
-  default     = "bypratyush/startline"
+  default     = "repo:bypratyush@68912154/startline@1420597870"
 }
 
 variable "github_environment" {

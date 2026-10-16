@@ -7,13 +7,14 @@ availability_zones = ["ap-south-1a", "ap-south-1b"]
 vpc_cidr           = "10.40.0.0/16"
 
 eks_version         = "1.35"
-node_instance_types = ["t3.medium"]
+node_instance_types = ["c7i-flex.large"]
 node_scaling        = { min = 2, desired = 2, max = 4 }
 
 # Narrow this to your own IP or VPN range
 api_allowed_cidrs = ["0.0.0.0/0"]
 
-# The CI deploy role trusts this repository's "production" environment only.
+# The CI deploy role trusts this repository's "production" environment only. The prefix
+# comes from: gh api repos/<owner>/<repo>/actions/oidc/customization/sub
 # If the account already has a GitHub OIDC provider, pass its ARN instead of creating one.
-github_repository        = "bypratyush/startline"
+github_oidc_sub_prefix   = "repo:bypratyush@68912154/startline@1420597870"
 github_oidc_provider_arn = ""

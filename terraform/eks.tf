@@ -42,13 +42,14 @@ resource "aws_launch_template" "nodes" {
 }
 
 resource "aws_eks_node_group" "main" {
-  count           = var.enable_eks ? 1 : 0
-  cluster_name    = aws_eks_cluster.main[0].name
-  node_group_name = "${var.project_name}-nodes"
-  node_role_arn   = aws_iam_role.nodes.arn
-  subnet_ids      = aws_subnet.private[*].id
-  instance_types  = var.node_instance_types
-  capacity_type   = "ON_DEMAND"
+  count        = var.enable_eks ? 1 : 0
+  cluster_name = aws_eks_cluster.main[0].name
+  # a prefix, not a fixed name, so a replacement group can come up before the old one is gone
+  node_group_name_prefix = "${var.project_name}-nodes-"
+  node_role_arn          = aws_iam_role.nodes.arn
+  subnet_ids             = aws_subnet.private[*].id
+  instance_types         = var.node_instance_types
+  capacity_type          = "ON_DEMAND"
 
   scaling_config {
     min_size     = var.node_scaling.min
