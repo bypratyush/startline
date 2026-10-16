@@ -287,8 +287,12 @@ test ──> build-scan-push (backend, frontend in parallel) ──> deploy
 The image tag is always the commit SHA, so production traces back to source:
 
 ```text
-commit 3f2c9a1 -> ghcr.io/bypratyush/startline-backend:3f2c9a1 -> pod image in the cluster
+commit 301bd07 -> ghcr.io/bypratyush/startline-backend:301bd07 -> pod image on EKS
 ```
+
+| Pipeline run (all four jobs green) | Images in GHCR, tagged by commit |
+|---|---|
+| ![GitHub Actions run](screenshots/ci-run.jpg) | ![GHCR versions](screenshots/ghcr-backend-versions.jpg) |
 
 The `test` job was run locally with [act](https://github.com/nektos/act) on a
 throwaway copy of the repository; the log is in [output.md](output.md#ci-test-job-run-locally-with-act).
@@ -301,6 +305,13 @@ git commit -am "Discover: new hero line" && git push      # pipeline: test -> bu
 ./scripts/deploy.sh kind                                  # waits for ghcr.io/.../startline-*:<sha>, then helm upgrade
 kubectl -n startline get deploy -o wide                   # both Deployments now run the new SHA
 ```
+
+On AWS the pipeline does the last step itself. With `AWS_DEPLOY_ROLE_ARN` set, the
+deploy job signed in through OIDC and rolled commit `301bd07` out to EKS: 3 backend
+and 3 frontend pods, Postgres on an encrypted gp3 volume, and the Ingress on an AWS
+load balancer.
+
+![The deploy job on EKS](screenshots/ci-deploy-eks.jpg)
 
 ## 10. Security scanning
 
@@ -335,6 +346,14 @@ StartLine stands on each:
 | Container scanning | OS and library CVEs in images | Trivy gate in CI: any HIGH/CRITICAL fails the build |
 | Runtime security | what a running container may do | non-root users, read-only root filesystems, all capabilities dropped, seccomp RuntimeDefault, namespace enforces the `restricted` Pod Security Standard |
 
+The same gate inside the pipeline, on the images it is about to push:
+
+| Backend (`301bd07`, alpine 3.24.2) | Frontend (`301bd07`) |
+|---|---|
+| ![Trivy step, backend](screenshots/ci-trivy-backend.jpg) | ![Trivy step, frontend](screenshots/ci-trivy-frontend.jpg) |
+
+Local scans of the same images:
+
 ![Trivy backend](screenshots/trivy-backend.png)
 ![Trivy frontend](screenshots/trivy-frontend.png)
 
@@ -351,7 +370,7 @@ AWS ap-south-1
  ├── IAM: cluster role, node role, EBS CSI role (Pod Identity)
  ├── IAM: GitHub OIDC provider + deploy role (only this repo's production deploy job may assume it)
  └── EKS 1.35 (API auth mode, control-plane logs)
-       ├── managed node group: t3.medium x2 (min 2, max 4), IMDSv2-only launch template
+       ├── managed node group: c7i-flex.large x2 (2 vCPU, 4 GiB; min 2, max 4), IMDSv2-only launch template
        ├── add-ons: vpc-cni, coredns, kube-proxy, eks-pod-identity-agent, aws-ebs-csi-driver, metrics-server
        └── access entry: the deploy role is cluster admin (it installs ingress-nginx and the release)
 ```
@@ -379,6 +398,30 @@ gh variable set AWS_DEPLOY_ROLE_ARN --body "<role arn>"   # the CI deploy job no
 `down` matters: the ingress controller's load balancer and the database volume
 are created by Kubernetes, not Terraform. Left behind, they block the VPC delete
 and keep billing.
+
+**The real run** (AWS account in ap-south-1, 16 Oct 2026). `terraform plan` showed
+the same 44 resources as on LocalStack, and the apply created them. The pipeline
+then deployed StartLine onto the cluster (section 9), reachable over the internet
+through the load balancer.
+
+| | |
+|---|---|
+| ![terraform plan on AWS](screenshots/aws-terraform-plan.png) `terraform plan`: 44 to add | ![VPC subnets](screenshots/aws-console-vpc-subnets.jpg) `startline-vpc`: 2 public and 2 private subnets in ap-south-1a and 1b |
+| ![EKS cluster](screenshots/aws-console-eks.jpg) EKS `startline-eks`, Kubernetes 1.35, Active | ![EKS nodes](screenshots/aws-console-eks-nodes.jpg) the managed node group: 2 nodes, one per zone |
+| ![kubectl on EKS](screenshots/aws-eks-kubectl.png) nodes, pods, Services, Ingress, volume, Helm release | ![StartLine on the AWS load balancer](screenshots/aws-app-elb.png) the app on the load balancer's address |
+
+Two things only the real account showed, both fixed in Terraform:
+
+1. **Free plan instance types.** New AWS accounts on the Free plan cannot launch
+   `t3.medium`. The node group sat in `CREATING` while the Auto Scaling group logged
+   "The specified instance type is not eligible for Free Tier". The nodes now use
+   `c7i-flex.large` (same 2 vCPU and 4 GiB, Free plan eligible), and the node group
+   takes a name prefix so a replacement can start before the old one is deleted.
+2. **GitHub's OIDC subject.** The deploy job was refused with "Not authorized to
+   perform sts:AssumeRoleWithWebIdentity". This repository sends GitHub's newer
+   immutable subject, `repo:bypratyush@68912154/startline@1420597870:environment:production`,
+   which names the owner and repository by ID, so a re-created repository with the
+   same name cannot take over the role. The trust policy now matches it.
 
 ## 12. Kubernetes and Helm
 
@@ -601,8 +644,7 @@ The aim: something an athlete would trust, made with care. Minimal, sharp and ca
 * **Expected dates.** 75 events have dates inferred from previous editions. They are clearly marked, and the organiser site is linked.
 * **Registration.** StartLine keeps your place in your season plan and issues a bib, but payment, timing chips and official start lists stay with the organiser. The confirmation says so and links to the official entry.
 * **Weather.** Conditions come from long-term monthly normals, not a forecast.
-* **Terraform.** EKS was planned but not applied: there is no AWS account, and LocalStack Community has no EKS API. The network and IAM were applied and destroyed for real.
-* **Deploy job.** It needs a real cluster and the `AWS_DEPLOY_ROLE_ARN` variable. Until then it skips with a notice. Locally the same `helm upgrade --install` was run against kind.
+* **The EKS cluster is not left running.** It costs about USD 0.30 an hour, so it is created for demos with `terraform/aws.sh` and destroyed after. While it is down, the `AWS_DEPLOY_ROLE_ARN` variable is removed and the deploy job skips with a notice; locally the same script deploys to kind.
 
 ## 21. Grading rubric: where each item is
 
@@ -620,22 +662,24 @@ Every criterion of the Session 21 rubric, with the file, command or screenshot t
 | **M2** Test database, not production | [conftest.py](backend/tests/conftest.py): a throwaway SQLite file seeded with the catalogue |
 | **M2** `pytest.ini` / `conftest.py` | [backend/pytest.ini](backend/pytest.ini), [backend/tests/conftest.py](backend/tests/conftest.py) |
 | **M3** Public GitHub repository | https://github.com/bypratyush/startline |
-| **M3** Meaningful commit messages, 10+ commits | [commit history](https://github.com/bypratyush/startline/commits/main): one commit per feature or tool |
+| **M3** Meaningful commit messages, 10+ commits | [commit history](https://github.com/bypratyush/startline/commits/main), [git-commits.jpg](screenshots/git-commits.jpg): one commit per feature or tool |
 | **M3** `.gitignore` covers `.env`, `__pycache__`, `node_modules`, `.venv` | [.gitignore](.gitignore) |
 | **M4** `backend/Dockerfile` builds | [backend/Dockerfile](backend/Dockerfile), [docker-compose-up-build.png](screenshots/docker-compose-up-build.png) |
 | **M4** Frontend multi-stage (Node build, nginx runtime) | [frontend/Dockerfile](frontend/Dockerfile): `node:22-alpine` build stage, `nginx-unprivileged` runtime |
 | **M4** Non-root images | backend `USER 10001`, frontend nginx uid 101 ([output.md](output.md#4-docker-images)) |
 | **M4** `docker compose up --build` starts all three services | [docker-compose-up-build.png](screenshots/docker-compose-up-build.png), [docker-compose-ps.png](screenshots/docker-compose-ps.png), the app on localhost:3000: [app-discover.jpg](screenshots/app-discover.jpg) |
-| **M5** Workflow file, runs on push to `main` | [.github/workflows/ci-cd.yml](.github/workflows/ci-cd.yml) (`on: push: branches: [main]`), [Actions runs](https://github.com/bypratyush/startline/actions) |
+| **M5** Workflow file, runs on push to `main` | [.github/workflows/ci-cd.yml](.github/workflows/ci-cd.yml) (`on: push: branches: [main]`), [Actions runs](https://github.com/bypratyush/startline/actions), [ci-run.jpg](screenshots/ci-run.jpg) |
 | **M5** `pytest` job gates the build | `test` job; `build-scan-push` has `needs: test` |
 | **M5** Frontend built in the pipeline | `npm ci` + `npm run build` in `test`, and the frontend image in `build-scan-push` |
 | **M5** Images for both frontend and backend | `build-scan-push` matrix: backend, frontend |
-| **M5** Pushed to GHCR | [startline-backend](https://github.com/bypratyush/startline/pkgs/container/startline-backend), [startline-frontend](https://github.com/bypratyush/startline/pkgs/container/startline-frontend) |
+| **M5** Pushed to GHCR | [startline-backend](https://github.com/bypratyush/startline/pkgs/container/startline-backend), [startline-frontend](https://github.com/bypratyush/startline/pkgs/container/startline-frontend), [ghcr-backend-versions.jpg](screenshots/ghcr-backend-versions.jpg) |
 | **M5** Tags are the commit SHA, not `latest` | `tag=${GITHUB_SHA::7}` in the workflow |
-| **M6** Trivy scans both images in CI | the "Trivy scan" step of each `build-scan-push` job |
+| **M6** Trivy scans both images in CI | the "Trivy scan" step of each `build-scan-push` job: [backend](screenshots/ci-trivy-backend.jpg), [frontend](screenshots/ci-trivy-frontend.jpg) |
 | **M6** Fails on HIGH or CRITICAL | `--severity HIGH,CRITICAL --exit-code 1`, no `--ignore-unfixed` |
 | **M6** Explanation of the result and one CVE | [section 10](#10-security-scanning): what was scanned, the clean result, CVE-2026-76642 in Debian's util-linux |
-| **M7** Valid HCL, `init`, `plan`, VPC with 2 public subnets, EKS with a node group, `destroy`, `tfvars.example` | [terraform/](terraform/), [terraform-localstack-run.png](screenshots/terraform-localstack-run.png), [section 11](#11-terraform-aws-vpc--eks) |
+| **M7** Valid HCL, `init`, `plan` | [terraform/](terraform/), [aws-terraform-plan.png](screenshots/aws-terraform-plan.png) (44 to add on AWS), [terraform-localstack-run.png](screenshots/terraform-localstack-run.png) |
+| **M7** VPC with 2 public subnets, EKS with a worker node group, in ap-south-1 | AWS Console: [VPC subnets](screenshots/aws-console-vpc-subnets.jpg), [EKS cluster](screenshots/aws-console-eks.jpg), [nodes](screenshots/aws-console-eks-nodes.jpg); [section 11](#11-terraform-aws-vpc--eks) |
+| **M7** `terraform destroy`, `terraform.tfvars.example` | [terraform-localstack-run.png](screenshots/terraform-localstack-run.png) (LocalStack), [terraform.tfvars.example](terraform/terraform.tfvars.example) |
 | **M8** `k8s/namespace.yaml` | [k8s/namespace.yaml](k8s/namespace.yaml) |
 | **M8** Helm chart with `Chart.yaml`, `values.yaml`, templates | [helm/startline/](helm/startline/) |
 | **M8** `helm upgrade --install` works | [helm-list.png](screenshots/helm-list.png), [helm-history.png](screenshots/helm-history.png) |
@@ -647,5 +691,5 @@ Every criterion of the Session 21 rubric, with the file, command or screenshot t
 | **M9** Grafana with live application panels | [grafana-dashboard-rush.jpg](screenshots/grafana-dashboard-rush.jpg), [dashboard JSON](monitoring/startline-dashboard.json) |
 | **M9** Prometheus and Grafana Helm values | [monitoring/kube-prometheus-stack-values.yaml](monitoring/kube-prometheus-stack-values.yaml) |
 | **M10** README explaining the app | this file |
-| **M10** Live demo: commit, pipeline, deployment update | [section 9](#9-cicd-with-github-actions) ("Commit to running pods") and [section 18](#18-final-demo-step-by-step) |
+| **M10** Live demo: commit, pipeline, deployment update | the pipeline deploying `301bd07` to EKS: [ci-deploy-eks.jpg](screenshots/ci-deploy-eks.jpg); [section 9](#9-cicd-with-github-actions) ("Commit to running pods") and [section 18](#18-final-demo-step-by-step) |
 
