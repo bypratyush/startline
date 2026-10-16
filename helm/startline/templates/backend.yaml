@@ -1,0 +1,106 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: {{ include "startline.fullname" . }}-backend
+  labels:
+    {{- include "startline.labels" . | nindent 4 }}
+    app.kubernetes.io/component: backend
+spec:
+  {{- if not .Values.backend.autoscaling.enabled }}
+  replicas: {{ .Values.backend.replicas }}
+  {{- end }}
+  revisionHistoryLimit: 5
+  strategy:
+    rollingUpdate:
+      maxUnavailable: 0
+      maxSurge: 1
+  selector:
+    matchLabels:
+      {{- include "startline.selector" (list . "backend") | nindent 6 }}
+  template:
+    metadata:
+      labels:
+        {{- include "startline.selector" (list . "backend") | nindent 8 }}
+      annotations:
+        # env vars are read once at start: roll the pods when config or the password changes
+        checksum/config: {{ include (print $.Template.BasePath "/configmap.yaml") . | sha256sum }}
+        checksum/secret: {{ include (print $.Template.BasePath "/secret.yaml") . | sha256sum }}
+    spec:
+      securityContext:
+        {{- include "startline.podSecurity" . | nindent 8 }}
+      containers:
+        - name: backend
+          image: {{ include "startline.image" (list . .Values.backend.image) }}
+          imagePullPolicy: {{ .Values.image.pullPolicy }}
+          ports:
+            - name: http
+              containerPort: {{ .Values.backend.port }}
+          env:
+            - name: APP_VERSION
+              value: {{ .Values.image.tag | quote }}
+            - name: DB_PASSWORD
+              valueFrom:
+                secretKeyRef:
+                  name: {{ include "startline.dbSecretName" . }}
+                  key: DB_PASSWORD
+          envFrom:
+            - configMapRef:
+                name: {{ include "startline.fullname" . }}-config
+          # migrations and the catalogue seed run in the entrypoint (each behind a
+          # Postgres advisory lock), so give a cold start time before liveness applies
+          startupProbe:
+            httpGet: { path: /health, port: http }
+            periodSeconds: 3
+            failureThreshold: 40
+          # liveness: is the process alive? cheap, never touches the DB
+          # timeouts above the 1 s default: a CPU-throttled pod under a load spike is
+          # slow, not dead, and should not be restarted or pulled out for it
+          livenessProbe:
+            httpGet: { path: /health, port: http }
+            periodSeconds: 10
+            timeoutSeconds: 3
+            failureThreshold: 3
+          # readiness: can it serve traffic now? checks the DB and the seeded catalogue
+          readinessProbe:
+            httpGet: { path: /ready, port: http }
+            periodSeconds: 5
+            timeoutSeconds: 3
+            failureThreshold: 3
+          resources:
+            {{- toYaml .Values.backend.resources | nindent 12 }}
+          securityContext:
+            {{- include "startline.containerSecurity" . | nindent 12 }}
+          volumeMounts:
+            - name: tmp
+              mountPath: /tmp
+      volumes:
+        - name: tmp
+          emptyDir: {}
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: {{ include "startline.fullname" . }}-backend
+  labels:
+    {{- include "startline.labels" . | nindent 4 }}
+    app.kubernetes.io/component: backend
+spec:
+  type: ClusterIP
+  selector:
+    {{- include "startline.selector" (list . "backend") | nindent 4 }}
+  ports:
+    - name: http
+      port: 8000
+      targetPort: http
+---
+apiVersion: policy/v1
+kind: PodDisruptionBudget
+metadata:
+  name: {{ include "startline.fullname" . }}-backend
+  labels:
+    {{- include "startline.labels" . | nindent 4 }}
+spec:
+  minAvailable: {{ .Values.backend.podDisruptionBudget.minAvailable }}
+  selector:
+    matchLabels:
+      {{- include "startline.selector" (list . "backend") | nindent 6 }}

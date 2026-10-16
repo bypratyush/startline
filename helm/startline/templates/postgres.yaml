@@ -1,0 +1,88 @@
+# PostgreSQL as a StatefulSet: a stable name (<release>-db-0) and its own
+# PersistentVolumeClaim from volumeClaimTemplates, so data survives pod restarts.
+# On AWS the managed alternative is Amazon RDS (see README, "Postgres in K8s vs RDS").
+apiVersion: v1
+kind: Service
+metadata:
+  name: {{ include "startline.fullname" . }}-db
+  labels:
+    {{- include "startline.labels" . | nindent 4 }}
+    app.kubernetes.io/component: database
+spec:
+  clusterIP: None
+  selector:
+    {{- include "startline.selector" (list . "database") | nindent 4 }}
+  ports:
+    - name: postgres
+      port: 5432
+---
+apiVersion: apps/v1
+kind: StatefulSet
+metadata:
+  name: {{ include "startline.fullname" . }}-db
+  labels:
+    {{- include "startline.labels" . | nindent 4 }}
+spec:
+  serviceName: {{ include "startline.fullname" . }}-db
+  replicas: 1
+  selector:
+    matchLabels:
+      {{- include "startline.selector" (list . "database") | nindent 6 }}
+  template:
+    metadata:
+      labels:
+        {{- include "startline.selector" (list . "database") | nindent 8 }}
+    spec:
+      securityContext:
+        {{- include "startline.podSecurity" . | nindent 8 }}
+        fsGroup: 70          # the postgres user in the alpine image
+        runAsUser: 70
+        runAsGroup: 70
+      containers:
+        - name: postgres
+          image: {{ .Values.database.image }}
+          ports:
+            - name: postgres
+              containerPort: 5432
+          env:
+            - name: POSTGRES_DB
+              value: {{ .Values.database.name | quote }}
+            - name: POSTGRES_USER
+              value: {{ .Values.database.user | quote }}
+            - name: POSTGRES_PASSWORD
+              valueFrom:
+                secretKeyRef:
+                  name: {{ include "startline.dbSecretName" . }}
+                  key: DB_PASSWORD
+            - name: PGDATA
+              value: /var/lib/postgresql/data/pgdata
+          readinessProbe:
+            exec:
+              command: ["sh", "-c", "pg_isready -U \"$POSTGRES_USER\" -d \"$POSTGRES_DB\""]
+            periodSeconds: 5
+          livenessProbe:
+            exec:
+              command: ["sh", "-c", "pg_isready -U \"$POSTGRES_USER\" -d \"$POSTGRES_DB\""]
+            initialDelaySeconds: 20
+            periodSeconds: 10
+          resources:
+            {{- toYaml .Values.database.resources | nindent 12 }}
+          # not readOnlyRootFilesystem: postgres writes its socket to /var/run/postgresql
+          securityContext:
+            allowPrivilegeEscalation: false
+            capabilities:
+              drop: ["ALL"]
+          volumeMounts:
+            - name: data
+              mountPath: /var/lib/postgresql/data
+  volumeClaimTemplates:
+    - metadata:
+        name: data
+      spec:
+        accessModes: ["ReadWriteOnce"]
+        {{- with .Values.database.storage.storageClassName }}
+        storageClassName: {{ . }}
+        {{- end }}
+        resources:
+          requests:
+            storage: {{ .Values.database.storage.size }}

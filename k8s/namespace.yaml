@@ -1,0 +1,10 @@
+# Logical isolation for everything StartLine runs in the cluster.
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: startline
+  labels:
+    app.kubernetes.io/part-of: startline
+    # enforce the "restricted" Pod Security Standard: non-root, no privilege escalation
+    pod-security.kubernetes.io/enforce: restricted
+    pod-security.kubernetes.io/enforce-version: latest

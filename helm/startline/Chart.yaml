@@ -1,0 +1,9 @@
+apiVersion: v2
+name: startline
+description: StartLine - sports events discovery (React frontend, FastAPI backend, PostgreSQL)
+type: application
+version: 1.0.0
+appVersion: "1.0.0"
+maintainers:
+  - name: Pratyush Mohanty
+keywords: [fastapi, react, postgres, capstone]

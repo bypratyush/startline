@@ -1,0 +1,13 @@
+StartLine {{ .Values.image.tag }} is installed in namespace {{ .Release.Namespace }}.
+
+  kubectl get pods,svc,hpa -n {{ .Release.Namespace }}
+{{- if .Values.ingress.enabled }}
+
+  App:      http://{{ .Values.ingress.host }}/
+  Swagger:  http://{{ .Values.ingress.host }}/docs
+  (on kind, map the host first: echo "127.0.0.1 {{ .Values.ingress.host }}" | sudo tee -a /etc/hosts)
+{{- else }}
+
+  kubectl -n {{ .Release.Namespace }} port-forward svc/{{ include "startline.fullname" . }}-frontend 8080:80
+  then open http://localhost:8080
+{{- end }}

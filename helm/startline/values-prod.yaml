@@ -1,0 +1,38 @@
+# AWS EKS: images from GHCR (tag set by CI), the DB password from a Secret that
+# is created outside Git, more headroom for the HPA.
+#   kubectl -n startline create secret generic startline-db --from-literal=DB_PASSWORD=...
+image:
+  registry: ghcr.io/bypratyush
+  tag: "set-by-ci"
+  pullPolicy: IfNotPresent
+
+config:
+  appEnv: prod
+  logLevel: INFO
+  # one worker per pod: the HPA scales pods, and Prometheus metrics stay per-process correct
+  webWorkers: "1"
+
+backend:
+  autoscaling:
+    minReplicas: 3
+    maxReplicas: 10
+
+frontend:
+  replicas: 3
+
+database:
+  existingSecret: startline-db
+  storage:
+    size: 10Gi
+    storageClassName: gp3
+
+ingress:
+  enabled: true
+  className: nginx
+  host: startline.example.com
+
+monitoring:
+  serviceMonitor:
+    enabled: true
+  prometheusRule:
+    enabled: true

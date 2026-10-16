@@ -1,0 +1,66 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: {{ include "startline.fullname" . }}-frontend
+  labels:
+    {{- include "startline.labels" . | nindent 4 }}
+    app.kubernetes.io/component: frontend
+spec:
+  replicas: {{ .Values.frontend.replicas }}
+  revisionHistoryLimit: 5
+  selector:
+    matchLabels:
+      {{- include "startline.selector" (list . "frontend") | nindent 6 }}
+  template:
+    metadata:
+      labels:
+        {{- include "startline.selector" (list . "frontend") | nindent 8 }}
+    spec:
+      securityContext:
+        {{- include "startline.podSecurity" . | nindent 8 }}
+      containers:
+        - name: frontend
+          image: {{ include "startline.image" (list . .Values.frontend.image) }}
+          imagePullPolicy: {{ .Values.image.pullPolicy }}
+          ports:
+            - name: http
+              containerPort: {{ .Values.frontend.port }}
+          env:
+            # only used by nginx's own /api proxy (port-forward); the Ingress sends /api to the backend directly
+            - name: BACKEND_URL
+              value: http://{{ include "startline.fullname" . }}-backend:8000
+          readinessProbe:
+            httpGet: { path: /nginx-health, port: http }
+            periodSeconds: 5
+          livenessProbe:
+            httpGet: { path: /nginx-health, port: http }
+            periodSeconds: 10
+          resources:
+            {{- toYaml .Values.frontend.resources | nindent 12 }}
+          securityContext:
+            {{- include "startline.containerSecurity" . | nindent 12 }}
+          volumeMounts:
+            # nginx needs somewhere writable for its pid, temp files and the rendered config
+            - { name: cache, mountPath: /var/cache/nginx }
+            - { name: run, mountPath: /tmp }
+            - { name: confd, mountPath: /etc/nginx/conf.d }
+      volumes:
+        - { name: cache, emptyDir: {} }
+        - { name: run, emptyDir: {} }
+        - { name: confd, emptyDir: {} }
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: {{ include "startline.fullname" . }}-frontend
+  labels:
+    {{- include "startline.labels" . | nindent 4 }}
+    app.kubernetes.io/component: frontend
+spec:
+  type: ClusterIP
+  selector:
+    {{- include "startline.selector" (list . "frontend") | nindent 4 }}
+  ports:
+    - name: http
+      port: 80
+      targetPort: http

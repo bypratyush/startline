@@ -1,0 +1,25 @@
+# Local kind cluster: images loaded with `kind load docker-image`, Ingress on
+# startline.local, Prometheus scraping on. HPA stays on so it can be demoed.
+image:
+  registry: ""
+  tag: local
+  pullPolicy: Never
+
+config:
+  appEnv: dev
+  logLevel: INFO
+
+database:
+  password: dev-only-password
+
+ingress:
+  enabled: true
+  host: startline.local
+  # *.localhost resolves to 127.0.0.1 in browsers and curl without editing /etc/hosts
+  extraHosts: [startline.localhost]
+
+monitoring:
+  serviceMonitor:
+    enabled: true
+  prometheusRule:
+    enabled: true

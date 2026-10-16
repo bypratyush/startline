@@ -1,0 +1,72 @@
+# Default values. values-dev.yaml (kind) and values-prod.yaml (EKS) override them.
+
+image:
+  # empty registry = images loaded straight into the cluster (kind load docker-image)
+  registry: ghcr.io/bypratyush
+  # CI sets this to the Git commit SHA: commit A -> image A
+  tag: "dev"
+  pullPolicy: IfNotPresent
+
+config:
+  appEnv: dev
+  logLevel: INFO
+  webWorkers: "1"
+  seedOnStart: "true"
+
+backend:
+  image: startline-backend
+  port: 8000
+  replicas: 2
+  resources:
+    requests: { cpu: 100m, memory: 160Mi }
+    limits: { cpu: 500m, memory: 320Mi }
+  autoscaling:
+    enabled: true
+    minReplicas: 2
+    maxReplicas: 6
+    targetCPUUtilizationPercentage: 60
+  podDisruptionBudget:
+    minAvailable: 1
+
+frontend:
+  image: startline-frontend
+  port: 8080
+  replicas: 2
+  resources:
+    requests: { cpu: 25m, memory: 32Mi }
+    limits: { cpu: 200m, memory: 64Mi }
+
+database:
+  image: postgres:17-alpine
+  name: startline
+  user: startline
+  # Used only when existingSecret is empty. Never commit a real password:
+  # pass it with --set, or point existingSecret at a pre-created Secret.
+  password: ""
+  existingSecret: ""
+  storage:
+    size: 1Gi
+    storageClassName: ""   # empty = cluster default (local-path on kind, gp3 on EKS)
+  resources:
+    requests: { cpu: 100m, memory: 128Mi }
+    limits: { cpu: 500m, memory: 512Mi }
+
+ingress:
+  enabled: false
+  className: nginx
+  host: startline.local
+  extraHosts: []
+  annotations: {}
+  tls: []
+
+monitoring:
+  serviceMonitor:
+    enabled: false
+    # must match Prometheus' serviceMonitorSelector (kube-prometheus-stack: release=<release name>)
+    labels:
+      release: monitoring
+    interval: 15s
+  prometheusRule:
+    enabled: false
+    labels:
+      release: monitoring

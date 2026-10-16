@@ -1,0 +1,42 @@
+{{- if .Values.ingress.enabled }}
+# An Ingress is only configuration: the ingress-nginx controller implements it.
+apiVersion: networking.k8s.io/v1
+kind: Ingress
+metadata:
+  name: {{ include "startline.fullname" . }}
+  labels:
+    {{- include "startline.labels" . | nindent 4 }}
+  {{- with .Values.ingress.annotations }}
+  annotations:
+    {{- toYaml . | nindent 4 }}
+  {{- end }}
+spec:
+  ingressClassName: {{ .Values.ingress.className }}
+  {{- with .Values.ingress.tls }}
+  tls:
+    {{- toYaml . | nindent 4 }}
+  {{- end }}
+  rules:
+    {{- range prepend .Values.ingress.extraHosts .Values.ingress.host }}
+    - host: {{ . }}
+      http:
+        paths:
+          # startline.local/api (and the Swagger UI) -> FastAPI, everything else -> the React app
+          {{- range list "/api" "/docs" }}
+          - path: {{ . }}
+            pathType: Prefix
+            backend:
+              service:
+                name: {{ include "startline.fullname" $ }}-backend
+                port:
+                  name: http
+          {{- end }}
+          - path: /
+            pathType: Prefix
+            backend:
+              service:
+                name: {{ include "startline.fullname" $ }}-frontend
+                port:
+                  name: http
+    {{- end }}
+{{- end }}
