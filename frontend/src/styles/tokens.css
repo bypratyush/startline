@@ -1,0 +1,70 @@
+/* StartLine design tokens.
+   Paper and ink, one signal colour, and a colour per sport. */
+
+:root {
+  /* surfaces */
+  --paper: #f7f7f5;
+  --paper-2: #efefec;
+  --surface: #ffffff;
+  --ink: #0e1012;
+  --ink-2: #33373d;
+  --ink-3: #646a73;
+  --ink-4: #9a9fa6;
+  --line: #e6e6e2;
+  --line-2: #d3d3ce;
+  --line-ink: rgba(14, 16, 18, 0.07);
+
+  /* pitch green: the colour of every field, court and track infield, and of "go" */
+  --accent: #126149;
+  --accent-strong: #0c4c39;
+  --accent-ink: #0f5640;
+  --accent-soft: #e4efe9;
+  --accent-line: rgba(18, 97, 73, 0.28);
+
+  /* states */
+  --good: #18864b;
+  --good-soft: #e2f3e8;
+  --warn: #b97500;
+  --warn-soft: #fbf0d4;
+  --bad: #c73a3a;
+  --bad-soft: #fbe5e3;
+  --info: #1e6fd0;
+  --info-soft: #e3eefb;
+
+  /* sports: muted, so they mark identity without shouting */
+  --sport-running: #c4553b;
+  --sport-trail-running: #5b7a3a;
+  --sport-cycling: #b8860f;
+  --sport-swimming: #2f6fb8;
+  --sport-triathlon: #6b55c9;
+  --sport-fitness-racing: #b8456b;
+  --sport-ocr: #8a6038;
+  --sport-badminton: #1b8a73;
+  --sport-tennis: #7d9118;
+  --sport-pickleball: #11868f;
+  --sport-football: #3d8a4f;
+  --sport-table-tennis: #b9443c;
+  --sport-squash: #4d5ec4;
+  --sport-basketball: #c8711f;
+
+  /* type */
+  --font-display: "Barlow Condensed", "Arial Narrow", system-ui, sans-serif;
+  --font-body: "Inter Variable", "Inter", system-ui, -apple-system, "Segoe UI", sans-serif;
+
+  /* shape */
+  --r-xs: 3px;
+  --r-sm: 4px;
+  --r-md: 6px;
+  --r-lg: 8px;
+  --r-xl: 10px;
+
+  --shadow-1: none;
+  --shadow-2: 0 1px 2px rgba(14, 16, 18, 0.06), 0 8px 20px -12px rgba(14, 16, 18, 0.18);
+  --shadow-3: 0 2px 4px rgba(14, 16, 18, 0.06), 0 18px 40px -22px rgba(14, 16, 18, 0.28);
+
+  --header-h: 60px;
+  --max-w: 1200px;
+  --gutter: clamp(16px, 4vw, 32px);
+
+  --ease: cubic-bezier(0.2, 0.7, 0.2, 1);
+}

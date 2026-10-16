@@ -1,0 +1,163 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  -webkit-text-size-adjust: 100%;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  scroll-padding-top: calc(var(--header-h) + 64px);
+}
+
+body {
+  margin: 0;
+  background: var(--paper);
+  color: var(--ink);
+  font-family: var(--font-body);
+  font-size: 14.5px;
+  line-height: 1.55;
+  letter-spacing: -0.006em;
+  font-feature-settings: "cv11", "ss01";
+}
+
+img,
+svg {
+  display: block;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+button,
+input,
+select,
+textarea {
+  font: inherit;
+  color: inherit;
+}
+
+button {
+  cursor: pointer;
+}
+
+:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+  border-radius: 4px;
+}
+
+::selection {
+  background: var(--accent-soft);
+  color: var(--ink);
+}
+
+h1,
+h2,
+h3,
+h4 {
+  margin: 0;
+  font-family: var(--font-display);
+  font-weight: 600;
+  letter-spacing: -0.003em;
+  line-height: 1.04;
+}
+
+p {
+  margin: 0;
+}
+
+ul,
+ol {
+  margin: 0;
+  padding: 0;
+}
+
+/* ---------- layout ---------- */
+
+.container {
+  width: 100%;
+  max-width: var(--max-w);
+  margin: 0 auto;
+  padding: 0 var(--gutter);
+}
+
+.stack > * + * {
+  margin-top: var(--stack, 16px);
+}
+
+.row {
+  display: flex;
+  align-items: center;
+  gap: var(--gap, 12px);
+}
+
+.spacer {
+  flex: 1;
+}
+
+.visually-hidden {
+  position: absolute !important;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  white-space: nowrap;
+}
+
+/* ---------- type helpers ---------- */
+
+.eyebrow {
+  font-family: var(--font-body);
+  font-size: 10.5px;
+  font-weight: 600;
+  letter-spacing: 0.11em;
+  text-transform: uppercase;
+  color: var(--ink-3);
+}
+
+.num {
+  font-family: var(--font-display);
+  font-variant-numeric: tabular-nums;
+  font-weight: 600;
+  letter-spacing: 0.01em;
+}
+
+.muted {
+  color: var(--ink-3);
+}
+
+.small {
+  font-size: 13px;
+  line-height: 1.45;
+}
+
+.lede {
+  font-size: 16px;
+  line-height: 1.55;
+  color: var(--ink-2);
+  max-width: 62ch;
+}
+
+/* a hairline that looks like lane markings */
+.lane-rule {
+  height: 9px;
+  background:
+    linear-gradient(var(--line-2), var(--line-2)) top / 100% 1px no-repeat,
+    linear-gradient(var(--line-2), var(--line-2)) bottom / 100% 1px no-repeat,
+    repeating-linear-gradient(90deg, var(--line) 0 18px, transparent 18px 30px) center / 100% 1px no-repeat;
+  opacity: 0.9;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+  }
+}
