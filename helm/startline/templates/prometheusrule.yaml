@@ -1,0 +1,57 @@
+{{- /* only where the Prometheus Operator is installed (kind: yes, a fresh EKS cluster: not yet) */}}
+{{- if and .Values.monitoring.prometheusRule.enabled (.Capabilities.APIVersions.Has "monitoring.coreos.com/v1/PrometheusRule") }}
+{{- $job := printf "%s-backend" (include "startline.fullname" .) }}
+apiVersion: monitoring.coreos.com/v1
+kind: PrometheusRule
+metadata:
+  name: {{ include "startline.fullname" . }}-alerts
+  labels:
+    {{- include "startline.labels" . | nindent 4 }}
+    {{- toYaml .Values.monitoring.prometheusRule.labels | nindent 4 }}
+spec:
+  groups:
+    - name: startline.availability
+      rules:
+        - alert: StartLineBackendDown
+          expr: sum(up{job="{{ $job }}"}) == 0 or absent(up{job="{{ $job }}"})
+          for: 1m
+          labels: { severity: critical }
+          annotations:
+            summary: No StartLine API replica is being scraped
+            description: Prometheus has not reached any backend pod for a minute. Check `kubectl get pods -n {{ .Release.Namespace }}`.
+        - alert: StartLineDatabaseUnreachable
+          expr: min(startline_db_up{job="{{ $job }}"}) == 0
+          for: 2m
+          labels: { severity: critical }
+          annotations:
+            summary: Readiness probes cannot reach PostgreSQL
+            description: /ready has reported the database down for 2 minutes, so pods are out of the Service.
+    - name: startline.slo
+      rules:
+        - alert: StartLineHighErrorRate
+          expr: |
+            sum(rate(startline_http_requests_total{job="{{ $job }}", status=~"5.."}[5m]))
+              / clamp_min(sum(rate(startline_http_requests_total{job="{{ $job }}"}[5m])), 1e-9) > 0.05
+          for: 5m
+          labels: { severity: warning }
+          annotations:
+            summary: More than 5% of API requests are failing
+        - alert: StartLineSlowEventSearch
+          expr: |
+            histogram_quantile(0.95, sum by (le) (
+              rate(startline_http_request_duration_seconds_bucket{job="{{ $job }}", handler="/api/events"}[5m])
+            )) > 0.5
+          for: 10m
+          labels: { severity: warning }
+          annotations:
+            summary: p95 latency of event search is above 500 ms
+        - alert: StartLineAutoscalerMaxed
+          expr: |
+            kube_horizontalpodautoscaler_status_current_replicas{horizontalpodautoscaler="{{ $job }}"}
+              >= kube_horizontalpodautoscaler_spec_max_replicas{horizontalpodautoscaler="{{ $job }}"}
+          for: 10m
+          labels: { severity: warning }
+          annotations:
+            summary: The backend HPA has been at its maximum for 10 minutes
+            description: Raise maxReplicas or look for a hot endpoint before latency suffers.
+{{- end }}
