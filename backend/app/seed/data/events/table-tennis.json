@@ -1,0 +1,371 @@
+{
+ "events": [
+  {
+   "slug": "national-ranking-table-tennis-championships-uttarakhand-2026",
+   "name": "National Ranking Table Tennis Championships 2026 (Uttarakhand)",
+   "edition": "2026-27 season",
+   "sport": "table-tennis",
+   "discipline": "singles",
+   "city": "dehradun",
+   "venue": "New Multipurpose Hall, Parade Ground, Dehradun",
+   "lat": 30.3254,
+   "lon": 78.0436,
+   "start_date": "2026-10-31",
+   "end_date": "2026-11-07",
+   "date_status": "confirmed",
+   "last_edition_date": null,
+   "organiser": "Uttarakhand Table Tennis Association under the Table Tennis Federation of India (TTFI)",
+   "official_url": "https://www.ttfi.org/events/view/national-ranking-table-tennis-championships2026-uttarakhand",
+   "registration_status": "open",
+   "registration_opens": null,
+   "registration_closes": "2026-10-17",
+   "registration_url": "https://www.ttfi.org",
+   "registration_notes": "Entries only through a state association (noon 17 October) or institution (noon 15 October) on the TTFI online system; individuals cannot enter directly. Players must hold 2026 TTFI registration (Rs 500 per year). TTFI's government recognition was suspended in August 2026, but ranking events have continued.",
+   "summary": "Eight-day national ranking (zonal) championship on the TTFI 2026-27 domestic circuit, with men's and women's singles plus boys' and girls' singles from U-11 to U-19. It awards national ranking points and runs in the 31 October to 7 November slot that the TTFI calendar had first listed for Pondicherry.",
+   "categories": [
+    {
+     "name": "Men's Singles",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": 1000,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "advanced",
+     "eligibility": "TTFI-registered player entered by a state association or institution",
+     "notes": "Rs 1,000 per entry for a state's first five entries; additional entries Rs 3,700."
+    },
+    {
+     "name": "Women's Singles",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": 1000,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "advanced",
+     "eligibility": "TTFI-registered player entered by a state association or institution",
+     "notes": "Rs 1,000 per entry for a state's first five entries; additional entries Rs 3,700."
+    },
+    {
+     "name": "Youth Singles U-19 and U-17 (boys and girls)",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": 900,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "advanced",
+     "eligibility": "U-19: born on or after 1 Jan 2008. U-17: born on or after 1 Jan 2010.",
+     "notes": "Rs 900 for a state's first four entries per event; additional entries Rs 3,700."
+    },
+    {
+     "name": "Youth Singles U-15 and U-13 (boys and girls)",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": 800,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "intermediate",
+     "eligibility": "U-15: born on or after 1 Jan 2012. U-13: born on or after 1 Jan 2014.",
+     "notes": "Rs 800 for a state's first four entries per event; additional entries Rs 2,700."
+    },
+    {
+     "name": "Youth Singles U-11 (boys and girls)",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": 700,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "intermediate",
+     "eligibility": "Born on or after 1 Jan 2016",
+     "notes": "Rs 700 for a state's first four entries; additional entries Rs 1,700."
+    }
+   ],
+   "course": {
+    "terrain": "indoor",
+    "surface": "Stag Roma tables, Stag Global 3-star 40+ balls",
+    "elevation_gain_m": null,
+    "profile": null,
+    "description": "Indoor multipurpose hall at Parade Ground in central Dehradun."
+   },
+   "format": "Qualification stage followed by knockout main draws (men's and women's main draws from round of 256). Tentative schedule: U-11 and U-13 from 31 October, men's and women's singles main draw 5 to 7 November. Ranking points awarded per TTFI guidelines.",
+   "highlights": [
+    "Part of the TTFI national ranking circuit",
+    "11 singles events from U-11 to senior"
+   ],
+   "tips": [
+    "Talk to your state association before 17 October; it controls entries and fees",
+    "Players arrange their own boarding and lodging",
+    "Withdrawals after noon on 30 October cost 20 ranking points",
+    "Youth players should carry an original birth certificate and Aadhaar copy"
+   ],
+   "amenities": [],
+   "beginner_friendly": false,
+   "tags": [
+    "ranking",
+    "national-circuit"
+   ],
+   "sources": [
+    "https://www.ttfi.org/events/view/national-ranking-table-tennis-championships2026-uttarakhand",
+    "https://www.ttfi.org/webroot/uploads/Tournaments/Pdf/b7577b762973.pdf",
+    "https://www.ttfi.org/webroot/uploads/pdf/Calender-2026.pdf",
+    "https://dailypioneer.com/news/utt-national-ranking-table-tennis-championships-1900-players"
+   ]
+  },
+  {
+   "slug": "national-ranking-table-tennis-championships-punjab-2026",
+   "name": "National Ranking Table Tennis Championships 2026 (Punjab)",
+   "edition": "2026-27 season",
+   "sport": "table-tennis",
+   "discipline": "singles",
+   "city": "ludhiana",
+   "venue": "Lovely Professional University, Jalandhar-Delhi GT Road, Phagwara",
+   "lat": 31.2536,
+   "lon": 75.7036,
+   "start_date": "2026-11-14",
+   "end_date": "2026-11-21",
+   "date_status": "confirmed",
+   "last_edition_date": null,
+   "organiser": "Punjab Table Tennis Association with Lovely Professional University, under TTFI",
+   "official_url": "https://www.ttfi.org/events/view/national-ranking-table-tennis-championships-2026-punjab",
+   "registration_status": "open",
+   "registration_opens": null,
+   "registration_closes": "2026-10-31",
+   "registration_url": "https://www.ttfi.org",
+   "registration_notes": "Entries only through a state association (noon 31 October) or institution (noon 29 October) on the TTFI online system. Players must hold 2026 TTFI registration (Rs 500 per year).",
+   "summary": "Eight-day national ranking championship on the TTFI 2026-27 circuit at LPU, Phagwara, about 40 km from Ludhiana. It starts with men's and women's singles and runs through youth events down to U-11. Total prize money is Rs 9,99,400.",
+   "categories": [
+    {
+     "name": "Men's Singles",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": 1000,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "advanced",
+     "eligibility": "TTFI-registered player entered by a state association or institution",
+     "notes": "Rs 1,000 per entry for a state's first five entries; additional entries Rs 3,700."
+    },
+    {
+     "name": "Women's Singles",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": 1000,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "advanced",
+     "eligibility": "TTFI-registered player entered by a state association or institution",
+     "notes": "Rs 1,000 per entry for a state's first five entries; additional entries Rs 3,700."
+    },
+    {
+     "name": "Youth Singles U-19 and U-17 (boys and girls)",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": 900,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "advanced",
+     "eligibility": "Age cut-offs as per TTFI 2026 rules (U-19 born on or after 1 Jan 2008)",
+     "notes": "Rs 900 for a state's first four entries per event; additional entries Rs 3,700."
+    },
+    {
+     "name": "Youth Singles U-15, U-13 and U-11 (boys and girls)",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": 800,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "intermediate",
+     "eligibility": "Age cut-offs as per TTFI 2026 rules",
+     "notes": "Rs 800 for U-15 and U-13, Rs 700 for U-11 (first four state entries); additional entries Rs 2,700 (U-15/U-13) or Rs 1,700 (U-11)."
+    }
+   ],
+   "course": {
+    "terrain": "indoor",
+    "surface": "indoor hall",
+    "elevation_gain_m": null,
+    "profile": null,
+    "description": "LPU campus on the Jalandhar-Delhi GT Road at Phagwara, between Jalandhar and Ludhiana."
+   },
+   "format": "Qualification stage then knockout main draws. Tentative schedule: men's and women's singles qualifying 14 November, through to finals 17 November; youth events 17 to 21 November. Ranking points per TTFI guidelines.",
+   "highlights": [
+    "Total prize money Rs 9,99,400",
+    "Senior events played first, so adult players finish within four days"
+   ],
+   "tips": [
+    "Senior draw is made at 11 AM on 13 November at the venue; plan to arrive the day before",
+    "Jalandhar City and Phagwara railway stations are the closest rail links",
+    "Mid-November nights are cool in Punjab; bring warm-up layers"
+   ],
+   "amenities": [
+    "Prize money"
+   ],
+   "beginner_friendly": false,
+   "tags": [
+    "ranking",
+    "national-circuit"
+   ],
+   "sources": [
+    "https://www.ttfi.org/events/view/national-ranking-table-tennis-championships-2026-punjab",
+    "https://www.ttfi.org/webroot/uploads/Tournaments/Pdf/2888ede4449d.pdf",
+    "https://www.ttfi.org/webroot/uploads/pdf/Calender-2026.pdf"
+   ]
+  },
+  {
+   "slug": "national-masters-table-tennis-championships-2027",
+   "name": "National Masters Table Tennis Championships",
+   "edition": "2026 edition (held February 2027)",
+   "sport": "table-tennis",
+   "discipline": "veterans",
+   "city": "jaipur",
+   "venue": "Jaipur (venue to be announced)",
+   "lat": null,
+   "lon": null,
+   "start_date": "2027-02-14",
+   "end_date": "2027-02-21",
+   "date_status": "confirmed",
+   "last_edition_date": "2026-04-24",
+   "organiser": "Table Tennis Federation of India (host association to be confirmed)",
+   "official_url": "https://www.ttfi.org/webroot/uploads/pdf/Calender-2026.pdf",
+   "registration_status": "upcoming",
+   "registration_opens": null,
+   "registration_closes": null,
+   "registration_url": "https://www.ttfi.org",
+   "registration_notes": "Dates and city are from the TTFI 2026 tournament calendar; the prospectus is not yet published and other 2026 calendar events have moved venue. TTFI keeps a separate veteran player register.",
+   "summary": "TTFI's national championship for masters (veteran) players, listed on the federation's 2026 calendar for 14-21 February 2027 in Jaipur. The previous edition was held at Balewadi Sports Stadium, Pune, from 24 April 2026.",
+   "categories": [
+    {
+     "name": "Masters age-group events",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": null,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "open",
+     "eligibility": "Players on TTFI's veteran player register, entered through their state association or institution",
+     "notes": "Age bands and fees will be in the prospectus."
+    }
+   ],
+   "course": {
+    "terrain": "indoor",
+    "surface": "indoor hall",
+    "elevation_gain_m": null,
+    "profile": null,
+    "description": "Venue in Jaipur not yet announced."
+   },
+   "format": "Age-group championships for veterans; draw format to be set in the prospectus.",
+   "highlights": [
+    "National title event for veteran players",
+    "Scheduled for Jaipur in February 2027"
+   ],
+   "tips": [
+    "Check that you appear on the TTFI veteran player list (ttfi.org/veterans) before entries open",
+    "Wait for the prospectus before booking; TTFI calendar venues have changed during 2026",
+    "February is peak tourist season in Jaipur, so book rooms early"
+   ],
+   "amenities": [],
+   "beginner_friendly": false,
+   "tags": [
+    "veterans",
+    "national-championship"
+   ],
+   "sources": [
+    "https://www.ttfi.org/webroot/uploads/pdf/Calender-2026.pdf",
+    "https://www.ttfi.org/veterans",
+    "https://www.amarujala.com/chandigarh/bhandari-performs-well-in-indian-veterans-table-tennis-championship-chandigarh-news-c-16-pkl1079-1009990-2026-05-03"
+   ]
+  },
+  {
+   "slug": "ifcci-chennai-sports-tournament-table-tennis-2027",
+   "name": "IFCCI Chennai Sports Tournament (table tennis)",
+   "edition": "2027, 7th edition (expected)",
+   "sport": "table-tennis",
+   "discipline": "corporate doubles",
+   "city": "chennai",
+   "venue": "Loyola-ICAM College of Engineering and Technology, Loyola Campus, Nungambakkam",
+   "lat": 13.0627,
+   "lon": 80.2336,
+   "start_date": "2027-03-12",
+   "end_date": "2027-03-12",
+   "date_status": "expected",
+   "last_edition_date": "2026-03-13",
+   "organiser": "Indo-French Chamber of Commerce and Industry (IFCCI)",
+   "official_url": "https://www.ifcci.org.in/events/upcoming-events/e/event/6th-edition-of-the-ifcci-chennai-sports-tournament.html",
+   "registration_status": "upcoming",
+   "registration_opens": null,
+   "registration_closes": null,
+   "registration_url": "https://www.ifcci.org.in/events/upcoming-events/e/event/6th-edition-of-the-ifcci-chennai-sports-tournament.html",
+   "registration_notes": "Prior registration mandatory, slots first-come first-served. The 2026 listing gives both 6 March and 13 March, so confirm the date.",
+   "summary": "One-day multi-sport corporate tournament run by the Indo-French Chamber in Chennai, with table tennis doubles alongside 5 v 5 football, throwball, cricket and badminton. The 6th edition was held in March 2026 at the Loyola campus in Nungambakkam.",
+   "categories": [
+    {
+     "name": "Table Tennis Doubles (men's, women's or mixed)",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": 3500,
+     "start_time": "07:00",
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "open",
+     "eligibility": "Company teams; no gender classification",
+     "notes": "Fee per pair (2026). Single entry Rs 2,000."
+    }
+   ],
+   "course": {
+    "terrain": "indoor",
+    "surface": "indoor hall",
+    "elevation_gain_m": null,
+    "profile": null,
+    "description": "College campus in Nungambakkam, central Chennai."
+   },
+   "format": "Doubles; pairs can be all-men, all-women or mixed. One-day event, 7 AM to 4 PM. Draw format not published.",
+   "highlights": [
+    "Six editions held up to 2026",
+    "Same event offers 5 v 5 football at Rs 10,000 per team (6 players)"
+   ],
+   "tips": [
+    "Slots fill first-come first-served; register in January",
+    "March in Chennai is already hot; carry water and a spare shirt"
+   ],
+   "amenities": [],
+   "beginner_friendly": true,
+   "tags": [
+    "corporate",
+    "multi-sport"
+   ],
+   "sources": [
+    "https://www.ifcci.org.in/events/upcoming-events/e/event/6th-edition-of-the-ifcci-chennai-sports-tournament.html"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,997 @@
+{
+ "events": [
+  {
+   "slug": "kolkata-pickleball-championship-2027",
+   "name": "Kolkata Pickleball Championship",
+   "edition": "3.0 (expected 2027)",
+   "sport": "pickleball",
+   "discipline": "Open amateur and pro, DUPR",
+   "city": "kolkata",
+   "venue": "Turf XL, SN Roy Road, New Alipore",
+   "lat": 22.5060486,
+   "lon": 88.3289315,
+   "start_date": "2027-01-12",
+   "end_date": "2027-01-17",
+   "date_status": "expected",
+   "last_edition_date": "2026-01-13",
+   "organiser": "Pickleball XL (Turf XL)",
+   "official_url": "https://hudle.in/events/kolkata-pickleball-championship-20/726367",
+   "registration_status": "unknown",
+   "registration_opens": null,
+   "registration_closes": null,
+   "registration_url": null,
+   "registration_notes": "2027 edition not announced. 2026 edition sold out; entries required a DUPR ID.",
+   "summary": "Six-day national-level tournament in Kolkata sanctioned by IPA, WBPA, PWR200 and DUPR. The 2026 edition expected 500+ players across 20+ categories with a Rs 10 lakh guaranteed prize pool, the largest in eastern India.",
+   "categories": [
+    {
+     "name": "Beginner Singles / Doubles / Mixed / Women's",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": null,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "beginner",
+     "eligibility": "DUPR ID required",
+     "notes": "2026 fees: Rs 1,500 singles, Rs 2,000 doubles"
+    },
+    {
+     "name": "Intermediate Singles / Doubles / Mixed / Women's",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": null,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "intermediate",
+     "eligibility": "DUPR ID required",
+     "notes": "2026 fees: Rs 2,000 singles, Rs 3,000 doubles"
+    },
+    {
+     "name": "Open Singles / Doubles / Mixed / Women's",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": null,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "open",
+     "eligibility": "DUPR ID required",
+     "notes": "2026 fees: Rs 2,500 singles, Rs 3,500 doubles"
+    },
+    {
+     "name": "Open 35+ Singles and Doubles",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": null,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "open",
+     "eligibility": "Age 35+",
+     "notes": "2026 fees: Rs 2,500 / Rs 3,500"
+    },
+    {
+     "name": "Open 50+ Singles and Doubles",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": null,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "open",
+     "eligibility": "Age 50+",
+     "notes": "2026 fees: Rs 2,500 / Rs 3,500"
+    },
+    {
+     "name": "Open Gender Split 35+/- Doubles",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": null,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "open",
+     "eligibility": "One player 35+ and one under 35",
+     "notes": "2026 fee Rs 3,500"
+    }
+   ],
+   "course": {
+    "terrain": "court",
+    "surface": "Outdoor/covered turf-facility courts",
+    "elevation_gain_m": null,
+    "profile": null,
+    "description": "Multi-sport turf facility in New Alipore, south Kolkata."
+   },
+   "format": "DUPR-rated draws by level (beginner, intermediate, open) and age (35+, 50+); PWR200 ranking points in 2026.",
+   "highlights": [
+    "Rs 10 lakh guaranteed prize pool in 2026",
+    "Veterans 35+ and 50+ draws"
+   ],
+   "tips": [
+    "All categories sold out in 2026; register as soon as entries open",
+    "Create and verify your DUPR ID beforehand, it is mandatory",
+    "January in Kolkata is mild and ideal for long match days"
+   ],
+   "amenities": [],
+   "beginner_friendly": true,
+   "tags": [
+    "dupr",
+    "ipa-sanctioned",
+    "veterans-draw"
+   ],
+   "sources": [
+    "https://hudle.in/events/kolkata-pickleball-championship-20/726367"
+   ]
+  },
+  {
+   "slug": "mumbai-dupr-cup-2027",
+   "name": "Mumbai DUPR Cup",
+   "edition": "Expected 2027 edition",
+   "sport": "pickleball",
+   "discipline": "DUPR-rated amateur",
+   "city": "mumbai",
+   "venue": "Apostolic Carmel High School, Hill Road, Bandra West",
+   "lat": 19.0555395,
+   "lon": 72.8258839,
+   "start_date": "2027-01-31",
+   "end_date": "2027-01-31",
+   "date_status": "expected",
+   "last_edition_date": "2026-02-01",
+   "organiser": "Momentum Pickleball League",
+   "official_url": "https://hudle.in/events/mumbai-dupr-cup/246191",
+   "registration_status": "unknown",
+   "registration_opens": null,
+   "registration_closes": null,
+   "registration_url": null,
+   "registration_notes": "Next edition not announced; 2026 edition sold out.",
+   "summary": "One-day DUPR-rated tournament in Bandra aligned with the IPA and run by Momentum Pickleball League. Divisions are capped by DUPR (beginner below 3.5, intermediate below 4.3) with 35+ and split-age draws.",
+   "categories": [
+    {
+     "name": "Beginner Men's Singles (DUPR below 3.5)",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": null,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "beginner",
+     "eligibility": "DUPR below 3.5",
+     "notes": "2026 fee Rs 1,500 per player"
+    },
+    {
+     "name": "Beginner Men's Doubles / Mixed Doubles (DUPR below 3.5)",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": null,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "beginner",
+     "eligibility": "DUPR below 3.5",
+     "notes": "2026 fee Rs 2,199 per team"
+    },
+    {
+     "name": "Intermediate Men's Doubles / Mixed Doubles (DUPR below 4.3)",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": null,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "intermediate",
+     "eligibility": "DUPR below 4.3",
+     "notes": "2026 fee Rs 2,199 per team"
+    },
+    {
+     "name": "Intermediate 35+ Men's Singles and Doubles (DUPR below 4.3)",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": null,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "intermediate",
+     "eligibility": "Age 35+, DUPR below 4.3",
+     "notes": null
+    },
+    {
+     "name": "Intermediate Split 35 Doubles (DUPR below 4.3)",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": null,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "intermediate",
+     "eligibility": "One player 35+; DUPR below 4.3",
+     "notes": null
+    },
+    {
+     "name": "Open Men's Singles (Intermediate)",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": null,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "intermediate",
+     "eligibility": null,
+     "notes": "2026 fee Rs 1,500"
+    }
+   ],
+   "course": {
+    "terrain": "court",
+    "surface": "School courts",
+    "elevation_gain_m": null,
+    "profile": null,
+    "description": "School campus on Hill Road, Bandra West."
+   },
+   "format": "DUPR-rated matches; rankings and ratings via PWR and DUPR.",
+   "highlights": [
+    "Clear DUPR caps for beginners and intermediates",
+    "Central Bandra location"
+   ],
+   "tips": [
+    "Bandra station on the Western line is the nearest rail link",
+    "Make sure your DUPR rating is current; caps are strictly applied"
+   ],
+   "amenities": [],
+   "beginner_friendly": true,
+   "tags": [
+    "dupr",
+    "one-day",
+    "veterans-draw"
+   ],
+   "sources": [
+    "https://hudle.in/events/mumbai-dupr-cup/246191"
+   ]
+  },
+  {
+   "slug": "ultimate-pickleball-showdown-ups-2027",
+   "name": "Ultimate Pickleball Showdown (UPS)",
+   "edition": "2.0 (expected 2027)",
+   "sport": "pickleball",
+   "discipline": "PWR 700, open amateur and pro",
+   "city": "kolkata",
+   "venue": "Calcutta South Club, Sreepally, Bhowanipore",
+   "lat": 22.5387782,
+   "lon": 88.3522427,
+   "start_date": "2027-02-10",
+   "end_date": "2027-02-14",
+   "date_status": "expected",
+   "last_edition_date": "2026-02-11",
+   "organiser": "Amuzi Sports",
+   "official_url": "https://hudle.in/events/ultimate-pickleball-showdown-ups-10-2026-pwr-700-kolkata/128287",
+   "registration_status": "unknown",
+   "registration_opens": null,
+   "registration_closes": null,
+   "registration_url": null,
+   "registration_notes": "Second edition not yet announced.",
+   "summary": "PWR 700 tournament sanctioned by IPA and WBPA at the Calcutta South Club, with 35 categories and a Rs 15 lakh prize pool in its 2026 debut. Divisions are split by DUPR (intermediate below 3.8, advanced below 4.4), age (30+, 40+, 50+) and pro.",
+   "categories": [
+    {
+     "name": "Men's/Women's Singles and Doubles Intermediate (DUPR below 3.8)",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": null,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "intermediate",
+     "eligibility": "DUPR below 3.8",
+     "notes": "2026 fees: Rs 2,000-2,500 singles, Rs 3,000-3,500 doubles"
+    },
+    {
+     "name": "Mixed Doubles Intermediate (DUPR below 3.8)",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": null,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "intermediate",
+     "eligibility": "DUPR below 3.8",
+     "notes": "2026 fee Rs 3,500"
+    },
+    {
+     "name": "Men's/Women's Singles and Doubles Advanced (DUPR below 4.4)",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": null,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "advanced",
+     "eligibility": "DUPR below 4.4",
+     "notes": "2026 fees: Rs 2,000-2,500 singles, Rs 3,000-3,500 doubles"
+    },
+    {
+     "name": "Mixed Doubles Advanced (DUPR below 4.4)",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": null,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "advanced",
+     "eligibility": "DUPR below 4.4",
+     "notes": "2026 fee Rs 3,500"
+    },
+    {
+     "name": "Men's and Women's Singles and Doubles 30+",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": null,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "open",
+     "eligibility": "Age 30+",
+     "notes": null
+    },
+    {
+     "name": "Men's and Women's Singles 40+, Men's Doubles 40+, Mixed Doubles 40+",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": null,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "open",
+     "eligibility": "Age 40+",
+     "notes": null
+    },
+    {
+     "name": "Men's Singles and Doubles 50+",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": null,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "open",
+     "eligibility": "Age 50+",
+     "notes": null
+    },
+    {
+     "name": "Men's Split Age 35+/-",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": null,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "open",
+     "eligibility": "One player 35+ and one under 35",
+     "notes": null
+    },
+    {
+     "name": "Pro Singles, Doubles, Mixed",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": null,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "advanced",
+     "eligibility": null,
+     "notes": "2026 fees: Rs 2,500-4,000"
+    }
+   ],
+   "course": {
+    "terrain": "court",
+    "surface": "Converted courts at a tennis club",
+    "elevation_gain_m": null,
+    "profile": null,
+    "description": "Historic Calcutta South Club, home of Kolkata tennis, in Bhowanipore."
+   },
+   "format": "PWR 700 ranked event with DUPR-capped skill draws, age draws and pro draws.",
+   "highlights": [
+    "PWR 700 world-ranking status",
+    "Rs 15 lakh prize pool in 2026"
+   ],
+   "tips": [
+    "Check your DUPR rating against the 3.8 and 4.4 caps before choosing a draw",
+    "Jatin Das Park is the nearest metro station to the club"
+   ],
+   "amenities": [],
+   "beginner_friendly": false,
+   "tags": [
+    "dupr",
+    "pwr",
+    "ipa-sanctioned",
+    "veterans-draw"
+   ],
+   "sources": [
+    "https://hudle.in/events/ultimate-pickleball-showdown-ups-10-2026-pwr-700-kolkata/128287"
+   ]
+  },
+  {
+   "slug": "mpa-women-s-day-tournament-queens-on-courts-2027",
+   "name": "MPA Women's Day Tournament (Queens on Courts)",
+   "edition": "Expected 2027 edition",
+   "sport": "pickleball",
+   "discipline": "Women-only",
+   "city": "mumbai",
+   "venue": "Andheri Sports Complex, JP Road, Andheri West",
+   "lat": 19.1267975,
+   "lon": 72.8362698,
+   "start_date": "2027-02-24",
+   "end_date": "2027-02-27",
+   "date_status": "expected",
+   "last_edition_date": "2026-02-25",
+   "organiser": "Maharashtra Pickleball Association",
+   "official_url": "https://maharashtrapickleball.com/activities.php",
+   "registration_status": "unknown",
+   "registration_opens": null,
+   "registration_closes": null,
+   "registration_url": null,
+   "registration_notes": "2027 edition not announced; in 2026 registration closed on the opening day.",
+   "summary": "Women-only tournament staged by the Maharashtra Pickleball Association around International Women's Day, held over four days in February 2026.",
+   "categories": [
+    {
+     "name": "Women's categories",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": null,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "open",
+     "eligibility": "Women only",
+     "notes": "Category list not published"
+    }
+   ],
+   "course": {
+    "terrain": "court",
+    "surface": "Indoor courts",
+    "elevation_gain_m": null,
+    "profile": null,
+    "description": "Andheri Sports Complex, Andheri West."
+   },
+   "format": null,
+   "highlights": [
+    "Women-only event run by the state association"
+   ],
+   "tips": [
+    "Play ran 09:00 to about 18:00 daily in 2026",
+    "In 2026 the registration deadline was the opening day, so register early"
+   ],
+   "amenities": [],
+   "beginner_friendly": true,
+   "tags": [
+    "women-only",
+    "state-association"
+   ],
+   "sources": [
+    "https://maharashtrapickleball.com/activities.php"
+   ]
+  },
+  {
+   "slug": "indian-open-pickleball-global-sports-2027",
+   "name": "Indian Open Pickleball (Global Sports)",
+   "edition": "5th (expected 2027)",
+   "sport": "pickleball",
+   "discipline": "PWR 1000, open amateur and pro",
+   "city": "hyderabad",
+   "venue": "Crosscourts, Hyderabad (2026 venue; 2027 host city not announced)",
+   "lat": null,
+   "lon": null,
+   "start_date": "2027-03-31",
+   "end_date": "2027-04-04",
+   "date_status": "expected",
+   "last_edition_date": "2026-04-01",
+   "organiser": "Global Sports",
+   "official_url": null,
+   "registration_status": "unknown",
+   "registration_opens": null,
+   "registration_closes": null,
+   "registration_url": null,
+   "registration_notes": "2027 dates and city not announced; earlier editions moved between months (an edition was held in February 2025).",
+   "summary": "India's largest pickleball tournament, sanctioned by the Indian Pickleball Association as a PWR 1000 event in 2026 with 56 categories, 1,500+ expected players and a USD 50,000 prize pool. The 2026 edition was the fourth.",
+   "categories": [
+    {
+     "name": "Amateur skill and age categories (56 categories in 2026)",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": null,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "open",
+     "eligibility": "DUPR-based brackets",
+     "notes": "Category list and fees for 2027 not published"
+    },
+    {
+     "name": "Pro divisions",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": null,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "advanced",
+     "eligibility": null,
+     "notes": null
+    }
+   ],
+   "course": {
+    "terrain": "court",
+    "surface": "Dedicated pickleball courts",
+    "elevation_gain_m": null,
+    "profile": null,
+    "description": "2026 edition at the Crosscourts facility in Hyderabad."
+   },
+   "format": "PWR 1000 ranked event with amateur, age-group and pro draws.",
+   "highlights": [
+    "Highest-rated pickleball event in India (PWR 1000)",
+    "USD 50,000 prize pool in 2026"
+   ],
+   "tips": [
+    "Watch Global Sports announcements from January; past editions filled quickly",
+    "Confirm the host city before booking travel, as it has changed between editions"
+   ],
+   "amenities": [],
+   "beginner_friendly": false,
+   "tags": [
+    "pwr",
+    "ipa-sanctioned",
+    "iconic"
+   ],
+   "sources": [
+    "https://newsable.asianetnews.com/sports/global-sports-indian-open-2026-gets-ipa-sanction-usd-50k-prize-articleshow-w9gzhrv",
+    "https://ppatour.com/united-pickleball-association-and-global-sports-partner-to-bring-ppa-tour-and-major-league-pickleball-to-india/"
+   ]
+  },
+  {
+   "slug": "pineapple-pickleball-amateur-league-2027",
+   "name": "Pineapple Pickleball Amateur League",
+   "edition": "Expected 2027 season",
+   "sport": "pickleball",
+   "discipline": "Amateur league (DUPR below 3.8)",
+   "city": "bengaluru",
+   "venue": "Pineapple Play at Active Arena, Outer Ring Road, opposite Prestige Tech Park, Kadubeesanahalli",
+   "lat": 12.9435366,
+   "lon": 77.7001548,
+   "start_date": "2027-04-10",
+   "end_date": "2027-04-18",
+   "date_status": "expected",
+   "last_edition_date": "2026-04-11",
+   "organiser": "Pineapple Play at Active Arena",
+   "official_url": "https://hudle.in/events/pineapple-pickleball-amateur-league/103718",
+   "registration_status": "unknown",
+   "registration_opens": null,
+   "registration_closes": null,
+   "registration_url": null,
+   "registration_notes": "Next season not announced.",
+   "summary": "Nine-day amateur league on the Outer Ring Road for rising players rated below 3.8 DUPR, with singles and doubles divisions.",
+   "categories": [
+    {
+     "name": "Open Singles (DUPR below 3.8)",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": null,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "intermediate",
+     "eligibility": "DUPR below 3.8",
+     "notes": "2026 fee Rs 2,499 per player"
+    },
+    {
+     "name": "Open Doubles (DUPR below 3.8)",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": null,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "intermediate",
+     "eligibility": "DUPR below 3.8",
+     "notes": "2026 fee Rs 3,999 per team"
+    }
+   ],
+   "course": {
+    "terrain": "court",
+    "surface": "Indoor courts",
+    "elevation_gain_m": null,
+    "profile": null,
+    "description": "Sports arena behind Croma, opposite Prestige Tech Park on the Outer Ring Road."
+   },
+   "format": "League format over two weekends in 2026, DUPR cap 3.8.",
+   "highlights": [
+    "League format guarantees multiple matches",
+    "Capped at 3.8 DUPR"
+   ],
+   "tips": [
+    "Venue is next to Prestige Tech Park, convenient for ORR office workers after hours",
+    "Check your DUPR is below 3.8 before entering"
+   ],
+   "amenities": [],
+   "beginner_friendly": true,
+   "tags": [
+    "dupr",
+    "league"
+   ],
+   "sources": [
+    "https://hudle.in/events/pineapple-pickleball-amateur-league/103718"
+   ]
+  },
+  {
+   "slug": "pune-pickleball-open-2027",
+   "name": "Pune Pickleball Open",
+   "edition": "Expected 2027 edition",
+   "sport": "pickleball",
+   "discipline": "Beginner and intermediate amateur",
+   "city": "pune",
+   "venue": "Arena X, Hinjawadi",
+   "lat": null,
+   "lon": null,
+   "start_date": "2027-04-10",
+   "end_date": "2027-04-11",
+   "date_status": "expected",
+   "last_edition_date": "2026-04-11",
+   "organiser": "Listed on Pickleball Bharat (organiser not named)",
+   "official_url": "https://pickleballbharat.com/events/c0723c47-ebd7-4303-80a1-68f0072bd230",
+   "registration_status": "unknown",
+   "registration_opens": null,
+   "registration_closes": null,
+   "registration_url": null,
+   "registration_notes": "Next edition not announced.",
+   "summary": "Weekend tournament in Hinjawadi for beginner and intermediate players with DUPR caps of below 3.5 and below 4.2 and no age limit. The 2026 edition had a Rs 3 lakh prize pool.",
+   "categories": [
+    {
+     "name": "Men's and Women's Singles (DUPR below 3.5 / below 4.2)",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": null,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "beginner",
+     "eligibility": "DUPR below 3.5 or below 4.2",
+     "notes": "2026 fees ranged Rs 750-1,500"
+    },
+    {
+     "name": "Men's and Women's Doubles (DUPR below 3.5 / below 4.2)",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": null,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "intermediate",
+     "eligibility": "DUPR below 3.5 or below 4.2",
+     "notes": null
+    },
+    {
+     "name": "Mixed Doubles (DUPR below 3.5 / below 4.2)",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": null,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "intermediate",
+     "eligibility": "DUPR below 3.5 or below 4.2",
+     "notes": null
+    }
+   ],
+   "course": {
+    "terrain": "court",
+    "surface": "Indoor/covered courts",
+    "elevation_gain_m": null,
+    "profile": null,
+    "description": "Sports arena in the Hinjawadi IT area of west Pune."
+   },
+   "format": "DUPR-capped draws; ball Franklin X-40 in 2026.",
+   "highlights": [
+    "Aimed at beginners and intermediates",
+    "No age limit"
+   ],
+   "tips": [
+    "Ball used in 2026 was the Franklin X-40 outdoor ball",
+    "Hinjawadi traffic peaks on weekday evenings; weekend mornings are easier"
+   ],
+   "amenities": [
+    "Food coupon and Khelomore credits in 2026"
+   ],
+   "beginner_friendly": true,
+   "tags": [
+    "dupr",
+    "beginner"
+   ],
+   "sources": [
+    "https://pickleballbharat.com/events/c0723c47-ebd7-4303-80a1-68f0072bd230"
+   ]
+  },
+  {
+   "slug": "maharashtra-open-maharashtra-pickleball-association-2027",
+   "name": "Maharashtra Open (Maharashtra Pickleball Association)",
+   "edition": "Expected 2027 edition",
+   "sport": "pickleball",
+   "discipline": "State open championship",
+   "city": "mumbai",
+   "venue": "Andheri Sports Complex, JP Road, Andheri West",
+   "lat": 19.1267975,
+   "lon": 72.8362698,
+   "start_date": "2027-04-30",
+   "end_date": "2027-05-02",
+   "date_status": "expected",
+   "last_edition_date": "2026-05-01",
+   "organiser": "Maharashtra Pickleball Association (under the Indian Pickleball Association)",
+   "official_url": "https://maharashtrapickleball.com/activities.php",
+   "registration_status": "unknown",
+   "registration_opens": null,
+   "registration_closes": null,
+   "registration_url": null,
+   "registration_notes": "2027 edition not announced.",
+   "summary": "Maharashtra's state open, run by the MPA under the IPA, drew over 1,000 participants across 30+ categories in its 2026 edition. Winners became eligible to represent Maharashtra at the national championship.",
+   "categories": [
+    {
+     "name": "Amateur and age-group categories (30+ categories in 2026)",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": null,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "open",
+     "eligibility": null,
+     "notes": "Category list and fees for 2027 not published"
+    },
+    {
+     "name": "Pro Men's and Women's Singles",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": null,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "advanced",
+     "eligibility": null,
+     "notes": null
+    }
+   ],
+   "course": {
+    "terrain": "court",
+    "surface": "Indoor courts",
+    "elevation_gain_m": null,
+    "profile": null,
+    "description": "Large municipal multi-sport complex in Andheri West."
+   },
+   "format": "Three-day state championship with pro and amateur categories.",
+   "highlights": [
+    "Official state championship",
+    "Pathway to state team for nationals"
+   ],
+   "tips": [
+    "Nearest rail links are Andheri station and Azad Nagar on Metro Line 1",
+    "Watch the MPA tournaments page for the circular"
+   ],
+   "amenities": [],
+   "beginner_friendly": true,
+   "tags": [
+    "state-championship",
+    "ipa-sanctioned"
+   ],
+   "sources": [
+    "https://www.tribuneindia.com/news/sports/mpa-unveils-maharashtra-open-2026-at-andheri-sports-complex/",
+    "https://maharashtrapickleball.com/activities.php"
+   ]
+  },
+  {
+   "slug": "mark10-open-2027",
+   "name": "Mark10 Open",
+   "edition": "Expected 2027 edition",
+   "sport": "pickleball",
+   "discipline": "DUPR-rated amateur and pro",
+   "city": "mumbai",
+   "venue": "Andheri Sports Complex (Global Sports x TSG Pickleball), Andheri West",
+   "lat": 19.1267975,
+   "lon": 72.8362698,
+   "start_date": "2027-07-03",
+   "end_date": "2027-07-04",
+   "date_status": "expected",
+   "last_edition_date": "2026-07-04",
+   "organiser": "MARK10",
+   "official_url": "https://hudle.in/events/mark10-open-2026/268442",
+   "registration_status": "unknown",
+   "registration_opens": null,
+   "registration_closes": null,
+   "registration_url": null,
+   "registration_notes": "2027 edition not announced; 2026 categories sold out.",
+   "summary": "Two-day Mumbai tournament with a Rs 12 lakh-plus prize pool in 2026 and clearly tiered DUPR divisions: beginner below 3.5, intermediate below 4.2 and advanced below 4.99, plus pro and an open split-age 35+ doubles.",
+   "categories": [
+    {
+     "name": "Beginner Singles (DUPR below 3.5)",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": null,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "beginner",
+     "eligibility": "DUPR below 3.5",
+     "notes": "2026 fee Rs 1,500 per player"
+    },
+    {
+     "name": "Beginner Men's / Women's / Mixed Doubles (DUPR below 3.5)",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": null,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "beginner",
+     "eligibility": "DUPR below 3.5",
+     "notes": "2026 fee Rs 2,000 per team"
+    },
+    {
+     "name": "Intermediate Singles (DUPR below 4.2)",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": null,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "intermediate",
+     "eligibility": "DUPR below 4.2",
+     "notes": "2026 fee Rs 2,000"
+    },
+    {
+     "name": "Intermediate Doubles and Mixed (DUPR below 4.2)",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": null,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "intermediate",
+     "eligibility": "DUPR below 4.2",
+     "notes": "2026 fee Rs 2,500 per team"
+    },
+    {
+     "name": "Advanced Men's Singles, Men's Doubles, Mixed (DUPR below 4.99)",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": null,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "advanced",
+     "eligibility": "DUPR below 4.99",
+     "notes": "2026 fees Rs 2,500-3,000"
+    },
+    {
+     "name": "Open Split Age 35+ Men's Doubles",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": null,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "open",
+     "eligibility": "One player 35+",
+     "notes": "2026 fee Rs 3,500 per team"
+    },
+    {
+     "name": "Pro and Open Women's Singles and Doubles",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": null,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "advanced",
+     "eligibility": null,
+     "notes": "2026 fees Rs 3,000-4,500"
+    }
+   ],
+   "course": {
+    "terrain": "court",
+    "surface": "Indoor courts",
+    "elevation_gain_m": null,
+    "profile": null,
+    "description": "Andheri Sports Complex, Andheri West."
+   },
+   "format": "DUPR-tiered draws by level, pro and split-age; formats announced closer to the event in 2026.",
+   "highlights": [
+    "Rs 12 lakh-plus prize pool in 2026",
+    "Three DUPR tiers below pro"
+   ],
+   "tips": [
+    "Early July is peak monsoon in Mumbai; allow extra travel time",
+    "Fees are per player for singles and per pair for doubles"
+   ],
+   "amenities": [
+    "Cash prizes, vouchers and medals"
+   ],
+   "beginner_friendly": true,
+   "tags": [
+    "dupr",
+    "prize-money"
+   ],
+   "sources": [
+    "https://hudle.in/events/mark10-open-2026/268442"
+   ]
+  }
+ ]
+}

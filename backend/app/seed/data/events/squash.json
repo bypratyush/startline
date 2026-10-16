@@ -1,0 +1,812 @@
+{
+ "events": [
+  {
+   "slug": "cci-western-india-squash-championship-2026",
+   "name": "CCI Western India Squash Championship",
+   "edition": "2026, 81st edition",
+   "sport": "squash",
+   "discipline": "singles",
+   "city": "mumbai",
+   "venue": "Cricket Club of India (Anil Nayar squash complex), Brabourne Stadium, Churchgate",
+   "lat": 18.9322,
+   "lon": 72.8247,
+   "start_date": "2026-12-08",
+   "end_date": "2026-12-13",
+   "date_status": "confirmed",
+   "last_edition_date": "2025-12-17",
+   "organiser": "Cricket Club of India, under SRFI and the Maharashtra Squash Racquets Association",
+   "official_url": "https://www.indiasquash.com",
+   "registration_status": "open",
+   "registration_opens": "2026-05-01",
+   "registration_closes": "2026-11-03",
+   "registration_url": "https://www.indiasquash.com",
+   "registration_notes": "Entry through the SRFI online system. Rs 1,000 per category.",
+   "summary": "India's oldest squash tournament, first held in 1943, and a 4-star SRFI national circuit event at CCI's six glass-backed courts. Draws cover juniors, men's and women's open, pro coaches and masters age groups from 35+ to 65+. Past champions include Saurav Ghosal and Joshna Chinappa.",
+   "categories": [
+    {
+     "name": "Men's Open",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": 1000,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "advanced",
+     "eligibility": null,
+     "notes": "Fee per player per category."
+    },
+    {
+     "name": "Women's Open",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": 1000,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "advanced",
+     "eligibility": null,
+     "notes": "Fee per player per category."
+    },
+    {
+     "name": "Men's Masters 35+, 40+, 45+, 50+, 55+, 60+, 65+",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": 1000,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": 35,
+     "level": "intermediate",
+     "eligibility": "Age group as per SRFI masters rules",
+     "notes": "Seven separate age-group draws."
+    },
+    {
+     "name": "Women's Masters 35+",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": 1000,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": 35,
+     "level": "intermediate",
+     "eligibility": "Age group as per SRFI masters rules",
+     "notes": null
+    },
+    {
+     "name": "Pro Coach",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": 1000,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "advanced",
+     "eligibility": "Professional squash coaches",
+     "notes": null
+    },
+    {
+     "name": "Junior Boys and Girls U-11 to U-19",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": 1000,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "intermediate",
+     "eligibility": "Age group as per SRFI junior rules",
+     "notes": "U-11, U-13, U-15, U-17 and U-19 draws for boys and girls."
+    }
+   ],
+   "course": {
+    "terrain": "indoor",
+    "surface": "glass-backed air-conditioned squash courts",
+    "elevation_gain_m": null,
+    "profile": null,
+    "description": "Six glass-backed courts at the Anil Nayar squash complex inside CCI's Brabourne Stadium in south Mumbai."
+   },
+   "format": "Knockout draws per category on the SRFI national circuit, rated 4-star for junior, senior and masters ranking points. Junior events add playoffs for the top 8 places.",
+   "highlights": [
+    "Held since 1943",
+    "Six glass-backed courts",
+    "4-star ranking points in junior, senior and masters draws"
+   ],
+   "tips": [
+    "Entries close on 3 November, five weeks before play",
+    "CCI is a short walk from Churchgate station; take the train rather than driving into south Mumbai",
+    "Check draw timings on the SRFI site each evening; schedules shift as junior rounds run long"
+   ],
+   "amenities": [
+    "Glass-backed courts",
+    "Air-conditioned courts"
+   ],
+   "beginner_friendly": false,
+   "tags": [
+    "iconic",
+    "national-circuit",
+    "masters"
+   ],
+   "sources": [
+    "https://api.indiasquash.com/tournament/tour/AL/2026",
+    "https://api.indiasquash.com/tournament/tourweb/AL/2026/AL/AL",
+    "https://ianslive.in/80th-western-india-squash-tournament-to-commence-on-wednesday--20251215193536"
+   ]
+  },
+  {
+   "slug": "willingdon-squash-open-little-masters-willingdon-open-2027",
+   "name": "Willingdon Squash Open (Little Masters Willingdon Open)",
+   "edition": "2027 (expected)",
+   "sport": "squash",
+   "discipline": "singles",
+   "city": "mumbai",
+   "venue": "The Willingdon Sports Club, Tardeo",
+   "lat": null,
+   "lon": null,
+   "start_date": "2027-01-15",
+   "end_date": "2027-01-19",
+   "date_status": "expected",
+   "last_edition_date": "2026-01-16",
+   "organiser": "The Willingdon Sports Club, on the SRFI national circuit",
+   "official_url": "https://www.indiasquash.com",
+   "registration_status": "upcoming",
+   "registration_opens": null,
+   "registration_closes": null,
+   "registration_url": "https://www.indiasquash.com",
+   "registration_notes": "2026 entries ran 4 to 19 December 2025 on the SRFI system. Rs 1,000 per category.",
+   "summary": "4-star SRFI national circuit event at The Willingdon Sports Club, held each January (19-23 January 2025, 16-20 January 2026). The 2026 edition had masters draws from 35+ to 65+ for men and 35+ for women alongside open and junior events.",
+   "categories": [
+    {
+     "name": "Men's Open",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": 1000,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "advanced",
+     "eligibility": null,
+     "notes": "Fee per player per category (2026)."
+    },
+    {
+     "name": "Women's Open",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": 1000,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "advanced",
+     "eligibility": null,
+     "notes": null
+    },
+    {
+     "name": "Men's Masters 35+, 40+, 45+, 50+, 55+, 60+, 65+",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": 1000,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": 35,
+     "level": "intermediate",
+     "eligibility": "Age group as per SRFI masters rules",
+     "notes": "Age groups as listed for 2026."
+    },
+    {
+     "name": "Women's Masters 35+",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": 1000,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": 35,
+     "level": "intermediate",
+     "eligibility": "Age group as per SRFI masters rules",
+     "notes": null
+    },
+    {
+     "name": "Junior Boys and Girls U-11 to U-19",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": 1000,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "intermediate",
+     "eligibility": "Age group as per SRFI junior rules",
+     "notes": null
+    }
+   ],
+   "course": {
+    "terrain": "indoor",
+    "surface": "squash courts",
+    "elevation_gain_m": null,
+    "profile": null,
+    "description": "Club squash courts at The Willingdon Sports Club, Tardeo, south-central Mumbai."
+   },
+   "format": "Knockout draws per category, 4-star SRFI national circuit ranking event.",
+   "highlights": [
+    "4-star ranking points",
+    "Seven men's masters age groups in 2026"
+   ],
+   "tips": [
+    "Entries close in mid-December, about four weeks before play",
+    "In 2026 the Juhu Gymkhana Squash Open ran the week before (10-14 January), so Mumbai players can enter both"
+   ],
+   "amenities": [],
+   "beginner_friendly": false,
+   "tags": [
+    "national-circuit",
+    "masters"
+   ],
+   "sources": [
+    "https://api.indiasquash.com/tournament/tourweb/AL/2026/AL/AL",
+    "https://api.indiasquash.com/tournament/tourweb/AL/2025/AL/AL"
+   ]
+  },
+  {
+   "slug": "goa-squash-masters-2027",
+   "name": "Goa Squash Masters",
+   "edition": "2027 (expected)",
+   "sport": "squash",
+   "discipline": "masters singles",
+   "city": "goa",
+   "venue": "SAG squash courts, SAG Sports Complex, Chicalim (near Vasco da Gama)",
+   "lat": null,
+   "lon": null,
+   "start_date": "2027-04-09",
+   "end_date": "2027-04-11",
+   "date_status": "expected",
+   "last_edition_date": "2026-04-10",
+   "organiser": "SRFI national circuit event (local organiser not named in the SRFI listing)",
+   "official_url": "https://www.indiasquash.com",
+   "registration_status": "upcoming",
+   "registration_opens": null,
+   "registration_closes": null,
+   "registration_url": "https://www.indiasquash.com",
+   "registration_notes": "2026 entries ran 1 December 2025 to 4 March 2026 on the SRFI system. Rs 2,000 per category.",
+   "summary": "Masters-only squash tournament in Goa on the SRFI national circuit, rated 5-star in both 2025 (28-30 March) and 2026 (10-12 April). Draws run from 35+ to 70+ for men and 35+ for women.",
+   "categories": [
+    {
+     "name": "Men's Masters 35+, 40+, 45+, 50+, 55+, 60+, 65+, 70+",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": 2000,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": 35,
+     "level": "intermediate",
+     "eligibility": "Age group as per SRFI masters rules",
+     "notes": "Fee per player per category (2026)."
+    },
+    {
+     "name": "Women's Masters 35+",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": 2000,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": 35,
+     "level": "intermediate",
+     "eligibility": "Age group as per SRFI masters rules",
+     "notes": "Listed in 2026, not in 2025."
+    }
+   ],
+   "course": {
+    "terrain": "indoor",
+    "surface": "squash courts",
+    "elevation_gain_m": null,
+    "profile": null,
+    "description": "Sports Authority of Goa courts at Chicalim, close to Dabolim airport and Vasco da Gama."
+   },
+   "format": "Three-day knockout tournament by age group, 5-star SRFI masters ranking event.",
+   "highlights": [
+    "Masters-only event",
+    "5-star SRFI rating",
+    "Eight men's age groups up to 70+"
+   ],
+   "tips": [
+    "Entries close about five weeks before play (4 March in 2026)",
+    "Chicalim is minutes from Dabolim airport, handy for flying in",
+    "April is hot and humid in Goa; hydrate between rounds"
+   ],
+   "amenities": [],
+   "beginner_friendly": false,
+   "tags": [
+    "masters",
+    "national-circuit"
+   ],
+   "sources": [
+    "https://api.indiasquash.com/tournament/tourweb/AL/2026/AL/AL",
+    "https://api.indiasquash.com/tournament/tourweb/AL/2025/AL/AL"
+   ]
+  },
+  {
+   "slug": "telangana-squash-open-2027",
+   "name": "Telangana Squash Open",
+   "edition": "2027 (expected)",
+   "sport": "squash",
+   "discipline": "singles",
+   "city": "hyderabad",
+   "venue": "Secunderabad Club, Picket, Secunderabad",
+   "lat": null,
+   "lon": null,
+   "start_date": "2027-07-03",
+   "end_date": "2027-07-07",
+   "date_status": "expected",
+   "last_edition_date": "2026-07-04",
+   "organiser": "Hosted at Secunderabad Club on the SRFI national circuit",
+   "official_url": "https://www.indiasquash.com",
+   "registration_status": "upcoming",
+   "registration_opens": null,
+   "registration_closes": null,
+   "registration_url": "https://www.indiasquash.com",
+   "registration_notes": "2026 entries ran 8 April to 4 June on the SRFI system. Rs 1,000 per category.",
+   "summary": "3-star SRFI national circuit event at the Secunderabad Club, held 25-29 June 2025 and 4-8 July 2026. It includes men's and women's open draws and masters draws for men 35+, 45+, 55+ and 60+ and women 35+.",
+   "categories": [
+    {
+     "name": "Men's Open",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": 1000,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "advanced",
+     "eligibility": null,
+     "notes": "Fee per player per category (2026)."
+    },
+    {
+     "name": "Women's Open",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": 1000,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "advanced",
+     "eligibility": null,
+     "notes": null
+    },
+    {
+     "name": "Men's Masters 35+, 45+, 55+, 60+",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": 1000,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": 35,
+     "level": "intermediate",
+     "eligibility": "Age group as per SRFI masters rules",
+     "notes": "Age groups as listed for 2026."
+    },
+    {
+     "name": "Women's Masters 35+",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": 1000,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": 35,
+     "level": "intermediate",
+     "eligibility": "Age group as per SRFI masters rules",
+     "notes": null
+    },
+    {
+     "name": "Junior Boys and Girls U-11 to U-19",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": 1000,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "intermediate",
+     "eligibility": "Age group as per SRFI junior rules",
+     "notes": null
+    }
+   ],
+   "course": {
+    "terrain": "indoor",
+    "surface": "squash courts",
+    "elevation_gain_m": null,
+    "profile": null,
+    "description": "Squash courts at the Secunderabad Club, near Jubilee Bus Station."
+   },
+   "format": "Knockout draws per category, 3-star SRFI national circuit ranking event.",
+   "highlights": [
+    "The only SRFI national circuit open in Hyderabad in the 2025 and 2026 calendars",
+    "Masters draws up to 60+"
+   ],
+   "tips": [
+    "Entries close about a month before play (4 June in 2026)",
+    "Early July is monsoon onset in Hyderabad; allow extra travel time"
+   ],
+   "amenities": [],
+   "beginner_friendly": false,
+   "tags": [
+    "national-circuit",
+    "masters"
+   ],
+   "sources": [
+    "https://api.indiasquash.com/tournament/tourweb/AL/2026/AL/AL",
+    "https://api.indiasquash.com/tournament/tourweb/AL/2025/AL/AL"
+   ]
+  },
+  {
+   "slug": "maharashtra-state-open-squash-tournament-bombay-gymkhana-2027",
+   "name": "Maharashtra State Open Squash Tournament (Bombay Gymkhana)",
+   "edition": "2027, 50th edition (expected)",
+   "sport": "squash",
+   "discipline": "singles",
+   "city": "mumbai",
+   "venue": "Bombay Gymkhana squash complex, Mahatma Gandhi Road, Fort",
+   "lat": 18.9385,
+   "lon": 72.8322,
+   "start_date": "2027-08-28",
+   "end_date": "2027-09-02",
+   "date_status": "expected",
+   "last_edition_date": "2026-08-29",
+   "organiser": "Bombay Gymkhana, on the SRFI national circuit",
+   "official_url": "https://www.indiasquash.com",
+   "registration_status": "upcoming",
+   "registration_opens": null,
+   "registration_closes": null,
+   "registration_url": "https://www.indiasquash.com",
+   "registration_notes": "2026 entries ran 8 April to 27 July on the SRFI system. Rs 1,000 per category.",
+   "summary": "Long-running open squash tournament at Bombay Gymkhana (48th edition 9-14 August 2025, 49th 29 August to 3 September 2026). It is listed as a 4-star national circuit event rather than a state-closed one, with junior, open, pro-coach and masters draws.",
+   "categories": [
+    {
+     "name": "Men's Open",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": 1000,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "advanced",
+     "eligibility": null,
+     "notes": "Fee per player per category (2026)."
+    },
+    {
+     "name": "Women's Open",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": 1000,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "advanced",
+     "eligibility": null,
+     "notes": null
+    },
+    {
+     "name": "Men's Masters 35+, 40+, 45+, 50+, 55+, 60+, 65+",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": 1000,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": 35,
+     "level": "intermediate",
+     "eligibility": "Age group as per SRFI masters rules",
+     "notes": null
+    },
+    {
+     "name": "Women's Masters 35+",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": 1000,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": 35,
+     "level": "intermediate",
+     "eligibility": "Age group as per SRFI masters rules",
+     "notes": "Listed in 2026."
+    },
+    {
+     "name": "Junior Boys and Girls U-11 to U-19",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": 1000,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "intermediate",
+     "eligibility": "Age group as per SRFI junior rules",
+     "notes": null
+    }
+   ],
+   "course": {
+    "terrain": "indoor",
+    "surface": "squash courts",
+    "elevation_gain_m": null,
+    "profile": null,
+    "description": "Bombay Gymkhana's squash complex beside Azad Maidan in south Mumbai."
+   },
+   "format": "Knockout draws per category, 4-star SRFI national circuit ranking event.",
+   "highlights": [
+    "Nearly 50 editions",
+    "Historic Bombay Gymkhana venue",
+    "Masters draws from 35+ to 65+"
+   ],
+   "tips": [
+    "Entries close about a month before play (27 July in 2026)",
+    "Late August is still monsoon in Mumbai; allow extra travel time",
+    "Bombay Gymkhana is a short walk from CSMT and Churchgate stations"
+   ],
+   "amenities": [],
+   "beginner_friendly": false,
+   "tags": [
+    "national-circuit",
+    "masters"
+   ],
+   "sources": [
+    "https://api.indiasquash.com/tournament/tourweb/AL/2026/AL/AL",
+    "https://api.indiasquash.com/tournament/tourweb/AL/2025/AL/AL"
+   ]
+  },
+  {
+   "slug": "white-lotus-bengaluru-squash-open-2027",
+   "name": "White Lotus Bengaluru Squash Open",
+   "edition": "2027, 5th edition (expected)",
+   "sport": "squash",
+   "discipline": "singles",
+   "city": "bengaluru",
+   "venue": "The Bangalore Club, Residency Road",
+   "lat": 12.9697,
+   "lon": 77.6036,
+   "start_date": "2027-09-08",
+   "end_date": "2027-09-12",
+   "date_status": "expected",
+   "last_edition_date": "2026-09-09",
+   "organiser": "Sanctioned by the Squash Association of Karnataka; title sponsor White Lotus Group",
+   "official_url": "https://www.indiasquash.com",
+   "registration_status": "upcoming",
+   "registration_opens": null,
+   "registration_closes": null,
+   "registration_url": "https://www.indiasquash.com",
+   "registration_notes": "2026 entries ran 27 July to 13 August on the SRFI system. Rs 1,000 per category.",
+   "summary": "3-star SRFI national circuit event at The Bangalore Club. The 4th edition (9-13 September 2026) drew 305 players from 21 states across 17 categories, including open and masters draws.",
+   "categories": [
+    {
+     "name": "Men's Open",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": 1000,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "advanced",
+     "eligibility": null,
+     "notes": "Fee per player per category (2026)."
+    },
+    {
+     "name": "Women's Open",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": 1000,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "advanced",
+     "eligibility": null,
+     "notes": null
+    },
+    {
+     "name": "Men's Masters 35+, 45+, 55+, 60+, 70+",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": 1000,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": 35,
+     "level": "intermediate",
+     "eligibility": "Age group as per SRFI masters rules",
+     "notes": "Age groups as listed for 2026."
+    },
+    {
+     "name": "Women's Masters 35+ and 45+",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": 1000,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": 35,
+     "level": "intermediate",
+     "eligibility": "Age group as per SRFI masters rules",
+     "notes": null
+    },
+    {
+     "name": "Junior Boys and Girls U-11 to U-19",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": 1000,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "intermediate",
+     "eligibility": "Age group as per SRFI junior rules",
+     "notes": null
+    }
+   ],
+   "course": {
+    "terrain": "indoor",
+    "surface": "squash courts",
+    "elevation_gain_m": null,
+    "profile": null,
+    "description": "Squash courts at The Bangalore Club on Residency Road in central Bengaluru."
+   },
+   "format": "Knockout draws per category, 3-star SRFI national circuit ranking event.",
+   "highlights": [
+    "305 players from 21 states in 2026",
+    "17 categories including women's 45+ masters"
+   ],
+   "tips": [
+    "The 2026 entry window was only about two and a half weeks, so watch the SRFI calendar from late July",
+    "Large junior field; check your draw times daily"
+   ],
+   "amenities": [],
+   "beginner_friendly": false,
+   "tags": [
+    "national-circuit",
+    "masters"
+   ],
+   "sources": [
+    "https://api.indiasquash.com/tournament/tourweb/AL/2026/AL/AL",
+    "https://www.uniindia.com/sports/sports-squash-tournament-bengaluru/172466"
+   ]
+  },
+  {
+   "slug": "mumbai-masters-squash-championships-2027",
+   "name": "Mumbai Masters Squash Championships",
+   "edition": "2027, 6th edition (expected)",
+   "sport": "squash",
+   "discipline": "masters singles",
+   "city": "mumbai",
+   "venue": "Cricket Club of India, Brabourne Stadium, Churchgate",
+   "lat": 18.9322,
+   "lon": 72.8247,
+   "start_date": "2027-10-07",
+   "end_date": "2027-10-10",
+   "date_status": "expected",
+   "last_edition_date": "2026-10-08",
+   "organiser": "Mumbai Masters organising committee, at the Cricket Club of India (SRFI national circuit)",
+   "official_url": "https://www.indiasquash.com",
+   "registration_status": "upcoming",
+   "registration_opens": null,
+   "registration_closes": null,
+   "registration_url": "https://www.indiasquash.com",
+   "registration_notes": "2026 entries ran 27 May to 4 September on the SRFI system. Rs 2,000 per category.",
+   "summary": "Masters squash championship at CCI's glass-backed courts, rated 5-star on the SRFI national circuit. Held 9-12 October 2025 (4th edition) and 8-11 October 2026 (5th). The 2025 handbook was published through the Asian Squash Federation with travel information for overseas players.",
+   "categories": [
+    {
+     "name": "Men's Masters 35+, 40+, 45+, 50+, 55+, 60+, 65+, 70+",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": 2000,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": 35,
+     "level": "intermediate",
+     "eligibility": "Age group as per SRFI masters rules",
+     "notes": "Fee per player per category (2026)."
+    },
+    {
+     "name": "Women's Masters 35+ and 50+",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": 2000,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": 35,
+     "level": "intermediate",
+     "eligibility": "Age group as per SRFI masters rules",
+     "notes": null
+    },
+    {
+     "name": "Pro Coach",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": 2000,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "advanced",
+     "eligibility": "Professional squash coaches",
+     "notes": null
+    }
+   ],
+   "course": {
+    "terrain": "indoor",
+    "surface": "glass-backed air-conditioned squash courts",
+    "elevation_gain_m": null,
+    "profile": null,
+    "description": "Six glass-backed courts at the Anil Nayar squash complex inside CCI, Churchgate."
+   },
+   "format": "Four-day knockout tournament by age group, 5-star SRFI masters ranking event.",
+   "highlights": [
+    "5-star SRFI masters ranking event",
+    "Women's 50+ draw, rare on the circuit",
+    "Glass-backed courts at CCI"
+   ],
+   "tips": [
+    "Entries close about five weeks before play (4 September in 2026)",
+    "Mumbai is hot and humid in early October; courts are air-conditioned",
+    "CCI is a short walk from Churchgate station"
+   ],
+   "amenities": [
+    "Glass-backed courts",
+    "Air-conditioned courts"
+   ],
+   "beginner_friendly": false,
+   "tags": [
+    "masters",
+    "national-circuit"
+   ],
+   "sources": [
+    "https://api.indiasquash.com/tournament/tourweb/AL/2026/AL/AL",
+    "https://api.indiasquash.com/tournament/tourweb/AL/2025/AL/AL",
+    "https://api.asiansquash.org/uploads/4th_Mumbai_Master_s_Squash_Championships_CHAMPIONSHIP_HANDBOOK_2025_6f08144e4d.pdf"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1106 @@
+{
+ "events": [
+  {
+   "slug": "maruti-suzuki-swift-devils-circuit-ahmedabad-2026",
+   "name": "Maruti Suzuki Swift Devils Circuit Ahmedabad",
+   "edition": "Season 2026-27 (13th season)",
+   "sport": "ocr",
+   "discipline": "obstacle-race",
+   "city": "ahmedabad",
+   "venue": "Malhaar Exotica, behind Dahegam Power Grid, Nehru Chokdi, Dahegam",
+   "lat": 23.164,
+   "lon": 72.809,
+   "start_date": "2026-10-25",
+   "end_date": "2026-10-25",
+   "date_status": "confirmed",
+   "last_edition_date": null,
+   "organiser": "Spectacom Global",
+   "official_url": "https://devilscircuit.com/find-your-race/",
+   "registration_status": "open",
+   "registration_opens": null,
+   "registration_closes": "2026-10-18",
+   "registration_url": "https://getmybib.com/283/register?ename=Maruti-Suzuki-Arena-Devils-Circuit-Ahmedabad-2026-27",
+   "registration_notes": "Wave-based entry; individual waves sell out and close separately. Remaining waves close on 18 Oct 2026.",
+   "summary": "The Ahmedabad leg of Devils Circuit, India's largest obstacle course race series, run by Spectacom Global across 12 cities in the 2026-27 season. Each leg is a 5 km course with 15 military-style obstacles, with timed competitive waves and untimed non-competitive waves. The fastest competitive finishers qualify for the Grand Finale on 14 March 2027, where the season's top man and woman win a Maruti Suzuki Swift.",
+   "categories": [
+    {
+     "name": "Competitive Pro (Wave A)",
+     "distance_km": 5.0,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": 4500,
+     "start_time": "07:00",
+     "cutoff_minutes": null,
+     "min_age": 16,
+     "level": "advanced",
+     "eligibility": "Limited to 100 elite participants; first wave on a fresh course",
+     "notes": "Podium standard: men 15 obstacles under 50 min, women 13 obstacles under 70 min."
+    },
+    {
+     "name": "Competitive",
+     "distance_km": 5.0,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": 3800,
+     "start_time": "07:20",
+     "cutoff_minutes": null,
+     "min_age": 16,
+     "level": "advanced",
+     "eligibility": null,
+     "notes": "Timed. Podium standard: men all 15 obstacles under 50 min, women 13 of 15 under 70 min, Masters (men 40+) 15 under 60 min. Top 25 qualify for the Grand Finale. City prizes Rs 30,000 / 15,000 / 5,000."
+    },
+    {
+     "name": "Non-Competitive",
+     "distance_km": 5.0,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": 2500,
+     "start_time": "08:00",
+     "cutoff_minutes": null,
+     "min_age": 16,
+     "level": "beginner",
+     "eligibility": null,
+     "notes": "Untimed for ranking; obstacles can be skipped."
+    }
+   ],
+   "course": {
+    "terrain": "mixed",
+    "surface": "grass, dirt and mud with water obstacles",
+    "elevation_gain_m": null,
+    "profile": "flat",
+    "description": "5 km course with 15 military-style obstacles including Brain Freeze and the Summit. Venue at Dahegam, about 30 km north-east of Ahmedabad; coordinates approximate."
+   },
+   "format": null,
+   "highlights": [
+    "5 km, 15 obstacles",
+    "Top 25 competitive finishers per city qualify for the Grand Finale (14 Mar 2027)",
+    "Season winner (men and women) gets a Maruti Suzuki Swift and Rs 1 lakh"
+   ],
+   "tips": [
+    "Venue is at Dahegam, about 30 km from central Ahmedabad: plan a car pool and leave early for 07:00-09:40 waves",
+    "Reach the venue 60-90 minutes before your wave; your start time is in the confirmation email and on your bib",
+    "No showers on site: carry a towel and a full change of clothes, and leave watches and jewellery at home",
+    "One bag per participant at the baggage counter; parking is limited and first come, first served",
+    "Each participant can bring one spectator, who collects a band at registration against your bib"
+   ],
+   "amenities": [
+    "Finisher medal",
+    "T-shirt",
+    "Bandana",
+    "Energy drink",
+    "Goody bag",
+    "Water on course and in the village",
+    "Baggage counter"
+   ],
+   "beginner_friendly": true,
+   "tags": [
+    "obstacle-race",
+    "series",
+    "mud",
+    "wave-start"
+   ],
+   "sources": [
+    "https://devilscircuit.com/find-your-race/",
+    "https://devilscircuit.com/categories/",
+    "https://devilscircuit.com/faq/",
+    "https://getmybib.com/283/register?ename=Maruti-Suzuki-Arena-Devils-Circuit-Ahmedabad-2026-27"
+   ]
+  },
+  {
+   "slug": "maruti-suzuki-swift-devils-circuit-pune-2026",
+   "name": "Maruti Suzuki Swift Devils Circuit Pune",
+   "edition": "Season 2026-27 (13th season)",
+   "sport": "ocr",
+   "discipline": "obstacle-race",
+   "city": "pune",
+   "venue": "To be announced",
+   "lat": 18.5204,
+   "lon": 73.8567,
+   "start_date": "2026-11-15",
+   "end_date": "2026-11-15",
+   "date_status": "confirmed",
+   "last_edition_date": null,
+   "organiser": "Spectacom Global",
+   "official_url": "https://devilscircuit.com/find-your-race/",
+   "registration_status": "open",
+   "registration_opens": null,
+   "registration_closes": "2026-11-15",
+   "registration_url": "https://getmybib.com/284/register?ename=Maruti-Suzuki-Arena-Devils-Circuit-Pune-2026-27",
+   "registration_notes": "Wave-based entry; individual waves sell out and close separately. Competitive Wave C sales end 8 Nov 2026.",
+   "summary": "The Pune leg of Devils Circuit, India's largest obstacle course race series, run by Spectacom Global across 12 cities in the 2026-27 season. Each leg is a 5 km course with 15 military-style obstacles, with timed competitive waves and untimed non-competitive waves. The fastest competitive finishers qualify for the Grand Finale on 14 March 2027, where the season's top man and woman win a Maruti Suzuki Swift.",
+   "categories": [
+    {
+     "name": "Competitive Pro (Wave A)",
+     "distance_km": 5.0,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": 4500,
+     "start_time": "07:00",
+     "cutoff_minutes": null,
+     "min_age": 16,
+     "level": "advanced",
+     "eligibility": "Limited to 100 elite participants; first wave on a fresh course",
+     "notes": "Podium standard: men 15 obstacles under 50 min, women 13 obstacles under 70 min."
+    },
+    {
+     "name": "Competitive",
+     "distance_km": 5.0,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": 3800,
+     "start_time": "07:20",
+     "cutoff_minutes": null,
+     "min_age": 16,
+     "level": "advanced",
+     "eligibility": null,
+     "notes": "Timed. Podium standard: men all 15 obstacles under 50 min, women 13 of 15 under 70 min, Masters (men 40+) 15 under 60 min. Top 25 qualify for the Grand Finale. City prizes Rs 30,000 / 15,000 / 5,000."
+    },
+    {
+     "name": "Non-Competitive",
+     "distance_km": 5.0,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": 2500,
+     "start_time": "08:00",
+     "cutoff_minutes": null,
+     "min_age": 16,
+     "level": "beginner",
+     "eligibility": null,
+     "notes": "Untimed for ranking; obstacles can be skipped."
+    }
+   ],
+   "course": {
+    "terrain": "mixed",
+    "surface": "grass, dirt and mud with water obstacles",
+    "elevation_gain_m": null,
+    "profile": "flat",
+    "description": "5 km course with 15 military-style obstacles including Brain Freeze and the Summit. Venue not yet announced; coordinates are a city-centre placeholder."
+   },
+   "format": null,
+   "highlights": [
+    "5 km, 15 obstacles",
+    "Top 25 competitive finishers per city qualify for the Grand Finale (14 Mar 2027)",
+    "Season winner (men and women) gets a Maruti Suzuki Swift and Rs 1 lakh"
+   ],
+   "tips": [
+    "Reach the venue 60-90 minutes before your wave; your start time is in the confirmation email and on your bib",
+    "No showers on site: carry a towel and a full change of clothes, and leave watches and jewellery at home",
+    "One bag per participant at the baggage counter; parking is limited and first come, first served",
+    "Each participant can bring one spectator, who collects a band at registration against your bib"
+   ],
+   "amenities": [
+    "Finisher medal",
+    "T-shirt",
+    "Bandana",
+    "Energy drink",
+    "Goody bag",
+    "Water on course and in the village",
+    "Baggage counter"
+   ],
+   "beginner_friendly": true,
+   "tags": [
+    "obstacle-race",
+    "series",
+    "mud",
+    "wave-start"
+   ],
+   "sources": [
+    "https://devilscircuit.com/find-your-race/",
+    "https://devilscircuit.com/categories/",
+    "https://devilscircuit.com/faq/",
+    "https://getmybib.com/284/register?ename=Maruti-Suzuki-Arena-Devils-Circuit-Pune-2026-27"
+   ]
+  },
+  {
+   "slug": "maruti-suzuki-swift-devils-circuit-mumbai-2026",
+   "name": "Maruti Suzuki Swift Devils Circuit Mumbai",
+   "edition": "Season 2026-27 (13th season)",
+   "sport": "ocr",
+   "discipline": "obstacle-race",
+   "city": "mumbai",
+   "venue": "To be announced",
+   "lat": 19.076,
+   "lon": 72.8777,
+   "start_date": "2026-11-28",
+   "end_date": "2026-11-29",
+   "date_status": "confirmed",
+   "last_edition_date": null,
+   "organiser": "Spectacom Global",
+   "official_url": "https://devilscircuit.com/find-your-race/",
+   "registration_status": "open",
+   "registration_opens": null,
+   "registration_closes": "2026-11-28",
+   "registration_url": "https://getmybib.com/281/register?ename=Maruti-Suzuki-Arena-Devils-Circuit-Mumbai-2026-27",
+   "registration_notes": "Wave-based entry; individual waves sell out and close separately. Competitive Pro listed at Rs 3,150 for Mumbai (Rs 4,500 in most cities).",
+   "summary": "The Mumbai leg of Devils Circuit, India's largest obstacle course race series, run by Spectacom Global across 12 cities in the 2026-27 season. Each leg is a 5 km course with 15 military-style obstacles, with timed competitive waves and untimed non-competitive waves. The fastest competitive finishers qualify for the Grand Finale on 14 March 2027, where the season's top man and woman win a Maruti Suzuki Swift.",
+   "categories": [
+    {
+     "name": "Competitive Pro (Wave A)",
+     "distance_km": 5.0,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": 3150,
+     "start_time": "07:00",
+     "cutoff_minutes": null,
+     "min_age": 16,
+     "level": "advanced",
+     "eligibility": "Limited to 100 elite participants; first wave on a fresh course",
+     "notes": "Podium standard: men 15 obstacles under 50 min, women 13 obstacles under 70 min."
+    },
+    {
+     "name": "Competitive",
+     "distance_km": 5.0,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": 3800,
+     "start_time": "07:40",
+     "cutoff_minutes": null,
+     "min_age": 16,
+     "level": "advanced",
+     "eligibility": null,
+     "notes": "Timed. Podium standard: men all 15 obstacles under 50 min, women 13 of 15 under 70 min, Masters (men 40+) 15 under 60 min. Top 25 qualify for the Grand Finale. City prizes Rs 30,000 / 15,000 / 5,000."
+    },
+    {
+     "name": "Non-Competitive",
+     "distance_km": 5.0,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": 2500,
+     "start_time": "09:40",
+     "cutoff_minutes": null,
+     "min_age": 16,
+     "level": "beginner",
+     "eligibility": null,
+     "notes": "Untimed for ranking; obstacles can be skipped."
+    },
+    {
+     "name": "Competitive Doubles",
+     "distance_km": 5.0,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": 6500,
+     "start_time": "07:20",
+     "cutoff_minutes": null,
+     "min_age": 16,
+     "level": "advanced",
+     "eligibility": null,
+     "notes": "Price per pair. Saturday. 15 obstacles in 60 min, time taken when last partner finishes; Brain Freeze needs both partners."
+    },
+    {
+     "name": "Corporate Cup (team of 3)",
+     "distance_km": 5.0,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": 12000,
+     "start_time": "09:30",
+     "cutoff_minutes": null,
+     "min_age": 16,
+     "level": "intermediate",
+     "eligibility": "All 3 members from the same company",
+     "notes": "Price per team. Saturday. Only one member must clear most obstacles; Brain Freeze needs the full team."
+    },
+    {
+     "name": "Non-Competitive Elite",
+     "distance_km": 5.0,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": 2900,
+     "start_time": "07:00",
+     "cutoff_minutes": null,
+     "min_age": 16,
+     "level": "beginner",
+     "eligibility": "Limited to 200 participants",
+     "notes": "First non-competitive wave on Sunday, fewer runners and fresher obstacles."
+    }
+   ],
+   "course": {
+    "terrain": "mixed",
+    "surface": "grass, dirt and mud with water obstacles",
+    "elevation_gain_m": null,
+    "profile": "flat",
+    "description": "5 km course with 15 military-style obstacles including Brain Freeze and the Summit. Venue not yet announced; coordinates are a city-centre placeholder."
+   },
+   "format": null,
+   "highlights": [
+    "5 km, 15 obstacles",
+    "Top 25 competitive finishers per city qualify for the Grand Finale (14 Mar 2027)",
+    "Season winner (men and women) gets a Maruti Suzuki Swift and Rs 1 lakh",
+    "Two-day city with Doubles, Corporate Cup and Non-Competitive Elite waves"
+   ],
+   "tips": [
+    "Reach the venue 60-90 minutes before your wave; your start time is in the confirmation email and on your bib",
+    "No showers on site: carry a towel and a full change of clothes, and leave watches and jewellery at home",
+    "One bag per participant at the baggage counter; parking is limited and first come, first served",
+    "Each participant can bring one spectator, who collects a band at registration against your bib"
+   ],
+   "amenities": [
+    "Finisher medal",
+    "T-shirt",
+    "Bandana",
+    "Energy drink",
+    "Goody bag",
+    "Water on course and in the village",
+    "Baggage counter"
+   ],
+   "beginner_friendly": true,
+   "tags": [
+    "obstacle-race",
+    "series",
+    "mud",
+    "wave-start"
+   ],
+   "sources": [
+    "https://devilscircuit.com/find-your-race/",
+    "https://devilscircuit.com/categories/",
+    "https://devilscircuit.com/faq/",
+    "https://getmybib.com/281/register?ename=Maruti-Suzuki-Arena-Devils-Circuit-Mumbai-2026-27"
+   ]
+  },
+  {
+   "slug": "maruti-suzuki-swift-devils-circuit-bengaluru-2026",
+   "name": "Maruti Suzuki Swift Devils Circuit Bengaluru",
+   "edition": "Season 2026-27 (13th season)",
+   "sport": "ocr",
+   "discipline": "obstacle-race",
+   "city": "bengaluru",
+   "venue": "To be announced",
+   "lat": 12.9716,
+   "lon": 77.5946,
+   "start_date": "2026-12-12",
+   "end_date": "2026-12-13",
+   "date_status": "confirmed",
+   "last_edition_date": null,
+   "organiser": "Spectacom Global",
+   "official_url": "https://devilscircuit.com/find-your-race/",
+   "registration_status": "open",
+   "registration_opens": null,
+   "registration_closes": "2026-12-12",
+   "registration_url": "https://getmybib.com/286/register?ename=Maruti-Suzuki-Arena-Devils-Circuit-Bengaluru-2026-27",
+   "registration_notes": "Wave-based entry; individual waves sell out and close separately. Most Saturday waves full at time of check; Corporate Cup and late Sunday non-competitive waves open. Competitive Pro listed at Rs 3,150.",
+   "summary": "The Bengaluru leg of Devils Circuit, India's largest obstacle course race series, run by Spectacom Global across 12 cities in the 2026-27 season. Each leg is a 5 km course with 15 military-style obstacles, with timed competitive waves and untimed non-competitive waves. The fastest competitive finishers qualify for the Grand Finale on 14 March 2027, where the season's top man and woman win a Maruti Suzuki Swift.",
+   "categories": [
+    {
+     "name": "Competitive Pro (Wave A)",
+     "distance_km": 5.0,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": 3150,
+     "start_time": "07:00",
+     "cutoff_minutes": null,
+     "min_age": 16,
+     "level": "advanced",
+     "eligibility": "Limited to 100 elite participants; first wave on a fresh course",
+     "notes": "Podium standard: men 15 obstacles under 50 min, women 13 obstacles under 70 min."
+    },
+    {
+     "name": "Competitive",
+     "distance_km": 5.0,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": 3800,
+     "start_time": "07:40",
+     "cutoff_minutes": null,
+     "min_age": 16,
+     "level": "advanced",
+     "eligibility": null,
+     "notes": "Timed. Podium standard: men all 15 obstacles under 50 min, women 13 of 15 under 70 min, Masters (men 40+) 15 under 60 min. Top 25 qualify for the Grand Finale. City prizes Rs 30,000 / 15,000 / 5,000."
+    },
+    {
+     "name": "Non-Competitive",
+     "distance_km": 5.0,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": 2500,
+     "start_time": "09:40",
+     "cutoff_minutes": null,
+     "min_age": 16,
+     "level": "beginner",
+     "eligibility": null,
+     "notes": "Untimed for ranking; obstacles can be skipped."
+    },
+    {
+     "name": "Competitive Doubles",
+     "distance_km": 5.0,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": 6500,
+     "start_time": "07:20",
+     "cutoff_minutes": null,
+     "min_age": 16,
+     "level": "advanced",
+     "eligibility": null,
+     "notes": "Price per pair. Saturday. 15 obstacles in 60 min, time taken when last partner finishes; Brain Freeze needs both partners."
+    },
+    {
+     "name": "Corporate Cup (team of 3)",
+     "distance_km": 5.0,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": 12000,
+     "start_time": "09:30",
+     "cutoff_minutes": null,
+     "min_age": 16,
+     "level": "intermediate",
+     "eligibility": "All 3 members from the same company",
+     "notes": "Price per team. Saturday. Only one member must clear most obstacles; Brain Freeze needs the full team."
+    },
+    {
+     "name": "Non-Competitive Elite",
+     "distance_km": 5.0,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": 2900,
+     "start_time": "07:00",
+     "cutoff_minutes": null,
+     "min_age": 16,
+     "level": "beginner",
+     "eligibility": "Limited to 200 participants",
+     "notes": "First non-competitive wave on Sunday, fewer runners and fresher obstacles."
+    }
+   ],
+   "course": {
+    "terrain": "mixed",
+    "surface": "grass, dirt and mud with water obstacles",
+    "elevation_gain_m": null,
+    "profile": "flat",
+    "description": "5 km course with 15 military-style obstacles including Brain Freeze and the Summit. Venue not yet announced; coordinates are a city-centre placeholder."
+   },
+   "format": null,
+   "highlights": [
+    "5 km, 15 obstacles",
+    "Top 25 competitive finishers per city qualify for the Grand Finale (14 Mar 2027)",
+    "Season winner (men and women) gets a Maruti Suzuki Swift and Rs 1 lakh",
+    "Two-day city with Doubles, Corporate Cup and Non-Competitive Elite waves"
+   ],
+   "tips": [
+    "Reach the venue 60-90 minutes before your wave; your start time is in the confirmation email and on your bib",
+    "No showers on site: carry a towel and a full change of clothes, and leave watches and jewellery at home",
+    "One bag per participant at the baggage counter; parking is limited and first come, first served",
+    "Each participant can bring one spectator, who collects a band at registration against your bib"
+   ],
+   "amenities": [
+    "Finisher medal",
+    "T-shirt",
+    "Bandana",
+    "Energy drink",
+    "Goody bag",
+    "Water on course and in the village",
+    "Baggage counter"
+   ],
+   "beginner_friendly": true,
+   "tags": [
+    "obstacle-race",
+    "series",
+    "mud",
+    "wave-start"
+   ],
+   "sources": [
+    "https://devilscircuit.com/find-your-race/",
+    "https://devilscircuit.com/categories/",
+    "https://devilscircuit.com/faq/",
+    "https://getmybib.com/286/register?ename=Maruti-Suzuki-Arena-Devils-Circuit-Bengaluru-2026-27"
+   ]
+  },
+  {
+   "slug": "maruti-suzuki-swift-devils-circuit-hyderabad-2027",
+   "name": "Maruti Suzuki Swift Devils Circuit Hyderabad",
+   "edition": "Season 2026-27 (13th season)",
+   "sport": "ocr",
+   "discipline": "obstacle-race",
+   "city": "hyderabad",
+   "venue": "To be announced",
+   "lat": 17.385,
+   "lon": 78.4867,
+   "start_date": "2027-01-10",
+   "end_date": "2027-01-10",
+   "date_status": "confirmed",
+   "last_edition_date": null,
+   "organiser": "Spectacom Global",
+   "official_url": "https://devilscircuit.com/find-your-race/",
+   "registration_status": "open",
+   "registration_opens": null,
+   "registration_closes": "2027-01-10",
+   "registration_url": "https://getmybib.com/285/register?ename=Maruti-Suzuki-Arena-Devils-Circuit-Hyderabad-2026-27",
+   "registration_notes": "Wave-based entry; individual waves sell out and close separately.",
+   "summary": "The Hyderabad leg of Devils Circuit, India's largest obstacle course race series, run by Spectacom Global across 12 cities in the 2026-27 season. Each leg is a 5 km course with 15 military-style obstacles, with timed competitive waves and untimed non-competitive waves. The fastest competitive finishers qualify for the Grand Finale on 14 March 2027, where the season's top man and woman win a Maruti Suzuki Swift.",
+   "categories": [
+    {
+     "name": "Competitive Pro (Wave A)",
+     "distance_km": 5.0,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": 4500,
+     "start_time": "07:00",
+     "cutoff_minutes": null,
+     "min_age": 16,
+     "level": "advanced",
+     "eligibility": "Limited to 100 elite participants; first wave on a fresh course",
+     "notes": "Podium standard: men 15 obstacles under 50 min, women 13 obstacles under 70 min."
+    },
+    {
+     "name": "Competitive",
+     "distance_km": 5.0,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": 3800,
+     "start_time": "07:20",
+     "cutoff_minutes": null,
+     "min_age": 16,
+     "level": "advanced",
+     "eligibility": null,
+     "notes": "Timed. Podium standard: men all 15 obstacles under 50 min, women 13 of 15 under 70 min, Masters (men 40+) 15 under 60 min. Top 25 qualify for the Grand Finale. City prizes Rs 30,000 / 15,000 / 5,000."
+    },
+    {
+     "name": "Non-Competitive",
+     "distance_km": 5.0,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": 2500,
+     "start_time": "08:00",
+     "cutoff_minutes": null,
+     "min_age": 16,
+     "level": "beginner",
+     "eligibility": null,
+     "notes": "Untimed for ranking; obstacles can be skipped."
+    }
+   ],
+   "course": {
+    "terrain": "mixed",
+    "surface": "grass, dirt and mud with water obstacles",
+    "elevation_gain_m": null,
+    "profile": "flat",
+    "description": "5 km course with 15 military-style obstacles including Brain Freeze and the Summit. Venue not yet announced; coordinates are a city-centre placeholder."
+   },
+   "format": null,
+   "highlights": [
+    "5 km, 15 obstacles",
+    "Top 25 competitive finishers per city qualify for the Grand Finale (14 Mar 2027)",
+    "Season winner (men and women) gets a Maruti Suzuki Swift and Rs 1 lakh"
+   ],
+   "tips": [
+    "Reach the venue 60-90 minutes before your wave; your start time is in the confirmation email and on your bib",
+    "No showers on site: carry a towel and a full change of clothes, and leave watches and jewellery at home",
+    "One bag per participant at the baggage counter; parking is limited and first come, first served",
+    "Each participant can bring one spectator, who collects a band at registration against your bib"
+   ],
+   "amenities": [
+    "Finisher medal",
+    "T-shirt",
+    "Bandana",
+    "Energy drink",
+    "Goody bag",
+    "Water on course and in the village",
+    "Baggage counter"
+   ],
+   "beginner_friendly": true,
+   "tags": [
+    "obstacle-race",
+    "series",
+    "mud",
+    "wave-start"
+   ],
+   "sources": [
+    "https://devilscircuit.com/find-your-race/",
+    "https://devilscircuit.com/categories/",
+    "https://devilscircuit.com/faq/",
+    "https://getmybib.com/285/register?ename=Maruti-Suzuki-Arena-Devils-Circuit-Hyderabad-2026-27"
+   ]
+  },
+  {
+   "slug": "maruti-suzuki-swift-devils-circuit-kochi-2027",
+   "name": "Maruti Suzuki Swift Devils Circuit Kochi",
+   "edition": "Season 2026-27 (13th season)",
+   "sport": "ocr",
+   "discipline": "obstacle-race",
+   "city": "kochi",
+   "venue": "To be announced",
+   "lat": 9.9312,
+   "lon": 76.2673,
+   "start_date": "2027-01-24",
+   "end_date": "2027-01-24",
+   "date_status": "confirmed",
+   "last_edition_date": null,
+   "organiser": "Spectacom Global",
+   "official_url": "https://devilscircuit.com/find-your-race/",
+   "registration_status": "open",
+   "registration_opens": null,
+   "registration_closes": "2027-01-24",
+   "registration_url": "https://getmybib.com/287/register?ename=Maruti-Suzuki-Arena-Devils-Circuit-Kochi-2026-27",
+   "registration_notes": "Wave-based entry; individual waves sell out and close separately.",
+   "summary": "The Kochi leg of Devils Circuit, India's largest obstacle course race series, run by Spectacom Global across 12 cities in the 2026-27 season. Each leg is a 5 km course with 15 military-style obstacles, with timed competitive waves and untimed non-competitive waves. The fastest competitive finishers qualify for the Grand Finale on 14 March 2027, where the season's top man and woman win a Maruti Suzuki Swift.",
+   "categories": [
+    {
+     "name": "Competitive Pro (Wave A)",
+     "distance_km": 5.0,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": 4500,
+     "start_time": "07:00",
+     "cutoff_minutes": null,
+     "min_age": 16,
+     "level": "advanced",
+     "eligibility": "Limited to 100 elite participants; first wave on a fresh course",
+     "notes": "Podium standard: men 15 obstacles under 50 min, women 13 obstacles under 70 min."
+    },
+    {
+     "name": "Competitive",
+     "distance_km": 5.0,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": 3800,
+     "start_time": "07:20",
+     "cutoff_minutes": null,
+     "min_age": 16,
+     "level": "advanced",
+     "eligibility": null,
+     "notes": "Timed. Podium standard: men all 15 obstacles under 50 min, women 13 of 15 under 70 min, Masters (men 40+) 15 under 60 min. Top 25 qualify for the Grand Finale. City prizes Rs 30,000 / 15,000 / 5,000."
+    },
+    {
+     "name": "Non-Competitive",
+     "distance_km": 5.0,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": 2500,
+     "start_time": "07:40",
+     "cutoff_minutes": null,
+     "min_age": 16,
+     "level": "beginner",
+     "eligibility": null,
+     "notes": "Untimed for ranking; obstacles can be skipped."
+    }
+   ],
+   "course": {
+    "terrain": "mixed",
+    "surface": "grass, dirt and mud with water obstacles",
+    "elevation_gain_m": null,
+    "profile": "flat",
+    "description": "5 km course with 15 military-style obstacles including Brain Freeze and the Summit. Venue not yet announced; coordinates are a city-centre placeholder."
+   },
+   "format": null,
+   "highlights": [
+    "5 km, 15 obstacles",
+    "Top 25 competitive finishers per city qualify for the Grand Finale (14 Mar 2027)",
+    "Season winner (men and women) gets a Maruti Suzuki Swift and Rs 1 lakh"
+   ],
+   "tips": [
+    "Reach the venue 60-90 minutes before your wave; your start time is in the confirmation email and on your bib",
+    "No showers on site: carry a towel and a full change of clothes, and leave watches and jewellery at home",
+    "One bag per participant at the baggage counter; parking is limited and first come, first served",
+    "Each participant can bring one spectator, who collects a band at registration against your bib"
+   ],
+   "amenities": [
+    "Finisher medal",
+    "T-shirt",
+    "Bandana",
+    "Energy drink",
+    "Goody bag",
+    "Water on course and in the village",
+    "Baggage counter"
+   ],
+   "beginner_friendly": true,
+   "tags": [
+    "obstacle-race",
+    "series",
+    "mud",
+    "wave-start"
+   ],
+   "sources": [
+    "https://devilscircuit.com/find-your-race/",
+    "https://devilscircuit.com/categories/",
+    "https://devilscircuit.com/faq/",
+    "https://getmybib.com/287/register?ename=Maruti-Suzuki-Arena-Devils-Circuit-Kochi-2026-27"
+   ]
+  },
+  {
+   "slug": "maruti-suzuki-swift-devils-circuit-chennai-2027",
+   "name": "Maruti Suzuki Swift Devils Circuit Chennai",
+   "edition": "Season 2026-27 (13th season)",
+   "sport": "ocr",
+   "discipline": "obstacle-race",
+   "city": "chennai",
+   "venue": "To be announced",
+   "lat": 13.0827,
+   "lon": 80.2707,
+   "start_date": "2027-02-07",
+   "end_date": "2027-02-07",
+   "date_status": "confirmed",
+   "last_edition_date": null,
+   "organiser": "Spectacom Global",
+   "official_url": "https://devilscircuit.com/find-your-race/",
+   "registration_status": "open",
+   "registration_opens": null,
+   "registration_closes": "2027-02-07",
+   "registration_url": "https://getmybib.com/288/register?ename=Maruti-Suzuki-Arena-Devils-Circuit-Chennai-2026-27",
+   "registration_notes": "Wave-based entry; individual waves sell out and close separately.",
+   "summary": "The Chennai leg of Devils Circuit, India's largest obstacle course race series, run by Spectacom Global across 12 cities in the 2026-27 season. Each leg is a 5 km course with 15 military-style obstacles, with timed competitive waves and untimed non-competitive waves. The fastest competitive finishers qualify for the Grand Finale on 14 March 2027, where the season's top man and woman win a Maruti Suzuki Swift.",
+   "categories": [
+    {
+     "name": "Competitive Pro (Wave A)",
+     "distance_km": 5.0,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": 4500,
+     "start_time": "07:00",
+     "cutoff_minutes": null,
+     "min_age": 16,
+     "level": "advanced",
+     "eligibility": "Limited to 100 elite participants; first wave on a fresh course",
+     "notes": "Podium standard: men 15 obstacles under 50 min, women 13 obstacles under 70 min."
+    },
+    {
+     "name": "Competitive",
+     "distance_km": 5.0,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": 3800,
+     "start_time": "07:20",
+     "cutoff_minutes": null,
+     "min_age": 16,
+     "level": "advanced",
+     "eligibility": null,
+     "notes": "Timed. Podium standard: men all 15 obstacles under 50 min, women 13 of 15 under 70 min, Masters (men 40+) 15 under 60 min. Top 25 qualify for the Grand Finale. City prizes Rs 30,000 / 15,000 / 5,000."
+    },
+    {
+     "name": "Non-Competitive",
+     "distance_km": 5.0,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": 2500,
+     "start_time": "08:00",
+     "cutoff_minutes": null,
+     "min_age": 16,
+     "level": "beginner",
+     "eligibility": null,
+     "notes": "Untimed for ranking; obstacles can be skipped."
+    }
+   ],
+   "course": {
+    "terrain": "mixed",
+    "surface": "grass, dirt and mud with water obstacles",
+    "elevation_gain_m": null,
+    "profile": "flat",
+    "description": "5 km course with 15 military-style obstacles including Brain Freeze and the Summit. Venue not yet announced; coordinates are a city-centre placeholder."
+   },
+   "format": null,
+   "highlights": [
+    "5 km, 15 obstacles",
+    "Top 25 competitive finishers per city qualify for the Grand Finale (14 Mar 2027)",
+    "Season winner (men and women) gets a Maruti Suzuki Swift and Rs 1 lakh"
+   ],
+   "tips": [
+    "Reach the venue 60-90 minutes before your wave; your start time is in the confirmation email and on your bib",
+    "No showers on site: carry a towel and a full change of clothes, and leave watches and jewellery at home",
+    "One bag per participant at the baggage counter; parking is limited and first come, first served",
+    "Each participant can bring one spectator, who collects a band at registration against your bib"
+   ],
+   "amenities": [
+    "Finisher medal",
+    "T-shirt",
+    "Bandana",
+    "Energy drink",
+    "Goody bag",
+    "Water on course and in the village",
+    "Baggage counter"
+   ],
+   "beginner_friendly": true,
+   "tags": [
+    "obstacle-race",
+    "series",
+    "mud",
+    "wave-start"
+   ],
+   "sources": [
+    "https://devilscircuit.com/find-your-race/",
+    "https://devilscircuit.com/categories/",
+    "https://devilscircuit.com/faq/",
+    "https://getmybib.com/288/register?ename=Maruti-Suzuki-Arena-Devils-Circuit-Chennai-2026-27"
+   ]
+  },
+  {
+   "slug": "maruti-suzuki-swift-devils-circuit-kolkata-2027",
+   "name": "Maruti Suzuki Swift Devils Circuit Kolkata",
+   "edition": "Season 2026-27 (13th season)",
+   "sport": "ocr",
+   "discipline": "obstacle-race",
+   "city": "kolkata",
+   "venue": "To be announced",
+   "lat": 22.5726,
+   "lon": 88.3639,
+   "start_date": "2027-02-28",
+   "end_date": "2027-02-28",
+   "date_status": "confirmed",
+   "last_edition_date": null,
+   "organiser": "Spectacom Global",
+   "official_url": "https://devilscircuit.com/find-your-race/",
+   "registration_status": "open",
+   "registration_opens": null,
+   "registration_closes": "2027-02-21",
+   "registration_url": "https://getmybib.com/307/register?ename=Maruti-Suzuki-Arena-Devils-Circuit-Kolkata-2026-27",
+   "registration_notes": "Wave-based entry; individual waves sell out and close separately. All waves close 21 Feb 2027, a week before race day.",
+   "summary": "The Kolkata leg of Devils Circuit, India's largest obstacle course race series, run by Spectacom Global across 12 cities in the 2026-27 season. Each leg is a 5 km course with 15 military-style obstacles, with timed competitive waves and untimed non-competitive waves. The fastest competitive finishers qualify for the Grand Finale on 14 March 2027, where the season's top man and woman win a Maruti Suzuki Swift.",
+   "categories": [
+    {
+     "name": "Competitive Pro (Wave A)",
+     "distance_km": 5.0,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": 4500,
+     "start_time": "07:00",
+     "cutoff_minutes": null,
+     "min_age": 16,
+     "level": "advanced",
+     "eligibility": "Limited to 100 elite participants; first wave on a fresh course",
+     "notes": "Podium standard: men 15 obstacles under 50 min, women 13 obstacles under 70 min."
+    },
+    {
+     "name": "Competitive",
+     "distance_km": 5.0,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": 3800,
+     "start_time": "07:20",
+     "cutoff_minutes": null,
+     "min_age": 16,
+     "level": "advanced",
+     "eligibility": null,
+     "notes": "Timed. Podium standard: men all 15 obstacles under 50 min, women 13 of 15 under 70 min, Masters (men 40+) 15 under 60 min. Top 25 qualify for the Grand Finale. City prizes Rs 30,000 / 15,000 / 5,000."
+    },
+    {
+     "name": "Non-Competitive",
+     "distance_km": 5.0,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": 2500,
+     "start_time": "07:40",
+     "cutoff_minutes": null,
+     "min_age": 16,
+     "level": "beginner",
+     "eligibility": null,
+     "notes": "Untimed for ranking; obstacles can be skipped."
+    }
+   ],
+   "course": {
+    "terrain": "mixed",
+    "surface": "grass, dirt and mud with water obstacles",
+    "elevation_gain_m": null,
+    "profile": "flat",
+    "description": "5 km course with 15 military-style obstacles including Brain Freeze and the Summit. Venue not yet announced; coordinates are a city-centre placeholder."
+   },
+   "format": null,
+   "highlights": [
+    "5 km, 15 obstacles",
+    "Top 25 competitive finishers per city qualify for the Grand Finale (14 Mar 2027)",
+    "Season winner (men and women) gets a Maruti Suzuki Swift and Rs 1 lakh"
+   ],
+   "tips": [
+    "Reach the venue 60-90 minutes before your wave; your start time is in the confirmation email and on your bib",
+    "No showers on site: carry a towel and a full change of clothes, and leave watches and jewellery at home",
+    "One bag per participant at the baggage counter; parking is limited and first come, first served",
+    "Each participant can bring one spectator, who collects a band at registration against your bib"
+   ],
+   "amenities": [
+    "Finisher medal",
+    "T-shirt",
+    "Bandana",
+    "Energy drink",
+    "Goody bag",
+    "Water on course and in the village",
+    "Baggage counter"
+   ],
+   "beginner_friendly": true,
+   "tags": [
+    "obstacle-race",
+    "series",
+    "mud",
+    "wave-start"
+   ],
+   "sources": [
+    "https://devilscircuit.com/find-your-race/",
+    "https://devilscircuit.com/categories/",
+    "https://devilscircuit.com/faq/",
+    "https://getmybib.com/307/register?ename=Maruti-Suzuki-Arena-Devils-Circuit-Kolkata-2026-27"
+   ]
+  },
+  {
+   "slug": "maruti-suzuki-swift-devils-circuit-delhi-ncr-2027",
+   "name": "Maruti Suzuki Swift Devils Circuit Delhi NCR",
+   "edition": "Season 2026-27 (13th season)",
+   "sport": "ocr",
+   "discipline": "obstacle-race",
+   "city": "delhi-ncr",
+   "venue": "To be announced",
+   "lat": 28.6139,
+   "lon": 77.209,
+   "start_date": "2027-03-13",
+   "end_date": "2027-03-14",
+   "date_status": "confirmed",
+   "last_edition_date": null,
+   "organiser": "Spectacom Global",
+   "official_url": "https://devilscircuit.com/find-your-race/",
+   "registration_status": "open",
+   "registration_opens": null,
+   "registration_closes": "2027-03-13",
+   "registration_url": "https://getmybib.com/290/register?ename=Maruti-Suzuki-Arena-Devils-Circuit-Delhi-NCR-2026-27",
+   "registration_notes": "Wave-based entry; individual waves sell out and close separately. Season-ending city leg; the Grand Finale is on 14 Mar 2027.",
+   "summary": "The Delhi NCR leg of Devils Circuit, India's largest obstacle course race series, run by Spectacom Global across 12 cities in the 2026-27 season. Each leg is a 5 km course with 15 military-style obstacles, with timed competitive waves and untimed non-competitive waves. The fastest competitive finishers qualify for the Grand Finale on 14 March 2027, where the season's top man and woman win a Maruti Suzuki Swift.",
+   "categories": [
+    {
+     "name": "Competitive Pro (Wave A)",
+     "distance_km": 5.0,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": 4500,
+     "start_time": "07:00",
+     "cutoff_minutes": null,
+     "min_age": 16,
+     "level": "advanced",
+     "eligibility": "Limited to 100 elite participants; first wave on a fresh course",
+     "notes": "Podium standard: men 15 obstacles under 50 min, women 13 obstacles under 70 min."
+    },
+    {
+     "name": "Competitive",
+     "distance_km": 5.0,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": 3800,
+     "start_time": "07:40",
+     "cutoff_minutes": null,
+     "min_age": 16,
+     "level": "advanced",
+     "eligibility": null,
+     "notes": "Timed. Podium standard: men all 15 obstacles under 50 min, women 13 of 15 under 70 min, Masters (men 40+) 15 under 60 min. Top 25 qualify for the Grand Finale. City prizes Rs 30,000 / 15,000 / 5,000."
+    },
+    {
+     "name": "Non-Competitive",
+     "distance_km": 5.0,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": 2500,
+     "start_time": "09:40",
+     "cutoff_minutes": null,
+     "min_age": 16,
+     "level": "beginner",
+     "eligibility": null,
+     "notes": "Untimed for ranking; obstacles can be skipped."
+    },
+    {
+     "name": "Competitive Doubles",
+     "distance_km": 5.0,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": 6500,
+     "start_time": "07:20",
+     "cutoff_minutes": null,
+     "min_age": 16,
+     "level": "advanced",
+     "eligibility": null,
+     "notes": "Price per pair. Saturday. 15 obstacles in 60 min, time taken when last partner finishes; Brain Freeze needs both partners."
+    },
+    {
+     "name": "Corporate Cup (team of 3)",
+     "distance_km": 5.0,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": 12000,
+     "start_time": "09:30",
+     "cutoff_minutes": null,
+     "min_age": 16,
+     "level": "intermediate",
+     "eligibility": "All 3 members from the same company",
+     "notes": "Price per team. Saturday. Only one member must clear most obstacles; Brain Freeze needs the full team."
+    },
+    {
+     "name": "Non-Competitive Elite",
+     "distance_km": 5.0,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": 2900,
+     "start_time": "07:30",
+     "cutoff_minutes": null,
+     "min_age": 16,
+     "level": "beginner",
+     "eligibility": "Limited to 200 participants",
+     "notes": "First non-competitive wave on Sunday, fewer runners and fresher obstacles."
+    }
+   ],
+   "course": {
+    "terrain": "mixed",
+    "surface": "grass, dirt and mud with water obstacles",
+    "elevation_gain_m": null,
+    "profile": "flat",
+    "description": "5 km course with 15 military-style obstacles including Brain Freeze and the Summit. Venue not yet announced; coordinates are a city-centre placeholder."
+   },
+   "format": null,
+   "highlights": [
+    "5 km, 15 obstacles",
+    "Top 25 competitive finishers per city qualify for the Grand Finale (14 Mar 2027)",
+    "Season winner (men and women) gets a Maruti Suzuki Swift and Rs 1 lakh",
+    "Two-day city with Doubles, Corporate Cup and Non-Competitive Elite waves"
+   ],
+   "tips": [
+    "Reach the venue 60-90 minutes before your wave; your start time is in the confirmation email and on your bib",
+    "No showers on site: carry a towel and a full change of clothes, and leave watches and jewellery at home",
+    "One bag per participant at the baggage counter; parking is limited and first come, first served",
+    "Each participant can bring one spectator, who collects a band at registration against your bib"
+   ],
+   "amenities": [
+    "Finisher medal",
+    "T-shirt",
+    "Bandana",
+    "Energy drink",
+    "Goody bag",
+    "Water on course and in the village",
+    "Baggage counter"
+   ],
+   "beginner_friendly": true,
+   "tags": [
+    "obstacle-race",
+    "series",
+    "mud",
+    "wave-start"
+   ],
+   "sources": [
+    "https://devilscircuit.com/find-your-race/",
+    "https://devilscircuit.com/categories/",
+    "https://devilscircuit.com/faq/",
+    "https://getmybib.com/290/register?ename=Maruti-Suzuki-Arena-Devils-Circuit-Delhi-NCR-2026-27"
+   ]
+  }
+ ]
+}

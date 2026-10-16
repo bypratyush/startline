@@ -1,0 +1,1543 @@
+{
+ "events": [
+  {
+   "slug": "national-tennis-mixed-doubles-championship-for-men-and-women-2026",
+   "name": "National Tennis Mixed Doubles Championship for Men and Women",
+   "edition": "2026",
+   "sport": "tennis",
+   "discipline": "AITA Nationals, mixed doubles",
+   "city": "hyderabad",
+   "venue": "Jubilee Hills International Centre (JHIC), Road No. 14, Jubilee Hills",
+   "lat": null,
+   "lon": null,
+   "start_date": "2026-10-24",
+   "end_date": "2026-10-30",
+   "date_status": "confirmed",
+   "last_edition_date": null,
+   "organiser": "AITA with Telangana State Tennis Association",
+   "official_url": "https://www.aita.hitcourt.com/tournament-acceptance-factsheet-Mjk1NA==",
+   "registration_status": "closed",
+   "registration_opens": "2026-09-08",
+   "registration_closes": "2026-10-12",
+   "registration_url": "https://www.aita.hitcourt.com/tournament-acceptance-factsheet-Mjk1NA==",
+   "registration_notes": "Entries closed 12 Oct 2026.",
+   "summary": "AITA national championship for mixed doubles pairs with Rs 10,00,000 prize money, played on hard courts at JHIC. A 32-team qualifying draw feeds a 32-team main draw.",
+   "categories": [
+    {
+     "name": "Mixed Doubles (Qualifying 32, Main 32)",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": 2500,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "advanced",
+     "eligibility": "AITA player registration (AITA PIN) required; enter via the AITA Player Zone on aita.hitcourt.com. Acceptance by AITA ranking; unranked players go to qualifying.",
+     "notes": "Fee is per team; qualifying 24-25 Oct, main draw 26-30 Oct"
+    }
+   ],
+   "course": {
+    "terrain": "court",
+    "surface": "Hard courts",
+    "elevation_gain_m": null,
+    "profile": null,
+    "description": "Jubilee Hills International Centre on Road No. 14, Jubilee Hills, west Hyderabad."
+   },
+   "format": "Knockout mixed doubles per AITA rules. Ball: Yonex Tour Platinum.",
+   "highlights": [
+    "National title event",
+    "Rs 10 lakh prize money"
+   ],
+   "tips": [
+    "Ball is Yonex Tour Platinum",
+    "Entry fee is charged per pair"
+   ],
+   "amenities": [],
+   "beginner_friendly": false,
+   "tags": [
+    "aita-nationals",
+    "mixed-doubles",
+    "prize-money"
+   ],
+   "sources": [
+    "https://www.aita.hitcourt.com/tournament-acceptance-factsheet-Mjk1NA==",
+    "https://www.aita.hitcourt.com/factsheet-pdf-Mjk1NA=="
+   ]
+  },
+  {
+   "slug": "sportygram-tennis-tournament-baseline-tennis-academy-2026",
+   "name": "Sportygram Tennis Tournament, Baseline Tennis Academy",
+   "edition": "2026 (October)",
+   "sport": "tennis",
+   "discipline": "Open amateur tennis",
+   "city": "chennai",
+   "venue": "Baseline Tennis Academy, Dhanraj Baid Jain College, Jothi Nagar, Thoraipakkam",
+   "lat": 12.946401,
+   "lon": 80.242761,
+   "start_date": "2026-10-25",
+   "end_date": "2026-10-25",
+   "date_status": "confirmed",
+   "last_edition_date": null,
+   "organiser": "Sportygram",
+   "official_url": "https://www.playmatches.com/chennai/tournaments/sportygram-tennis-tournament-baseline-tennis-academy/ef7852aa-de00-48f6-b49b-5a60ca4f0eba",
+   "registration_status": "open",
+   "registration_opens": null,
+   "registration_closes": "2026-10-23",
+   "registration_url": "https://www.playmatches.com/chennai/tournaments/sportygram-tennis-tournament-baseline-tennis-academy/ef7852aa-de00-48f6-b49b-5a60ca4f0eba",
+   "registration_notes": "No refunds, including for weather-related date changes.",
+   "summary": "One-day open tennis event on Chennai's OMR side with an open men's singles and men's doubles alongside junior draws. Short best-of-seven-games matches suit club players. Sportygram runs these at different Chennai academies through the year.",
+   "categories": [
+    {
+     "name": "Open Men's Singles",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": 750,
+     "start_time": "09:00",
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "open",
+     "eligibility": null,
+     "notes": "League then knockout"
+    },
+    {
+     "name": "Men's Doubles",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": 1000,
+     "start_time": "09:00",
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "open",
+     "eligibility": null,
+     "notes": "Fee per team"
+    }
+   ],
+   "course": {
+    "terrain": "court",
+    "surface": "Outdoor courts",
+    "elevation_gain_m": null,
+    "profile": null,
+    "description": "Academy courts at Dhanraj Baid Jain College, Thoraipakkam, off OMR."
+   },
+   "format": "Round robin league then knockout; each match best of seven games.",
+   "highlights": [
+    "No ranking or registration ID needed",
+    "Short-format matches"
+   ],
+   "tips": [
+    "Register by 23 Oct",
+    "Matches start around 09:00; late-October showers are common in Chennai, and the organiser does not refund weather delays"
+   ],
+   "amenities": [
+    "Trophy and gift for winners and runners-up",
+    "Participation certificate"
+   ],
+   "beginner_friendly": true,
+   "tags": [
+    "amateur",
+    "one-day"
+   ],
+   "sources": [
+    "https://www.playmatches.com/chennai/tournaments/sportygram-tennis-tournament-baseline-tennis-academy/ef7852aa-de00-48f6-b49b-5a60ca4f0eba",
+    "https://www.playmatches.com/chennai/tournaments"
+   ]
+  },
+  {
+   "slug": "indore-open-mt700-itf-world-tennis-masters-tour-2026",
+   "name": "Indore Open MT700 (ITF World Tennis Masters Tour)",
+   "edition": "2026",
+   "sport": "tennis",
+   "discipline": "ITF Masters (veterans) MT700",
+   "city": "indore",
+   "venue": "Indore Tennis Club, 7 Race Course Road, opposite Holkar Cricket Stadium",
+   "lat": null,
+   "lon": null,
+   "start_date": "2026-10-30",
+   "end_date": "2026-11-05",
+   "date_status": "confirmed",
+   "last_edition_date": null,
+   "organiser": "Indore Tennis Club (Tournament Director: Arjun Dhupar), sanctioned by ITF and AITA",
+   "official_url": "https://www.itftennis.com/en/tournament/mt700-indore/ind/2026/s-mt700-ind-2026-002/fact-sheet/",
+   "registration_status": "closed",
+   "registration_opens": null,
+   "registration_closes": null,
+   "registration_url": "https://www.itftennis.com/en/tournament/mt700-indore/ind/2026/s-mt700-ind-2026-002/fact-sheet/",
+   "registration_notes": "Entries are made through ITF World Tennis Tour Zone, not the AITA portal; the AITA calendar shows ITF entry closed. Entry fee is only visible in Tour Zone.",
+   "summary": "The highest-grade ITF Masters event on the Indian calendar in late 2026, an MT700 with singles, doubles and mixed doubles for men and women in every age group from 30+ to 75+. Played on outdoor hard courts at the Indore Tennis Club.",
+   "categories": [
+    {
+     "name": "30+ Men's and Women's Singles, Doubles, Mixed Doubles",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": null,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "advanced",
+     "eligibility": "ITF IPIN / World Tennis Tour Zone membership required; entries via Tour Zone. Age group by age reached in the calendar year.",
+     "notes": null
+    },
+    {
+     "name": "35+ Men's and Women's Singles, Doubles, Mixed Doubles",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": null,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "advanced",
+     "eligibility": "ITF IPIN / World Tennis Tour Zone membership required; entries via Tour Zone. Age group by age reached in the calendar year.",
+     "notes": null
+    },
+    {
+     "name": "40+ Men's and Women's Singles, Doubles, Mixed Doubles",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": null,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "advanced",
+     "eligibility": "ITF IPIN / World Tennis Tour Zone membership required; entries via Tour Zone. Age group by age reached in the calendar year.",
+     "notes": null
+    },
+    {
+     "name": "45+ Men's and Women's Singles, Doubles, Mixed Doubles",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": null,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "advanced",
+     "eligibility": "ITF IPIN / World Tennis Tour Zone membership required; entries via Tour Zone. Age group by age reached in the calendar year.",
+     "notes": null
+    },
+    {
+     "name": "50+ Men's and Women's Singles, Doubles, Mixed Doubles",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": null,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "advanced",
+     "eligibility": "ITF IPIN / World Tennis Tour Zone membership required; entries via Tour Zone. Age group by age reached in the calendar year.",
+     "notes": null
+    },
+    {
+     "name": "55+ Men's and Women's Singles, Doubles, Mixed Doubles",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": null,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "advanced",
+     "eligibility": "ITF IPIN / World Tennis Tour Zone membership required; entries via Tour Zone. Age group by age reached in the calendar year.",
+     "notes": null
+    },
+    {
+     "name": "60+ Men's and Women's Singles, Doubles, Mixed Doubles",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": null,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "advanced",
+     "eligibility": "ITF IPIN / World Tennis Tour Zone membership required; entries via Tour Zone. Age group by age reached in the calendar year.",
+     "notes": null
+    },
+    {
+     "name": "65+ Men's and Women's Singles, Doubles, Mixed Doubles",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": null,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "advanced",
+     "eligibility": "ITF IPIN / World Tennis Tour Zone membership required; entries via Tour Zone. Age group by age reached in the calendar year.",
+     "notes": null
+    },
+    {
+     "name": "70+ Men's and Women's Singles, Doubles, Mixed Doubles",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": null,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "advanced",
+     "eligibility": "ITF IPIN / World Tennis Tour Zone membership required; entries via Tour Zone. Age group by age reached in the calendar year.",
+     "notes": null
+    },
+    {
+     "name": "75+ Men's and Women's Singles, Doubles, Mixed Doubles",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": null,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "advanced",
+     "eligibility": "ITF IPIN / World Tennis Tour Zone membership required; entries via Tour Zone. Age group by age reached in the calendar year.",
+     "notes": null
+    }
+   ],
+   "course": {
+    "terrain": "court",
+    "surface": "Outdoor hard courts",
+    "elevation_gain_m": null,
+    "profile": null,
+    "description": "Club venue on Race Course Road, opposite Holkar Cricket Stadium in central Indore."
+   },
+   "format": "ITF World Tennis Masters Tour knockout draws by age group (MT700 ranking points). Ball: Babolat Gold All Court (Type 2). Outdoor hard courts.",
+   "highlights": [
+    "MT700 grade, the top Masters tier held in India in this window",
+    "Women's and mixed events offered in all ten age groups 30+ to 75+"
+   ],
+   "tips": [
+    "Practise with Babolat Gold All Court balls, the official ball",
+    "Venue is opposite Holkar Cricket Stadium on Race Course Road, so check for match-day traffic if a cricket fixture overlaps",
+    "You need an active ITF IPIN before you can enter"
+   ],
+   "amenities": [],
+   "beginner_friendly": false,
+   "tags": [
+    "itf-masters",
+    "veterans",
+    "ranking-points"
+   ],
+   "sources": [
+    "https://www.itftennis.com/en/tournament/mt700-indore/ind/2026/s-mt700-ind-2026-002/fact-sheet/",
+    "https://www.aita.hitcourt.com/tournament-calendar-pro-2026"
+   ]
+  },
+  {
+   "slug": "aita-men-and-women-rs-2-5-lakh-tennis-tournament-bhimavaram-2026",
+   "name": "AITA Men and Women Rs 2.5 Lakh Tennis Tournament, Bhimavaram",
+   "edition": "2026",
+   "sport": "tennis",
+   "discipline": "AITA Pro Circuit (Rs 2.5 lakh)",
+   "city": "vijayawada",
+   "venue": "The Cosmopolitan Club, near Adda Vantena, Suryanarayanapuram, Bhimavaram",
+   "lat": null,
+   "lon": null,
+   "start_date": "2026-10-31",
+   "end_date": "2026-11-06",
+   "date_status": "confirmed",
+   "last_edition_date": null,
+   "organiser": "The Cosmopolitan Club, Bhimavaram",
+   "official_url": "https://www.aita.hitcourt.com/tournament-acceptance-factsheet-Ng==",
+   "registration_status": "closed",
+   "registration_opens": "2026-04-09",
+   "registration_closes": "2026-10-12",
+   "registration_url": "https://www.aita.hitcourt.com/tournament-acceptance-factsheet-Ng==",
+   "registration_notes": "Entries closed 12 Oct 2026. Bhimavaram is about 120 km from Vijayawada.",
+   "summary": "AITA men's and women's ranking tournament with Rs 2,50,000 prize money at a club in West Godavari district. Both singles events have 128-player qualifying draws.",
+   "categories": [
+    {
+     "name": "Men's Singles (Qualifying 128, Main 32)",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": 1250,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "advanced",
+     "eligibility": "AITA player registration (AITA PIN) required; enter via the AITA Player Zone on aita.hitcourt.com. Acceptance by AITA ranking; unranked players go to qualifying.",
+     "notes": null
+    },
+    {
+     "name": "Women's Singles (Qualifying 128, Main 32)",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": 1250,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "advanced",
+     "eligibility": "AITA player registration (AITA PIN) required; enter via the AITA Player Zone on aita.hitcourt.com. Acceptance by AITA ranking; unranked players go to qualifying.",
+     "notes": null
+    },
+    {
+     "name": "Men's Doubles",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": null,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "advanced",
+     "eligibility": "AITA player registration (AITA PIN) required; enter via the AITA Player Zone on aita.hitcourt.com. Acceptance by AITA ranking; unranked players go to qualifying.",
+     "notes": "Main draw 16"
+    },
+    {
+     "name": "Women's Doubles",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": null,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "advanced",
+     "eligibility": "AITA player registration (AITA PIN) required; enter via the AITA Player Zone on aita.hitcourt.com. Acceptance by AITA ranking; unranked players go to qualifying.",
+     "notes": "Main draw 16"
+    }
+   ],
+   "course": {
+    "terrain": "court",
+    "surface": "Outdoor hard courts (6)",
+    "elevation_gain_m": null,
+    "profile": null,
+    "description": "Club venue in Bhimavaram town, West Godavari district."
+   },
+   "format": "Knockout per AITA Pro Circuit rules. Singles: 128 qualifying, 32 main draw. Doubles: 16.",
+   "highlights": [
+    "Rs 2.5 lakh prize money",
+    "Men's and women's events"
+   ],
+   "tips": [
+    "Several listed hotels are within 2 km, including PAC Ramasamy Rajah Bhavan within walking distance",
+    "Qualifying starts 31 Oct; sign-in closes 14:00 the day before"
+   ],
+   "amenities": [],
+   "beginner_friendly": false,
+   "tags": [
+    "aita-ranking",
+    "prize-money"
+   ],
+   "sources": [
+    "https://www.aita.hitcourt.com/tournament-acceptance-factsheet-Ng==",
+    "https://www.aita.hitcourt.com/factsheet-pdf-Ng=="
+   ]
+  },
+  {
+   "slug": "leander-paes-samanta-academy-kiit-aita-ota-all-india-men-s-ranking-1l-tournament-2026",
+   "name": "Leander Paes Samanta Academy KIIT AITA OTA All India Men's Ranking 1L Tournament",
+   "edition": "2026",
+   "sport": "tennis",
+   "discipline": "AITA Pro Circuit (Rs 1 lakh), men",
+   "city": "bhubaneswar",
+   "venue": "Leander Paes Samanta Sports Academy, Campus 8, KIIT University, Patia",
+   "lat": null,
+   "lon": null,
+   "start_date": "2026-11-07",
+   "end_date": "2026-11-13",
+   "date_status": "confirmed",
+   "last_edition_date": null,
+   "organiser": "Leander Paes Samanta Sports Academy, KIIT University, with Odisha Tennis Association",
+   "official_url": "https://www.aita.hitcourt.com/tournament-acceptance-factsheet-Mjk4NA==",
+   "registration_status": "open",
+   "registration_opens": "2026-09-22",
+   "registration_closes": "2026-10-19",
+   "registration_url": "https://www.aita.hitcourt.com/tournament-acceptance-factsheet-Mjk4NA==",
+   "registration_notes": "Withdrawal deadline 2 Nov 2026.",
+   "summary": "Men's AITA ranking event at the KIIT campus academy with Rs 1,00,000 prize money and a 128-player qualifying draw. Singles only per the fact sheet.",
+   "categories": [
+    {
+     "name": "Men's Singles Qualifying",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": 1250,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "advanced",
+     "eligibility": "AITA player registration (AITA PIN) required; enter via the AITA Player Zone on aita.hitcourt.com. Acceptance by AITA ranking; unranked players go to qualifying.",
+     "notes": "Qualifying draw 128, 7-8 Nov 2026"
+    },
+    {
+     "name": "Men's Singles Main Draw",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": 1250,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "advanced",
+     "eligibility": "AITA player registration (AITA PIN) required; enter via the AITA Player Zone on aita.hitcourt.com. Acceptance by AITA ranking; unranked players go to qualifying.",
+     "notes": "Main draw 32, 9-13 Nov 2026"
+    }
+   ],
+   "course": {
+    "terrain": "court",
+    "surface": "Outdoor hard courts (3)",
+    "elevation_gain_m": null,
+    "profile": null,
+    "description": "Academy courts on KIIT University Campus 8 at Patia, north Bhubaneswar."
+   },
+   "format": "Knockout per AITA Pro Circuit rules. Singles: 128 qualifying, 32 main draw. Ball: Dunlop Tour Brilliance.",
+   "highlights": [
+    "Rs 1 lakh prize money",
+    "Only three main-draw courts, so expect long days"
+   ],
+   "tips": [
+    "Entries close 19 Oct 2026",
+    "KIIT Sports Guest House is about 800 m from the courts",
+    "Ball is Dunlop Tour Brilliance"
+   ],
+   "amenities": [],
+   "beginner_friendly": false,
+   "tags": [
+    "aita-ranking",
+    "prize-money"
+   ],
+   "sources": [
+    "https://www.aita.hitcourt.com/tournament-acceptance-factsheet-Mjk4NA==",
+    "https://www.aita.hitcourt.com/factsheet-pdf-Mjk4NA=="
+   ]
+  },
+  {
+   "slug": "indian-sports-club-aita-men-and-women-rs-1-lakh-tennis-tournament-2026",
+   "name": "Indian Sports Club AITA Men and Women Rs 1 Lakh Tennis Tournament",
+   "edition": "2026 (November week)",
+   "sport": "tennis",
+   "discipline": "AITA Pro Circuit (Rs 1 lakh)",
+   "city": "goa",
+   "venue": "Indian Sports Club, KK Koppa Road, Kondaskoppa, Belagavi",
+   "lat": null,
+   "lon": null,
+   "start_date": "2026-11-14",
+   "end_date": "2026-11-20",
+   "date_status": "confirmed",
+   "last_edition_date": null,
+   "organiser": "Indian Sports Club (Tournament Director: Vishwanath Savadi)",
+   "official_url": "https://www.aita.hitcourt.com/tournament-acceptance-factsheet-Mjk5Ng==",
+   "registration_status": "open",
+   "registration_opens": "2026-09-24",
+   "registration_closes": "2026-10-26",
+   "registration_url": "https://www.aita.hitcourt.com/tournament-acceptance-factsheet-Mjk5Ng==",
+   "registration_notes": "Withdrawal deadline 9 Nov 2026. Belagavi is about 100 km from Goa, the nearest hub.",
+   "summary": "Combined men's and women's AITA ranking event in Belagavi with 128-player qualifying draws for both. The club runs back-to-back AITA weeks; this is the November week.",
+   "categories": [
+    {
+     "name": "Men's Singles (Qualifying 128, Main 32)",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": 1250,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "advanced",
+     "eligibility": "AITA player registration (AITA PIN) required; enter via the AITA Player Zone on aita.hitcourt.com. Acceptance by AITA ranking; unranked players go to qualifying.",
+     "notes": "Qualifying 14-15 Nov, main draw 16-20 Nov"
+    },
+    {
+     "name": "Women's Singles (Qualifying 128, Main 32)",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": 1250,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "advanced",
+     "eligibility": "AITA player registration (AITA PIN) required; enter via the AITA Player Zone on aita.hitcourt.com. Acceptance by AITA ranking; unranked players go to qualifying.",
+     "notes": "Qualifying 14-15 Nov, main draw 16-20 Nov"
+    },
+    {
+     "name": "Men's Doubles",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": null,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "advanced",
+     "eligibility": "AITA player registration (AITA PIN) required; enter via the AITA Player Zone on aita.hitcourt.com. Acceptance by AITA ranking; unranked players go to qualifying.",
+     "notes": "Main draw 16; fee not listed"
+    },
+    {
+     "name": "Women's Doubles",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": null,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "advanced",
+     "eligibility": "AITA player registration (AITA PIN) required; enter via the AITA Player Zone on aita.hitcourt.com. Acceptance by AITA ranking; unranked players go to qualifying.",
+     "notes": "Main draw 16; fee not listed"
+    }
+   ],
+   "course": {
+    "terrain": "court",
+    "surface": "Outdoor hard courts (7)",
+    "elevation_gain_m": null,
+    "profile": null,
+    "description": "Private sports club on KK Koppa Road on the outskirts of Belagavi."
+   },
+   "format": "Knockout per AITA Pro Circuit rules. Singles: 128 qualifying, 32 main draw. Doubles: 16. Ball: Babolat Gold.",
+   "highlights": [
+    "Men's and women's draws in the same week",
+    "Seven courts"
+   ],
+   "tips": [
+    "Courtyard Oasis hotel is about 200 m from the club",
+    "Ball is Babolat Gold",
+    "Belagavi is reachable by train or a 2.5 hour drive from Goa"
+   ],
+   "amenities": [],
+   "beginner_friendly": false,
+   "tags": [
+    "aita-ranking"
+   ],
+   "sources": [
+    "https://www.aita.hitcourt.com/tournament-acceptance-factsheet-Mjk5Ng==",
+    "https://www.aita.hitcourt.com/factsheet-pdf-Mjk5Ng==",
+    "https://www.aita.hitcourt.com/tournament-calendar-pro-2026"
+   ]
+  },
+  {
+   "slug": "the-tennis-project-itf-masters-mt400-gurugram-2026",
+   "name": "The Tennis Project ITF Masters MT400 Gurugram",
+   "edition": "2026",
+   "sport": "tennis",
+   "discipline": "ITF Masters (veterans) MT400",
+   "city": "delhi-ncr",
+   "venue": "The Tennis Project, Baliawas Village, Gurgaon-Faridabad Road, Gurugram",
+   "lat": null,
+   "lon": null,
+   "start_date": "2026-11-21",
+   "end_date": "2026-11-28",
+   "date_status": "confirmed",
+   "last_edition_date": null,
+   "organiser": "The Tennis Project (Tournament Director: Kunal Anand), sanctioned by ITF and AITA",
+   "official_url": "https://www.itftennis.com/en/tournament/mt400-gurugram/ind/2026/s-mt400-ind-2026-012/fact-sheet/",
+   "registration_status": "unknown",
+   "registration_opens": null,
+   "registration_closes": null,
+   "registration_url": "https://www.itftennis.com/en/tournament/mt400-gurugram/ind/2026/s-mt400-ind-2026-012/fact-sheet/",
+   "registration_notes": "Entries through ITF World Tennis Tour Zone; deadline and fee visible only after Tour Zone login.",
+   "summary": "ITF Masters MT400 for veteran players in Gurugram with men's, women's and mixed events in age groups 30+ to 60+. Gurugram also hosted an MT400 in January 2026, making it one of the busiest Masters venues in India.",
+   "categories": [
+    {
+     "name": "30+ Men's and Women's Singles, Doubles, Mixed Doubles",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": null,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "advanced",
+     "eligibility": "ITF IPIN / World Tennis Tour Zone membership required; entries via Tour Zone. Age group by age reached in the calendar year.",
+     "notes": null
+    },
+    {
+     "name": "35+ Men's and Women's Singles, Doubles, Mixed Doubles",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": null,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "advanced",
+     "eligibility": "ITF IPIN / World Tennis Tour Zone membership required; entries via Tour Zone. Age group by age reached in the calendar year.",
+     "notes": null
+    },
+    {
+     "name": "40+ Men's and Women's Singles, Doubles, Mixed Doubles",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": null,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "advanced",
+     "eligibility": "ITF IPIN / World Tennis Tour Zone membership required; entries via Tour Zone. Age group by age reached in the calendar year.",
+     "notes": null
+    },
+    {
+     "name": "45+ Men's and Women's Singles, Doubles, Mixed Doubles",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": null,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "advanced",
+     "eligibility": "ITF IPIN / World Tennis Tour Zone membership required; entries via Tour Zone. Age group by age reached in the calendar year.",
+     "notes": null
+    },
+    {
+     "name": "50+ Men's and Women's Singles, Doubles, Mixed Doubles",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": null,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "advanced",
+     "eligibility": "ITF IPIN / World Tennis Tour Zone membership required; entries via Tour Zone. Age group by age reached in the calendar year.",
+     "notes": null
+    },
+    {
+     "name": "55+ Men's and Women's Singles, Doubles, Mixed Doubles",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": null,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "advanced",
+     "eligibility": "ITF IPIN / World Tennis Tour Zone membership required; entries via Tour Zone. Age group by age reached in the calendar year.",
+     "notes": null
+    },
+    {
+     "name": "60+ Men's and Women's Singles, Doubles, Mixed Doubles",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": null,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "advanced",
+     "eligibility": "ITF IPIN / World Tennis Tour Zone membership required; entries via Tour Zone. Age group by age reached in the calendar year.",
+     "notes": null
+    }
+   ],
+   "course": {
+    "terrain": "court",
+    "surface": "Outdoor hard courts",
+    "elevation_gain_m": null,
+    "profile": null,
+    "description": "Private tennis facility at Baliawas village on the Gurgaon-Faridabad road."
+   },
+   "format": "ITF World Tennis Masters Tour knockout draws by age group (MT400 ranking points). Ball: TBC per fact sheet. Outdoor hard courts.",
+   "highlights": [
+    "Women's and mixed draws in every age group from 30+ to 60+",
+    "MT400 points count toward ITF Masters world ranking"
+   ],
+   "tips": [
+    "The venue is on the Gurgaon-Faridabad road, away from the Gurugram metro, so plan road transport",
+    "Late November mornings in NCR can be smoggy and cool; check the AQI and warm up longer",
+    "Official ball was still TBC on the fact sheet, so confirm before practising"
+   ],
+   "amenities": [],
+   "beginner_friendly": false,
+   "tags": [
+    "itf-masters",
+    "veterans",
+    "ranking-points"
+   ],
+   "sources": [
+    "https://www.itftennis.com/en/tournament/mt400-gurugram/ind/2026/s-mt400-ind-2026-012/fact-sheet/",
+    "https://www.aita.hitcourt.com/tournament-calendar-pro-2026"
+   ]
+  },
+  {
+   "slug": "excellence-women-s-rs-1-lac-prize-money-tournament-2026",
+   "name": "Excellence Women's Rs 1 Lac Prize Money Tournament",
+   "edition": "2026",
+   "sport": "tennis",
+   "discipline": "AITA Pro Circuit (Rs 1 lakh), women",
+   "city": "delhi-ncr",
+   "venue": "Excellence Tennis Academy, Excellence Sports Club, Sector 86, Gurugram",
+   "lat": null,
+   "lon": null,
+   "start_date": "2026-11-28",
+   "end_date": "2026-12-04",
+   "date_status": "confirmed",
+   "last_edition_date": null,
+   "organiser": "Excellence Tennis Academy (Tournament Director: Kavita Yadav)",
+   "official_url": "https://www.aita.hitcourt.com/tournament-acceptance-factsheet-Mjk1Mw==",
+   "registration_status": "open",
+   "registration_opens": "2026-09-08",
+   "registration_closes": "2026-11-09",
+   "registration_url": "https://www.aita.hitcourt.com/tournament-acceptance-factsheet-Mjk1Mw==",
+   "registration_notes": "Withdrawal deadline 23 Nov 2026.",
+   "summary": "Women-only AITA ranking event on clay in Gurugram's Sector 86, with a 128-player qualifying draw feeding a 32-player main draw. Useful for women club players seeking a first AITA ranking.",
+   "categories": [
+    {
+     "name": "Women's Singles Qualifying",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": 1250,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "advanced",
+     "eligibility": "AITA player registration (AITA PIN) required; enter via the AITA Player Zone on aita.hitcourt.com. Acceptance by AITA ranking; unranked players go to qualifying.",
+     "notes": "Qualifying draw 128, 28-29 Nov 2026"
+    },
+    {
+     "name": "Women's Singles Main Draw",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": 1250,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "advanced",
+     "eligibility": "AITA player registration (AITA PIN) required; enter via the AITA Player Zone on aita.hitcourt.com. Acceptance by AITA ranking; unranked players go to qualifying.",
+     "notes": "Main draw 32, 30 Nov-4 Dec 2026"
+    },
+    {
+     "name": "Women's Doubles",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": null,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "advanced",
+     "eligibility": "AITA player registration (AITA PIN) required; enter via the AITA Player Zone on aita.hitcourt.com. Acceptance by AITA ranking; unranked players go to qualifying.",
+     "notes": "Main draw 16 from 1 Dec; fee not listed"
+    }
+   ],
+   "course": {
+    "terrain": "court",
+    "surface": "Outdoor clay courts (7)",
+    "elevation_gain_m": null,
+    "profile": null,
+    "description": "Academy inside Excellence Sports Club, Sector 86, near SS Group Omnia, New Gurugram."
+   },
+   "format": "Knockout per AITA Pro Circuit rules. Singles: 128 qualifying, 32 main draw. Doubles: 16. Ball: Dunlop Tour. Clay.",
+   "highlights": [
+    "Women-only draw",
+    "Clay courts"
+   ],
+   "tips": [
+    "Ball is Dunlop Tour on clay; train on a slow surface beforehand",
+    "Entries close 9 Nov, about three weeks before play",
+    "Sector 86 is in New Gurugram, far from the metro; plan a cab"
+   ],
+   "amenities": [],
+   "beginner_friendly": false,
+   "tags": [
+    "aita-ranking",
+    "women-only",
+    "clay"
+   ],
+   "sources": [
+    "https://www.aita.hitcourt.com/tournament-acceptance-factsheet-Mjk1Mw==",
+    "https://www.aita.hitcourt.com/factsheet-pdf-Mjk1Mw=="
+   ]
+  },
+  {
+   "slug": "tabebia-open-aita-wheelchair-circuit-2026",
+   "name": "Tabebia Open (AITA Wheelchair Circuit)",
+   "edition": "2026",
+   "sport": "tennis",
+   "discipline": "Wheelchair tennis, AITA Wheelchair Circuit Rs 2.5 lakh",
+   "city": "bengaluru",
+   "venue": "Deuce Tennis Center, Shidlaghatta Road, Melur",
+   "lat": null,
+   "lon": null,
+   "start_date": "2026-11-30",
+   "end_date": "2026-12-05",
+   "date_status": "confirmed",
+   "last_edition_date": null,
+   "organiser": "Deuce Tennis Center (Tournament Director: Sunil Jain)",
+   "official_url": "https://www.aita.hitcourt.com/tournament-acceptance-factsheet-MzAyNQ==",
+   "registration_status": "open",
+   "registration_opens": "2026-10-15",
+   "registration_closes": "2026-11-16",
+   "registration_url": "https://www.aita.hitcourt.com/tournament-acceptance-factsheet-MzAyNQ==",
+   "registration_notes": "Withdrawal deadline 23 Nov 2026. Entry fee not listed on the fact sheet.",
+   "summary": "AITA Wheelchair Circuit event with men's and women's singles and doubles on outdoor hard courts north of Bengaluru. A rare competitive entry point for wheelchair players.",
+   "categories": [
+    {
+     "name": "Men's Wheelchair Singles (Qualifying 64, Main 32)",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": null,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "open",
+     "eligibility": "AITA registration; wheelchair tennis eligibility per AITA Wheelchair rules",
+     "notes": null
+    },
+    {
+     "name": "Women's Wheelchair Singles (Qualifying 32, Main 16)",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": null,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "open",
+     "eligibility": "AITA registration; wheelchair tennis eligibility per AITA Wheelchair rules",
+     "notes": null
+    },
+    {
+     "name": "Men's Wheelchair Doubles",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": null,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "open",
+     "eligibility": null,
+     "notes": "Main draw 16"
+    },
+    {
+     "name": "Women's Wheelchair Doubles",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": null,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "open",
+     "eligibility": null,
+     "notes": "Main draw 16"
+    }
+   ],
+   "course": {
+    "terrain": "court",
+    "surface": "Outdoor hard courts (4)",
+    "elevation_gain_m": null,
+    "profile": null,
+    "description": "Tennis centre on Shidlaghatta Road at Melur (PIN 562102), outside Bengaluru city limits."
+   },
+   "format": "Knockout per AITA Wheelchair Tennis rules. Qualifying 30 Nov-1 Dec, main draw 2-5 Dec.",
+   "highlights": [
+    "Wheelchair-specific draws for men and women",
+    "Entries opened 15 Oct 2026"
+   ],
+   "tips": [
+    "Venue is on the northern outskirts; arrange accessible transport in advance",
+    "Confirm court-side accessibility with the tournament director before travel"
+   ],
+   "amenities": [],
+   "beginner_friendly": true,
+   "tags": [
+    "wheelchair",
+    "para-sport",
+    "aita"
+   ],
+   "sources": [
+    "https://www.aita.hitcourt.com/tournament-acceptance-factsheet-MzAyNQ==",
+    "https://www.aita.hitcourt.com/factsheet-pdf-MzAyNQ=="
+   ]
+  },
+  {
+   "slug": "ash-aita-men-s-rs-1-lakh-tournament-2026",
+   "name": "ASH AITA Men's Rs 1 Lakh Tournament",
+   "edition": "2026",
+   "sport": "tennis",
+   "discipline": "AITA Pro Circuit (Rs 1 lakh)",
+   "city": "hyderabad",
+   "venue": "ASH Tennis Academy, Shamirpet",
+   "lat": null,
+   "lon": null,
+   "start_date": "2026-12-05",
+   "end_date": "2026-12-11",
+   "date_status": "confirmed",
+   "last_edition_date": null,
+   "organiser": "ASH Tennis Academy with Telangana State Tennis Association",
+   "official_url": "https://www.aita.hitcourt.com/tournament-acceptance-factsheet-MzAwMw==",
+   "registration_status": "open",
+   "registration_opens": "2026-10-07",
+   "registration_closes": "2026-11-23",
+   "registration_url": "https://www.aita.hitcourt.com/tournament-acceptance-factsheet-MzAwMw==",
+   "registration_notes": "Withdrawal deadline 7 Dec 2026, freeze deadline 10 Dec 2026.",
+   "summary": "AITA men's ranking tournament with Rs 1,00,000 prize money on seven outdoor hard courts at Shamirpet. A 128-player qualifying draw makes it one of the more accessible ways for an unranked club player to earn AITA points.",
+   "categories": [
+    {
+     "name": "Men's Singles Qualifying",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": 1250,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "advanced",
+     "eligibility": "AITA player registration (AITA PIN) required; enter via the AITA Player Zone on aita.hitcourt.com. Acceptance by AITA ranking; unranked players go to qualifying.",
+     "notes": "Qualifying draw 128, 5-6 Dec 2026"
+    },
+    {
+     "name": "Men's Singles Main Draw",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": 1250,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "advanced",
+     "eligibility": "AITA player registration (AITA PIN) required; enter via the AITA Player Zone on aita.hitcourt.com. Acceptance by AITA ranking; unranked players go to qualifying.",
+     "notes": "Main draw 32, 7-11 Dec 2026; same singles entry"
+    },
+    {
+     "name": "Men's Doubles",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": null,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "advanced",
+     "eligibility": "AITA player registration (AITA PIN) required; enter via the AITA Player Zone on aita.hitcourt.com. Acceptance by AITA ranking; unranked players go to qualifying.",
+     "notes": "Main draw 16; doubles fee not listed"
+    }
+   ],
+   "course": {
+    "terrain": "court",
+    "surface": "Outdoor hard courts (7)",
+    "elevation_gain_m": null,
+    "profile": null,
+    "description": "Residential academy at Shamirpet on Hyderabad's northern edge; about 40 km from Rajiv Gandhi International Airport and 20 km from Secunderabad station."
+   },
+   "format": "Knockout per AITA Pro Circuit rules. Singles: 128 qualifying, 32 main draw. Doubles: 16. Ball: TBC.",
+   "highlights": [
+    "Rs 1 lakh prize money",
+    "Large 128-player qualifying draw"
+   ],
+   "tips": [
+    "Official hotel is on site at the academy, single room Rs 1,100 per night per the fact sheet",
+    "Venue is about 20 km from Secunderabad station and 18 km from JBS bus stand; arrange transport for early qualifying starts",
+    "Main draw sign-in closes at 14:00 the day before play"
+   ],
+   "amenities": [
+    "On-site accommodation"
+   ],
+   "beginner_friendly": false,
+   "tags": [
+    "aita-ranking",
+    "prize-money"
+   ],
+   "sources": [
+    "https://www.aita.hitcourt.com/tournament-acceptance-factsheet-MzAwMw==",
+    "https://www.aita.hitcourt.com/factsheet-pdf-MzAwMw==",
+    "https://www.aita.hitcourt.com/tournament-calendar-pro-2026"
+   ]
+  },
+  {
+   "slug": "akhtar-ali-foundation-bta-aita-national-ranking-5-lac-tennis-tournament-2026",
+   "name": "Akhtar Ali Foundation BTA AITA National Ranking 5 Lac Tennis Tournament",
+   "edition": "2026",
+   "sport": "tennis",
+   "discipline": "AITA Pro Circuit (Rs 5 lakh), men",
+   "city": "kolkata",
+   "venue": "Bengal Tennis Association Academy, Sector 3, Salt Lake (beside Gate 2, Yuba Bharati Krirangan)",
+   "lat": null,
+   "lon": null,
+   "start_date": "2026-12-05",
+   "end_date": "2026-12-12",
+   "date_status": "confirmed",
+   "last_edition_date": null,
+   "organiser": "Bengal Tennis Association",
+   "official_url": "https://www.aita.hitcourt.com/tournament-acceptance-factsheet-MjkyNw==",
+   "registration_status": "open",
+   "registration_opens": "2026-09-13",
+   "registration_closes": "2026-11-16",
+   "registration_url": "https://www.aita.hitcourt.com/tournament-acceptance-factsheet-MjkyNw==",
+   "registration_notes": "Withdrawal deadline 30 Nov 2026.",
+   "summary": "Men's AITA national ranking tournament with Rs 5,00,000 prize money, the richest AITA Pro Circuit grade in this window. Qualifying draw is only 48, so entry is competitive for unranked players.",
+   "categories": [
+    {
+     "name": "Men's Singles Qualifying",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": 1250,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "advanced",
+     "eligibility": "AITA player registration (AITA PIN) required; enter via the AITA Player Zone on aita.hitcourt.com. Acceptance by AITA ranking; unranked players go to qualifying.",
+     "notes": "Qualifying draw 48, 5-6 Dec 2026"
+    },
+    {
+     "name": "Men's Singles Main Draw",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": 1250,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "advanced",
+     "eligibility": "AITA player registration (AITA PIN) required; enter via the AITA Player Zone on aita.hitcourt.com. Acceptance by AITA ranking; unranked players go to qualifying.",
+     "notes": "Main draw 32, 7-12 Dec 2026"
+    },
+    {
+     "name": "Men's Doubles",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": null,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "advanced",
+     "eligibility": "AITA player registration (AITA PIN) required; enter via the AITA Player Zone on aita.hitcourt.com. Acceptance by AITA ranking; unranked players go to qualifying.",
+     "notes": "Main draw 16; fee not listed"
+    }
+   ],
+   "course": {
+    "terrain": "court",
+    "surface": "Outdoor hard courts (6)",
+    "elevation_gain_m": null,
+    "profile": null,
+    "description": "BTA academy next to Gate 2 of the Salt Lake stadium complex."
+   },
+   "format": "Knockout per AITA Pro Circuit rules. Singles: 48 qualifying, 32 main draw. Doubles: 16. Ball: TBC.",
+   "highlights": [
+    "Rs 5 lakh prize money",
+    "Run by the state association at Salt Lake"
+   ],
+   "tips": [
+    "Small 48-player qualifying draw: enter early and check the acceptance list",
+    "Venue is beside Gate 2 of Yuba Bharati Krirangan; avoid days with football at the stadium",
+    "December evenings are cool and dewy in Kolkata"
+   ],
+   "amenities": [],
+   "beginner_friendly": false,
+   "tags": [
+    "aita-ranking",
+    "prize-money"
+   ],
+   "sources": [
+    "https://www.aita.hitcourt.com/tournament-acceptance-factsheet-MjkyNw==",
+    "https://www.aita.hitcourt.com/factsheet-pdf-MjkyNw==",
+    "https://www.aita.hitcourt.com/tournament-calendar-pro-2026"
+   ]
+  },
+  {
+   "slug": "raghu-sinha-itf-tennis-masters-tournament-mt400-jaipur-2026",
+   "name": "Raghu Sinha ITF Tennis Masters Tournament (MT400 Jaipur)",
+   "edition": "2026",
+   "sport": "tennis",
+   "discipline": "ITF Masters (veterans) MT400",
+   "city": "jaipur",
+   "venue": "Jaipur Club Ltd, Jacob Road",
+   "lat": null,
+   "lon": null,
+   "start_date": "2026-12-07",
+   "end_date": "2026-12-12",
+   "date_status": "confirmed",
+   "last_edition_date": null,
+   "organiser": "Jaipur Club (Tournament Director: Lalit Singh Taleda), sanctioned by ITF and AITA",
+   "official_url": "https://www.itftennis.com/en/tournament/mt400-jaipur/ind/2026/s-mt400-ind-2026-014/fact-sheet/",
+   "registration_status": "unknown",
+   "registration_opens": null,
+   "registration_closes": null,
+   "registration_url": "https://www.itftennis.com/en/tournament/mt400-jaipur/ind/2026/s-mt400-ind-2026-014/fact-sheet/",
+   "registration_notes": "Entries through ITF World Tennis Tour Zone.",
+   "summary": "MT400 ITF Masters event on clay at the Jaipur Club. Men's singles and doubles run from 40+ to 75+, with women's events at 30+ and 45+. Jaipur hosts several Masters weeks a year.",
+   "categories": [
+    {
+     "name": "Women's Singles and Doubles 30+",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": null,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "advanced",
+     "eligibility": "ITF IPIN / World Tennis Tour Zone membership required; entries via Tour Zone. Age group by age reached in the calendar year.",
+     "notes": null
+    },
+    {
+     "name": "Men's Singles and Doubles 40+",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": null,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "advanced",
+     "eligibility": "ITF IPIN / World Tennis Tour Zone membership required; entries via Tour Zone. Age group by age reached in the calendar year.",
+     "notes": null
+    },
+    {
+     "name": "Men's and Women's Singles and Doubles 45+",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": null,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "advanced",
+     "eligibility": "ITF IPIN / World Tennis Tour Zone membership required; entries via Tour Zone. Age group by age reached in the calendar year.",
+     "notes": null
+    },
+    {
+     "name": "Men's Singles and Doubles 50+",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": null,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "advanced",
+     "eligibility": "ITF IPIN / World Tennis Tour Zone membership required; entries via Tour Zone. Age group by age reached in the calendar year.",
+     "notes": null
+    },
+    {
+     "name": "Men's Singles and Doubles 55+",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": null,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "advanced",
+     "eligibility": "ITF IPIN / World Tennis Tour Zone membership required; entries via Tour Zone. Age group by age reached in the calendar year.",
+     "notes": null
+    },
+    {
+     "name": "Men's Singles and Doubles 60+",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": null,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "advanced",
+     "eligibility": "ITF IPIN / World Tennis Tour Zone membership required; entries via Tour Zone. Age group by age reached in the calendar year.",
+     "notes": null
+    },
+    {
+     "name": "Men's Singles and Doubles 65+",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": null,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "advanced",
+     "eligibility": "ITF IPIN / World Tennis Tour Zone membership required; entries via Tour Zone. Age group by age reached in the calendar year.",
+     "notes": null
+    },
+    {
+     "name": "Men's Singles and Doubles 70+",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": null,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "advanced",
+     "eligibility": "ITF IPIN / World Tennis Tour Zone membership required; entries via Tour Zone. Age group by age reached in the calendar year.",
+     "notes": null
+    },
+    {
+     "name": "Men's Singles and Doubles 75+",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": null,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "advanced",
+     "eligibility": "ITF IPIN / World Tennis Tour Zone membership required; entries via Tour Zone. Age group by age reached in the calendar year.",
+     "notes": null
+    }
+   ],
+   "course": {
+    "terrain": "court",
+    "surface": "Outdoor clay courts",
+    "elevation_gain_m": null,
+    "profile": null,
+    "description": "Historic members' club on Jacob Road, Civil Lines area of Jaipur."
+   },
+   "format": "ITF World Tennis Masters Tour knockout draws by age group (MT400). Ball: Babolat Gold All Court (Type 2). Outdoor clay.",
+   "highlights": [
+    "One of few Indian Masters events on clay",
+    "Men's draws extend to 75+"
+   ],
+   "tips": [
+    "Clay play is slower; bring clay-court shoes",
+    "No men's 30+ or 35+ draws at this event, so younger veterans should choose Gurugram or Mumbai",
+    "December mornings in Jaipur are cold; early matches need a longer warm-up"
+   ],
+   "amenities": [],
+   "beginner_friendly": false,
+   "tags": [
+    "itf-masters",
+    "veterans",
+    "clay"
+   ],
+   "sources": [
+    "https://www.itftennis.com/en/tournament/mt400-jaipur/ind/2026/s-mt400-ind-2026-014/fact-sheet/",
+    "https://www.aita.hitcourt.com/tournament-calendar-pro-2026"
+   ]
+  },
+  {
+   "slug": "mslta-mt400-world-masters-tennis-championship-2026",
+   "name": "MSLTA MT400 World Masters Tennis Championship",
+   "edition": "2026",
+   "sport": "tennis",
+   "discipline": "ITF Masters (veterans) MT400",
+   "city": "mumbai",
+   "venue": "MSLTA, Dr. G.A. Ranade Tennis Centre, 165 Maharshi Karve Road, Cooperage",
+   "lat": null,
+   "lon": null,
+   "start_date": "2026-12-12",
+   "end_date": "2026-12-19",
+   "date_status": "confirmed",
+   "last_edition_date": null,
+   "organiser": "Maharashtra State Lawn Tennis Association (Tournament Director: Ramarao Dosa)",
+   "official_url": "https://www.itftennis.com/en/tournament/mt400-mumbai/ind/2026/s-mt400-ind-2026-010/fact-sheet/",
+   "registration_status": "unknown",
+   "registration_opens": null,
+   "registration_closes": null,
+   "registration_url": "https://www.itftennis.com/en/tournament/mt400-mumbai/ind/2026/s-mt400-ind-2026-010/fact-sheet/",
+   "registration_notes": "Entries through ITF World Tennis Tour Zone.",
+   "summary": "ITF Masters MT400 run by MSLTA at its Cooperage tennis centre in south Mumbai, with men's draws from 30+ to 80+ and women's and mixed draws in several age groups. Fact sheet lists a provisional 64-player draw for men's 30+ singles.",
+   "categories": [
+    {
+     "name": "30+ Men's and Women's Singles and Doubles, Mixed Doubles",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": null,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "advanced",
+     "eligibility": "ITF IPIN / World Tennis Tour Zone membership required; entries via Tour Zone. Age group by age reached in the calendar year.",
+     "notes": "Men's 30+ singles provisional main draw 64; intended dates 12-16 Dec"
+    },
+    {
+     "name": "35+ Men's Singles and Doubles",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": null,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "advanced",
+     "eligibility": "ITF IPIN / World Tennis Tour Zone membership required; entries via Tour Zone. Age group by age reached in the calendar year.",
+     "notes": null
+    },
+    {
+     "name": "40+ Men's and Women's Singles and Doubles, Mixed Doubles",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": null,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "advanced",
+     "eligibility": "ITF IPIN / World Tennis Tour Zone membership required; entries via Tour Zone. Age group by age reached in the calendar year.",
+     "notes": null
+    },
+    {
+     "name": "45+ Men's Singles and Doubles, Mixed Doubles",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": null,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "advanced",
+     "eligibility": "ITF IPIN / World Tennis Tour Zone membership required; entries via Tour Zone. Age group by age reached in the calendar year.",
+     "notes": null
+    },
+    {
+     "name": "50+ Men's and Women's Singles and Doubles, Mixed Doubles",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": null,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "advanced",
+     "eligibility": "ITF IPIN / World Tennis Tour Zone membership required; entries via Tour Zone. Age group by age reached in the calendar year.",
+     "notes": null
+    },
+    {
+     "name": "55+ Men's Singles and Doubles, Mixed Doubles",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": null,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "advanced",
+     "eligibility": "ITF IPIN / World Tennis Tour Zone membership required; entries via Tour Zone. Age group by age reached in the calendar year.",
+     "notes": null
+    },
+    {
+     "name": "60+ Men's Singles and Doubles",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": null,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "advanced",
+     "eligibility": "ITF IPIN / World Tennis Tour Zone membership required; entries via Tour Zone. Age group by age reached in the calendar year.",
+     "notes": null
+    },
+    {
+     "name": "65+ Men's Singles and Doubles, Mixed Doubles",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": null,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "advanced",
+     "eligibility": "ITF IPIN / World Tennis Tour Zone membership required; entries via Tour Zone. Age group by age reached in the calendar year.",
+     "notes": null
+    },
+    {
+     "name": "70+, 75+ and 80+ Men's Singles and Doubles",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": null,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "advanced",
+     "eligibility": "ITF IPIN / World Tennis Tour Zone membership required; entries via Tour Zone. Age group by age reached in the calendar year.",
+     "notes": null
+    }
+   ],
+   "course": {
+    "terrain": "court",
+    "surface": "Outdoor hard courts",
+    "elevation_gain_m": null,
+    "profile": null,
+    "description": "State association tennis centre at Cooperage, near Churchgate and the Oval Maidan."
+   },
+   "format": "ITF World Tennis Masters Tour knockout draws by age group (MT400). Ball: Babolat Team All Court (Type 2). Outdoor hard courts.",
+   "highlights": [
+    "Widest age range of the window, men's draws up to 80+",
+    "Central Mumbai venue run by the state association"
+   ],
+   "tips": [
+    "Churchgate station is a short walk; parking near Cooperage is limited",
+    "Official ball is Babolat Team All Court",
+    "December in Mumbai is humid by late morning; carry electrolytes"
+   ],
+   "amenities": [],
+   "beginner_friendly": false,
+   "tags": [
+    "itf-masters",
+    "veterans"
+   ],
+   "sources": [
+    "https://www.itftennis.com/en/tournament/mt400-mumbai/ind/2026/s-mt400-ind-2026-010/fact-sheet/",
+    "https://www.aita.hitcourt.com/tournament-calendar-pro-2026"
+   ]
+  }
+ ]
+}

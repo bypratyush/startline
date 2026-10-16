@@ -1,0 +1,476 @@
+{
+ "events": [
+  {
+   "slug": "igcc-unity-cup-indo-german-chamber-football-tournament-2026",
+   "name": "IGCC Unity Cup (Indo-German Chamber football tournament)",
+   "edition": "2026, 16th edition (expected)",
+   "sport": "football",
+   "discipline": "corporate 5-a-side",
+   "city": "bengaluru",
+   "venue": "Bengaluru (2026 venue not announced; the 2025 edition was advertised at Depot 18, Jayamahal Main Road)",
+   "lat": null,
+   "lon": null,
+   "start_date": "2026-11-07",
+   "end_date": "2026-11-07",
+   "date_status": "expected",
+   "last_edition_date": "2025-11-08",
+   "organiser": "Indo-German Chamber of Commerce (IGCC), supported by the German Consulate Bangalore",
+   "official_url": "https://indien.ahk.de/en/events2/indo-german-unity-cup-2025",
+   "registration_status": "unknown",
+   "registration_opens": null,
+   "registration_closes": null,
+   "registration_url": "https://indien.ahk.de/en/events2/indo-german-unity-cup-2025",
+   "registration_notes": "2025 entry was by online form with a 31 July deadline. A 2026 edition was not found online; the IGCC page advertised 13 September 2025 while a participating team's report gives 8 November 2025, so confirm the date with IGCC.",
+   "summary": "Annual corporate five-a-side football tournament for companies in the Indo-German business network in Bengaluru. The 15th edition in 2025, called the Crystal Jubilee edition, had 16 teams and welcomed women's teams and women players from member companies.",
+   "categories": [
+    {
+     "name": "Corporate 5-a-side",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": 60000,
+     "start_time": "07:30",
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "open",
+     "eligibility": "Teams from Indo-German companies and IGCC partners",
+     "notes": "2025 participation fee Rs 60,000 plus 18% GST; the page lists it as the participation fee and does not say explicitly that it is per team."
+    }
+   ],
+   "course": {
+    "terrain": "turf",
+    "surface": "five-a-side pitch",
+    "elevation_gain_m": null,
+    "profile": null,
+    "description": "One-day event in central or north Bengaluru; the 2025 edition was advertised at Depot 18 on Jayamahal Main Road."
+   },
+   "format": "One-day five-a-side tournament, 7:30 AM to 6:00 PM in 2025, 16 teams. Match length and squad size not published.",
+   "highlights": [
+    "15 editions held up to 2025",
+    "Women's teams and players welcomed",
+    "Supported by the German Consulate Bangalore"
+   ],
+   "tips": [
+    "Entries closed on 31 July for the 2025 edition, so start company approvals by mid-year",
+    "Ask IGCC whether non-member companies can enter before planning a team"
+   ],
+   "amenities": [],
+   "beginner_friendly": true,
+   "tags": [
+    "corporate",
+    "5-a-side"
+   ],
+   "sources": [
+    "https://indien.ahk.de/en/events2/indo-german-unity-cup-2025",
+    "https://trivandrum.german.in/events-detail/299"
+   ]
+  },
+  {
+   "slug": "dh-cup-2026",
+   "name": "DH Cup",
+   "edition": "2026, 5th edition (expected)",
+   "sport": "football",
+   "discipline": "corporate 5-a-side",
+   "city": "bengaluru",
+   "venue": "Bengaluru (2026 venue not yet announced)",
+   "lat": null,
+   "lon": null,
+   "start_date": "2026-11-21",
+   "end_date": "2026-12-06",
+   "date_status": "expected",
+   "last_edition_date": null,
+   "organiser": "Deccan Herald (The Printers Mysore Ltd)",
+   "official_url": "https://www.deccanherald.com/dhcup2025",
+   "registration_status": "unknown",
+   "registration_opens": null,
+   "registration_closes": null,
+   "registration_url": null,
+   "registration_notes": "Corporate entry only. Queries go to dhcup@deccanherald.co.in. The 2025 edition was launched on 8 November 2025 and its final was played in early December; the 2024 final was in mid-December. Exact 2025 match dates are not published, so last_edition_date is null.",
+   "summary": "Inter-corporate five-a-side football tournament run by Deccan Herald in Bengaluru every year since 2022, billed as the city's first five-a-side event for corporates. The 2025 edition had 59 matches with company teams including Bosch, Elfonze, TVS Motor, UST, BEML, OpenText, Karle Infra and Brigade Group. Bosch and Elfonze met in both the 2024 and 2025 finals.",
+   "categories": [
+    {
+     "name": "Corporate 5-a-side",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": null,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "open",
+     "eligibility": "Every player must be a full-time employee on the rolls of the entering organisation, declared at entry. An organisation can enter several teams but cannot swap players between them.",
+     "notes": "Fee per team not published online. No refund if a team leaves the tournament."
+    }
+   ],
+   "course": {
+    "terrain": "turf",
+    "surface": "five-a-side pitch (spiked shoes not allowed)",
+    "elevation_gain_m": null,
+    "profile": null,
+    "description": "Venue for 2026 not yet announced. The 2025 launch event was at Fox in the Field, Nexus Shantiniketan Mall, Whitefield."
+   },
+   "format": "Draw-based groups playing a round-robin, then knockouts. Two 20-minute halves with a 5-minute break. Squad of 10 with rolling substitutions, 5 on the field including the goalkeeper. Win 3 points, draw 1, forfeit costs 3 points. Group ties broken by goals scored, then fewest conceded. Organisers supply jerseys and shorts that must be worn unaltered.",
+   "highlights": [
+    "Four editions held, 2022 to 2025",
+    "Rolling trophy",
+    "59 matches in the 2025 edition",
+    "Match photos and videos published on the DH Cup site"
+   ],
+   "tips": [
+    "Submit the full 10-player list with name, designation and department before the tournament; only players listed on the DH Cup site may play",
+    "Reach the venue 30 minutes before kick-off; late teams can forfeit",
+    "No studs, spikes, watches or jewellery; shin guards are allowed if they do not cover the kit logos"
+   ],
+   "amenities": [
+    "Team jerseys and shorts supplied",
+    "Referees",
+    "Match photos and videos"
+   ],
+   "beginner_friendly": true,
+   "tags": [
+    "corporate",
+    "5-a-side"
+   ],
+   "sources": [
+    "https://www.deccanherald.com/dhcup2025/about-us",
+    "https://www.deccanherald.com/dhcup2025/rules-regulations",
+    "https://www.deccanherald.com/dhcup2025/video",
+    "https://www.deccanherald.com/dhcup2024"
+   ]
+  },
+  {
+   "slug": "all-goa-inter-village-8-a-side-tribal-football-festival-2027",
+   "name": "All Goa Inter-Village 8-a-side Tribal Football Festival",
+   "edition": "2027, 5th edition (expected)",
+   "sport": "football",
+   "discipline": "8-a-side",
+   "city": "goa",
+   "venue": "Laymati Davorlim ground, Salcete",
+   "lat": null,
+   "lon": null,
+   "start_date": "2027-01-09",
+   "end_date": "2027-01-10",
+   "date_status": "expected",
+   "last_edition_date": "2026-01-10",
+   "organiser": "Youth Hostels Association of India, Margao Unit, with the Directorate of Sports and Youth Affairs, Govt of Goa",
+   "official_url": null,
+   "registration_status": "upcoming",
+   "registration_opens": null,
+   "registration_closes": null,
+   "registration_url": null,
+   "registration_notes": "Teams had to register before 5 January for the 2026 edition; contact numbers were published in The Goan. Fee not stated.",
+   "summary": "Two-day inter-village 8-a-side football festival in Salcete, south Goa, organised by YHAI Margao with the state sports directorate. The 4th edition ran on 10-11 January 2026 with cash prizes, trophies and medals for winners and runners-up.",
+   "categories": [
+    {
+     "name": "Inter-village 8-a-side",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": null,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "open",
+     "eligibility": "Village teams; the event is billed as a tribal football festival, so confirm team eligibility with the organisers",
+     "notes": null
+    }
+   ],
+   "course": {
+    "terrain": "turf",
+    "surface": "village football ground",
+    "elevation_gain_m": null,
+    "profile": null,
+    "description": "Village ground at Davorlim in Salcete taluka, near Margao."
+   },
+   "format": "8-a-side, two-day tournament. Match length and squad size not published.",
+   "highlights": [
+    "Four editions held up to 2026",
+    "Backed by the Goa sports directorate"
+   ],
+   "tips": [
+    "Register before the early-January deadline (5 January in 2026)",
+    "Ask whether teams must represent a single village or community"
+   ],
+   "amenities": [
+    "Cash prizes, trophies and medals"
+   ],
+   "beginner_friendly": true,
+   "tags": [
+    "community"
+   ],
+   "sources": [
+    "https://www.thegoan.net/sports/%EF%BB%BFall-goa-intervillage-8aside-tribal-football-festival-on-january-10-and-11/141261.html"
+   ]
+  },
+  {
+   "slug": "ifcci-bangalore-sports-tournament-football-2027",
+   "name": "IFCCI Bangalore Sports Tournament (football)",
+   "edition": "2027, 3rd edition (expected)",
+   "sport": "football",
+   "discipline": "corporate 6-a-side",
+   "city": "bengaluru",
+   "venue": "Play Arena, Sarjapur Road",
+   "lat": 12.9104,
+   "lon": 77.6826,
+   "start_date": "2027-01-22",
+   "end_date": "2027-01-22",
+   "date_status": "expected",
+   "last_edition_date": "2026-01-23",
+   "organiser": "Indo-French Chamber of Commerce and Industry (IFCCI)",
+   "official_url": "https://www.ifcci.org.in/events/upcoming-events/e/event/2nd-edition-of-the-ifcci-bangalore-sports-tournament.html",
+   "registration_status": "upcoming",
+   "registration_opens": null,
+   "registration_closes": null,
+   "registration_url": "https://www.ifcci.org.in/events/upcoming-events/e/event/2nd-edition-of-the-ifcci-bangalore-sports-tournament.html",
+   "registration_notes": "2026 registration closed on 9 January for the 23 January event. Companies nominate up to two football teams.",
+   "summary": "One-day multi-sport corporate tournament for the Indo-French business community in Bengaluru, with 6 v 6 football, badminton, table tennis and pickleball. The 2nd edition was held on 23 January 2026 at Play Arena on Sarjapur Road.",
+   "categories": [
+    {
+     "name": "Corporate 6-a-side football",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": 11800,
+     "start_time": "08:30",
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "open",
+     "eligibility": "Company-nominated teams from the Indo-French business community, up to two teams per company",
+     "notes": "Fee per team, inclusive of taxes (2026)."
+    }
+   ],
+   "course": {
+    "terrain": "turf",
+    "surface": "multi-sport arena",
+    "elevation_gain_m": null,
+    "profile": null,
+    "description": "Play Arena is a multi-sport venue off Sarjapur Road in south-east Bengaluru."
+   },
+   "format": "6 v 6 football in a one-day event (8:30 AM to 4 PM in 2026). Match length and squad size not published.",
+   "highlights": [
+    "Also offers badminton, table tennis singles (Rs 2,360 per player) and pickleball",
+    "Open to employees across roles and experience levels"
+   ],
+   "tips": [
+    "Registration closes about two weeks before the event",
+    "The 2026 event was on a Friday morning; Sarjapur Road traffic is heavy at that time, so leave early"
+   ],
+   "amenities": [],
+   "beginner_friendly": true,
+   "tags": [
+    "corporate",
+    "multi-sport"
+   ],
+   "sources": [
+    "https://www.ifcci.org.in/events/upcoming-events/e/event/2nd-edition-of-the-ifcci-bangalore-sports-tournament.html"
+   ]
+  },
+  {
+   "slug": "rev-fr-edward-f-rego-memorial-all-goa-3-a-side-tie-breaker-football-tournament-2027",
+   "name": "Rev. Fr. Edward F. Rego Memorial All Goa 3-a-side Tie-Breaker Football Tournament",
+   "edition": "2027, 13th edition (expected)",
+   "sport": "football",
+   "discipline": "3-a-side tie-breaker",
+   "city": "goa",
+   "venue": "St Joseph's High School ground, Calangute",
+   "lat": null,
+   "lon": null,
+   "start_date": "2027-02-21",
+   "end_date": "2027-02-21",
+   "date_status": "expected",
+   "last_edition_date": "2026-02-22",
+   "organiser": "St Joseph's Boys Home Old Boys Association",
+   "official_url": null,
+   "registration_status": "upcoming",
+   "registration_opens": null,
+   "registration_closes": null,
+   "registration_url": null,
+   "registration_notes": "On-the-spot entries were accepted on the day in 2026.",
+   "summary": "One-day All Goa 3-a-side tie-breaker football tournament in Calangute, held in memory of Rev. Fr. Edward F. Rego. The 12th edition on 22 February 2026 paid Rs 30,000 to the champions and Rs 20,000 to the runners-up, with awards for best shooter and best goalkeeper.",
+   "categories": [
+    {
+     "name": "Open 3-a-side tie-breaker",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": 600,
+     "start_time": "11:00",
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "open",
+     "eligibility": "Teams from across Goa",
+     "notes": "Fee per team (2026)."
+    }
+   ],
+   "course": {
+    "terrain": "turf",
+    "surface": "school football ground",
+    "elevation_gain_m": null,
+    "profile": null,
+    "description": "School ground in Calangute, north Goa."
+   },
+   "format": "3-a-side tie-breaker format, single day from 11 AM with prize distribution at 6 PM. Detailed match rules not published.",
+   "highlights": [
+    "12 editions held up to 2026",
+    "Rs 30,000 winners' prize in 2026",
+    "Low entry fee and on-the-spot registration"
+   ],
+   "tips": [
+    "Arrive before the 11 AM start to enter on the spot",
+    "Plan for a full day; the 2026 closing ceremony was at 6 PM"
+   ],
+   "amenities": [
+    "Cash prizes and trophies"
+   ],
+   "beginner_friendly": true,
+   "tags": [
+    "community",
+    "one-day"
+   ],
+   "sources": [
+    "https://www.thegoan.net/sports/%EF%BB%BFall-goa-3aside-tiebreaker-set-for-february-22-at-calangute/143838.html"
+   ]
+  },
+  {
+   "slug": "bsla-old-is-gold-veterans-football-tournament-2027",
+   "name": "BSLA Old is Gold Veterans Football Tournament",
+   "edition": "2027, 7th edition (expected)",
+   "sport": "football",
+   "discipline": "veterans 5-a-side",
+   "city": "bengaluru",
+   "venue": "VeloCT Play Arena, Bengaluru",
+   "lat": null,
+   "lon": null,
+   "start_date": "2027-07-11",
+   "end_date": "2027-07-11",
+   "date_status": "expected",
+   "last_edition_date": "2026-07-05",
+   "organiser": "Bangalore Sports Lovers Association (BSLA)",
+   "official_url": null,
+   "registration_status": "upcoming",
+   "registration_opens": null,
+   "registration_closes": null,
+   "registration_url": null,
+   "registration_notes": "2026 entries closed on 21 June for the 5 July event; registration was by phone using numbers published in the announcement. Team fees go to charity.",
+   "summary": "One-day charity five-a-side football tournament for players aged 40 and over, held by BSLA in July at VeloCT in Bengaluru. The 5th edition on 20 July 2025 drew 24 teams from Bengaluru, Secunderabad, Chennai, Chikkamagaluru, Kerala and Pondicherry. The 2026 edition on 5 July raised money for HIV-positive children and had a Rs 24,000 prize pool.",
+   "categories": [
+    {
+     "name": "Veterans 40+ 5-a-side",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": 4000,
+     "start_time": "10:00",
+     "cutoff_minutes": null,
+     "min_age": 40,
+     "level": "open",
+     "eligibility": "All players aged 40 and above",
+     "notes": "Fee per team (2026). Up to three substitutes."
+    }
+   ],
+   "course": {
+    "terrain": "turf",
+    "surface": "five-a-side arena",
+    "elevation_gain_m": null,
+    "profile": null,
+    "description": "Single-day event at the VeloCT play arena in Bengaluru."
+   },
+   "format": "Five-a-side with up to three substitutes per team, one-day event from 10 AM. Trophies, medals and certificates for winners and participants; total cash prize Rs 24,000 in 2026.",
+   "highlights": [
+    "Six editions held up to 2026",
+    "Teams travel from across South India",
+    "Entry fees fund charity work"
+   ],
+   "tips": [
+    "Entries close about two weeks before the July date and the field reached 24 teams in 2025",
+    "Carry age proof in case organisers check the 40+ rule",
+    "July is monsoon season in Bengaluru; bring a spare kit"
+   ],
+   "amenities": [
+    "Trophies and medals",
+    "Participation certificates"
+   ],
+   "beginner_friendly": true,
+   "tags": [
+    "veterans",
+    "charity",
+    "5-a-side"
+   ],
+   "sources": [
+    "https://newskarnataka.com/sports/veterans-football-tournament-2026-to-support-hiv-positive-children/18062026/",
+    "https://newskarnataka.com/bengaluru/south-india-rallies-for-education-at-veterans-tournament/21072025/"
+   ]
+  },
+  {
+   "slug": "bengal-chamber-corporate-futsal-gold-cup-2027",
+   "name": "Bengal Chamber Corporate Futsal Gold Cup",
+   "edition": "Next edition (expected)",
+   "sport": "football",
+   "discipline": "corporate futsal 5-a-side",
+   "city": "kolkata",
+   "venue": "Kolkata (2025: Sportsplex, Tangra; 2024: Turf XL, New Alipore)",
+   "lat": null,
+   "lon": null,
+   "start_date": "2027-09-04",
+   "end_date": "2027-09-05",
+   "date_status": "expected",
+   "last_edition_date": "2025-09-06",
+   "organiser": "Bengal Chamber of Commerce and Industry (BCC&I), Sports Development Committee",
+   "official_url": "https://bengalchamber.com/futsal-gold-cup-2025.html",
+   "registration_status": "unknown",
+   "registration_opens": null,
+   "registration_closes": null,
+   "registration_url": null,
+   "registration_notes": "Corporate teams only; fee not published. No 2026 edition was found online, so ask BCC&I whether one is planned before the expected 2027 slot.",
+   "summary": "Two-day inter-corporate futsal tournament run by the Bengal Chamber in Kolkata. The 2nd edition (22-23 June 2024) had 24 teams and the 3rd (6-7 September 2025) had 19, including TCS, Genpact, LTIMindtree, Tata Steel and Berger Paints. Sun Knowledge Services won both editions.",
+   "categories": [
+    {
+     "name": "Corporate 5-a-side futsal",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": null,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "open",
+     "eligibility": "Company teams",
+     "notes": null
+    }
+   ],
+   "course": {
+    "terrain": "turf",
+    "surface": "5-a-side turf (venue changes each year)",
+    "elevation_gain_m": null,
+    "profile": null,
+    "description": "Played at a different Kolkata turf venue each year."
+   },
+   "format": "Two-day tournament under 5-a-side rules. Awards for fair play, top scorer, best goalkeeper, best player and best referee, plus man of the match in the final.",
+   "highlights": [
+    "Three editions held up to 2025",
+    "24 teams in 2024, 19 in 2025"
+   ],
+   "tips": [
+    "Confirm the venue each year; it moved from New Alipore to Tangra between editions",
+    "Sun Knowledge Services won in 2024 and 2025"
+   ],
+   "amenities": [],
+   "beginner_friendly": true,
+   "tags": [
+    "corporate",
+    "futsal"
+   ],
+   "sources": [
+    "https://bengalchamber.com/futsal-gold-cup-2025.html",
+    "https://agm24.bengalchamber.com/sports/1628487820001"
+   ]
+  }
+ ]
+}

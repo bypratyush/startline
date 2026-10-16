@@ -1,0 +1,1511 @@
+{
+ "events": [
+  {
+   "slug": "open-men-s-badminton-tournament-elite-champions-and-aura-badminton-association-2026",
+   "name": "Open Men's Badminton Tournament 2026 (Elite Champions and Aura Badminton Association)",
+   "edition": "2026",
+   "sport": "badminton",
+   "discipline": "Open amateur and corporate",
+   "city": "chennai",
+   "venue": "Stop and Play Badminton Academy, Ponnammal Street, Nemilichery, Chromepet",
+   "lat": 12.947996,
+   "lon": 80.163977,
+   "start_date": "2026-10-18",
+   "end_date": "2026-10-18",
+   "date_status": "confirmed",
+   "last_edition_date": null,
+   "organiser": "Elite Champions and Aura Badminton Association",
+   "official_url": "https://www.playmatches.com/chennai/tournaments/open-men-s-badminton-tournament-2026/71549f06-aed8-4761-94c7-3ebcbc45a298",
+   "registration_status": "open",
+   "registration_opens": null,
+   "registration_closes": null,
+   "registration_url": "https://www.playmatches.com/chennai/tournaments/open-men-s-badminton-tournament-2026/71549f06-aed8-4761-94c7-3ebcbc45a298",
+   "registration_notes": null,
+   "summary": "One-day open tournament in south Chennai pitched at bringing corporates together, with Rs 70,000 in total cash prizes and no minimum-entry condition. Includes a 35+ jumbled men's doubles draw.",
+   "categories": [
+    {
+     "name": "Men's Singles (Beginner vs Open)",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": 700,
+     "start_time": "08:00",
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "open",
+     "eligibility": null,
+     "notes": null
+    },
+    {
+     "name": "Men's Doubles (Beginner vs Open)",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": 1000,
+     "start_time": "08:00",
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "open",
+     "eligibility": null,
+     "notes": "Fee per team; winners Rs 15,000"
+    },
+    {
+     "name": "Women's Doubles (Beginner vs Open)",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": 1000,
+     "start_time": "08:00",
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "open",
+     "eligibility": null,
+     "notes": "Fee per team"
+    },
+    {
+     "name": "Mixed Doubles (Beginner vs Open)",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": 1000,
+     "start_time": "08:00",
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "open",
+     "eligibility": null,
+     "notes": "Fee per team"
+    },
+    {
+     "name": "35+ Jumbled Men's Doubles",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": 1000,
+     "start_time": "08:00",
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "open",
+     "eligibility": "35+ age category",
+     "notes": "Fee per team; winners Rs 10,000"
+    }
+   ],
+   "course": {
+    "terrain": "indoor",
+    "surface": "Indoor courts",
+    "elevation_gain_m": null,
+    "profile": null,
+    "description": "Badminton academy at Nemilichery, Chromepet, near Tambaram."
+   },
+   "format": "League then knockout.",
+   "highlights": [
+    "Rs 70,000 total cash prizes",
+    "Cash prizes paid regardless of entry numbers"
+   ],
+   "tips": [
+    "Chromepet station on the suburban line is the nearest rail link",
+    "Draws mix beginners and open players, so expect a wide range of opponents"
+   ],
+   "amenities": [
+    "Cash prizes"
+   ],
+   "beginner_friendly": true,
+   "tags": [
+    "amateur",
+    "corporate",
+    "one-day"
+   ],
+   "sources": [
+    "https://www.playmatches.com/chennai/tournaments/open-men-s-badminton-tournament-2026/71549f06-aed8-4761-94c7-3ebcbc45a298",
+    "https://www.playmatches.com/chennai/tournaments"
+   ]
+  },
+  {
+   "slug": "spreetime-mixed-corporate-badminton-ranking-series-2026",
+   "name": "SPREETIME Mixed Corporate Badminton Ranking Series",
+   "edition": "2026, first ranking event of the 3rd quarter",
+   "sport": "badminton",
+   "discipline": "Corporate amateur",
+   "city": "bengaluru",
+   "venue": "Hoodi Wellness and Sports Club, SJR Eternity, Ayyappa Nagar, Krishnarajapuram",
+   "lat": 12.999868,
+   "lon": 77.718775,
+   "start_date": "2026-10-24",
+   "end_date": "2026-10-25",
+   "date_status": "confirmed",
+   "last_edition_date": null,
+   "organiser": "SPREETIME",
+   "official_url": "https://www.playmatches.com/bengaluru/tournaments/spreetime-mixed-corporate-badminton-ranking-series/0f24e4d9-9507-4fb5-9f73-56b308cbf5d1",
+   "registration_status": "open",
+   "registration_opens": null,
+   "registration_closes": null,
+   "registration_url": "https://www.playmatches.com/bengaluru/tournaments/spreetime-mixed-corporate-badminton-ranking-series/0f24e4d9-9507-4fb5-9f73-56b308cbf5d1",
+   "registration_notes": "Pairs may be from the same company or different companies.",
+   "summary": "Quarterly corporate badminton ranking series in east Bengaluru with intermediate and advanced draws. Players earn ranking streaks across events, with trophies for top rankers every fourth tournament and annual awards.",
+   "categories": [
+    {
+     "name": "Intermediate Men's Singles",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": 799,
+     "start_time": "09:30",
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "intermediate",
+     "eligibility": "Corporate employees",
+     "notes": null
+    },
+    {
+     "name": "Intermediate Doubles (Gender Neutral)",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": 1099,
+     "start_time": "12:00",
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "intermediate",
+     "eligibility": "Corporate employees",
+     "notes": "Fee per team"
+    },
+    {
+     "name": "Intermediate Mixed Doubles",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": 1099,
+     "start_time": "14:00",
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "intermediate",
+     "eligibility": "Corporate employees",
+     "notes": "Fee per team"
+    },
+    {
+     "name": "Intermediate Women's Doubles",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": 1099,
+     "start_time": "14:00",
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "intermediate",
+     "eligibility": "Corporate employees",
+     "notes": "Fee per team"
+    },
+    {
+     "name": "Advanced Mixed Doubles",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": 1099,
+     "start_time": "14:00",
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "advanced",
+     "eligibility": "Corporate employees",
+     "notes": "Fee per team"
+    },
+    {
+     "name": "Advanced Men's Singles",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": 799,
+     "start_time": "15:30",
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "advanced",
+     "eligibility": "Corporate employees",
+     "notes": null
+    },
+    {
+     "name": "Advanced Doubles (Gender Neutral)",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": 1099,
+     "start_time": "17:00",
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "advanced",
+     "eligibility": "Corporate employees",
+     "notes": "Fee per team"
+    }
+   ],
+   "course": {
+    "terrain": "indoor",
+    "surface": "Indoor synthetic courts",
+    "elevation_gain_m": null,
+    "profile": null,
+    "description": "Sports club in the SJR Eternity complex near Hoodi, close to the Whitefield IT corridor."
+   },
+   "format": "League then knockout. Shuttle: Mavis 350 (nylon). Start times listed are reporting times.",
+   "highlights": [
+    "Corporate-only ranking series",
+    "Medals for all participants"
+   ],
+   "tips": [
+    "Report by the listed time for your category; singles start 09:30",
+    "Mavis 350 nylon shuttles, so practise with nylon",
+    "Play runs 08:30 to 22:00, so plan for a long day if entering several draws"
+   ],
+   "amenities": [
+    "Participation medals",
+    "Trophies for winners, runners-up and semi-finalists"
+   ],
+   "beginner_friendly": false,
+   "tags": [
+    "corporate",
+    "ranking-series"
+   ],
+   "sources": [
+    "https://www.playmatches.com/bengaluru/tournaments/spreetime-mixed-corporate-badminton-ranking-series/0f24e4d9-9507-4fb5-9f73-56b308cbf5d1",
+    "https://www.playmatches.com/bengaluru/tournaments"
+   ]
+  },
+  {
+   "slug": "aptha-badminton-academy-women-s-singles-doubles-and-mixed-doubles-tournament-2026",
+   "name": "Aptha Badminton Academy Women's Singles, Doubles and Mixed Doubles Tournament",
+   "edition": "2026 (October)",
+   "sport": "badminton",
+   "discipline": "Women's and mixed amateur, age groups",
+   "city": "bengaluru",
+   "venue": "Aptha Badminton Academy, 4th Main Road, Ankappa Layout, Uttarahalli",
+   "lat": 12.908555,
+   "lon": 77.553278,
+   "start_date": "2026-10-25",
+   "end_date": "2026-10-25",
+   "date_status": "confirmed",
+   "last_edition_date": null,
+   "organiser": "Aptha Badminton Academy",
+   "official_url": "https://www.playmatches.com/bengaluru/tournaments/aptha-badminton-academy-womens-singles-doubles-mixed-doubles-tournament/0749856c-111f-4c39-a3ec-99601bbbacaa",
+   "registration_status": "open",
+   "registration_opens": null,
+   "registration_closes": null,
+   "registration_url": "https://www.playmatches.com/bengaluru/tournaments/aptha-badminton-academy-womens-singles-doubles-mixed-doubles-tournament/0749856c-111f-4c39-a3ec-99601bbbacaa",
+   "registration_notes": "Coaches may not participate.",
+   "summary": "One-day women-focused tournament in south Bengaluru with singles and doubles split by age (up to 35, 35-50, above 50; doubles up to 40 and above 40) plus age-split mixed doubles.",
+   "categories": [
+    {
+     "name": "Women's Singles up to 35",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": 650,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "open",
+     "eligibility": "No coaches",
+     "notes": null
+    },
+    {
+     "name": "Women's Singles 35-50",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": 650,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "open",
+     "eligibility": "Age 35 to 50; no coaches",
+     "notes": null
+    },
+    {
+     "name": "Women's Singles above 50",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": 650,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "open",
+     "eligibility": "Age above 50; no coaches",
+     "notes": null
+    },
+    {
+     "name": "Women's Doubles up to 40",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": 1100,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "open",
+     "eligibility": "No coaches",
+     "notes": "Fee per team"
+    },
+    {
+     "name": "Women's Doubles above 40",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": 1100,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "open",
+     "eligibility": "No coaches",
+     "notes": "Fee per team"
+    },
+    {
+     "name": "Mixed Doubles up to 40",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": 1100,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "open",
+     "eligibility": "No coaches",
+     "notes": "Fee per team"
+    },
+    {
+     "name": "Mixed Doubles above 40",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": 1100,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "open",
+     "eligibility": "No coaches",
+     "notes": "Fee per team"
+    }
+   ],
+   "course": {
+    "terrain": "indoor",
+    "surface": "Indoor courts",
+    "elevation_gain_m": null,
+    "profile": null,
+    "description": "Academy in Uttarahalli, south Bengaluru."
+   },
+   "format": "Doubles: league then knockout, 21-point games. Singles: league, 15-point games. Shuttle: Mavis 350 (nylon).",
+   "highlights": [
+    "Age-banded women's draws",
+    "Cash prize of Rs 2,000 for winners if a category gets 16 entries"
+   ],
+   "tips": [
+    "Singles league games are only to 15 points, so start fast",
+    "Lunch is provided at the venue",
+    "Mavis 350 nylon shuttles are used"
+   ],
+   "amenities": [
+    "Lunch",
+    "Trophies"
+   ],
+   "beginner_friendly": true,
+   "tags": [
+    "women",
+    "veterans-draw",
+    "one-day"
+   ],
+   "sources": [
+    "https://www.playmatches.com/bengaluru/tournaments/aptha-badminton-academy-womens-singles-doubles-mixed-doubles-tournament/0749856c-111f-4c39-a3ec-99601bbbacaa"
+   ]
+  },
+  {
+   "slug": "sfl-badminton-tournament-bengaluru-2026",
+   "name": "SFL Badminton Tournament, Bengaluru",
+   "edition": "2026 (October)",
+   "sport": "badminton",
+   "discipline": "Open amateur",
+   "city": "bengaluru",
+   "venue": "Orchid Sports Academy, MSR Layout, Marathahalli",
+   "lat": 12.95135,
+   "lon": 77.701118,
+   "start_date": "2026-10-25",
+   "end_date": "2026-10-25",
+   "date_status": "confirmed",
+   "last_edition_date": null,
+   "organiser": "Sports For Life (SFL)",
+   "official_url": "https://www.playmatches.com/bengaluru/tournaments/sfl-badminton-tournament-bengaluru/bb5b1fc3-24c6-4f2e-ae20-9d7264036383",
+   "registration_status": "open",
+   "registration_opens": null,
+   "registration_closes": null,
+   "registration_url": "https://www.playmatches.com/bengaluru/tournaments/sfl-badminton-tournament-bengaluru/bb5b1fc3-24c6-4f2e-ae20-9d7264036383",
+   "registration_notes": null,
+   "summary": "One-day open badminton tournament with a Rs 50,000 prize pool and a men's 35+ singles draw, streamed live on the SFL app.",
+   "categories": [
+    {
+     "name": "Men's Singles",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": 699,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "open",
+     "eligibility": null,
+     "notes": null
+    },
+    {
+     "name": "Men's Singles 35+",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": 699,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "open",
+     "eligibility": "Age 35 and above",
+     "notes": null
+    },
+    {
+     "name": "Men's Doubles",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": 1199,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "open",
+     "eligibility": null,
+     "notes": "Fee per team"
+    },
+    {
+     "name": "Women's Singles",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": 699,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "open",
+     "eligibility": null,
+     "notes": null
+    },
+    {
+     "name": "Women's Doubles",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": 1199,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "open",
+     "eligibility": null,
+     "notes": "Fee per team"
+    }
+   ],
+   "course": {
+    "terrain": "indoor",
+    "surface": "Indoor courts",
+    "elevation_gain_m": null,
+    "profile": null,
+    "description": "Badminton academy behind Bhagini Residency, Marathahalli."
+   },
+   "format": "Knockout.",
+   "highlights": [
+    "Rs 50,000 prize pool",
+    "Live stream on the SFL app"
+   ],
+   "tips": [
+    "Knockout format means one loss ends your day; warm up properly before your first match",
+    "Marathahalli traffic is heavy even on Sundays; arrive early"
+   ],
+   "amenities": [
+    "Live streaming"
+   ],
+   "beginner_friendly": false,
+   "tags": [
+    "amateur",
+    "one-day",
+    "veterans-draw"
+   ],
+   "sources": [
+    "https://www.playmatches.com/bengaluru/tournaments/sfl-badminton-tournament-bengaluru/bb5b1fc3-24c6-4f2e-ae20-9d7264036383"
+   ]
+  },
+  {
+   "slug": "pro-court-championship-season-2-2026",
+   "name": "Pro Court Championship Season 2",
+   "edition": "Season 2, 2026",
+   "sport": "badminton",
+   "discipline": "Open amateur",
+   "city": "bengaluru",
+   "venue": "Vinny's Sports Arena, Venkateshwara Layout, Mahadevapura",
+   "lat": 12.985466,
+   "lon": 77.689056,
+   "start_date": "2026-10-31",
+   "end_date": "2026-10-31",
+   "date_status": "confirmed",
+   "last_edition_date": null,
+   "organiser": "Pro Court Championship (Elite Feathers)",
+   "official_url": "https://www.playmatches.com/bengaluru/tournaments/pro-court-championship-season-2/7c799834-d676-481a-be75-f3269a0d8360",
+   "registration_status": "open",
+   "registration_opens": null,
+   "registration_closes": null,
+   "registration_url": "https://www.playmatches.com/bengaluru/tournaments/pro-court-championship-season-2/7c799834-d676-481a-be75-f3269a0d8360",
+   "registration_notes": "Coaches and advanced players are barred from intermediate categories.",
+   "summary": "One-day knockout tournament for beginner to intermediate players in Mahadevapura, with a 55+ jumbled doubles draw for older players.",
+   "categories": [
+    {
+     "name": "Intermediate Men's Singles",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": 599,
+     "start_time": "10:00",
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "intermediate",
+     "eligibility": "No coaches or advanced players",
+     "notes": null
+    },
+    {
+     "name": "Beginner to Intermediate Doubles",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": 999,
+     "start_time": "10:00",
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "beginner",
+     "eligibility": "No coaches or advanced players",
+     "notes": "Fee per team"
+    },
+    {
+     "name": "Intermediate+ Men's Doubles",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": 999,
+     "start_time": "10:00",
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "intermediate",
+     "eligibility": null,
+     "notes": "Fee per team"
+    },
+    {
+     "name": "Intermediate+ Mixed Doubles",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": 999,
+     "start_time": "10:00",
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "intermediate",
+     "eligibility": null,
+     "notes": "Fee per team"
+    },
+    {
+     "name": "Jumbled Doubles 55+",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": 999,
+     "start_time": "10:00",
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "open",
+     "eligibility": "Age 55 and above",
+     "notes": "Fee per team"
+    }
+   ],
+   "course": {
+    "terrain": "indoor",
+    "surface": "Indoor courts",
+    "elevation_gain_m": null,
+    "profile": null,
+    "description": "Sports arena in Mahadevapura, east Bengaluru."
+   },
+   "format": "Knockout.",
+   "highlights": [
+    "Cash prizes up to Rs 4,000 per category with 16 entries",
+    "Beginner-friendly doubles draw"
+   ],
+   "tips": [
+    "Full cash prizes need 16 entries per category, half prizes 12",
+    "Players found to be above level are disqualified without refund, so enter honestly"
+   ],
+   "amenities": [
+    "Trophies for winners, runners-up and semi-finalists"
+   ],
+   "beginner_friendly": true,
+   "tags": [
+    "amateur",
+    "one-day",
+    "veterans-draw"
+   ],
+   "sources": [
+    "https://www.playmatches.com/bengaluru/tournaments/pro-court-championship-season-2/7c799834-d676-481a-be75-f3269a0d8360"
+   ]
+  },
+  {
+   "slug": "tsf-badminton-academy-x-5-am-sports-club-badminton-tournament-2026",
+   "name": "TSF Badminton Academy x 5 AM Sports Club Badminton Tournament",
+   "edition": "2026 (October)",
+   "sport": "badminton",
+   "discipline": "Open amateur",
+   "city": "mumbai",
+   "venue": "The Sports Foundry, LBS Marg, Subhash Nagar, Bhandup West",
+   "lat": 19.151867,
+   "lon": 72.938231,
+   "start_date": "2026-10-31",
+   "end_date": "2026-10-31",
+   "date_status": "confirmed",
+   "last_edition_date": null,
+   "organiser": "5 AM Sports Club LLP with TSF Badminton Academy",
+   "official_url": "https://www.playmatches.com/mumbai/tournaments/tsf-badminton-academy-5-am-sports-club-badminton-tournament/991c2f00-644b-4b9c-b47d-e7b84bfd0965",
+   "registration_status": "open",
+   "registration_opens": null,
+   "registration_closes": null,
+   "registration_url": "https://www.playmatches.com/mumbai/tournaments/tsf-badminton-academy-5-am-sports-club-badminton-tournament/991c2f00-644b-4b9c-b47d-e7b84bfd0965",
+   "registration_notes": "No cancellations or refunds.",
+   "summary": "Evening knockout tournament in Bhandup with gender-neutral open singles and doubles, played with feather shuttles and short 11-point games.",
+   "categories": [
+    {
+     "name": "Gender Neutral Open Singles",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": 600,
+     "start_time": "16:00",
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "open",
+     "eligibility": null,
+     "notes": null
+    },
+    {
+     "name": "Gender Neutral Open Doubles",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": 1200,
+     "start_time": "16:00",
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "open",
+     "eligibility": null,
+     "notes": "Fee per team"
+    }
+   ],
+   "course": {
+    "terrain": "indoor",
+    "surface": "Indoor courts",
+    "elevation_gain_m": null,
+    "profile": null,
+    "description": "Multi-sport facility on LBS Marg, Bhandup West."
+   },
+   "format": "Knockout, best of three games to 11 points. Feather shuttles.",
+   "highlights": [
+    "Feather shuttles",
+    "Short 11-point games suit newer players"
+   ],
+   "tips": [
+    "Games are to 11, so there is little time to recover from a slow start",
+    "Bhandup station on the Central line is the nearest rail link"
+   ],
+   "amenities": [],
+   "beginner_friendly": true,
+   "tags": [
+    "amateur",
+    "one-day"
+   ],
+   "sources": [
+    "https://www.playmatches.com/mumbai/tournaments/tsf-badminton-academy-5-am-sports-club-badminton-tournament/991c2f00-644b-4b9c-b47d-e7b84bfd0965",
+    "https://www.playmatches.com/mumbai/tournaments"
+   ]
+  },
+  {
+   "slug": "seniors-badminton-tournament-belgaum-2026",
+   "name": "Seniors Badminton Tournament, Belgaum",
+   "edition": "2026",
+   "sport": "badminton",
+   "discipline": "Veterans (jumbled doubles)",
+   "city": "goa",
+   "venue": "Thalakwadi Club, Tilakwadi, Belagavi",
+   "lat": 15.835798,
+   "lon": 74.502142,
+   "start_date": "2026-11-01",
+   "end_date": "2026-11-01",
+   "date_status": "confirmed",
+   "last_edition_date": null,
+   "organiser": "Aptha Badminton Academy (Paniraj, Bengaluru) with Major Dilip",
+   "official_url": "https://www.playmatches.com/bengaluru/tournaments/seniors-badminton-tournament-belgaum/de06d898-64c7-4383-87bf-bd5240b72b9d",
+   "registration_status": "closed",
+   "registration_opens": null,
+   "registration_closes": "2026-10-26",
+   "registration_url": "https://www.playmatches.com/bengaluru/tournaments/seniors-badminton-tournament-belgaum/de06d898-64c7-4383-87bf-bd5240b72b9d",
+   "registration_notes": "Listing shows booking closed for all categories. Belagavi is about 100 km from Goa.",
+   "summary": "One-day seniors men's doubles event in Belagavi with jumbled categories in which pairs are grouped by the age figure in the category name (100, 110, 120, 125). Coaches are barred.",
+   "categories": [
+    {
+     "name": "Men's Doubles Jumbled 100",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": 1100,
+     "start_time": "08:30",
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "open",
+     "eligibility": "Veterans; pair grouping by the age figure in the category name; no coaches",
+     "notes": "Listing fee Rs 1,100 per team; overview text says Rs 1,000 per team"
+    },
+    {
+     "name": "Men's Doubles Jumbled 110",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": 1100,
+     "start_time": "08:30",
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "open",
+     "eligibility": "Veterans; pair grouping by the age figure in the category name; no coaches",
+     "notes": "Listing fee Rs 1,100 per team; overview text says Rs 1,000 per team"
+    },
+    {
+     "name": "Men's Doubles Jumbled 120",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": 1100,
+     "start_time": "08:30",
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "open",
+     "eligibility": "Veterans; pair grouping by the age figure in the category name; no coaches",
+     "notes": "Listing fee Rs 1,100 per team; overview text says Rs 1,000 per team"
+    },
+    {
+     "name": "Men's Doubles Jumbled 125",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": 1100,
+     "start_time": "08:30",
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "open",
+     "eligibility": "Veterans; pair grouping by the age figure in the category name; no coaches",
+     "notes": "Listing fee Rs 1,100 per team; overview text says Rs 1,000 per team"
+    }
+   ],
+   "course": {
+    "terrain": "indoor",
+    "surface": "Indoor courts",
+    "elevation_gain_m": null,
+    "profile": null,
+    "description": "Members' club in Tilakwadi, Belagavi."
+   },
+   "format": "League to 21 points; quarter-finals and semi-finals to 21 with golden point; final to 30 with golden point. Shuttle: Mavis 350 (nylon).",
+   "highlights": [
+    "Veterans-only jumbled doubles",
+    "Lunch and snacks provided"
+   ],
+   "tips": [
+    "Higher-skilled players may enter only two categories",
+    "Finals go to 30 points, so pace yourself",
+    "No refunds or cancellations"
+   ],
+   "amenities": [
+    "Lunch",
+    "Snacks and coffee",
+    "Kit bags or T-shirts depending on entries"
+   ],
+   "beginner_friendly": false,
+   "tags": [
+    "veterans",
+    "one-day"
+   ],
+   "sources": [
+    "https://www.playmatches.com/bengaluru/tournaments/seniors-badminton-tournament-belgaum/de06d898-64c7-4383-87bf-bd5240b72b9d"
+   ]
+  },
+  {
+   "slug": "mysore-seniors-badminton-tournament-2026",
+   "name": "Mysore Seniors Badminton Tournament",
+   "edition": "2026",
+   "sport": "badminton",
+   "discipline": "Veterans",
+   "city": "mysuru",
+   "venue": "Friends Sports Zone Badminton Academy, 7th Cross, 8th Main Road, KC Layout",
+   "lat": 12.295791,
+   "lon": 76.684938,
+   "start_date": "2026-11-29",
+   "end_date": "2026-11-29",
+   "date_status": "confirmed",
+   "last_edition_date": null,
+   "organiser": "Aptha Badminton Academy",
+   "official_url": "https://www.playmatches.com/bengaluru/tournaments/mysore-seniors-badminton-tournament/fac969ba-aa6e-4120-8f35-37d9908aee68",
+   "registration_status": "open",
+   "registration_opens": null,
+   "registration_closes": "2026-11-23",
+   "registration_url": "https://www.playmatches.com/bengaluru/tournaments/mysore-seniors-badminton-tournament/fac969ba-aa6e-4120-8f35-37d9908aee68",
+   "registration_notes": "No spot entries.",
+   "summary": "One-day veterans tournament in Mysuru with 22 doubles draws: men's jumbled categories from 100 to 160, men's 50+, 60+ and 70+, women's 40+, 50+ and 60+, and mixed jumbled 100 to 140. Each category needs at least six teams to run.",
+   "categories": [
+    {
+     "name": "Men's Doubles Jumbled 100 to 160 (11 draws)",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": 1100,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "open",
+     "eligibility": "Veterans; pairs grouped by the age figure in the category name; coaches barred in men's jumbled",
+     "notes": "Jumbled 150 listed at Rs 1,000; others Rs 1,100 per team"
+    },
+    {
+     "name": "Men's Doubles 50+",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": 1100,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "open",
+     "eligibility": "Men's doubles 50 and above age category",
+     "notes": null
+    },
+    {
+     "name": "Men's Doubles 60+",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": 1100,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "open",
+     "eligibility": "Men's doubles 60 and above age category",
+     "notes": null
+    },
+    {
+     "name": "Men's Doubles 70+",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": 1100,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "open",
+     "eligibility": "Men's doubles 70 and above age category",
+     "notes": null
+    },
+    {
+     "name": "Women's Doubles 40+",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": 1100,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "open",
+     "eligibility": "Women's doubles 40 and above age category",
+     "notes": null
+    },
+    {
+     "name": "Women's Doubles 50+",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": 1100,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "open",
+     "eligibility": "Women's doubles 50 and above age category",
+     "notes": null
+    },
+    {
+     "name": "Women's Doubles 60+",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": 1100,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "open",
+     "eligibility": "Women's doubles 60 and above age category",
+     "notes": null
+    },
+    {
+     "name": "Mixed Doubles Jumbled 100 to 140 (5 draws)",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": 1100,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "open",
+     "eligibility": "Veterans; pair grouping by age figure in category name",
+     "notes": null
+    }
+   ],
+   "course": {
+    "terrain": "indoor",
+    "surface": "Indoor courts",
+    "elevation_gain_m": null,
+    "profile": null,
+    "description": "Badminton academy in KC Layout, Mysuru."
+   },
+   "format": "League then knockout. League to 21; quarter-finals and semi-finals to 21 with golden point; final to 30 with golden point. Shuttle: Mavis 350 (nylon).",
+   "highlights": [
+    "22 veterans draws including 70+ men and 60+ women",
+    "Cash prize when a category reaches 16 teams"
+   ],
+   "tips": [
+    "Register by 23 Nov; no spot entries",
+    "Lunch is provided at the venue",
+    "Mysuru is about 3 hours by road or 2 hours by train from Bengaluru"
+   ],
+   "amenities": [
+    "Lunch",
+    "Trophies for winners, runners-up and semi-finalists"
+   ],
+   "beginner_friendly": true,
+   "tags": [
+    "veterans",
+    "one-day"
+   ],
+   "sources": [
+    "https://www.playmatches.com/bengaluru/tournaments/mysore-seniors-badminton-tournament/fac969ba-aa6e-4120-8f35-37d9908aee68"
+   ]
+  },
+  {
+   "slug": "yonex-sunrise-all-india-masters-ranking-badminton-tournament-2027",
+   "name": "Yonex-Sunrise All India Masters Ranking Badminton Tournament",
+   "edition": "2026-27 season",
+   "sport": "badminton",
+   "discipline": "Masters (veterans) ranking",
+   "city": "hyderabad",
+   "venue": "Venue to be announced, Hyderabad",
+   "lat": null,
+   "lon": null,
+   "start_date": "2027-01-23",
+   "end_date": "2027-01-30",
+   "date_status": "confirmed",
+   "last_edition_date": "2026-01-25",
+   "organiser": "Badminton Association of India with Telangana Badminton Association",
+   "official_url": "https://badmintonindia.org/events/tournaments/domestic",
+   "registration_status": "upcoming",
+   "registration_opens": null,
+   "registration_closes": null,
+   "registration_url": "https://badmintonindia.org/events/tournaments/domestic",
+   "registration_notes": "Circular with entry deadline and fee not yet published; previous edition was held at Agra, 25 Jan-1 Feb 2026.",
+   "summary": "BAI's national Masters ranking tournament for all veteran age categories, listed in the official 2026-27 BAI calendar for Hyderabad. Results feed Masters national rankings and selection for the Indian Masters Nationals.",
+   "categories": [
+    {
+     "name": "35+ Men's and Women's Singles, Doubles, Mixed Doubles",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": null,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "advanced",
+     "eligibility": "BAI player ID required; entries through your state badminton association. Age reckoned as on 1 January of the year.",
+     "notes": null
+    },
+    {
+     "name": "40+ Men's and Women's Singles, Doubles, Mixed Doubles",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": null,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "advanced",
+     "eligibility": "BAI player ID required; entries through your state badminton association. Age reckoned as on 1 January of the year.",
+     "notes": null
+    },
+    {
+     "name": "45+ Men's and Women's Singles, Doubles, Mixed Doubles",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": null,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "advanced",
+     "eligibility": "BAI player ID required; entries through your state badminton association. Age reckoned as on 1 January of the year.",
+     "notes": null
+    },
+    {
+     "name": "50+ Men's and Women's Singles, Doubles, Mixed Doubles",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": null,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "advanced",
+     "eligibility": "BAI player ID required; entries through your state badminton association. Age reckoned as on 1 January of the year.",
+     "notes": null
+    },
+    {
+     "name": "55+ Men's and Women's Singles, Doubles, Mixed Doubles",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": null,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "advanced",
+     "eligibility": "BAI player ID required; entries through your state badminton association. Age reckoned as on 1 January of the year.",
+     "notes": null
+    },
+    {
+     "name": "60+ Men's and Women's Singles, Doubles, Mixed Doubles",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": null,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "advanced",
+     "eligibility": "BAI player ID required; entries through your state badminton association. Age reckoned as on 1 January of the year.",
+     "notes": null
+    },
+    {
+     "name": "65+ Men's and Women's Singles, Doubles, Mixed Doubles",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": null,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "advanced",
+     "eligibility": "BAI player ID required; entries through your state badminton association. Age reckoned as on 1 January of the year.",
+     "notes": null
+    },
+    {
+     "name": "70+ Men's and Women's Singles, Doubles, Mixed Doubles",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": null,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "advanced",
+     "eligibility": "BAI player ID required; entries through your state badminton association. Age reckoned as on 1 January of the year.",
+     "notes": null
+    },
+    {
+     "name": "75+ Men's and Women's Singles, Doubles, Mixed Doubles",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": null,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "advanced",
+     "eligibility": "BAI player ID required; entries through your state badminton association. Age reckoned as on 1 January of the year.",
+     "notes": null
+    }
+   ],
+   "course": {
+    "terrain": "indoor",
+    "surface": "Indoor synthetic courts",
+    "elevation_gain_m": null,
+    "profile": null,
+    "description": "Venue not yet announced."
+   },
+   "format": "Qualifying and main draw knockout by age group under BAI regulations. Feather shuttles per BAI rules.",
+   "highlights": [
+    "Official BAI Masters ranking event",
+    "All age categories in one week"
+   ],
+   "tips": [
+    "Get your BAI player ID through your state association well before the circular appears",
+    "State associations usually close entries a few weeks ahead"
+   ],
+   "amenities": [],
+   "beginner_friendly": false,
+   "tags": [
+    "veterans",
+    "bai-ranking"
+   ],
+   "sources": [
+    "https://badmintonindia.org/download/news/BAI%20Calendar%202026-27%20-%20As%20on%2015-08-2026.pdf",
+    "https://badmintonindia.org/events/tournaments/domestic"
+   ]
+  },
+  {
+   "slug": "yonex-sunrise-all-india-senior-ranking-badminton-tournament-bengaluru-2027",
+   "name": "Yonex-Sunrise All India Senior Ranking Badminton Tournament, Bengaluru",
+   "edition": "2026-27 season",
+   "sport": "badminton",
+   "discipline": "Senior (open adult) ranking",
+   "city": "bengaluru",
+   "venue": "Bengaluru (BAI calendar lists PSB), exact venue to be announced",
+   "lat": null,
+   "lon": null,
+   "start_date": "2027-01-30",
+   "end_date": "2027-02-06",
+   "date_status": "confirmed",
+   "last_edition_date": "2026-01-31",
+   "organiser": "Badminton Association of India with Karnataka Badminton Association",
+   "official_url": "https://badmintonindia.org/events/tournaments/domestic",
+   "registration_status": "upcoming",
+   "registration_opens": null,
+   "registration_closes": null,
+   "registration_url": "https://badmintonindia.org/events/tournaments/domestic",
+   "registration_notes": "Entry via state association once the BAI circular is out.",
+   "summary": "National senior ranking tournament for men and women with a qualifying stage, held in Bengaluru for a second straight season. Open to any BAI-registered adult player, so strong club players can try the qualifiers.",
+   "categories": [
+    {
+     "name": "Men's Singles",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": null,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "advanced",
+     "eligibility": "BAI player ID required; entries through your state badminton association. Age reckoned as on 1 January of the year.",
+     "notes": "Qualifying rounds before main draw"
+    },
+    {
+     "name": "Women's Singles",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": null,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "advanced",
+     "eligibility": "BAI player ID required; entries through your state badminton association. Age reckoned as on 1 January of the year.",
+     "notes": null
+    },
+    {
+     "name": "Men's Doubles",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": null,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "advanced",
+     "eligibility": "BAI player ID required; entries through your state badminton association. Age reckoned as on 1 January of the year.",
+     "notes": null
+    },
+    {
+     "name": "Women's Doubles",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": null,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "advanced",
+     "eligibility": "BAI player ID required; entries through your state badminton association. Age reckoned as on 1 January of the year.",
+     "notes": null
+    },
+    {
+     "name": "Mixed Doubles",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": null,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "advanced",
+     "eligibility": "BAI player ID required; entries through your state badminton association. Age reckoned as on 1 January of the year.",
+     "notes": null
+    }
+   ],
+   "course": {
+    "terrain": "indoor",
+    "surface": "Indoor synthetic courts",
+    "elevation_gain_m": null,
+    "profile": null,
+    "description": "Venue not yet confirmed; BAI calendar lists Bangalore (PSB)."
+   },
+   "format": "Qualifying then main draw knockout under BAI regulations.",
+   "highlights": [
+    "National ranking points",
+    "Qualifying stage gives club players a route in"
+   ],
+   "tips": [
+    "Qualifying draws are large and early-round matches start early in the morning",
+    "Watch the BAI domestic tournaments page for the circular"
+   ],
+   "amenities": [],
+   "beginner_friendly": false,
+   "tags": [
+    "bai-ranking"
+   ],
+   "sources": [
+    "https://badmintonindia.org/download/news/BAI%20Calendar%202026-27%20-%20As%20on%2015-08-2026.pdf",
+    "https://badmintonindia.org/events/tournaments/domestic"
+   ]
+  },
+  {
+   "slug": "yonex-sunrise-49th-indian-masters-national-badminton-championships-2027",
+   "name": "Yonex-Sunrise 49th Indian Masters National Badminton Championships",
+   "edition": "49th, 2026-27",
+   "sport": "badminton",
+   "discipline": "Masters (veterans) nationals",
+   "city": "guwahati",
+   "venue": "Assam, venue to be confirmed (BAI calendar: TBC, ASM)",
+   "lat": null,
+   "lon": null,
+   "start_date": "2027-03-20",
+   "end_date": "2027-03-27",
+   "date_status": "confirmed",
+   "last_edition_date": "2026-03-18",
+   "organiser": "Badminton Association of India",
+   "official_url": "https://badmintonindia.org/events/tournaments/domestic",
+   "registration_status": "upcoming",
+   "registration_opens": null,
+   "registration_closes": null,
+   "registration_url": "https://badmintonindia.org/events/tournaments/domestic",
+   "registration_notes": "Host city is listed as TBC in Assam; mapped to Guwahati. The 48th edition (Goa, 18-25 Mar 2026) had a qualifying round.",
+   "summary": "India's national championship for veteran badminton players in all age categories, now in its 49th edition. The last two editions were in Goa; BAI's 2026-27 calendar places the 2027 edition in Assam.",
+   "categories": [
+    {
+     "name": "35+ Men's and Women's Singles, Doubles, Mixed Doubles",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": null,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "advanced",
+     "eligibility": "BAI player ID required; entries through your state badminton association. Age reckoned as on 1 January of the year.",
+     "notes": null
+    },
+    {
+     "name": "40+ Men's and Women's Singles, Doubles, Mixed Doubles",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": null,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "advanced",
+     "eligibility": "BAI player ID required; entries through your state badminton association. Age reckoned as on 1 January of the year.",
+     "notes": null
+    },
+    {
+     "name": "45+ Men's and Women's Singles, Doubles, Mixed Doubles",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": null,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "advanced",
+     "eligibility": "BAI player ID required; entries through your state badminton association. Age reckoned as on 1 January of the year.",
+     "notes": null
+    },
+    {
+     "name": "50+ Men's and Women's Singles, Doubles, Mixed Doubles",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": null,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "advanced",
+     "eligibility": "BAI player ID required; entries through your state badminton association. Age reckoned as on 1 January of the year.",
+     "notes": null
+    },
+    {
+     "name": "55+ Men's and Women's Singles, Doubles, Mixed Doubles",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": null,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "advanced",
+     "eligibility": "BAI player ID required; entries through your state badminton association. Age reckoned as on 1 January of the year.",
+     "notes": null
+    },
+    {
+     "name": "60+ Men's and Women's Singles, Doubles, Mixed Doubles",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": null,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "advanced",
+     "eligibility": "BAI player ID required; entries through your state badminton association. Age reckoned as on 1 January of the year.",
+     "notes": null
+    },
+    {
+     "name": "65+ Men's and Women's Singles, Doubles, Mixed Doubles",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": null,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "advanced",
+     "eligibility": "BAI player ID required; entries through your state badminton association. Age reckoned as on 1 January of the year.",
+     "notes": null
+    },
+    {
+     "name": "70+ Men's and Women's Singles, Doubles, Mixed Doubles",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": null,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "advanced",
+     "eligibility": "BAI player ID required; entries through your state badminton association. Age reckoned as on 1 January of the year.",
+     "notes": null
+    },
+    {
+     "name": "75+ Men's and Women's Singles, Doubles, Mixed Doubles",
+     "distance_km": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "fee_inr": null,
+     "start_time": null,
+     "cutoff_minutes": null,
+     "min_age": null,
+     "level": "advanced",
+     "eligibility": "BAI player ID required; entries through your state badminton association. Age reckoned as on 1 January of the year.",
+     "notes": null
+    }
+   ],
+   "course": {
+    "terrain": "indoor",
+    "surface": "Indoor synthetic courts",
+    "elevation_gain_m": null,
+    "profile": null,
+    "description": "Venue not yet announced."
+   },
+   "format": "Qualifying round then main draw knockout by age group under BAI regulations.",
+   "highlights": [
+    "National veterans title",
+    "Past editions served as selection events for the BWF World Senior Championships"
+   ],
+   "tips": [
+    "Qualify or get nominated through your state Masters championship first",
+    "Book travel to Assam early once the city is confirmed; late March flights fill up"
+   ],
+   "amenities": [],
+   "beginner_friendly": false,
+   "tags": [
+    "veterans",
+    "nationals"
+   ],
+   "sources": [
+    "https://badmintonindia.org/download/news/BAI%20Calendar%202026-27%20-%20As%20on%2015-08-2026.pdf",
+    "https://badmintonindia.org/events/tournaments/domestic",
+    "https://kba.org.in/en/2026/yonex-sunrise-48th-indian-masters-veteran-national-badminton-championships-2025-26-at-goa/"
+   ]
+  }
+ ]
+}
