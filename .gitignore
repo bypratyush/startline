@@ -1,0 +1,21 @@
+# dependencies and build output
+node_modules/
+frontend/dist/
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+.coverage
+backend/reports/
+
+# terraform (see terraform/.gitignore too)
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfplan
+terraform.tfvars
+
+# local env and OS files
+.env
+.DS_Store
