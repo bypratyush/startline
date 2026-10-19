@@ -23,6 +23,10 @@ images, a Trivy security gate, GHCR, Terraform for AWS VPC + EKS, Helm,
 Ingress, HPA, Prometheus and Grafana, and a troubleshooting lab where things
 are broken on purpose.
 
+### Project Walkthrough Video
+
+[https://drive.google.com/file/d/1hU0ZT3mtIxDQSZTKGAL_wMOYjKHqnQrf/view?usp=sharing](url)
+
 ![Discover page with personalised picks](screenshots/app-discover-picks.jpg)
 
 | | |
