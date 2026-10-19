@@ -25,7 +25,7 @@ are broken on purpose.
 
 ### Project Walkthrough Video
 
-[https://drive.google.com/file/d/1hU0ZT3mtIxDQSZTKGAL_wMOYjKHqnQrf/view?usp=sharing](url)
+[https://drive.google.com/file/d/1hU0ZT3mtIxDQSZTKGAL_wMOYjKHqnQrf/view?usp=sharing](https://drive.google.com/file/d/1hU0ZT3mtIxDQSZTKGAL_wMOYjKHqnQrf/view?usp=sharing)
 
 ![Discover page with personalised picks](screenshots/app-discover-picks.jpg)
 
